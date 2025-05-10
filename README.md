@@ -1,2 +1,2 @@
-# tiebe
+# TiEBe
 TiEBe source code.
