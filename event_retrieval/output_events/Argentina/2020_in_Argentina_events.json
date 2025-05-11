@@ -1,0 +1,192 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "Fernando Báez Sosa, an 18-year-old law student, is beaten to death by a group of amateur rugby players in Villa Gesell; the case gained nationwide notoriety.",
+                    "links": [
+                        {
+                            "link": "https://www.lanacion.com.ar/seguridad/arrestaron-a-un-grupo-de-rugbiers-por-la-mortal-pelea-en-villa-gesell-nid2325358/",
+                            "text": "-Horvat, Alejandro (19 January 2020). \"Arrestaron a un grupo de rugbiers por la mortal pelea en Villa Gesell\". La Nación (in Spanish). Retrieved 10 January 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-01-10",
+                                "Created": "2020-01-19"
+                            }
+                        },
+                        {
+                            "link": "https://www.lavanguardia.com/internacional/20200122/473079383135/asesinato-jugadores-rugby-argentina.html",
+                            "text": "-Mur, Robert (22 January 2020). \"El asesinato \"en manada\" de un chico por jugadores de rugby conmociona en Argentina\". La Vanguardia (in Spanish). Retrieved 10 January 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-01-10",
+                                "Created": "2020-01-22"
+                            }
+                        }
+                    ],
+                    "start_date": "18/01/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "The first case of COVID-19 was confirmed in Argentina a 43-year-old man who had arrived two days earlier from Milan, Italy.",
+                    "links": [
+                        {
+                            "link": "https://www.clarin.com/sociedad/coronavirus-confirmaron-primer-caso-argentina-espera-conferencia-gobierno_0_awnywhZX.html",
+                            "text": "-\"Confirmaron el primer caso de coronavirus en la Argentina: es un hombre que viajó a Italia\". Clarín (in Spanish). 3 March 2020. Archived from the original on 3 March 2020. Retrieved 3 March 2020.-",
+                            "dates": {
+                                "Archieved": "2020-03-03",
+                                "Retrieved": "2020-03-03",
+                                "Created": "2020-03-03"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20200303212736/https://www.clarin.com/sociedad/coronavirus-confirmaron-primer-caso-argentina-espera-conferencia-gobierno_0_awnywhZX.html",
+                            "text": "-\"Confirmaron el primer caso de coronavirus en la Argentina: es un hombre que viajó a Italia\". Clarín (in Spanish). 3 March 2020. Archived from the original on 3 March 2020. Retrieved 3 March 2020.-",
+                            "dates": {
+                                "Archieved": "2020-03-03",
+                                "Retrieved": "2020-03-03",
+                                "Created": "2020-03-03"
+                            }
+                        },
+                        {
+                            "link": "https://www.infobae.com/coronavirus/2020/03/03/confirmaron-el-primer-caso-de-coronavirus-en-la-argentina/",
+                            "text": "-\"Confirmaron el primer caso de coronavirus en la Argentina\". Infobae (in Spanish). 3 March 2020. Retrieved 3 March 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-03-03",
+                                "Created": "2020-03-03"
+                            }
+                        }
+                    ],
+                    "start_date": "03/03/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Ministry of Health confirmed the country's first documented death of COVID-19, a 64-year-old man who had travelled to Paris, France, who also had other health conditions; the case was only confirmed as positive after the patient's demise.",
+                    "links": [
+                        {
+                            "link": "https://www.infobae.com/sociedad/2020/03/07/confirman-la-primera-muerte-por-coronavirus-en-argentina/",
+                            "text": "-\"Primera muerte por coronavirus en Argentina: era un hombre que había viajado a Francia y estaba internado en el Argerich\". Infobae (in Spanish). 7 March 2020. Archived from the original on 7 March 2020. Retrieved 20 March 2020.-",
+                            "dates": {
+                                "Archieved": "2020-03-07",
+                                "Retrieved": "2020-03-20",
+                                "Created": "2020-03-07"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20200307235849/https://www.infobae.com/sociedad/2020/03/07/confirman-la-primera-muerte-por-coronavirus-en-argentina/",
+                            "text": "-\"Primera muerte por coronavirus en Argentina: era un hombre que había viajado a Francia y estaba internado en el Argerich\". Infobae (in Spanish). 7 March 2020. Archived from the original on 7 March 2020. Retrieved 20 March 2020.-",
+                            "dates": {
+                                "Archieved": "2020-03-07",
+                                "Retrieved": "2020-03-20",
+                                "Created": "2020-03-07"
+                            }
+                        }
+                    ],
+                    "start_date": "07/03/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A nation-wide lockdown was established in Argentina due to the COVID-19 pandemic.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/article/us-health-coronavirus-argentina/argentina-announces-mandatory-quarantine-to-curb-coronavirus-idUSKBN216446",
+                            "text": "-\"Argentina announces mandatory quarantine to curb coronavirus\". Reuters. 19 March 2020. Retrieved 20 March 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-03-20",
+                                "Created": "2020-03-19"
+                            }
+                        },
+                        {
+                            "link": "https://www.bloomberg.com/news/articles/2020-03-20/argentina-orders-exceptional-lockdown-in-bid-to-contain-virus",
+                            "text": "-Do Rosario, Jorgelina; Gillespie, Patrick (20 March 2020). \"Argentina Orders 'Exceptional' Lockdown in Bid to Stem Virus\". Bloomberg News.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2020-03-20"
+                            }
+                        }
+                    ],
+                    "start_date": "19/03/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "May",
+            "Data": [
+                {
+                    "event_text": "New controls over the purchasing of American dollars by the Central Bank of Argentina came into force. The measures apply to both companies and individual savers.",
+                    "links": [
+                        {
+                            "link": "https://www.infobae.com/economia/2020/05/04/controles-a-la-compra-de-dolares-todo-lo-que-hay-que-saber-sobre-las-nuevas-restricciones-que-comenzaron-hoy/",
+                            "text": "-Casas, Ximena (4 May 2020). \"Controles a la compra de dólares: todo lo que hay que saber sobre las nuevas restricciones y por qué hubo demoras en algunos bancos\" [Controls on the purchase of dollars: everything there is to know about the new restrictions and why there were delays in some banks]. Infobae (in Spanish). Retrieved 31 August 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-08-31",
+                                "Created": "2020-05-04"
+                            }
+                        }
+                    ],
+                    "start_date": "04/05/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "August",
+            "Data": [
+                {
+                    "event_text": "Earth observation satellite SAOCOM 1B launches from SLC-40.",
+                    "links": [
+                        {
+                            "link": "https://www.pagina12.com.ar/288641-saocom-1-b-despego-el-satelite-argentino",
+                            "text": "-\"Saocom 1B: despegó el satélite argentino\" [Saocom 1B: The Argentine satellite launched]. Página/12 (in Spanish). 31 August 2020. Retrieved 31 August 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-08-31",
+                                "Created": "2020-08-31"
+                            }
+                        }
+                    ],
+                    "start_date": "30/08/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "December",
+            "Data": [
+                {
+                    "event_text": "Yolanda's Law is published in the Official Bulletin of the Argentine Republic.",
+                    "links": [],
+                    "start_date": "15/12/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Abortion legalised by the Congress with 38 votes in favour and 29 against.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/world-latin-america-55475036",
+                            "text": "-\"Argentina abortion: Senate approves legalisation in historic decision\". BBC News. 30 December 2020. Retrieved 30 December 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-12-30",
+                                "Created": "2020-12-30"
+                            }
+                        }
+                    ],
+                    "start_date": "30/12/2020",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

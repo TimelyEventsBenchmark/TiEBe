@@ -1,0 +1,520 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "12 January  2019 Paris explosion An explosion occurs at a bakery on Rue de Trevise in Paris' 9th arrondissement, killing four people and injuring forty-seven others.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/world-europe-46856109",
+                            "text": "-\"Paris bakery explosion death toll rises to four\". BBC. 13 January 2019. Retrieved 3 March 2019.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2019-03-03",
+                                "Created": "2019-01-13"
+                            }
+                        }
+                    ],
+                    "start_date": "12/01/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "14 January  The Brest University Hospital Center becomes the first hospital in the world to acquire a PET scan.",
+                    "links": [],
+                    "start_date": "14/01/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "15 January  Launch of the Great National Debate",
+                    "links": [],
+                    "start_date": "15/01/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "22 January  Signing of the Aachen Treaty in Aachen, 56 years to the day after the signing of the Élysée Treaty",
+                    "links": [],
+                    "start_date": "22/01/2019",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "5 February   Paris fire A suspected arson at an apartment block on Rue Erlanger in Paris' 16th arrondissement kills ten people, making it the deadliest fire in Paris since 2005.",
+                    "links": [
+                        {
+                            "link": "https://www.nytimes.com/2019/02/04/world/europe/paris-fire-france.html",
+                            "text": "-Breeden, Aurelien (4 February 2019). \"Paris Fire Kills at Least 10 in Apartment Building; Arson Is Suspected\". The New York Times. Retrieved 3 March 2019.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2019-03-03",
+                                "Created": "2019-02-04"
+                            }
+                        },
+                        {
+                            "link": "https://www.theguardian.com/world/2019/feb/05/paris-fire-deaths-blaze-in-eight-story-building-16th-arrondissement",
+                            "text": "-Willsher, Kim (5 February 2019). \"Paris fire: woman arrested after 10 die in apartment building\". The Guardian. Retrieved 3 March 2019.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2019-03-03",
+                                "Created": "2019-02-05"
+                            }
+                        }
+                    ],
+                    "start_date": "05/02/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "6 February  Matthieu Orphelin, member of the French National Assembly for Maine-et-Loire's 1st constituency, close to the former minister of ecology Nicolas Hulot, leaves the LREM's parliamentary group to protest against the government's ecological policy.",
+                    "links": [],
+                    "start_date": "06/02/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "7 February  Following the growing diplomatic tensions between the French government and the Italian government, the French ambassador to Italy, Christian Masset is recalled to France.",
+                    "links": [],
+                    "start_date": "07/02/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "8 February  34th Victoires de la Musique",
+                    "links": [],
+                    "start_date": "08/02/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Alain Juppé, Jacques Mézard and François Pillet are proposed to enter the Constitutional Council to replace Lionel Jospin, Michel Charasse and Jean-Jacques Hyest",
+                    "links": [],
+                    "start_date": "13/02/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "25th Victoires de la musique classique",
+                    "links": [],
+                    "start_date": "13/02/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "19 February  Alexandre Benalla is remanded for violating the judicial review he was subjected to.",
+                    "links": [],
+                    "start_date": "19/02/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "22 February  44th César Awards",
+                    "links": [],
+                    "start_date": "22/02/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "24 February  Nearly 2000 hectares ravaged by 49 fire departures in less than 24 hours in Corsica.",
+                    "links": [],
+                    "start_date": "24/02/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "25 February  The Secretary of State for the Digital Sector, Mounir Mahjoubi, reveals that an attack on the central Internet directory ICANN is underway.",
+                    "links": [],
+                    "start_date": "25/02/2019",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "2 March  Riots in Grenoble, due to the death of two teenagers riding a scooter who collided with a bus while being pursued by a police patrol.",
+                    "links": [],
+                    "start_date": "02/03/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "12 March  Cargo ship Grande America sinks after catching fire on 10 March in the Bay of Biscay, approximately 200 kilometres (120 mi) west of France, causing a 2,200-tonne oil spill.",
+                    "links": [
+                        {
+                            "link": "https://www.independent.co.uk/news/uk/home-news/royal-navy-rescue-container-ship-fire-hms-argyll-a8818536.html",
+                            "text": "-\"Royal Navy rescues container ship crew after it goes up in flames in Bay of Biscay\". The Independent. Archived from the original on 29 March 2019. Retrieved 15 March 2019.-",
+                            "dates": {
+                                "Archieved": "2019-03-29",
+                                "Retrieved": "2019-03-15",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20190329183755/https://www.independent.co.uk/news/uk/home-news/royal-navy-rescue-container-ship-fire-hms-argyll-a8818536.html",
+                            "text": "-\"Royal Navy rescues container ship crew after it goes up in flames in Bay of Biscay\". The Independent. Archived from the original on 29 March 2019. Retrieved 15 March 2019.-",
+                            "dates": {
+                                "Archieved": "2019-03-29",
+                                "Retrieved": "2019-03-15",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "12/03/2019",
+                    "end_date": "10/03/2019"
+                },
+                {
+                    "event_text": "16 March  Yellow vests movement Protests against President Emmanuel Macron enter a fourth month in Paris. Tear gas is fired at protesters throwing stones at riot police in front of the Arc de Triomphe, news stands are torched at the Champs-Élysées, and a branch of Banque Tarneaud is burned. More than 80 arrests are made. Businesses around the Champs-Élysées are looted.",
+                    "links": [
+                        {
+                            "link": "https://web.archive.org/web/20190316202745/https://uk.reuters.com/article/uk-france-protests/fresh-clashes-as-frances-yellow-vests-seek-new-momentum-idUKKCN1QX0AX",
+                            "text": "-\"French violence flares as yellow vest protests enter fourth month\". Reuters. 16 March 2019. Archived from the original on 16 March 2019. Retrieved 17 March 2019.-",
+                            "dates": {
+                                "Archieved": "2019-03-16",
+                                "Retrieved": "2019-03-17",
+                                "Created": "2019-03-16"
+                            }
+                        },
+                        {
+                            "link": "https://uk.reuters.com/article/uk-france-protests/fresh-clashes-as-frances-yellow-vests-seek-new-momentum-idUKKCN1QX0AX",
+                            "text": "-\"French violence flares as yellow vest protests enter fourth month\". Reuters. 16 March 2019. Archived from the original on 16 March 2019. Retrieved 17 March 2019.-",
+                            "dates": {
+                                "Archieved": "2019-03-16",
+                                "Retrieved": "2019-03-17",
+                                "Created": "2019-03-16"
+                            }
+                        }
+                    ],
+                    "start_date": "16/03/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "27 March  Nathalie Loiseau, Benjamin Griveaux and Mounir Mahjoubi leave the government.",
+                    "links": [],
+                    "start_date": "27/03/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "31 March  Amélie de Montchalin, Sibeth Ndiaye and Cédric O enter the government to replace the previous three.",
+                    "links": [],
+                    "start_date": "31/03/2019",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "15 April  A major fire engulfs Notre-Dame Cathedral in Paris, resulting in the roof and main spire collapsing.",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/world/2019/apr/15/notre-dame-fire-paris-france-cathedral",
+                            "text": "-\"Notre Dame fire: major incident at historic Paris landmark\". The Guardian. 15 April 2019. Retrieved 15 April 2019.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2019-04-15",
+                                "Created": "2019-04-15"
+                            }
+                        },
+                        {
+                            "link": "https://www.bbc.co.uk/news/world-europe-47941794",
+                            "text": "-\"Notre-Dame cathedral: Firefighters tackle blaze in Paris\". BBC News. 15 April 2019. Retrieved 15 April 2019.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2019-04-15",
+                                "Created": "2019-04-15"
+                            }
+                        }
+                    ],
+                    "start_date": "15/04/2019",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "May",
+            "Data": [
+                {
+                    "event_text": "National tribute to Cédric de Pierrepont and Alain Bertoncello, soldiers killed during the fight of Gorom-Gorom.",
+                    "links": [],
+                    "start_date": "14/05/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Beginning of the 2019 Cannes Film Festival",
+                    "links": [],
+                    "start_date": "14/05/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "24 May  The explosion of a parcel bombed in Lyon injures 14 people.",
+                    "links": [],
+                    "start_date": "24/05/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "26 May  2019 European Parliament election",
+                    "links": [],
+                    "start_date": "26/05/2019",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "June",
+            "Data": [
+                {
+                    "event_text": "5 June  Valérie Pécresse, president of the Regional Council of Île-de-France and Robin Reda member of the French National Assembly for Essonne's 7th constituency quit The Republicans.",
+                    "links": [],
+                    "start_date": "05/06/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "6 June  Commemorations mark the 75th anniversary of the Normandy landings.",
+                    "links": [],
+                    "start_date": "06/06/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A SNSM boat capsizes in front of Les Sables d'Olonne during a rescue mission of a fisherman caught in the Storm Miguel. 3 rescuers and the fisherman drown.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/world-europe-48553351?intlink_from_url=https://www.bbc.co.uk/news/world/europe&link_location=live-reporting-story",
+                            "text": "-\"Three dead as Storm Miguel hits French coast\". BBC News. 7 June 2019. Retrieved 11 June 2019.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2019-06-11",
+                                "Created": "2019-06-07"
+                            }
+                        }
+                    ],
+                    "start_date": "07/06/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Aina Kuric, member of the French National Assembly for Marne's 2nd constituency, quits the LREM, having been a prominent critic of the asylum-immigration bill proposed by the government in , but stays within the LREM's parliamentary group.",
+                    "links": [],
+                    "start_date": "07/06/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Beginning of the 2019 FIFA Women's World Cup.",
+                    "links": [],
+                    "start_date": "07/06/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "9 June  A driver refuses to obey a check and hits 2 children in Lorient after a chase, one of whom dies of his injuries.",
+                    "links": [],
+                    "start_date": "09/06/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "12 June  Sandrine Josso, member of the French National Assembly for Loire-Atlantique's 7th constituency, quits LREM and the LREM parliamentary group to join the Liberties and Territories group.",
+                    "links": [],
+                    "start_date": "12/06/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "22 June  Steve Maia Caniço's case begins after the latter's disappearance following a police charge against a group of party-goers.",
+                    "links": [],
+                    "start_date": "22/06/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "24 June  France is affected by the early European heat wave, absolute temperature records are beaten. Bouches-du-Rhône, Gard, Hérault and Vaucluse have been put under red alert due to potentially very dangerous temperatures. On 25 June Paris reaches its hottest July day on record, with a temperature of 42.6 °C.",
+                    "links": [],
+                    "start_date": "24/06/2019",
+                    "end_date": "25/06/2019"
+                },
+                {
+                    "event_text": "24 June  Agnès Thill, member of the French National Assembly for Oise's 2nd constituency, is excluded from LREM and the LREM's parliamentary group following homophobic remarks.",
+                    "links": [],
+                    "start_date": "24/06/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "27 June  The 2019 National Diploma session, originally scheduled for 27 and 28 June, is postponed to 1 and 2 July due to the extreme heat.",
+                    "links": [],
+                    "start_date": "27/06/2019",
+                    "end_date": "28/06/2019"
+                }
+            ]
+        },
+        {
+            "Month": "July",
+            "Data": [
+                {
+                    "event_text": "6 July  Death of Patricia Gallerneau, member of the French National Assembly for Vendée's 2nd constituency. She is replaced by her substitute.",
+                    "links": [],
+                    "start_date": "06/07/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "6 to 28 July  2019 Tour de France.",
+                    "links": [],
+                    "start_date": "28/07/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "11 July  After a decade, the end of Vincent Lambert case following the death of the latter, who had been brain dead for 10 years.",
+                    "links": [],
+                    "start_date": "11/07/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "16 July  Resignation of the Minister of Ecological and Solidarity Transition François de Rugy following Mediapart's revelations of his use of public funds. Élisabeth Borne succeeds him.",
+                    "links": [],
+                    "start_date": "16/07/2019",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "August",
+            "Data": [
+                {
+                    "event_text": "2 August  Crash of a Tracker 22, water bomber plane, near Générac. Franck Chesneaux, a former fighter pilot and a Tracker 22's pilot, died in an operation fighting major fires around Générac. During his national tribute, he is awarded the Legion of Honour and the Medal for internal security (gold medal), posthumously.",
+                    "links": [],
+                    "start_date": "02/08/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "4 August  Franky Zapata becomes the first person to fly over English Channel on his own invention, the Flyboard Air.",
+                    "links": [],
+                    "start_date": "04/08/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "6 August  Jean-Mathieu Michel, Mayor of Signes, is overturned by a van that illegally deposited rubble on the side of the road. The mayor will die soon after.",
+                    "links": [],
+                    "start_date": "06/08/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A chemical accident injures 14 people, two of them seriously, in a company located in Avon and Samois-sur-Seine.",
+                    "links": [],
+                    "start_date": "28/08/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Emmanuel Macron nominates Sylvie Goulard as candidate for France as European Commissioner.",
+                    "links": [],
+                    "start_date": "28/08/2019",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "September",
+            "Data": [
+                {
+                    "event_text": "3 September  Jean-Paul Delevoye and Jean-Baptiste Djebbari enter the government.",
+                    "links": [],
+                    "start_date": "03/09/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "8 September  A fire ravages 300 hectares and a house in Loupian.",
+                    "links": [],
+                    "start_date": "08/09/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "9 September  Albane Gaillot, member of the French National Assembly for Val-de-Marne's 11th constituency, quits the LREM, deploring the vote on \"laws restricting individual freedoms\".",
+                    "links": [],
+                    "start_date": "09/09/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "13 September  The mayor of Levallois-Perret Patrick Balkany is sentenced to 4 years in prison with immediate incarceration and 10 years of ineligibility for tax evasion, after a highly publicized three-month trial.",
+                    "links": [],
+                    "start_date": "13/09/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "26 September  Rouen Lubrizol factory fire  Fire in a chemical factory of the company Lubrizol classified Seveso II high threshold (\"high risk\"). A thick plume of black smoke forms, reaching more than 20 km. As part of the management of the accident, various measures are taken for the protection of the population (confinement, school closures, suspension of certain agricultural activities, etc.).",
+                    "links": [],
+                    "start_date": "26/09/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "29 September  popular tribute to Jacques Chirac, who died on 26 September ; then national mourning and funeral on 30 September.",
+                    "links": [],
+                    "start_date": "29/09/2019",
+                    "end_date": "26/09/2019"
+                }
+            ]
+        },
+        {
+            "Month": "October",
+            "Data": [
+                {
+                    "event_text": "3 October  Paris police headquarters stabbing",
+                    "links": [],
+                    "start_date": "03/10/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "28 October  Bayonne mosque shooting",
+                    "links": [],
+                    "start_date": "28/10/2019",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "November",
+            "Data": [
+                {
+                    "event_text": "11 November  the War Memorial for France in External Operations is inaugurated in Paris.",
+                    "links": [],
+                    "start_date": "11/11/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "25 November  2019 Ménaka mid-air collision a collision between two helicopters results in the death of 13 French soldiers in Mali.",
+                    "links": [],
+                    "start_date": "25/11/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "29 November  Pascale Fontenel-Personne, member of the French National Assembly for Sarthe's 3rd constituency, quits LREM, following her disagreement with the functioning of the party.",
+                    "links": [],
+                    "start_date": "29/11/2019",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "December",
+            "Data": [
+                {
+                    "event_text": "5 December  Start of a social movement (numerous strikes and demonstrations) to protest against a reform of the pension system.",
+                    "links": [],
+                    "start_date": "05/12/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "14 December  Miss France 2020.",
+                    "links": [],
+                    "start_date": "14/12/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "16 December  Resignation of Jean-Paul Delevoye, High Commissioner for Pensions.",
+                    "links": [],
+                    "start_date": "16/12/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "18 December  Laurent Pietraszewski is appointed Secretary of State for Pensions.",
+                    "links": [],
+                    "start_date": "18/12/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "31 December final shutdown of the Longwave transmitter Europe 1.",
+                    "links": [],
+                    "start_date": "31/12/2019",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

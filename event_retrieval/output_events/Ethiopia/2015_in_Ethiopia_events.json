@@ -1,0 +1,100 @@
+{
+    "Events": [
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "1 February - Testing of the Addis Ababa Light Rail, the first light railway in Sub-Saharan Africa, begins.",
+                    "links": [],
+                    "start_date": "01/02/2015",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "5 March - 2015 African Junior Athletics Championships begin in Addis Ababa.",
+                    "links": [],
+                    "start_date": "05/03/2015",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "May",
+            "Data": [
+                {
+                    "event_text": "24 May - Voters go to the polls to vote in the general elections with the ruling party facing no viable opposition.",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/global-development/2015/may/23/ethiopia-election-wake-up-call-human-rights-governance",
+                            "text": "-\"Ethiopia's election is a wake-up call on human rights and sound governance\". TheGuardian.com.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "24/05/2015",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "September",
+            "Data": [
+                {
+                    "event_text": "20 September - First line of the Addis Ababa Light Rail opens.",
+                    "links": [
+                        {
+                            "link": "http://allafrica.com/stories/201509220862.html",
+                            "text": "-\"Ethiopia: Addis Light Rail Eases Transportation Problem\". allAfrica.com.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "20/09/2015",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "October",
+            "Data": [
+                {
+                    "event_text": "10 October - The Gilgel Gibe III Dam begins to generate power.",
+                    "links": [
+                        {
+                            "link": "http://allafrica.com/stories/201510140248.html",
+                            "text": "-\"Ethiopia: The Gilgel Gibe III Hydroelectric Project Has Begun Power Generation\". allAfrica.com.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "10/10/2015",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "November",
+            "Data": [
+                {
+                    "event_text": "21 November - 2015 CECAFA Cup, hosted in Addis Ababa, begins.",
+                    "links": [],
+                    "start_date": "21/11/2015",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

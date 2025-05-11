@@ -1,0 +1,45 @@
+{
+    "Events": [
+        {
+            "Month": "November",
+            "Data": [
+                {
+                    "event_text": "23 November to 7 December  The non-binding 2019 Bougainvillean independence referendum showed that more than 98% of valid ballots cast were in favor of independence.",
+                    "links": [
+                        {
+                            "link": "https://edition.cnn.com/2019/12/11/asia/bougainville-papua-new-guinea-intl-hnk/index.html",
+                            "text": "-\"Bougainville independence vote delivers emphatic demand to become world's newest nation\". edition.cnn.com. 11 December 2019. Retrieved 3 January 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-01-03",
+                                "Created": "2019-12-11"
+                            }
+                        },
+                        {
+                            "link": "https://www.aljazeera.com/news/2019/12/polls-close-bougainville-referendum-independence-png-191207090205892.html",
+                            "text": "-\"Polls close in Bougainville referendum on independence from PNG\". aljazeera.com. Retrieved 3 January 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-01-03",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "23/11/2019",
+                    "end_date": "07/12/2019"
+                }
+            ]
+        },
+        {
+            "Month": "December",
+            "Data": [
+                {
+                    "event_text": "6 December  The inauguration of Port Moresby Power Station.",
+                    "links": [],
+                    "start_date": "06/12/2019",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

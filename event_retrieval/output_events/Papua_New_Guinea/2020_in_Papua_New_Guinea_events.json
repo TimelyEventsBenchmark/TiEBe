@@ -1,0 +1,46 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "30 January  All travelers from Asian countries were banned and the border with Indonesia was closed in order to slow the spread of the virus.",
+                    "links": [
+                        {
+                            "link": "https://www.abc.net.au/radio-australia/programs/pacificbeat/png-steps-up-response-to-coronavirus-outbreak/11908988",
+                            "text": "-\"PNG: Government steps up coronavirus response\". ABC Radio Australia. 2020-01-29. Retrieved 2020-06-19.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-06-19",
+                                "Created": "2020-01-29"
+                            }
+                        }
+                    ],
+                    "start_date": "30/01/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "20 March  The first case in of COVID-19 in the country was confirmed.",
+                    "links": [
+                        {
+                            "link": "https://news.pngfacts.com/2020/03/png-confirms-first-case-of-coronavirus.html",
+                            "text": "-\"PNG Confirms first Case of Coronavirus-COVID -19\". Papua New Guinea Today (in Indonesian). Retrieved 2020-06-19.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-06-19",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "20/03/2020",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

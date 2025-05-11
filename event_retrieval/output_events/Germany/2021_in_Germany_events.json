@@ -1,0 +1,146 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "4 January  The COVID-19 lockdown is extended until 31 January.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/article/virus-deutschland-idDEKBN29914E",
+                            "text": "-Rinke, Andreas (4 January 2021). \"Corona-Lockdown wird wohl bis Ende Januar verlängert\" [The Corona-lockdown will probably be extended till the end of January]. Reuters (in German). Retrieved 6 January 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-01-06",
+                                "Created": "2021-01-04"
+                            }
+                        },
+                        {
+                            "link": "https://www.euronews.com/2021/01/05/coronavirus-germany-poised-to-extend-nationwide-lockdown-amid-high-infections-and-deaths",
+                            "text": "-Beswick, Emma (5 January 2021). \"Germany extends and tightens lockdown restrictions to January 31\". Euronews. Archived from the original on 5 January 2021. Retrieved 6 January 2021.-",
+                            "dates": {
+                                "Archieved": "2021-01-05",
+                                "Retrieved": "2021-01-06",
+                                "Created": "2021-01-05"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20210105161857/https://www.euronews.com/2021/01/05/coronavirus-germany-poised-to-extend-nationwide-lockdown-amid-high-infections-and-deaths",
+                            "text": "-Beswick, Emma (5 January 2021). \"Germany extends and tightens lockdown restrictions to January 31\". Euronews. Archived from the original on 5 January 2021. Retrieved 6 January 2021.-",
+                            "dates": {
+                                "Archieved": "2021-01-05",
+                                "Retrieved": "2021-01-06",
+                                "Created": "2021-01-05"
+                            }
+                        }
+                    ],
+                    "start_date": "04/01/2021",
+                    "end_date": "31/01/2021"
+                },
+                {
+                    "event_text": "15/16 January     Christian Democratic Union of Germany leadership election",
+                    "links": [],
+                    "start_date": "16/01/2021",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "4 March  most of Germany's major media outlets reports that the Federal Office for the Protection of the Constitution (BfV) had placed Alternative for Germany AfD under surveillance as a suspected extremist group.",
+                    "links": [],
+                    "start_date": "04/03/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "14 March    2021 Baden-Württemberg state election",
+                    "links": [],
+                    "start_date": "14/03/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "14 March    2021 Rhineland-Palatinate state election",
+                    "links": [],
+                    "start_date": "14/03/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "14 March    2021 Hessian local elections",
+                    "links": [],
+                    "start_date": "14/03/2021",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "June",
+            "Data": [
+                {
+                    "event_text": "6 June    2021 Saxony-Anhalt state election",
+                    "links": [],
+                    "start_date": "06/06/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "25 June    2021 Würzburg stabbing",
+                    "links": [],
+                    "start_date": "25/06/2021",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "July",
+            "Data": [
+                {
+                    "event_text": "12 July    the 2021 European floods began",
+                    "links": [],
+                    "start_date": "12/07/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "27 July    2021 Leverkusen explosion",
+                    "links": [],
+                    "start_date": "27/07/2021",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "September",
+            "Data": [
+                {
+                    "event_text": "26 September    2021 German federal election",
+                    "links": [],
+                    "start_date": "26/09/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "26 September    2021 Berlin state election",
+                    "links": [],
+                    "start_date": "26/09/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "26 September    2021 Mecklenburg-Vorpommern state election",
+                    "links": [],
+                    "start_date": "26/09/2021",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "December",
+            "Data": [
+                {
+                    "event_text": "4/16 December     Christian Democratic Union of Germany leadership election",
+                    "links": [],
+                    "start_date": "16/12/2021",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

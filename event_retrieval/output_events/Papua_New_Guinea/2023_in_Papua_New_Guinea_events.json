@@ -1,0 +1,129 @@
+{
+    "Events": [
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "20 February  A Rescue mission begins after a number of foreign citizens and local guides are kidnapped in a remote region of the country.",
+                    "links": [
+                        {
+                            "link": "https://www.cnn.com/2023/02/20/asia/papua-new-guinea-hostages-australia-intl-hnk/index.html",
+                            "text": "-Mogul, Duarte Mendonca,Hira Humayun,Rhea (2023-02-21). \"Rescue mission under way in Papua New Guinea for hostages including Australian academic\". CNN. Retrieved 2023-02-23.{{cite web}}:  CS1 maint: multiple names: authors list (link)-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-02-23",
+                                "Created": "2023-02-21"
+                            }
+                        }
+                    ],
+                    "start_date": "20/02/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "22 February  Kidnappers release a woman, whilst negotiations involving an Australian professor, and two others are still underway.",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/world/2023/feb/23/png-hostage-freed-australian-professor-researchers-captive-papua-new-guinea-mount-bosavi",
+                            "text": "-Touma, Rafqa; Kuku, Rebecca (2023-02-22). \"PNG hostage freed but Australian professor and two local researchers still held captive\". The Guardian. ISSN 0261-3077. Retrieved 2023-02-23.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-02-23",
+                                "Created": "2023-02-22"
+                            }
+                        },
+                        {
+                            "link": "https://search.worldcat.org/issn/0261-3077",
+                            "text": "-Touma, Rafqa; Kuku, Rebecca (2023-02-22). \"PNG hostage freed but Australian professor and two local researchers still held captive\". The Guardian. ISSN 0261-3077. Retrieved 2023-02-23.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-02-23",
+                                "Created": "2023-02-22"
+                            }
+                        }
+                    ],
+                    "start_date": "22/02/2023",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "3 April  2023 Papua New Guinea earthquake A 7.1 magnitude earthquake strikes East Sepik Province, Papua New Guinea, killing eight people, injuring several others, and causing damage.",
+                    "links": [
+                        {
+                            "link": "https://news.pngfacts.com/2023/04/a-child-among-eight-dead-in-pngs-east.html",
+                            "text": "-\"A child among eight dead in PNG's East Sepik 7.3 magnitude earthquake\". Papua New Guinea Today (in Indonesian). Retrieved 2023-04-10.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-04-10",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "03/04/2023",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "May",
+            "Data": [
+                {
+                    "event_text": "6 May  Coronation of Charles III as King of Papua New Guinea and the other Commonwealth realms. Governor-General Sir Bob Dadae attend the ceremony in London.",
+                    "links": [
+                        {
+                            "link": "https://www.rnz.co.nz/international/pacific-news/489305/pacific-figures-going-to-london-for-king-s-coronation",
+                            "text": "-\"Pacific figures going to London for King's coronation\". RNZ. 2023-05-05. Retrieved 2023-05-19.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-05-19",
+                                "Created": "2023-05-05"
+                            }
+                        }
+                    ],
+                    "start_date": "06/05/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "22 May  Papua New Guinea and the United States will sign a security pact today that will see U.S. troops stationed in the country in the largest American presence there since the Second World War.",
+                    "links": [
+                        {
+                            "link": "https://www.rnz.co.nz/international/pacific-news/490375/security-pact-png-expects-more-us-military-boots-on-ground",
+                            "text": "-\"Security Pact: PNG expects more US Military boots on ground\". RNZ. 2023-05-22. Retrieved 2023-05-22.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-05-22",
+                                "Created": "2023-05-22"
+                            }
+                        }
+                    ],
+                    "start_date": "22/05/2023",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "August",
+            "Data": [
+                {
+                    "event_text": "29 August  The Prime Minister of Papua New Guinea James Marape announces that his country will open their Israel embassy in disputed Jerusalem.",
+                    "links": [
+                        {
+                            "link": "https://www.rnz.co.nz/international/pacific-news/496794/png-prime-minister-to-open-embassy-in-jerusalem",
+                            "text": "-\"PNG Prime Minister to open embassy in Jerusalem\". RNZ. 2023-08-29. Retrieved 2023-08-29.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-08-29",
+                                "Created": "2023-08-29"
+                            }
+                        }
+                    ],
+                    "start_date": "29/08/2023",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

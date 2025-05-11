@@ -1,0 +1,410 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "13 January  Five people are killed in a shooting in Huitzilac, Morelos.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/mexico-violence-sheinbaum-sinaloa-huitzilac-morelos-logging-cb0853206d32e52e681c04b571960bb0",
+                            "text": "-\"5 killed in Mexican town caught between battling criminal groups\". AP News. January 14, 2025. Retrieved January 15, 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-01-15",
+                                "Created": "2025-01-14"
+                            }
+                        }
+                    ],
+                    "start_date": "13/01/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "23 January  The office of Sinaloa governor Rubén Rocha Moya in Culiacan is stormed by demonstrators protesting over the death of two minors in a carjacking.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/mexico-sinaloa-cartel-violence-fentanyl-04300010a08447ba1062a9e30ffca80b",
+                            "text": "-\"Thousands protest the killing of 2 young brothers in Mexico's troubled Sinaloa state\". AP News. January 24, 2025. Retrieved January 24, 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-01-24",
+                                "Created": "2025-01-24"
+                            }
+                        }
+                    ],
+                    "start_date": "23/01/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "31 January  Med Jets Flight 056 A Jet Rescue Air Ambulance Learjet 55 flying from Philadelphia in the United States to Tijuana crashes shortly after takeoff during a medevac flight, killing all six Mexican nationals on board.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/philadelphia-plane-crash-medical-transport-8617dab53471190832dd73db149489fa",
+                            "text": "-\"Mexico's president says all 6 people on medical transport jet were killed\". AP News. February 1, 2025. Retrieved February 1, 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-01",
+                                "Created": "2025-02-01"
+                            }
+                        }
+                    ],
+                    "start_date": "31/01/2025",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "1 February  US President Donald Trump imposes a 25% tariff on imports from Mexico.",
+                    "links": [
+                        {
+                            "link": "https://edition.cnn.com/2025/02/01/politics/mexico-canada-china-tariffs-trump/index.html",
+                            "text": "-\"Trump announces significant new tariffs on Mexico, Canada and China, sparking retaliatory actions\". CNN. February 1, 2025. Retrieved February 2, 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-02",
+                                "Created": "2025-02-01"
+                            }
+                        }
+                    ],
+                    "start_date": "01/02/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "3 February  The US suspends its increased tariffs on Mexican imports for a month following and agreement between President Trump and President Sheinbaum for her to deploy 10,000 National Guard soldiers to the US-Mexico border.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/articles/c87d5rlee52o",
+                            "text": "-\"Trump agrees to pause tariffs on Canada and Mexico but not on China\". BBC. February 4, 2025. Retrieved February 4, 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-04",
+                                "Created": "2025-02-04"
+                            }
+                        }
+                    ],
+                    "start_date": "03/02/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "8 February  2025 Escárcega bus crash. A bus collides with a truck before catching fire near Escárcega, Campeche, killing 41 people and injuring eight others.",
+                    "links": [
+                        {
+                            "link": "https://www.eleconomista.com.mx/politica/cifra-muertos-41-accidente-autobus-trailer-tabasco-20250208-745550.html",
+                            "text": "-\"Cifra de muertos podría ser de 41 por accidente entre autobús y tráiler en Tabasco\". El Economista (in Spanish). February 9, 2025. Retrieved February 9, 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-09",
+                                "Created": "2025-02-09"
+                            }
+                        }
+                    ],
+                    "start_date": "08/02/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "13 February  Marco Ebben, a fugitive and convicted drug lord from the Netherlands who had previously faked his own death, is reported to have been killed in a shootout in Atizapan de Zaragoza, Mexico State.",
+                    "links": [
+                        {
+                            "link": "https://www.aljazeera.com/news/2025/2/15/most-wanted-dutch-drug-trafficker-killed-in-mexico",
+                            "text": "-\"'Most wanted' Dutch drug kingpin who once faked death killed in Mexico\". Al Jazeera. February 15, 2025. Retrieved February 15, 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-15",
+                                "Created": "2025-02-15"
+                            }
+                        }
+                    ],
+                    "start_date": "13/02/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "19 February  The United States designates the Sinaloa Cartel, the Jalisco New Generation Cartel, the Carteles Unidos, the Cártel del Noreste, the Gulf Cartel, and La Nueva Familia Michoacana Organization as terrorist organizations.",
+                    "links": [
+                        {
+                            "link": "https://www.aljazeera.com/news/2025/2/19/us-declares-drug-cartels-criminal-gangs-global-terrorist-organisations",
+                            "text": "-\"US declares drug cartels, criminal gangs global terrorist organisations\". Al Jazeera. February 19, 2025. Retrieved February 20, 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-20",
+                                "Created": "2025-02-19"
+                            }
+                        }
+                    ],
+                    "start_date": "19/02/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "20 February  Canada designates the Sinaloa Cartel, the Jalisco New Generation Cartel, the Carteles Unidos, the Cártel del Noreste, the Gulf Cartel, and La Nueva Familia Michoacana Organization as terrorist organizations.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/canada-foreign-criminal-groups-terrorist-mexico-el-salvador-venezuela-2c7789970f3d6a91c20bc16b27740395",
+                            "text": "-\"Following US lead, Canada designates 7 Latin American criminal groups as terrorist entities\". AP News. February 22, 2025. Retrieved February 22, 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-22",
+                                "Created": "2025-02-22"
+                            }
+                        }
+                    ],
+                    "start_date": "20/02/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Supreme Court of Justice of the Nation orders the San Juan de Aragon zoo in Mexico City to improve the health of its resident African elephant, Ely, the first time it has made such a decision regarding an animal.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/mexico-elephant-ely-zoo-8abb9b5abefaa557d323cafc92be09b1",
+                            "text": "-\"Mexico's Supreme Court orders a zoo to improve conditions for Ely the elephant\". AP News. February 27, 2025. Retrieved February 27, 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-27",
+                                "Created": "2025-02-27"
+                            }
+                        }
+                    ],
+                    "start_date": "27/02/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Mexican government sends Rafael Caro Quintero and 28 other drug cartel figures to the United States to face criminal charges there.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/mexico-drug-lord-rafael-caro-quintero-extradition-ad769ef1f2addd8530f4b8b96d00bb4c",
+                            "text": "-\"Mexico sends drug lord Caro Quintero and 28 others to the US as officials meet with Trump team\". AP News. February 28, 2025. Retrieved February 28, 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-28",
+                                "Created": "2025-02-28"
+                            }
+                        }
+                    ],
+                    "start_date": "27/02/2025",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "4 March  President Trump reimposes expanded tariffs on Mexico.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/trump-tariffs-canada-mexico-china-643086a6dc7ff716d876b3c83e3255b0",
+                            "text": "-\"Trump's trade war draws swift retaliation with new tariffs from Mexico, Canada and China\". AP News. March 5, 2025. Retrieved March 5, 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-03-05",
+                                "Created": "2025-03-05"
+                            }
+                        }
+                    ],
+                    "start_date": "04/03/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "5 March  Around 200 pairs of shoes, other personal items, three makeshift crematoriums, and charred human remains are found in a ranch in Teuchitlán, Jalisco.",
+                    "links": [
+                        {
+                            "link": "https://www.latintimes.com/cartel-crematorium-found-mexico-authorities-locate-undetermined-amount-burnt-bodies-577837",
+                            "text": "-Ríos Morales, Héctor (March 9, 2025). \"Cartel Crematorium Found In Mexico As Authorities Locate Undetermined Amount Of Burnt Bodies\". Latin Times. Retrieved March 20, 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-03-20",
+                                "Created": "2025-03-09"
+                            }
+                        },
+                        {
+                            "link": "https://www.bbc.com/news/articles/cly8gv7j5gyo",
+                            "text": "-Grant, Will (March 14, 2025). \"Ovens and bone fragments - BBC visits Mexican cartel 'extermination' site\". BBC. Teuchitlán. Retrieved March 20, 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-03-20",
+                                "Created": "2025-03-14"
+                            }
+                        }
+                    ],
+                    "start_date": "05/03/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A bus overturns on the Mitla-Tehuantepec Highway in Oaxaca, killing 18 people and injuring 29 others.",
+                    "links": [
+                        {
+                            "link": "https://efe.com/mundo/2025-03-11/accidente-autobus-mexico-oaxaca/",
+                            "text": "-\"18 muertos y 29 heridos por un accidente de autobús en el sur de México\". EFE Noticias (in Spanish). March 11, 2025. Retrieved March 11, 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-03-11",
+                                "Created": "2025-03-11"
+                            }
+                        }
+                    ],
+                    "start_date": "10/03/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A bus collides with a tractor near Velardeña, Durango, killing 14 people and injuring 10 others.",
+                    "links": [
+                        {
+                            "link": "https://www.eluniversal.com.mx/estados/chocan-camion-de-pasajeros-y-tractocamion-en-carretera-de-durango-suman-14-muertos-tras-accidente/",
+                            "text": "-Rodríguez, Francisco (March 10, 2025). \"Chocan camión de pasajeros y tractocamión en carretera de Durango; suman 14 muertos tras accidente\". El Universal (in Spanish). Retrieved March 11, 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-03-11",
+                                "Created": "2025-03-10"
+                            }
+                        }
+                    ],
+                    "start_date": "10/03/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "18 March  The Congress of Mexico City votes 61-1 in favor of outlawing killing of bulls in bullfighting matches and the use of sharp objects that could injure them.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/mexico-city-bullfighting-animal-rights-fiesta-brava-09707d6eddef807bc330fc286d7b1b15",
+                            "text": "-\"Mexico City bans violent bullfighting, sparking fury and celebration\". AP News. March 19, 2025. Retrieved March 20, 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-03-20",
+                                "Created": "2025-03-19"
+                            }
+                        }
+                    ],
+                    "start_date": "18/03/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "21 March  Club León are disqualified from the upcoming 2025 FIFA Club World Cup after FIFA rules that the club had failed to meet tournament regulations on multi-club ownership regarding its connections to Grupo Pachuca, which also owns C.F. Pachuca.",
+                    "links": [
+                        {
+                            "link": "https://www.france24.com/en/live-news/20250321-mexican-club-leon-banned-from-fifa-club-world-cup",
+                            "text": "-\"Mexican club Leon banned from FIFA Club World Cup\". France 24. March 21, 2025. Retrieved March 22, 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-03-22",
+                                "Created": "2025-03-21"
+                            }
+                        }
+                    ],
+                    "start_date": "21/03/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "23 March  A van falls into a ravine before catching fire in Santiago, Nuevo León, killing 12 people and injuring four others.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/americas/northern-mexico-van-accident-kills-12-people-sparks-forest-fire-2025-03-24/",
+                            "text": "-\"In northern Mexico, a van accident kills 12 people and sparks forest fire\". Reuters. March 23, 2025. Retrieved March 24, 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-03-24",
+                                "Created": "2025-03-23"
+                            }
+                        }
+                    ],
+                    "start_date": "23/03/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "29 March  A nationwide ban on the sale of junk food in schools comes into effect.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/mexico-junk-food-schools-education-ban-health-c22fa1e1d2b483890142355cb1163520",
+                            "text": "-\"Mexico bans junk food sales in schools in its latest salvo against child obesity\". AP News. March 30, 2025. Retrieved March 30, 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-03-30",
+                                "Created": "2025-03-30"
+                            }
+                        }
+                    ],
+                    "start_date": "29/03/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "31 March  The United States imposes sanctions on 13 individuals and entities for their involvement in money laundering for factions of the Sinaloa Cartel.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/sinaloa-cartel-treasury-department-money-laundering-fentanyl-e976f2219e4588281d19d925ced9e306",
+                            "text": "-\"US sanctions Sinaloa Cartel associates for alleged money laundering\". AP News. March 31, 2025. Retrieved April 1, 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-04-01",
+                                "Created": "2025-03-31"
+                            }
+                        }
+                    ],
+                    "start_date": "31/03/2025",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "4 April  The first human case of avian flu belonging to the Type A H5N1 strain in Mexico is discovered in a three-year old patient in Torreón, Coahuila, who originated from Durango State. She dies on 8 April, also making her the first human H5N1 fatality in Mexico.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/mexico-bird-flu-h5n1-e7cb96bb1ca13fef6ac6af47a6a43479",
+                            "text": "-\"Mexico confirms country's first human case of bird flu in a 3-year-old girl\". AP News. April 5, 2025. Retrieved April 5, 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-04-05",
+                                "Created": "2025-04-05"
+                            }
+                        },
+                        {
+                            "link": "https://apnews.com/article/mexico-bird-flu-h5n1-4c8a2bc81e565e2948e237c676094415",
+                            "text": "-\"Mexico says a 3-year-old girl has died in the country's first human case of bird flu\". AP News. April 9, 2025. Retrieved April 9, 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-04-09",
+                                "Created": "2025-04-09"
+                            }
+                        }
+                    ],
+                    "start_date": "04/04/2025",
+                    "end_date": "08/04/2025"
+                },
+                {
+                    "event_text": "5 April  Two photographers are killed in the collapse of a decorative structure at the Festival Ceremonia in Mexico City.",
+                    "links": [
+                        {
+                            "link": "https://www.france24.com/en/live-news/20250408-mexico-mourns-photographers-killed-in-music-festical-mishap",
+                            "text": "-\"Mexico mourns photographers killed in music festival mishap\". France 24. April 8, 2025. Retrieved April 8, 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-04-08",
+                                "Created": "2025-04-08"
+                            }
+                        }
+                    ],
+                    "start_date": "05/04/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "19 April  WWE announced on its WrestleMania 41 pre-show panel that they had acquired the promotion Lucha Libre AAA Worldwide (AAA).",
+                    "links": [
+                        {
+                            "link": "https://wrestletalk.com/news/wwe-acquires-mexican-lucha-libre-promotion-aaa/",
+                            "text": "-\"WWE Acquires Mexican Lucha Libre Promotion AAA - WrestleTalk\". wrestletalk.com. April 19, 2025. Retrieved April 19, 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-04-19",
+                                "Created": "2025-04-19"
+                            }
+                        }
+                    ],
+                    "start_date": "19/04/2025",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,274 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "The recently opened Nipigon River Bridge near Nipigon, Ontario, is closed to traffic after a mechanical failure, severing the Trans-Canada Highway and forcing a detour into the United States.",
+                    "links": [
+                        {
+                            "link": "http://www.cbc.ca/news/canada/thunder-bay/nipigon-river-bridge-closed-transcanada-1.3397831",
+                            "text": "-Husser, Amy (January 10, 2016). \"Ontario's Nipigon River bridge fails, severing Trans-Canada Highway\". CBC News. Canadian Broadcasting Corporation. Retrieved January 10, 2016.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2016-01-10",
+                                "Created": "2016-01-10"
+                            }
+                        }
+                    ],
+                    "start_date": "10/01/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The government of Justin Trudeau announces the appointment of David MacNaughton as Canadian Ambassador to the United States and Marc-André Blanchard as the Permanent Representative of Canada to the United Nations.",
+                    "links": [],
+                    "start_date": "17/01/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Four people are killed and seven others are injured in a shooting spree at a house and high school in La Loche, Saskatchewan.",
+                    "links": [],
+                    "start_date": "22/01/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The first case of Zika virus is reported in Canada, contracted by people returning from the affected areas",
+                    "links": [],
+                    "start_date": "28/01/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "An avalanche kills five and injures eight near McBride, British Columbia.",
+                    "links": [],
+                    "start_date": "29/01/2016",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "The Montreal newspaper La Presse publishes an interview with a man who says that influential film director Claude Jutra began sexually abusing him at the age of six, corroborating more limited allegations of pedophilia against Jutra in Yves Lever's newly published biography of the director. Despite having urged caution upon the initial reports, numerous organizations and governments respond to the interview by announcing plans to remove Jutra's name from various events and geographic sites named in his honour, including Québec Cinéma's Prix Jutra film awards, the Academy of Canadian Cinema and Television's Claude Jutra Award, and numerous streets and public parks in Quebec.",
+                    "links": [
+                        {
+                            "link": "http://globalnews.ca/news/2520768/claude-jutra-quebec-movie-director-accused-of-sex-with-young-boys/",
+                            "text": "-\"Claude Jutra, Quebec movie director, accused of sex with young boys\". Global News, February 17, 2016.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2016-02-17"
+                            }
+                        }
+                    ],
+                    "start_date": "17/02/2016",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "The 2016 Saskatchewan general election results in a third consecutive majority government for Premier Brad Wall and the Saskatchewan Party.",
+                    "links": [
+                        {
+                            "link": "https://www.cbc.ca/news/canada/saskatchewan/saskatchewan-party-projected-to-win-majority-government-1.3520642",
+                            "text": "-O'Connor, Kevin (5 April 2016). \"Saskatchewan Party wins 3rd majority government\". CBC News. Retrieved 8 January 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-01-08",
+                                "Created": "2016-04-05"
+                            }
+                        }
+                    ],
+                    "start_date": "04/04/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "52% of delegates at the 2016 NDP convention vote in support of a leadership review motion to hold a leadership race within 24 months. Party leader Tom Mulcair announces he will stay on as leader until his replacement is chosen.",
+                    "links": [
+                        {
+                            "link": "https://ottawacitizen.com/news/politics/ndp-votes-for-leadership-review-mulcair-likely-out-as-leader",
+                            "text": "-Kirkup, Kristy (10 April 2016). \"NDP rejects Mulcair as leader, votes in support of holding leadership race\". Ottawa Citizen. Canadian Press. Retrieved 10 April 2016.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2016-04-10",
+                                "Created": "2016-04-10"
+                            }
+                        },
+                        {
+                            "link": "http://www.cbc.ca/news/politics/mulcair-ndp-leadership-1.3529013",
+                            "text": "-Wherry, Aaron (April 10, 2016). \"NDP votes in favour of holding new leadership race\". CBC News. Retrieved 10 April 2016.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2016-04-10",
+                                "Created": "2016-04-10"
+                            }
+                        }
+                    ],
+                    "start_date": "10/04/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The 2016 Manitoba general election results in a majority victory for Brian Pallister and the  Progressive Conservative Party, defeating Premier Greg Selinger and the governing New Democratic Party.",
+                    "links": [],
+                    "start_date": "19/04/2016",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "May",
+            "Data": [
+                {
+                    "event_text": "4  Fort McMurray, Alberta, is fully evacuated due to a catastrophic wildfire that destroyed numerous structures.",
+                    "links": [],
+                    "start_date": "03/05/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The first 5-pin perfect game in the 52-year history of the Youth Bowling Canada Nationals is bowled in Calgary, Alberta.",
+                    "links": [],
+                    "start_date": "08/05/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Canada 2016 census",
+                    "links": [],
+                    "start_date": "10/05/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "- In Toronto's High Park Zoo, two capybaras escape their enclosure. They were found about a month later and returned.",
+                    "links": [],
+                    "start_date": "24/05/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Two people  including an intern from Red River Community College – are severely beaten by two addiction-rehab teenagers in Selkirk, Manitoba.  Both victims survived but the intern may lose eyesight.",
+                    "links": [],
+                    "start_date": "29/05/2016",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "June",
+            "Data": [
+                {
+                    "event_text": "A huge explosion completely destroys a house and damages 24 others in Mississauga, Ontario. At least one person is dead and 13 others are injured, according to Mississauga Fire and Emergency Services. Thousands of residents are forced to evacuate and many spend the night at a local community shelter.",
+                    "links": [
+                        {
+                            "link": "https://www.cbc.ca/news/videos/mississauga-house-explosion-1.3656811",
+                            "text": "-\"Home levelled, 1 person dead after explosion in Mississauga, Ont\". CBC News. 29 June 2016. Retrieved 25 March 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-03-25",
+                                "Created": "2016-06-29"
+                            }
+                        },
+                        {
+                            "link": "https://www.cp24.com/news/some-residents-affected-by-mississauga-explosion-allowed-home-1.2966223",
+                            "text": "-Wilson, Codi; Fox, Chris (29 June 2016). \"Some residents affected by Mississauga explosion allowed home\". CP24. Retrieved 25 March 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-03-25",
+                                "Created": "2016-06-29"
+                            }
+                        }
+                    ],
+                    "start_date": "28/06/2016",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "July",
+            "Data": [
+                {
+                    "event_text": "A caravan of motorcycles are wrecked in a chain reaction crash after attempting to pass an RV that was making a left turn. One of the riders was killed and at least nine were injured. The wreck happened near Edmundston, New Brunswick.",
+                    "links": [],
+                    "start_date": "29/07/2016",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "August",
+            "Data": [
+                {
+                    "event_text": "The Tragically Hip’s final concert is held in Kingston, Ontario, and broadcast nationwide.",
+                    "links": [],
+                    "start_date": "20/08/2016",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "September",
+            "Data": [
+                {
+                    "event_text": "14 dogs die in a Saskatoon, Saskatchewan kennel after a thermostat or HVAC failure heated a boarding room to 37 °C overnight.",
+                    "links": [],
+                    "start_date": "09/09/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Mylan Hicks, a member of the Calgary Stampeders, dies after getting shot outside a Calgary nightclub.",
+                    "links": [],
+                    "start_date": "15/09/2016",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "October",
+            "Data": [
+                {
+                    "event_text": "Former nurse and serial killer Elizabeth Wettlaufer is charged with the murders of eight of her patients. She was accused of killing the elderly victims with insulin injections over a period of seven years in Woodstock and London, Ontario",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/article/us-canada-crime-nurse-idUSKCN12P22L",
+                            "text": "-\"Nurse charged with murdering eight in Canadian old-age homes\". 25 October 2016 – via www.reuters.com.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2016-10-25"
+                            }
+                        }
+                    ],
+                    "start_date": "25/10/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "- Prime Minister Justin Trudeau signed the Comprehensive Economic and Trade Agreement (CETA) between Canada and the European Union. This move removes 98% tariffs on goods between Canada and the E.U.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-europe-37814884",
+                            "text": "-\"Ceta: EU and Canada sign long-delayed free trade deal\". BBC News. 2016-10-30. Retrieved 2024-11-15.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-11-15",
+                                "Created": "2016-10-30"
+                            }
+                        }
+                    ],
+                    "start_date": "30/10/2016",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "November",
+            "Data": [
+                {
+                    "event_text": "Yukon general election held, resulting in a Liberal majority government.",
+                    "links": [],
+                    "start_date": "07/11/2016",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,405 @@
+{
+    "Events": [
+        {
+            "Month": "",
+            "Data": []
+        },
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "6 January - Russia begins to withdraw forces from Syria starting with an aircraft carrier group. Meanwhile, a declassified report in the US claims that President Putin ordered a campaign to influence last year's election against Democratic candidate, Hillary Clinton.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-middle-east-38528654",
+                            "text": "-\"Syria conflict: Russia 'withdrawing aircraft carrier group'\". BBC News. 6 January 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2017-01-06"
+                            }
+                        },
+                        {
+                            "link": "https://www.foxnews.com/politics/intel-report-says-putin-ordered-campaign-to-influence-us-election",
+                            "text": "-\"Intel report says Putin ordered campaign to influence US election\". Fox News. 6 January 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2017-01-06"
+                            }
+                        }
+                    ],
+                    "start_date": "06/01/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "9 January - The death toll of people who died from alcohol poisoning in Irkutsk rises to 76.\\",
+                    "links": [
+                        {
+                            "link": "https://www.rferl.org/a/russia-siberia-methyl-alcohol-poisoning-death-toll-rises/28221567.html",
+                            "text": "-\"Siberian Death Toll From Alcohol Poisoning Rises To 76\". RadioFreeEurope/RadioLiberty.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "09/01/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "20 January - A rally was held against the transfer of Saint Isaac's Cathedral to the Russian Orthodox Church in St. Petersburg.",
+                    "links": [
+                        {
+                            "link": "https://tass.ru/obschestvo/3979575",
+                            "text": "-\"В Петербурге прошел митинг против передачи Исаакиевского собора в пользование РПЦ\". ТАСС. Retrieved 2019-02-12.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2019-02-12",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "20/01/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "27 January - Russian lawmakers voted, 3803, to decriminalize certain forms of domestic violence. Under the new law, first-time offenses that do not result in \"serious bodily harm\" carry a maximum fine of 30,000 rubles, up to 15 days' administrative arrest, or up to 120 hours of community service.",
+                    "links": [
+                        {
+                            "link": "https://www.usatoday.com/story/news/2017/01/27/russian-parliament-decrimiinalizes-domestic-violence/97129912/",
+                            "text": "-\"Russia parliament votes 380-3 to decriminalize domestic violence\". USA Today. January 27, 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2017-01-27"
+                            }
+                        }
+                    ],
+                    "start_date": "27/01/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "8 February   The Russian government gives names to five previously unnamed Kuril Islands in Sakhalin Oblast Derevyanko Island (after Kuzma Derevyanko), Gnechko Island (after Alexey Gnechko), Gromyko Island (after Andrei Gromyko), Farkhutdinov Island (after Igor Farkhutdinov) and Shchetinina Island (after Anna Shchetinina).",
+                    "links": [
+                        {
+                            "link": "http://publication.pravo.gov.ru/Document/View/0001201702100038",
+                            "text": "-\"Распоряжение Правительства Российской Федерации от 08.02.2017 № 223-р\" (in Russian). Publication.pravo.gov.ru. 8 February 2017. Retrieved 11 February 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-02-11",
+                                "Created": "2017-02-08"
+                            }
+                        }
+                    ],
+                    "start_date": "08/02/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "26 March - Protests against alleged corruption in the federal Russian government took place simultaneously in many cities across the country. They were triggered by the lack of proper response from the Russian authorities to the published investigative film He Is Not Dimon to You, which has garnered more than 20 million views on YouTube.",
+                    "links": [],
+                    "start_date": "26/03/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "3 April   Saint Petersburg Metro bombing.",
+                    "links": [],
+                    "start_date": "03/04/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "20 April  The Russian government has prohibited Jehovah's Witnesses in all of Russia, going in favor of the Ministry of Justice.",
+                    "links": [],
+                    "start_date": "20/04/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "29 April - Dozens are detained at protests against a re-election of Putin, with at least 30 arrested in St Petersburg and 16 in Kemerovo, and over 125 detentions being reported.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-europe-39757957",
+                            "text": "-\"Russian authorities detain dozens at anti-Putin rallies\". BBC News. 2017-04-29. Retrieved 2025-02-10.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-10",
+                                "Created": "2017-04-29"
+                            }
+                        }
+                    ],
+                    "start_date": "29/04/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "30 April  Russian Grand Prix F-1",
+                    "links": [],
+                    "start_date": "30/04/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "May",
+            "Data": [
+                {
+                    "event_text": "29 May  15 people die and around 200 are injured following a severe thunderstorm in Moscow and its suburbs.",
+                    "links": [
+                        {
+                            "link": "http://tass.com/world/948506",
+                            "text": "-\"Severe thunderstorm kills 15 in Moscow — Investigative Committee\". TASS. 30 May 2017. Retrieved 31 May 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-05-31",
+                                "Created": "2017-05-30"
+                            }
+                        }
+                    ],
+                    "start_date": "29/05/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "June",
+            "Data": [
+                {
+                    "event_text": "13 June  St. Petersburg International Economic Forum",
+                    "links": [
+                        {
+                            "link": "https://report.az/en/region/21st-st-petersburg-international-economic-forum-kicks-off/",
+                            "text": "-\"XXI St. Petersburg International Economic Forum starts\". Report News Agency. Retrieved 2019-02-13.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2019-02-13",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "03/06/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "10 June  A gunman, 49-year-old Igor Zenkov, kills four people before being shot dead by local police and the National Guard during a special operation in the township of Kratovo, Moscow Oblast.",
+                    "links": [
+                        {
+                            "link": "http://tass.com/world/950896",
+                            "text": "-\"Moscow suburban shooter who gunned down four neutralized by police\". TASS. 11 June 2017. Retrieved 11 June 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-06-11",
+                                "Created": "2017-06-11"
+                            }
+                        },
+                        {
+                            "link": "http://tass.com/world/950931",
+                            "text": "-\"Russian Investigative Committee says some of Kratovo shooter's weapons come from Chechnya\". TASS. 11 June 2017. Retrieved 11 June 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-06-11",
+                                "Created": "2017-06-11"
+                            }
+                        }
+                    ],
+                    "start_date": "10/06/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "17 June  2 July  2017 FIFA Confederations Cup",
+                    "links": [
+                        {
+                            "link": "https://web.archive.org/web/20150512130848/http://www.fifa.com/governance/news/y=2014/m=12/news=ethics-executive-committee-unanimously-supports-recommendation-to-publ-2494723.html",
+                            "text": "-FIFA.com (2014-12-19). \"Ethics: Executive Committee unanimously supports recommendation to publish report on 2018/2022 FIFA World Cup bidding process\". FIFA.com. Archived from the original on May 12, 2015. Retrieved 2019-02-13.-",
+                            "dates": {
+                                "Archieved": "2019-02-13",
+                                "Retrieved": "2015-05-12",
+                                "Created": "2014-12-19"
+                            }
+                        },
+                        {
+                            "link": "http://www.fifa.com/governance/news/y=2014/m=12/news=ethics-executive-committee-unanimously-supports-recommendation-to-publ-2494723.html",
+                            "text": "-FIFA.com (2014-12-19). \"Ethics: Executive Committee unanimously supports recommendation to publish report on 2018/2022 FIFA World Cup bidding process\". FIFA.com. Archived from the original on May 12, 2015. Retrieved 2019-02-13.-",
+                            "dates": {
+                                "Archieved": "2019-02-13",
+                                "Retrieved": "2015-05-12",
+                                "Created": "2014-12-19"
+                            }
+                        }
+                    ],
+                    "start_date": "17/06/2017",
+                    "end_date": "02/07/2017"
+                },
+                {
+                    "event_text": "2229 June  Moscow International Film Festival",
+                    "links": [
+                        {
+                            "link": "http://en.kremlin.ru/events/president/news/54855",
+                            "text": "-\"Greetings to 39th Moscow International Film Festival\". President of Russia. Retrieved 2019-02-13.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2019-02-13",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "29/06/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "- The number of people fined or arrested for alleged violations of public gathering regulations is 2.5 times higher in the first half of 2017 alone than in the entire year of 2016.",
+                    "links": [
+                        {
+                            "link": "https://www.hrw.org/news/2018/01/18/russia-dark-year-freedom?utm_source=chatgpt.com",
+                            "text": "-\"Russia: Dark Year for Freedom | Human Rights Watch\". 2018-01-18. Retrieved 2025-02-10.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-10",
+                                "Created": "2018-01-18"
+                            }
+                        }
+                    ],
+                    "start_date": "29/06/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "September",
+            "Data": [
+                {
+                    "event_text": "1 September  Russian President Vladimir Putin expelled 755 diplomats response to United States sanctions takes effect.",
+                    "links": [
+                        {
+                            "link": "https://www.foxnews.com/world/putin-expels-755-diplomats-in-response-to-us-sanctions",
+                            "text": "-\"Putin expels 755 diplomats in response to US sanctions\". Fox News. 2017-07-30. Retrieved 2018-12-26.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-12-26",
+                                "Created": "2017-07-30"
+                            }
+                        }
+                    ],
+                    "start_date": "01/09/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A school shooting occurs in Ivanteyevka in Moscow Oblast. When ninth-grader Mikhail Pivnev entered the building of \"Educational Center No. 1\", where he was a student and opened fire from an air rifle, and then detonated homemade explosive devices. As a result of the attack, four people were injured - an IT teacher, whom the teenager hit in the head with a cleaver and shot in the face, as well as three school students who jumped out of the window of the educational institution.",
+                    "links": [
+                        {
+                            "link": "https://ria.ru/20170905/1501781734.html",
+                            "text": "-Новости, Р. И. А. (2017-09-05). \"Подросток открыл стрельбу в школе в Ивантеевке\". РИА Новости (in Russian). Retrieved 2024-04-18.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-04-18",
+                                "Created": "2017-09-05"
+                            }
+                        }
+                    ],
+                    "start_date": "05/09/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "2017 Karelia head election",
+                    "links": [],
+                    "start_date": "10/09/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "2017 Russian elections",
+                    "links": [],
+                    "start_date": "10/09/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "October",
+            "Data": [
+                {
+                    "event_text": "2 October  Iran nuclear deal cover by Russia official, US ambassador to UN  warns, Russia is backing shield prevent to pass agreement to United States President, Donald Trump.",
+                    "links": [
+                        {
+                            "link": "https://www.foxnews.com/world/russia-giving-cover-to-iran-could-doom-nuclear-deal-as-trump-considers-whether-to-certify",
+                            "text": "-Evansky, Ben (2017-10-01). \"Russia giving cover to Iran could doom nuclear deal as Trump considers whether to certify\". Fox News. Retrieved 2018-12-26.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-12-26",
+                                "Created": "2017-10-01"
+                            }
+                        }
+                    ],
+                    "start_date": "02/10/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "November",
+            "Data": [
+                {
+                    "event_text": "5 November - 260 anti-government demonstrators are arrested in Moscow.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-europe-41877267",
+                            "text": "-\"Russia protests: At least 260 nationalist Putin opponents held\". BBC News. November 5, 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2017-11-05"
+                            }
+                        }
+                    ],
+                    "start_date": "05/11/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "26 November - Polina Bogusevich wins the Junior Eurovision Song Contest 2017 with the song, Wings.",
+                    "links": [],
+                    "start_date": "26/11/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "December",
+            "Data": [
+                {
+                    "event_text": "5 December - The International Olympic Committee bans Russia from the 2018 Winter Olympics in PyeongChang due to evidence of systemic cheating at the 2014 Winter Olympics in Sochi. (Yahoo!)",
+                    "links": [],
+                    "start_date": "05/12/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "December - Moscow has no sunlight in December, setting a record. Yakutia drops below -60°C, and Moscow's temp is -7°C.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-europe-42701715",
+                            "text": "-\"Moscow's 2017 December was its 'darkest' on record\". 2018-01-16. Retrieved 2025-02-10.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-10",
+                                "Created": "2018-01-16"
+                            }
+                        }
+                    ],
+                    "start_date": "05/12/2017",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

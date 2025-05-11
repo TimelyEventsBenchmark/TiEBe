@@ -1,0 +1,21 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "13 January  Governor Ezenwo Nyesom Wike of Rivers State signs ₦470 billion budget into law.",
+                    "links": [],
+                    "start_date": "13/01/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "17 January  Rann bombing, resulting in 115 deaths according to official sources.",
+                    "links": [],
+                    "start_date": "17/01/2017",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

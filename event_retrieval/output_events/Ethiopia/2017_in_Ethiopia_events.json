@@ -1,0 +1,67 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "10 January - The Addis Ababa-Djibouti Railway is finally complete creating a high speed link with Djibouti.",
+                    "links": [
+                        {
+                            "link": "http://allafrica.com/stories/201701100050.html",
+                            "text": "-\"Ethiopia: Addis Ababa-Djibouti Railway Officially Completed, Creating High Speed Link Between Djibouti and Ethiopia\".-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "10/01/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "12 March - At least 48 people are killed in a landslide at a landfill in the capital, Addis Ababa.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/world-africa-39247381",
+                            "text": "-\"Ethiopia rubbish landslide kills 48 in Addis Ababa\". BBC News. 12 March 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2017-03-12"
+                            }
+                        }
+                    ],
+                    "start_date": "12/03/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "August",
+            "Data": [
+                {
+                    "event_text": "3 August - USAID expands food aid to Ethiopia as well as Kenya to help them against the famine. $137 million has been donated to Ethiopia.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/article/us-usa-africa-famine/u-s-expands-food-health-aid-to-ethiopia-kenya-amid-crisis-idUSKBN1AJ21J",
+                            "text": "-\"U.S. expands food, health aid to Ethiopia, Kenya amid crisis\". Reuters. 3 August 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2017-08-03"
+                            }
+                        }
+                    ],
+                    "start_date": "03/08/2017",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

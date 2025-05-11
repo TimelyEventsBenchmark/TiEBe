@@ -1,0 +1,310 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "- A shooting results in the death of one person and injuries to six people in Killarney, Calgary with police making no arrests.",
+                    "links": [
+                        {
+                            "link": "http://www.cbc.ca/news/canada/calgary/calgary-shooting-1-dead-6-others-injured-at-new-year-s-party-1.2887989",
+                            "text": "-\"Calgary shooting: 1 dead, 6 others injured at New Year's party\". CBC News. January 1, 2015. Retrieved January 2, 2015.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2015-01-02",
+                                "Created": "2015-01-01"
+                            }
+                        }
+                    ],
+                    "start_date": "01/01/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "- Target Corporation announces they will discontinue operations in Canada.  Over 130 stores and over 17,000 workers are affected.",
+                    "links": [
+                        {
+                            "link": "https://www.cbc.ca/amp/1.2928352",
+                            "text": "-\"Target workers feel left in the dark as stores close\". CBC. 24 January 2015.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2015-01-24"
+                            }
+                        }
+                    ],
+                    "start_date": "15/01/2015",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "- A 100-car train carrying crude oil derails approximately 30 kilometres from Gogama, Ontario.",
+                    "links": [],
+                    "start_date": "14/02/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "- 50th anniversary of the National Flag of Canada",
+                    "links": [
+                        {
+                            "link": "http://www.pch.gc.ca/eng/1359734222181",
+                            "text": "-\"National Flag of Canada Day\". Heritage Canada. February 16, 2015. Retrieved February 22, 2015.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2015-02-22",
+                                "Created": "2015-02-16"
+                            }
+                        }
+                    ],
+                    "start_date": "15/02/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "- A Fort McMurray, Alberta family was poisoned after attempting to kill bedbugs using illegally imported phosphine tablets. An eight-month-old child died and five others were hospitalized.  A second child died in hospital.",
+                    "links": [
+                        {
+                            "link": "https://web.archive.org/web/20150226005815/http://www.edmontonjournal.com/news/edmonton/Infant+dead+four+other+children+critical+condition/10836010/story.html",
+                            "text": "-\"Fort McMurray mother trying to kill bed bugs inadvertently poisoned her children: fire department\". Edmonton Journal. February 24, 2015. Archived from the original on 2015-02-26. Retrieved February 27, 2015.-",
+                            "dates": {
+                                "Archieved": "2015-02-24",
+                                "Retrieved": "2015-02-27",
+                                "Created": "2015-02-26"
+                            }
+                        },
+                        {
+                            "link": "https://edmontonjournal.com/news/edmonton/Infant+dead+four+other+children+critical+condition/10836010/story.html",
+                            "text": "-\"Fort McMurray mother trying to kill bed bugs inadvertently poisoned her children: fire department\". Edmonton Journal. February 24, 2015. Archived from the original on 2015-02-26. Retrieved February 27, 2015.-",
+                            "dates": {
+                                "Archieved": "2015-02-24",
+                                "Retrieved": "2015-02-27",
+                                "Created": "2015-02-26"
+                            }
+                        }
+                    ],
+                    "start_date": "23/02/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "- A house burned to the ground near Kane, which is about 25 km west of Morris, Manitoba.  Four children under the age of 15 were killed in the fire.",
+                    "links": [
+                        {
+                            "link": "http://www.winnipegfreepress.com/local/four-brothers-killed-in-fire-294158961.html?cx_navSource=d-tiles-2",
+                            "text": "-\"Four brothers killed in fire\". Winnipeg Free Press. February 25, 2015. Retrieved February 27, 2015.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2015-02-27",
+                                "Created": "2015-02-25"
+                            }
+                        }
+                    ],
+                    "start_date": "25/02/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "- Three weeks after the  train derailment near Gogama, Ontario, 35 Canadian National Railway cars derail at a site four kilometres from the town, spilling crude into the Makami River and igniting a fire that takes several days to extinguish. The two incidents spark renewed debate on the effectiveness of Canada's rail safety regulations in the wake of the Lac-Mégantic rail disaster of 2013.",
+                    "links": [
+                        {
+                            "link": "http://www.cbc.ca/news/canada/sudbury/gogama-derailment-shows-feds-need-to-act-on-train-safety-mpps-say-1.2986150",
+                            "text": "-\"Gogama derailment shows feds need to act on train safety, MPPs say\". CBC Sudbury, March 8, 2015.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2015-03-08"
+                            }
+                        }
+                    ],
+                    "start_date": "14/02/2015",
+                    "end_date": "08/03/2015"
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "- John Baird, the former Conservative cabinet minister and the MP for Ottawa West—Nepean, resigns his seat.",
+                    "links": [
+                        {
+                            "link": "http://www.cbc.ca/news/politics/john-baird-former-foreign-affairs-minister-resigning-as-mp-march-16-1.2991024",
+                            "text": "-\"John Baird, former foreign affairs minister, resigning as MP March 16\". CBC News. March 11, 2015. Retrieved March 11, 2015.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2015-03-11",
+                                "Created": "2015-03-11"
+                            }
+                        }
+                    ],
+                    "start_date": "16/03/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "- With the enactment of the United Kingdom's Succession to the Crown Act 2013, and assent from Canada's Succession to the Throne Act, 2013, the succession to the Canadian throne is changed from eldest son to eldest child for royals born after October 28, 2011.",
+                    "links": [],
+                    "start_date": "26/03/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "- Canadian Parliament votes to extend the mission to targets in Syria.",
+                    "links": [],
+                    "start_date": "30/03/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "- James Lunney, Conservative MP for Nanaimo—Alberni leaves the Conservative Party caucus to sit as an independent, citing concerns about religious freedom.",
+                    "links": [
+                        {
+                            "link": "http://www.ctvnews.ca/politics/b-c-mp-james-lunney-leaving-conservative-caucus-1.2305940",
+                            "text": "-\"B.C. MP James Lunney leaving Conservative caucus\". CTV News. 31 March 2015. Retrieved 31 March 2015.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2015-03-31",
+                                "Created": "2015-03-31"
+                            }
+                        }
+                    ],
+                    "start_date": "31/03/2015",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "- Canadian airstrike operations in Syria begin, with an airstrikes on ISIL garrison near Raqqa.",
+                    "links": [
+                        {
+                            "link": "http://www.cbc.ca/news/politics/isis-mission-canada-conducts-1st-airstrike-in-syria-1.3025559",
+                            "text": "-\"ISIS mission: Canada conducts 1st airstrike in Syria\". CBC News. 8 April 2015. Retrieved January 11, 2016.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2016-01-11",
+                                "Created": "2015-04-08"
+                            }
+                        }
+                    ],
+                    "start_date": "08/04/2015",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "May",
+            "Data": [
+                {
+                    "event_text": "- Prince Edward Island general election - won by the Liberals.",
+                    "links": [
+                        {
+                            "link": "http://www.cbc.ca/news/canada/prince-edward-island/p-e-i-election-called-for-may-4-1.3012564",
+                            "text": "-PEI election called for May 4, 2015-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2015-05-04"
+                            }
+                        }
+                    ],
+                    "start_date": "04/05/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "- Alberta general election - won by the NDP.",
+                    "links": [
+                        {
+                            "link": "http://www.cbc.ca/news/elections/alberta-votes/alberta-election-called-for-may-5-1.3022952",
+                            "text": "-Alberta election called for May 5, 2015-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2015-05-05"
+                            }
+                        }
+                    ],
+                    "start_date": "05/05/2015",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "July",
+            "Data": [
+                {
+                    "event_text": "- A mail bomb detonates and injures a Winnipeg lawyer.  A former client is charged in this incident as well as at least two other incidents.",
+                    "links": [],
+                    "start_date": "03/07/2015",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "September",
+            "Data": [
+                {
+                    "event_text": "- A two-year-old child and her father are murdered in Blairmore, Alberta.  An acquaintance of both father and mother faced charges in the crime.",
+                    "links": [],
+                    "start_date": "15/09/2015",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "October",
+            "Data": [
+                {
+                    "event_text": "- Justin Trudeau and the Liberals win the 2015 federal election, gaining a majority of seats in the House of Commons.",
+                    "links": [],
+                    "start_date": "19/10/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "- Prime Minister-designate Justin Trudeau informed President Barack Obama that Canada intended to withdraw its air units from the mission while keeping its ground forces in Iraq and Syria.",
+                    "links": [],
+                    "start_date": "20/10/2015",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "November",
+            "Data": [
+                {
+                    "event_text": "- Justin Trudeau is sworn in as the 23rd Prime Minister of Canada.",
+                    "links": [],
+                    "start_date": "04/11/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "- Northwest Territories general election, was held.",
+                    "links": [],
+                    "start_date": "23/11/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "- Prime Minister Justin Trudeau amended the Canadian withdrawal to just the fighter aircraft. All other aircraft already deployed would remain in theatre.",
+                    "links": [],
+                    "start_date": "26/11/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "- Newfoundland and Labrador general election - won by the Liberals.",
+                    "links": [
+                        {
+                            "link": "http://www.cbc.ca/news/elections/newfoundland-labrador-votes",
+                            "text": "-NL Votes 2015-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "30/11/2015",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

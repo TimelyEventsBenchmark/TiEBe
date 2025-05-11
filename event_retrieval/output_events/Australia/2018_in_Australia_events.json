@@ -1,0 +1,1275 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "18 January  Malaysia Airlines Flight MH122 from Sydney to Kuala Lumpur is forced to make an emergency landing in Alice Springs after experiencing engine problems.",
+                    "links": [
+                        {
+                            "link": "http://www.abc.net.au/news/2018-01-19/malaysia-airlines-says-safety-onboard-mh122-not-compromised/9343130",
+                            "text": "-\"Malaysia Airlines flight MH122 safety 'not compromised' during in-flight engine shutdown\". ABC News. 19 January 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2018-01-19"
+                            }
+                        }
+                    ],
+                    "start_date": "18/01/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "20 January  Authorities evacuate the Royal National Park south of Sydney as two fires burn out of control, with smoke visible across the city.",
+                    "links": [
+                        {
+                            "link": "http://www.abc.net.au/news/2018-01-20/emergency-warning-for-fires-in-sydneys-royal-national-park/9345834",
+                            "text": "-\"Sydney's Royal National Park bushfires prompt emergency warning\". ABC News. 20 January 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2018-01-20"
+                            }
+                        }
+                    ],
+                    "start_date": "20/01/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "26 January  Tens of thousands of protesters march in Sydney and Melbourne in \"Invasion Day\" rallies.",
+                    "links": [],
+                    "start_date": "26/01/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "31 January  The ABC publishes information from hundreds of classified Cabinet documents which were found in two second-hand filing cabinets purchased at a sale of ex-government furniture.",
+                    "links": [],
+                    "start_date": "31/01/2018",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "1 February  David Feeney resigns as MP for Batman, after he is unable to find documentation confirming that he had renounced his British citizenship.",
+                    "links": [],
+                    "start_date": "01/02/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "6 February  News Corp reveals that Deputy Prime Minister Barnaby Joyce is expecting a baby with a former staffer, following the break-up of his marriage.",
+                    "links": [
+                        {
+                            "link": "http://www.abc.net.au/news/2018-02-07/mps-defend-joyces-right-to-privacy-after-partner-on-front-page/9403988",
+                            "text": "-\"Barnaby Joyce's new relationship hits front page, fellow politicians defend his right to privacy\". ABC News. 7 February 2018. Archived from the original on 10 February 2018. Retrieved 10 February 2018.-",
+                            "dates": {
+                                "Archieved": "2018-02-10",
+                                "Retrieved": "2018-02-10",
+                                "Created": "2018-02-07"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20180210021114/http://www.abc.net.au/news/2018-02-07/mps-defend-joyces-right-to-privacy-after-partner-on-front-page/9403988",
+                            "text": "-\"Barnaby Joyce's new relationship hits front page, fellow politicians defend his right to privacy\". ABC News. 7 February 2018. Archived from the original on 10 February 2018. Retrieved 10 February 2018.-",
+                            "dates": {
+                                "Archieved": "2018-02-10",
+                                "Retrieved": "2018-02-10",
+                                "Created": "2018-02-07"
+                            }
+                        }
+                    ],
+                    "start_date": "06/02/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "11 February  The Melbourne's Domain Parkland and Memorial Precinct—including Kings Domain, Alexandra Gardens, Queen Victoria Gardens, the Melbourne Observatory, the Shrine of Remembrance and Government House, Melbourne—was added to the Australian National Heritage List.",
+                    "links": [],
+                    "start_date": "11/02/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "12 February  The Royal Commission into Misconduct in the Banking, Superannuation and Financial Services Industry, headed by Kenneth Hayne, opens in Melbourne.",
+                    "links": [
+                        {
+                            "link": "http://www.abc.net.au/news/2018-02-12/what-we-learned-from-day-one-of-the-banking-royal-commission/9423444",
+                            "text": "-Lannin, Sue (12 February 2018). \"What we did (or didn't) find out about the banking royal commission\". ABC News. Archived from the original on 12 February 2018. Retrieved 12 February 2018.-",
+                            "dates": {
+                                "Archieved": "2018-02-12",
+                                "Retrieved": "2018-02-12",
+                                "Created": "2018-02-12"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20180212191701/http://www.abc.net.au/news/2018-02-12/what-we-learned-from-day-one-of-the-banking-royal-commission/9423444",
+                            "text": "-Lannin, Sue (12 February 2018). \"What we did (or didn't) find out about the banking royal commission\". ABC News. Archived from the original on 12 February 2018. Retrieved 12 February 2018.-",
+                            "dates": {
+                                "Archieved": "2018-02-12",
+                                "Retrieved": "2018-02-12",
+                                "Created": "2018-02-12"
+                            }
+                        }
+                    ],
+                    "start_date": "12/02/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Barnaby Joyce announces he will stand down on 26 February as leader of the National Party and therefore as Deputy Prime Minister of Australia following pressure from government and public figures over his relationship with a former staffer.",
+                    "links": [
+                        {
+                            "link": "https://www.smh.com.au/federal-politics/political-news/barnaby-joyce-quits-as-deputy-prime-minister-20180223-p4z1ga.html",
+                            "text": "-Massola, James (23 February 2018). \"Barnaby Joyce quits as Deputy Prime Minister\". Sydney Morning Herald. Archived from the original on 23 February 2018. Retrieved 23 February 2018.-",
+                            "dates": {
+                                "Archieved": "2018-02-23",
+                                "Retrieved": "2018-02-23",
+                                "Created": "2018-02-23"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20180223075520/http://www.smh.com.au/federal-politics/political-news/barnaby-joyce-quits-as-deputy-prime-minister-20180223-p4z1ga.html",
+                            "text": "-Massola, James (23 February 2018). \"Barnaby Joyce quits as Deputy Prime Minister\". Sydney Morning Herald. Archived from the original on 23 February 2018. Retrieved 23 February 2018.-",
+                            "dates": {
+                                "Archieved": "2018-02-23",
+                                "Retrieved": "2018-02-23",
+                                "Created": "2018-02-23"
+                            }
+                        }
+                    ],
+                    "start_date": "26/02/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A voluntary recall of rockmelons is started after several deaths from listeriosis contracted from consuming the fruit. As of 20 March 2018[update], nineteen infections and six deaths have been linked to rockmelon-related listeria.",
+                    "links": [],
+                    "start_date": "26/02/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "26 February   New South Wales MP Michael McCormack wins the National Party of Australia leadership election and becomes Deputy Prime Minister of Australia, brought about by the resignation of Barnaby Joyce, defeating Queensland MP George Christensen.",
+                    "links": [],
+                    "start_date": "26/02/2018",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "3 March  The Liberal Party led by Will Hodgman wins a second term of government but with a reduced majority at the 2018 Tasmanian state election.",
+                    "links": [],
+                    "start_date": "03/03/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "5 March - The Australian Border Force conducts an early morning raid on a family home in Biloela, Queensland and forcibly removes a Sri Lankan Tamil asylum seeker family and takes them into immigration detention in Melbourne before being transferring them to Christmas Island.  The family's plight garners ongoing media attention and prompts supporters to launch the Home to Bilo campaign.",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/australia-news/2018/mar/12/small-town-rallies-after-asylum-seeker-family-carried-off-in-dawn-raid",
+                            "text": "-Doherty, Ben (12 March 2018). \"Small town rallies after asylum seeker family carried off in dawn raid\". The Guardian. Retrieved 11 June 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-06-11",
+                                "Created": "2018-03-12"
+                            }
+                        },
+                        {
+                            "link": "https://www.sbs.com.au/news/renewed-calls-for-biloela-tamil-family-to-be-resettled-in-australia-as-daughter-receives-urgent-medical-treatment",
+                            "text": "-\"Renewed calls for Biloela Tamil family to be resettled in Australia as daughter receives urgent medical treatment\". SBS News. 7 June 2021. Retrieved 11 June 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-06-11",
+                                "Created": "2021-06-07"
+                            }
+                        }
+                    ],
+                    "start_date": "05/03/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "10 March  A state of disaster is declared in Queensland, after flooding between Cairns and Townsville, with some catchment areas receiving over 700mm in four days.",
+                    "links": [
+                        {
+                            "link": "http://www.couriermail.com.au/news/queensland/weather/queensland-flooding-stranded-camp-kids-to-be-evacuated/news-story/a86541bf63bbdba5d012476cfa550789",
+                            "text": "-\"Queensland flooding: Stranded camp kids evacuated\". The Courier Mail. 11 March 2018. Archived from the original on 16 March 2018. Retrieved 11 March 2018.-",
+                            "dates": {
+                                "Archieved": "2018-03-16",
+                                "Retrieved": "2018-03-11",
+                                "Created": "2018-03-11"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20180316084427/http://www.couriermail.com.au/news/queensland/weather/queensland-flooding-stranded-camp-kids-to-be-evacuated/news-story/a86541bf63bbdba5d012476cfa550789",
+                            "text": "-\"Queensland flooding: Stranded camp kids evacuated\". The Courier Mail. 11 March 2018. Archived from the original on 16 March 2018. Retrieved 11 March 2018.-",
+                            "dates": {
+                                "Archieved": "2018-03-16",
+                                "Retrieved": "2018-03-11",
+                                "Created": "2018-03-11"
+                            }
+                        },
+                        {
+                            "link": "https://www.9news.com.au/national/2018/03/09/19/23/queensland-weather-disaster-declared-after-floods-in-north-queensland",
+                            "text": "-\"Major floodwaters easing in North Queensland as disaster situation declared\". Nine News. 10 March 2018. Archived from the original on 11 March 2018. Retrieved 11 March 2018.-",
+                            "dates": {
+                                "Archieved": "2018-03-11",
+                                "Retrieved": "2018-03-11",
+                                "Created": "2018-03-10"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20180311141948/https://www.9news.com.au/national/2018/03/09/19/23/queensland-weather-disaster-declared-after-floods-in-north-queensland",
+                            "text": "-\"Major floodwaters easing in North Queensland as disaster situation declared\". Nine News. 10 March 2018. Archived from the original on 11 March 2018. Retrieved 11 March 2018.-",
+                            "dates": {
+                                "Archieved": "2018-03-11",
+                                "Retrieved": "2018-03-11",
+                                "Created": "2018-03-10"
+                            }
+                        }
+                    ],
+                    "start_date": "10/03/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "14 March  Peter Dutton calls to treat White South African farmers as refugees, stating that \"they need help from a civilised country\". and was met with \"regret\" by the South African foreign ministry. The Australian High Commissioner was subsequently summoned by the South African foreign ministry, which expressed its offence at Dutton's statements, and demanded a \"full retraction\".",
+                    "links": [
+                        {
+                            "link": "http://www.abc.net.au/news/2018-03-15/dutton-wants-australia-to-help-white-south-african-farmers/9550050",
+                            "text": "-Gribbin, Caitlyn; Sara, Sally (15 March 2018). \"Peter Dutton wants Australia to help white South African farmers who he says are facing violence, land seizures\". ABC News. Archived from the original on 10 July 2018. Retrieved 20 July 2018.-",
+                            "dates": {
+                                "Archieved": "2018-07-10",
+                                "Retrieved": "2018-07-20",
+                                "Created": "2018-03-15"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20180710191503/http://www.abc.net.au/news/2018-03-15/dutton-wants-australia-to-help-white-south-african-farmers/9550050",
+                            "text": "-Gribbin, Caitlyn; Sara, Sally (15 March 2018). \"Peter Dutton wants Australia to help white South African farmers who he says are facing violence, land seizures\". ABC News. Archived from the original on 10 July 2018. Retrieved 20 July 2018.-",
+                            "dates": {
+                                "Archieved": "2018-07-10",
+                                "Retrieved": "2018-07-20",
+                                "Created": "2018-03-15"
+                            }
+                        },
+                        {
+                            "link": "https://www.smh.com.au/politics/federal/peter-dutton-looks-to-help-persecuted-white-south-african-farmers-20180314-p4z4el.html",
+                            "text": "-McCulloch, Daniel (14 March 2018). \"Peter Dutton looks to help 'persecuted' white South African farmers\". The Sydney Morning Herald. Archived from the original on 26 June 2018. Retrieved 20 July 2018.-",
+                            "dates": {
+                                "Archieved": "2018-06-26",
+                                "Retrieved": "2018-07-20",
+                                "Created": "2018-03-14"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20180626192409/https://www.smh.com.au/politics/federal/peter-dutton-looks-to-help-persecuted-white-south-african-farmers-20180314-p4z4el.html",
+                            "text": "-McCulloch, Daniel (14 March 2018). \"Peter Dutton looks to help 'persecuted' white South African farmers\". The Sydney Morning Herald. Archived from the original on 26 June 2018. Retrieved 20 July 2018.-",
+                            "dates": {
+                                "Archieved": "2018-06-26",
+                                "Retrieved": "2018-07-20",
+                                "Created": "2018-03-14"
+                            }
+                        },
+                        {
+                            "link": "https://www.news.com.au/finance/economy/world-economy/south-africa-peter-duttons-white-farmer-comments-anger-pretoria/news-story/a6a48505f72dabf517e961efa58242be",
+                            "text": "-Killalea, Debra (16 March 2018). \"South Africa: Peter Dutton's 'white farmer' comments anger Pretoria\". news.com.au. Archived from the original on 18 July 2018. Retrieved 20 July 2018.-",
+                            "dates": {
+                                "Archieved": "2018-07-18",
+                                "Retrieved": "2018-07-20",
+                                "Created": "2018-03-16"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20180718172419/https://www.news.com.au/finance/economy/world-economy/south-africa-peter-duttons-white-farmer-comments-anger-pretoria/news-story/a6a48505f72dabf517e961efa58242be",
+                            "text": "-Killalea, Debra (16 March 2018). \"South Africa: Peter Dutton's 'white farmer' comments anger Pretoria\". news.com.au. Archived from the original on 18 July 2018. Retrieved 20 July 2018.-",
+                            "dates": {
+                                "Archieved": "2018-07-18",
+                                "Retrieved": "2018-07-20",
+                                "Created": "2018-03-16"
+                            }
+                        },
+                        {
+                            "link": "https://www.iol.co.za/news/politics/dirco-demands-peterdutton-retract-persecuted-white-farmer-comments-13841035",
+                            "text": "-Mtyala, Quinton (15 March 2018). \"Dirco demands #PeterDutton retract 'persecuted' white farmer comments\". Independent Online. Archived from the original on 16 July 2018. Retrieved 20 July 2018.-",
+                            "dates": {
+                                "Archieved": "2018-07-16",
+                                "Retrieved": "2018-07-20",
+                                "Created": "2018-03-15"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20180716224155/https://www.iol.co.za/news/politics/dirco-demands-peterdutton-retract-persecuted-white-farmer-comments-13841035",
+                            "text": "-Mtyala, Quinton (15 March 2018). \"Dirco demands #PeterDutton retract 'persecuted' white farmer comments\". Independent Online. Archived from the original on 16 July 2018. Retrieved 20 July 2018.-",
+                            "dates": {
+                                "Archieved": "2018-07-16",
+                                "Retrieved": "2018-07-20",
+                                "Created": "2018-03-15"
+                            }
+                        },
+                        {
+                            "link": "http://politicsweb.co.za/politics/white-farmers-peter-dutton-must-retract-remarks--d",
+                            "text": "-Mbaya, Ndivhuwo. \"White farmers: Peter Dutton must retract remarks – DIRCO\". politicsweb. Archived from the original on 16 July 2018. Retrieved 20 July 2018.-",
+                            "dates": {
+                                "Archieved": "2018-07-16",
+                                "Retrieved": "2018-07-20",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20180716224038/http://politicsweb.co.za/politics/white-farmers-peter-dutton-must-retract-remarks--d",
+                            "text": "-Mbaya, Ndivhuwo. \"White farmers: Peter Dutton must retract remarks – DIRCO\". politicsweb. Archived from the original on 16 July 2018. Retrieved 20 July 2018.-",
+                            "dates": {
+                                "Archieved": "2018-07-16",
+                                "Retrieved": "2018-07-20",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "14/03/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Liberal Party under Steven Marshall wins the 2018 South Australian state election, defeating the Labor Party and incumbent Premier Jay Weatherill.",
+                    "links": [
+                        {
+                            "link": "http://www.abc.net.au/news/2018-03-17/liberals-to-form-majority-government-in-sa,-abc-predicts/9559246",
+                            "text": "-\"SA election: Liberals claim victory as Labor's Jay Weatherill concedes\". ABC News. 17 March 2018. Archived from the original on 19 March 2018. Retrieved 18 March 2018.-",
+                            "dates": {
+                                "Archieved": "2018-03-19",
+                                "Retrieved": "2018-03-18",
+                                "Created": "2018-03-17"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20180319224704/http://www.abc.net.au/news/2018-03-17/liberals-to-form-majority-government-in-sa,-abc-predicts/9559246",
+                            "text": "-\"SA election: Liberals claim victory as Labor's Jay Weatherill concedes\". ABC News. 17 March 2018. Archived from the original on 19 March 2018. Retrieved 18 March 2018.-",
+                            "dates": {
+                                "Archieved": "2018-03-19",
+                                "Retrieved": "2018-03-18",
+                                "Created": "2018-03-17"
+                            }
+                        }
+                    ],
+                    "start_date": "17/03/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Labor Party wins the Batman by-election, maintaining its numbers in the House of Representatives.",
+                    "links": [
+                        {
+                            "link": "http://www.abc.net.au/news/2018-03-17/labors-ged-kearney-wins-batman-by-election-beating-greens/9559470",
+                            "text": "-\"Labor's Ged Kearney wins Batman by-election, handing Greens' Alex Bhathal her sixth defeat\". ABC News. 17 March 2018. Archived from the original on 17 March 2018. Retrieved 18 March 2018.-",
+                            "dates": {
+                                "Archieved": "2018-03-17",
+                                "Retrieved": "2018-03-18",
+                                "Created": "2018-03-17"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20180317213547/http://www.abc.net.au/news/2018-03-17/labors-ged-kearney-wins-batman-by-election-beating-greens/9559470",
+                            "text": "-\"Labor's Ged Kearney wins Batman by-election, handing Greens' Alex Bhathal her sixth defeat\". ABC News. 17 March 2018. Archived from the original on 17 March 2018. Retrieved 18 March 2018.-",
+                            "dates": {
+                                "Archieved": "2018-03-17",
+                                "Retrieved": "2018-03-18",
+                                "Created": "2018-03-17"
+                            }
+                        }
+                    ],
+                    "start_date": "17/03/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Liberal Party wins the Cottesloe by-election, maintaining its numbers in the Western Australian Legislative Assembly.",
+                    "links": [
+                        {
+                            "link": "http://www.abc.net.au/news/2018-03-17/cottesloe-by-election-sees-liberal-replace-colin-barnett/9559232",
+                            "text": "-\"Cottesloe by-election sees WA Liberal David Honey take seat of former premier\". ABC News. 18 March 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2018-03-18"
+                            }
+                        }
+                    ],
+                    "start_date": "17/03/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "18 March  Hot and windy conditions see a bushfire destroy over 70 buildings at Tathra on the New South Wales South Coast, while 18 homes are destroyed by a grass fire in Western Victoria.",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/australia-news/2018/mar/19/bushfire-rips-through-tathra-on-far-south-coast-of-nsw",
+                            "text": "-\"Bushfire rips through Tathra on far south coast of NSW\". The Guardian. 19 March 2018. Retrieved 19 March 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-03-19",
+                                "Created": "2018-03-19"
+                            }
+                        },
+                        {
+                            "link": "https://www.theage.com.au/national/victoria/victoria-bushfires-18-homes-destroyed-as-four-bushfires-still-burn-20180319-p4z50i.html",
+                            "text": "-\"Victoria bushfires: 18 homes destroyed as four bushfires still burn\". The Age. 19 March 2018. Retrieved 19 March 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-03-19",
+                                "Created": "2018-03-19"
+                            }
+                        }
+                    ],
+                    "start_date": "18/03/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "24 March  Qantas launches the first direct passenger flight between Australia and Europe, beginning its service between Perth and London.",
+                    "links": [
+                        {
+                            "link": "https://www.bloomberg.com/news/articles/2018-03-25/qantas-sets-aviation-milestone-as-perth-flight-lands-in-london",
+                            "text": "-\"Qantas Sets Aviation Milestone With Perth to London Direct\". Bloomberg. 25 March 2018. Retrieved 27 March 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-03-27",
+                                "Created": "2018-03-25"
+                            }
+                        }
+                    ],
+                    "start_date": "24/03/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "25 March  Australian cricket captain Steve Smith is suspended, and Prime Minister Malcolm Turnbull calls for action from Cricket Australia, after members of the Australian team admit to ball tampering during a match against South Africa.",
+                    "links": [
+                        {
+                            "link": "http://www.abc.net.au/news/2018-03-25/how-cricket-ball-tampering-incident-unfolded/9584618",
+                            "text": "-\"Steve Smith under fire: Here's how the ball-tampering scandal unfolded\". ABC News. 26 March 2018. Archived from the original on 26 March 2018. Retrieved 27 March 2018.-",
+                            "dates": {
+                                "Archieved": "2018-03-26",
+                                "Retrieved": "2018-03-27",
+                                "Created": "2018-03-26"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20180326224130/http://www.abc.net.au/news/2018-03-25/how-cricket-ball-tampering-incident-unfolded/9584618",
+                            "text": "-\"Steve Smith under fire: Here's how the ball-tampering scandal unfolded\". ABC News. 26 March 2018. Archived from the original on 26 March 2018. Retrieved 27 March 2018.-",
+                            "dates": {
+                                "Archieved": "2018-03-26",
+                                "Retrieved": "2018-03-27",
+                                "Created": "2018-03-26"
+                            }
+                        },
+                        {
+                            "link": "http://www.abc.net.au/news/2018-03-25/ball-tampering-controversy-cricket-greats-react/9584496",
+                            "text": "-\"Michael Clarke, Shane Warne and other cricket greats 'stunned' over ball-tampering scandal\". ABC News. 25 March 2018. Retrieved 27 March 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-03-27",
+                                "Created": "2018-03-25"
+                            }
+                        }
+                    ],
+                    "start_date": "25/03/2018",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "20 April  Craig Meller resigns as CEO of AMP Limited after revelations in the banking royal commission that the financial services company charged clients for financial advice which was not provided, and then misled the Australian Securities & Investments Commission.",
+                    "links": [],
+                    "start_date": "20/04/2018",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "May",
+            "Data": [
+                {
+                    "event_text": "7 May  Ancient HTLV-1 virus detected in indigenous communities in Australia, raising concerns and calls to stop the spread.",
+                    "links": [
+                        {
+                            "link": "https://www.cnn.com/2018/05/07/health/htlv-1-virus-australia-explainer/index.html",
+                            "text": "-\"Doctors raise alarm about ancient HTLV-1 virus: 'Prevalence is off the charts' in Australia\". CNN. 7 May 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2018-05-07"
+                            }
+                        }
+                    ],
+                    "start_date": "07/05/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "An estimated 100,000 union workers march through Melbourne's CBD in protest of workplace conditions in a rally to kick off the Australian Council of Trade Unions's \"Change the Rules\" campaign.",
+                    "links": [
+                        {
+                            "link": "http://www.news.com.au/national/victoria/massive-union-protest-expected-to-disrupt-cbd/news-story/a99ff458a4ed2b6f5e93bd14878acccd",
+                            "text": "-Gardiner, Ed; Simonis, Aneeka (9 May 2018). \"Massive union protest shuts down Melbourne CBD\". Herald Sun. Retrieved 28 September 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-09-28",
+                                "Created": "2018-05-09"
+                            }
+                        }
+                    ],
+                    "start_date": "09/05/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The High Court of Australia rules in Re Gallagher that Katy Gallagher was ineligible to be chosen as a Senator, as her submission of a renunciation of British citizenship was not sufficient to meet the \"reasonable steps\" clause of Section 44 of the Constitution of Australia. Four lower house MPs in the same situation subsequently resign Labor's Justine Keay, Susan Lamb and Josh Wilson, and Centre Alliance's Rebekha Sharkie.",
+                    "links": [],
+                    "start_date": "09/05/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Over 10,000 homes are left without power, and over 120mm of rain causes flooding in the Hobart central business district and at the University of Tasmania, as severe weather sweeps across southern Tasmania.",
+                    "links": [
+                        {
+                            "link": "http://www.themercury.com.au/news/tasmania/havoc-as-wild-weather-floods-hobart-and-tasmanias-south-east/news-story/7707f3fc8e3bd16a7752f172e4879c9a",
+                            "text": "-\"Hobart floods: Havoc as wild weather floods city and Tasmania's South East\". The Mercury. 11 May 2018. Archived from the original on 14 May 2018. Retrieved 11 May 2018.-",
+                            "dates": {
+                                "Archieved": "2018-05-14",
+                                "Retrieved": "2018-05-11",
+                                "Created": "2018-05-11"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20180514174251/http://www.themercury.com.au/news/tasmania/havoc-as-wild-weather-floods-hobart-and-tasmanias-south-east/news-story/7707f3fc8e3bd16a7752f172e4879c9a",
+                            "text": "-\"Hobart floods: Havoc as wild weather floods city and Tasmania's South East\". The Mercury. 11 May 2018. Archived from the original on 14 May 2018. Retrieved 11 May 2018.-",
+                            "dates": {
+                                "Archieved": "2018-05-14",
+                                "Retrieved": "2018-05-11",
+                                "Created": "2018-05-11"
+                            }
+                        }
+                    ],
+                    "start_date": "11/05/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Four children and three adults are found shot dead at a house in Osmington, Western Australia in what police believe is a murder-suicide, and Australia's worst mass shooting since the Port Arthur massacre in 1996.",
+                    "links": [],
+                    "start_date": "11/05/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "22 May  The Archbishop of Adelaide, Philip Wilson, is found guilty by Newcastle Local Court of covering up child sexual abuse cases which occurred in the 1970s.",
+                    "links": [],
+                    "start_date": "22/05/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "23 May - NSW Labor leader Luke Foley makes comments about White flight. His view that an influx of people of non-European descent had driven many White Australians to leave parts of Sydney. He was condemned by Premier Gladys Berejiklian.",
+                    "links": [
+                        {
+                            "link": "http://www.abc.net.au/news/2018-05-24/foley-apologises-for-white-flight-comments/9796548",
+                            "text": "-\"NSW Labor leader apologises for 'white flight' migration comments\". ABC News. 24 May 2018. Archived from the original on 6 October 2021. Retrieved 2 February 2022.-",
+                            "dates": {
+                                "Archieved": "2021-10-06",
+                                "Retrieved": "2022-02-02",
+                                "Created": "2018-05-24"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20211006003528/https://www.abc.net.au/news/2018-05-24/foley-apologises-for-white-flight-comments/9796548",
+                            "text": "-\"NSW Labor leader apologises for 'white flight' migration comments\". ABC News. 24 May 2018. Archived from the original on 6 October 2021. Retrieved 2 February 2022.-",
+                            "dates": {
+                                "Archieved": "2021-10-06",
+                                "Retrieved": "2022-02-02",
+                                "Created": "2018-05-24"
+                            }
+                        },
+                        {
+                            "link": "https://www.news.com.au/finance/economy/luke-foley-claims-anglo-families-are-fleeing-sydneys-suburbs-due-to-refugee-intake/news-story/6891c109b7cf15817cc6307b0e87432b",
+                            "text": "-\"MP blasted for 'white flight' comments\". 23 May 2018. Archived from the original on 2 February 2022. Retrieved 2 February 2022.-",
+                            "dates": {
+                                "Archieved": "2022-02-02",
+                                "Retrieved": "2022-02-02",
+                                "Created": "2018-05-23"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20220202065241/https://www.news.com.au/finance/economy/luke-foley-claims-anglo-families-are-fleeing-sydneys-suburbs-due-to-refugee-intake/news-story/6891c109b7cf15817cc6307b0e87432b",
+                            "text": "-\"MP blasted for 'white flight' comments\". 23 May 2018. Archived from the original on 2 February 2022. Retrieved 2 February 2022.-",
+                            "dates": {
+                                "Archieved": "2022-02-02",
+                                "Retrieved": "2022-02-02",
+                                "Created": "2018-05-23"
+                            }
+                        },
+                        {
+                            "link": "https://www.theguardian.com/australia-news/2018/may/24/luke-foley-defends-white-flight-comment-but-denies-dog-whistling",
+                            "text": "-\"Luke Foley apologises for 'white flight' comment, saying he now knows it's offensive\". The Guardian. 24 May 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2018-05-24"
+                            }
+                        },
+                        {
+                            "link": "https://www.smh.com.au/politics/nsw/dangerous-and-nasty-luke-foley-attacked-over-white-flight-comment-20180524-p4zhbk.html",
+                            "text": "-Alexandra Smith (24 May 2018). \"'Dangerous and nasty': Luke Foley attacked over 'white flight' comment\". Sydney Morning Herald. Archived from the original on 27 May 2018. Retrieved 27 May 2018.-",
+                            "dates": {
+                                "Archieved": "2018-05-27",
+                                "Retrieved": "2018-05-27",
+                                "Created": "2018-05-24"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20180527202121/https://www.smh.com.au/politics/nsw/dangerous-and-nasty-luke-foley-attacked-over-white-flight-comment-20180524-p4zhbk.html",
+                            "text": "-Alexandra Smith (24 May 2018). \"'Dangerous and nasty': Luke Foley attacked over 'white flight' comment\". Sydney Morning Herald. Archived from the original on 27 May 2018. Retrieved 27 May 2018.-",
+                            "dates": {
+                                "Archieved": "2018-05-27",
+                                "Retrieved": "2018-05-27",
+                                "Created": "2018-05-24"
+                            }
+                        }
+                    ],
+                    "start_date": "23/05/2018",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "June",
+            "Data": [
+                {
+                    "event_text": "4 June  Woolworths Supermarkets announces it will reduce the level of plastic packaging in its stores, in particular, eliminating straws and plastic wrapping on fresh produce.",
+                    "links": [],
+                    "start_date": "04/06/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "13 June  Northern Territory Independent Commissioner Against Corruption is appointed.",
+                    "links": [
+                        {
+                            "link": "https://icac.nt.gov.au/office-of-the-icac/about-us",
+                            "text": "-\"About Us\". icac.nt.gov.au. Office of the Independent Commissioner Against Corruption NT. 29 November 2018. Archived from the original on 15 March 2019. Retrieved 2 April 2021.-",
+                            "dates": {
+                                "Archieved": "2019-03-15",
+                                "Retrieved": "2021-04-02",
+                                "Created": "2018-11-29"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20190315104906/https://icac.nt.gov.au/office-of-the-icac/about-us",
+                            "text": "-\"About Us\". icac.nt.gov.au. Office of the Independent Commissioner Against Corruption NT. 29 November 2018. Archived from the original on 15 March 2019. Retrieved 2 April 2021.-",
+                            "dates": {
+                                "Archieved": "2019-03-15",
+                                "Retrieved": "2021-04-02",
+                                "Created": "2018-11-29"
+                            }
+                        }
+                    ],
+                    "start_date": "13/06/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "23 June  The Liberal Party wins the Darling Range by-election, increasing its numbers in the Western Australian Legislative Assembly.",
+                    "links": [
+                        {
+                            "link": "http://www.abc.net.au/news/2018-06-23/darling-range-by-election-labor-tastes-defeat-as-liberals-win/9902556",
+                            "text": "-\"Darling Range by-election: Liberal Alyssa Hayden wins as Labor, Tania Lawrence concede defeat\". ABC News. 23 June 2018. Archived from the original on 25 June 2018. Retrieved 24 June 2018.-",
+                            "dates": {
+                                "Archieved": "2018-06-25",
+                                "Retrieved": "2018-06-24",
+                                "Created": "2018-06-23"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20180625055323/http://www.abc.net.au/news/2018-06-23/darling-range-by-election-labor-tastes-defeat-as-liberals-win/9902556",
+                            "text": "-\"Darling Range by-election: Liberal Alyssa Hayden wins as Labor, Tania Lawrence concede defeat\". ABC News. 23 June 2018. Archived from the original on 25 June 2018. Retrieved 24 June 2018.-",
+                            "dates": {
+                                "Archieved": "2018-06-25",
+                                "Retrieved": "2018-06-24",
+                                "Created": "2018-06-23"
+                            }
+                        }
+                    ],
+                    "start_date": "23/06/2018",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "July",
+            "Data": [
+                {
+                    "event_text": "1 July  The Australian Space Agency formally commences operation with Megan Clark as inaugural Head.",
+                    "links": [
+                        {
+                            "link": "https://www.canberratimes.com.au/canberra-news/canberra-to-be-first-home-of-australia-s-new-space-agency-20180503-p4zd23.html",
+                            "text": "-Burgess, Katie (14 May 2018). \"Canberra to be first home of Australia's new space agency\". Canberra Times. Archived from the original on 16 May 2018. Retrieved 16 May 2018.-",
+                            "dates": {
+                                "Archieved": "2018-05-16",
+                                "Retrieved": "2018-05-16",
+                                "Created": "2018-05-14"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20180516175119/https://www.canberratimes.com.au/canberra-news/canberra-to-be-first-home-of-australia-s-new-space-agency-20180503-p4zd23.html",
+                            "text": "-Burgess, Katie (14 May 2018). \"Canberra to be first home of Australia's new space agency\". Canberra Times. Archived from the original on 16 May 2018. Retrieved 16 May 2018.-",
+                            "dates": {
+                                "Archieved": "2018-05-16",
+                                "Retrieved": "2018-05-16",
+                                "Created": "2018-05-14"
+                            }
+                        }
+                    ],
+                    "start_date": "01/07/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "26 July  A proposed merger of Fairfax Media and Nine Entertainment Co is announced.",
+                    "links": [
+                        {
+                            "link": "http://www.abc.net.au/news/2018-07-26/nine-announces-fairfax-takeover/10037712",
+                            "text": "-Janda, Michael; Chalmers, Stephanie (26 July 2018). \"Fairfax to lose its name in $4 billion takeover by Nine\". ABC News. Archived from the original on 27 July 2018. Retrieved 27 July 2018.-",
+                            "dates": {
+                                "Archieved": "2018-07-27",
+                                "Retrieved": "2018-07-27",
+                                "Created": "2018-07-26"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20180727023831/http://www.abc.net.au/news/2018-07-26/nine-announces-fairfax-takeover/10037712",
+                            "text": "-Janda, Michael; Chalmers, Stephanie (26 July 2018). \"Fairfax to lose its name in $4 billion takeover by Nine\". ABC News. Archived from the original on 27 July 2018. Retrieved 27 July 2018.-",
+                            "dates": {
+                                "Archieved": "2018-07-27",
+                                "Retrieved": "2018-07-27",
+                                "Created": "2018-07-26"
+                            }
+                        }
+                    ],
+                    "start_date": "26/07/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "28 July  A \"Super Saturday\" of an unprecedented five simultaneous federal by-elections takes place. They are held in the divisions of Braddon, Fremantle, Longman, Mayo, and Perth, with no change to numbers in the House of Representatives.",
+                    "links": [],
+                    "start_date": "28/07/2018",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "August",
+            "Data": [
+                {
+                    "event_text": "5 August  Outgoing race discrimination commissioner Tim Soutphommasane slams the 'resurgence of far-right politics' in Australia.",
+                    "links": [
+                        {
+                            "link": "https://www.sbs.com.au/news/article/outgoing-race-discrimination-commissioner-slams-resurgence-of-far-right-politics/kr1mv13pg",
+                            "text": "-\"Outgoing race discrimination commissioner slams 'resurgence of far-right politics'\". SBS News. Archived from the original on 15 November 2022. Retrieved 15 November 2022.-",
+                            "dates": {
+                                "Archieved": "2022-11-15",
+                                "Retrieved": "2022-11-15",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20221115045233/https://www.sbs.com.au/news/article/outgoing-race-discrimination-commissioner-slams-resurgence-of-far-right-politics/kr1mv13pg",
+                            "text": "-\"Outgoing race discrimination commissioner slams 'resurgence of far-right politics'\". SBS News. Archived from the original on 15 November 2022. Retrieved 15 November 2022.-",
+                            "dates": {
+                                "Archieved": "2022-11-15",
+                                "Retrieved": "2022-11-15",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://www.smh.com.au/politics/federal/race-politics-is-back-and-the-far-right-are-loving-it-20180804-p4zvit.html",
+                            "text": "-\"Race politics is back – and the far-right are loving it\". 5 August 2018. Archived from the original on 8 August 2018. Retrieved 8 August 2018.-",
+                            "dates": {
+                                "Archieved": "2018-08-08",
+                                "Retrieved": "2018-08-08",
+                                "Created": "2018-08-05"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20180808172214/https://www.smh.com.au/politics/federal/race-politics-is-back-and-the-far-right-are-loving-it-20180804-p4zvit.html",
+                            "text": "-\"Race politics is back – and the far-right are loving it\". 5 August 2018. Archived from the original on 8 August 2018. Retrieved 8 August 2018.-",
+                            "dates": {
+                                "Archieved": "2018-08-08",
+                                "Retrieved": "2018-08-08",
+                                "Created": "2018-08-05"
+                            }
+                        }
+                    ],
+                    "start_date": "05/08/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "6 August  Sky News Australia is heavily criticised for providing a platform to Blair Cottrell, leader of the far-right, organisation United Patriots Front in a one-on-one discussion about immigration on The Adam Giles Show. Sky News presenters, including Laura Jayes and David Speers, were among those critical (both on-air and off-air) of his appearance on the program.\"",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/australia-news/2018/aug/06/sky-news-interview-far-right-blair-cottrell",
+                            "text": "-Meade, Amanda (6 August 2018). \"Sky News interview with far-right agitator Blair Cottrell sparks fury\". The Guardian. Retrieved 6 August 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-08-06",
+                                "Created": "2018-08-06"
+                            }
+                        },
+                        {
+                            "link": "http://www.abc.net.au/news/2018-08-06/sky-news-apologises-for-airing-interview-with-blair-cottrell/10076074",
+                            "text": "-\"Sky News admits it was 'wrong' to air interview with Blair Cottrell from United Patriots Front\". ABC News. 6 August 2018. Archived from the original on 6 August 2021. Retrieved 6 August 2021.-",
+                            "dates": {
+                                "Archieved": "2021-08-06",
+                                "Retrieved": "2021-08-06",
+                                "Created": "2018-08-06"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20210806152422/https://www.abc.net.au/news/2018-08-06/sky-news-apologises-for-airing-interview-with-blair-cottrell/10076074",
+                            "text": "-\"Sky News admits it was 'wrong' to air interview with Blair Cottrell from United Patriots Front\". ABC News. 6 August 2018. Archived from the original on 6 August 2021. Retrieved 6 August 2021.-",
+                            "dates": {
+                                "Archieved": "2021-08-06",
+                                "Retrieved": "2021-08-06",
+                                "Created": "2018-08-06"
+                            }
+                        }
+                    ],
+                    "start_date": "06/08/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "8 August  The New South Wales Government announces that the entire state is in drought.",
+                    "links": [],
+                    "start_date": "08/08/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "14 August  Senator Fraser Anning delivers his maiden speech to the Senate in what is described as \"the most inflammatory maiden speech to an Australian Parliament since One Nation leader Pauline Hanson's in 1996.\" In it, he calls for a plebiscite to reinstate White Australia policy, especially with regard to Muslims.",
+                    "links": [
+                        {
+                            "link": "https://www.smh.com.au/politics/federal/senator-honours-white-australia-policy-in-first-speech-and-calls-for-final-solution-on-immigration-20180814-p4zxhr.html",
+                            "text": "-Koziol, Michael (14 August 2018). \"Senator honours White Australia Policy in first speech and calls for 'final solution' on immigration\". The Sydney Morning Herald. Archived from the original on 14 August 2018. Retrieved 14 August 2018.-",
+                            "dates": {
+                                "Archieved": "2018-08-14",
+                                "Retrieved": "2018-08-14",
+                                "Created": "2018-08-14"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20180814104902/https://www.smh.com.au/politics/federal/senator-honours-white-australia-policy-in-first-speech-and-calls-for-final-solution-on-immigration-20180814-p4zxhr.html",
+                            "text": "-Koziol, Michael (14 August 2018). \"Senator honours White Australia Policy in first speech and calls for 'final solution' on immigration\". The Sydney Morning Herald. Archived from the original on 14 August 2018. Retrieved 14 August 2018.-",
+                            "dates": {
+                                "Archieved": "2018-08-14",
+                                "Retrieved": "2018-08-14",
+                                "Created": "2018-08-14"
+                            }
+                        },
+                        {
+                            "link": "http://parlview.aph.gov.au/mediaPlayer.php?videoID=410935",
+                            "text": "-\"Senate [Part 1] – 14/08/2018 11:54:59 – Parliament of Australia\". parlview.aph.gov.au. Archived from the original on 14 August 2018. Retrieved 14 August 2018.-",
+                            "dates": {
+                                "Archieved": "2018-08-14",
+                                "Retrieved": "2018-08-14",
+                                "Created": "2018-08-14"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20180814232558/http://parlview.aph.gov.au/mediaPlayer.php?videoID=410935",
+                            "text": "-\"Senate [Part 1] – 14/08/2018 11:54:59 – Parliament of Australia\". parlview.aph.gov.au. Archived from the original on 14 August 2018. Retrieved 14 August 2018.-",
+                            "dates": {
+                                "Archieved": "2018-08-14",
+                                "Retrieved": "2018-08-14",
+                                "Created": "2018-08-14"
+                            }
+                        }
+                    ],
+                    "start_date": "14/08/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "21 August  Prime Minister Malcolm Turnbull declares a leadership spill in the Liberal Party, following pressure from conservatives in the party. Turnbull is challenged by Peter Dutton, but wins the vote by 48 to 35 votes.",
+                    "links": [],
+                    "start_date": "21/08/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "24 August  The Liberal Party of Australia holds a second leadership spill. Malcolm Turnbull resigns as party leader, and Scott Morrison is elected as his replacement, becoming the 30th Prime Minister of Australia.",
+                    "links": [],
+                    "start_date": "24/08/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "31 August  Former Prime Minister Malcolm Turnbull resigns from parliament triggering a by-election in his seat of Wentworth.",
+                    "links": [
+                        {
+                            "link": "https://www.afr.com/news/politics/election/malcolm-turnbull-formally-resigns-forces-byelection-20180831-h14rte?",
+                            "text": "-Mizen, Ronald; Patrick, Aaron (31 August 2018). \"Malcolm Turnbull formally resigns, forces byelection\". Australian Financial Review. Archived from the original on 31 August 2018. Retrieved 5 September 2018.-",
+                            "dates": {
+                                "Archieved": "2018-08-31",
+                                "Retrieved": "2018-09-05",
+                                "Created": "2018-08-31"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20180831101658/https://www.afr.com/news/politics/election/malcolm-turnbull-formally-resigns-forces-byelection-20180831-h14rte",
+                            "text": "-Mizen, Ronald; Patrick, Aaron (31 August 2018). \"Malcolm Turnbull formally resigns, forces byelection\". Australian Financial Review. Archived from the original on 31 August 2018. Retrieved 5 September 2018.-",
+                            "dates": {
+                                "Archieved": "2018-08-31",
+                                "Retrieved": "2018-09-05",
+                                "Created": "2018-08-31"
+                            }
+                        }
+                    ],
+                    "start_date": "31/08/2018",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "September",
+            "Data": [
+                {
+                    "event_text": "2 September  Queensland Labor premier, Annastacia Palaszczuk cuts Katter's Australian Party parliamentary stuff numbers. Due to Fraser Anning immigration comments.",
+                    "links": [
+                        {
+                            "link": "https://www.sbs.com.au/news/article/premier-cuts-kap-staff-over-anning-speech/mspy2hpor",
+                            "text": "-\"Archived copy\". Archived from the original on 22 May 2024. Retrieved 22 May 2024.{{cite web}}:  CS1 maint: archived copy as title (link)-",
+                            "dates": {
+                                "Archieved": "2024-05-22",
+                                "Retrieved": "2024-05-22",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20240522061944/https://www.sbs.com.au/news/article/premier-cuts-kap-staff-over-anning-speech/mspy2hpor",
+                            "text": "-\"Archived copy\". Archived from the original on 22 May 2024. Retrieved 22 May 2024.{{cite web}}:  CS1 maint: archived copy as title (link)-",
+                            "dates": {
+                                "Archieved": "2024-05-22",
+                                "Retrieved": "2024-05-22",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://www.theguardian.com/australia-news/2018/sep/02/palaszczuk-cuts-katter-party-staff-over-fraser-anning-speech",
+                            "text": "-[1]-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://www.brisbanetimes.com.au/politics/queensland/want-to-poke-the-bear-go-ahead-katter-warns-over-staff-cuts-20180902-p501by.html",
+                            "text": "-\"Archived copy\". Archived from the original on 22 May 2024. Retrieved 22 May 2024.{{cite web}}:  CS1 maint: archived copy as title (link)-",
+                            "dates": {
+                                "Archieved": "2024-05-22",
+                                "Retrieved": "2024-05-22",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20240522061944/https://www.brisbanetimes.com.au/politics/queensland/want-to-poke-the-bear-go-ahead-katter-warns-over-staff-cuts-20180902-p501by.html",
+                            "text": "-\"Archived copy\". Archived from the original on 22 May 2024. Retrieved 22 May 2024.{{cite web}}:  CS1 maint: archived copy as title (link)-",
+                            "dates": {
+                                "Archieved": "2024-05-22",
+                                "Retrieved": "2024-05-22",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "02/09/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "8 September  A by-election was held in the Electoral district of Wagga Wagga left vacant by the resignation of Daryl Maguire.",
+                    "links": [],
+                    "start_date": "08/09/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "9 September  Western Australia Police find five bodies in a house in the Perth suburb of Bedford, the result of a suspected mass killing.",
+                    "links": [],
+                    "start_date": "09/09/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "15 September  The Queensland Government announces a $100,000 reward for information leading to an arrest of a person responsible for the contamination of strawberries using needles and pins, following several cases of contamination across Queensland, New South Wales and Victoria. The contamination later expanded to affect strawberries grown in Western Australia.",
+                    "links": [],
+                    "start_date": "15/09/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "16 September  Prime Minister Scott Morrison announces a Royal Commission into Aged Care Quality and Safety.",
+                    "links": [
+                        {
+                            "link": "https://www.pm.gov.au/media/royal-commission-aged-care-quality-and-safety",
+                            "text": "-\"Royal Commission into Aged Care Quality and Safety\" (Press release). Prime Minister of Australia. 16 September 2018. Archived from the original on 16 September 2018. Retrieved 16 September 2018.-",
+                            "dates": {
+                                "Archieved": "2018-09-16",
+                                "Retrieved": "2018-09-16",
+                                "Created": "2018-09-16"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20180916163955/https://www.pm.gov.au/media/royal-commission-aged-care-quality-and-safety",
+                            "text": "-\"Royal Commission into Aged Care Quality and Safety\" (Press release). Prime Minister of Australia. 16 September 2018. Archived from the original on 16 September 2018. Retrieved 16 September 2018.-",
+                            "dates": {
+                                "Archieved": "2018-09-16",
+                                "Retrieved": "2018-09-16",
+                                "Created": "2018-09-16"
+                            }
+                        }
+                    ],
+                    "start_date": "16/09/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "24 September  Michelle Guthrie is dismissed as managing director of the Australian Broadcasting Corporation by the ABC Board.",
+                    "links": [],
+                    "start_date": "24/09/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "27 September  Following the dismissal of Michelle Guthrie, ABC Board chairman Justin Milne resigns amid reports he had tried to influence ABC management to sack two senior journalists.",
+                    "links": [
+                        {
+                            "link": "http://www.abc.net.au/news/2018-09-27/abc-chairman-justin-milne-resigns/10311472",
+                            "text": "-\"Justin Milne resigns as ABC chairman amid growing fallout over Michelle Guthrie's sacking\". ABC News. 27 September 2018. Archived from the original on 27 September 2018. Retrieved 28 September 2018.-",
+                            "dates": {
+                                "Archieved": "2018-09-27",
+                                "Retrieved": "2018-09-28",
+                                "Created": "2018-09-27"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20180927232441/http://www.abc.net.au/news/2018-09-27/abc-chairman-justin-milne-resigns/10311472",
+                            "text": "-\"Justin Milne resigns as ABC chairman amid growing fallout over Michelle Guthrie's sacking\". ABC News. 27 September 2018. Archived from the original on 27 September 2018. Retrieved 28 September 2018.-",
+                            "dates": {
+                                "Archieved": "2018-09-27",
+                                "Retrieved": "2018-09-28",
+                                "Created": "2018-09-27"
+                            }
+                        }
+                    ],
+                    "start_date": "27/09/2018",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "October",
+            "Data": [
+                {
+                    "event_text": "One Nation leader Pauline Hanson proposes an \"It's OK to be white\" motion in the Australian Senate intended to acknowledge the \"deplorable rise of anti-white racism and attacks on Western civilization\". It was supported by most senators from the governing Liberal-National Coalition, but was defeated 3128 by opponents who called it a racist slogan from the white supremacist movement. The following day, the motion was \"recommitted\", and this time rejected unanimously by senators in attendance, with its initial supporters in the Liberal-National Coalition saying they had voted for it due to an administrative error (One Nation did not attend the recommital vote).",
+                    "links": [
+                        {
+                            "link": "https://www.smh.com.au/politics/federal/coalition-backs-pauline-hanson-s-it-s-ok-to-be-white-motion-20181015-p509tw.html",
+                            "text": "-Bourke, Latika (15 October 2018). \"Coalition backs Pauline Hanson's 'It's OK to be white' motion\". The Sydney Morning Herald. Archived from the original on 24 October 2019. Retrieved 15 October 2018.-",
+                            "dates": {
+                                "Archieved": "2019-10-24",
+                                "Retrieved": "2018-10-15",
+                                "Created": "2018-10-15"
+                            }
+                        },
+                        {
+                            "link": "https://archive.today/20191024215556/https://www.smh.com.au/politics/federal/coalition-backs-pauline-hanson-s-it-s-ok-to-be-white-motion-20181015-p509tw.html",
+                            "text": "-Bourke, Latika (15 October 2018). \"Coalition backs Pauline Hanson's 'It's OK to be white' motion\". The Sydney Morning Herald. Archived from the original on 24 October 2019. Retrieved 15 October 2018.-",
+                            "dates": {
+                                "Archieved": "2019-10-24",
+                                "Retrieved": "2018-10-15",
+                                "Created": "2018-10-15"
+                            }
+                        },
+                        {
+                            "link": "https://www.sbs.com.au/news/pauline-hanson-says-it-s-ok-to-be-white",
+                            "text": "-\"Pauline Hanson says 'it's OK to be white'\". SBS News. Australian Associated Press. 15 October 2018. Archived from the original on 17 October 2018. Retrieved 15 October 2018.-",
+                            "dates": {
+                                "Archieved": "2018-10-17",
+                                "Retrieved": "2018-10-15",
+                                "Created": "2018-10-15"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20181017022936/https://www.sbs.com.au/news/pauline-hanson-says-it-s-ok-to-be-white",
+                            "text": "-\"Pauline Hanson says 'it's OK to be white'\". SBS News. Australian Associated Press. 15 October 2018. Archived from the original on 17 October 2018. Retrieved 15 October 2018.-",
+                            "dates": {
+                                "Archieved": "2018-10-17",
+                                "Retrieved": "2018-10-15",
+                                "Created": "2018-10-15"
+                            }
+                        },
+                        {
+                            "link": "https://www.theguardian.com/australia-news/2018/oct/15/ok-to-be-white-australian-government-senators-condemn-anti-white-racism",
+                            "text": "-Karp, Paul (15 October 2018). \"'OK to be white': Australian government senators condemn 'anti-white racism'\". The Guardian. Archived from the original on 17 March 2019. Retrieved 15 October 2018.-",
+                            "dates": {
+                                "Archieved": "2019-03-17",
+                                "Retrieved": "2018-10-15",
+                                "Created": "2018-10-15"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20190317051341/https://www.theguardian.com/australia-news/2018/oct/15/ok-to-be-white-australian-government-senators-condemn-anti-white-racism",
+                            "text": "-Karp, Paul (15 October 2018). \"'OK to be white': Australian government senators condemn 'anti-white racism'\". The Guardian. Archived from the original on 17 March 2019. Retrieved 15 October 2018.-",
+                            "dates": {
+                                "Archieved": "2019-03-17",
+                                "Retrieved": "2018-10-15",
+                                "Created": "2018-10-15"
+                            }
+                        },
+                        {
+                            "link": "https://www.theguardian.com/australia-news/2018/oct/16/australian-senators-inadvertently-back-far-right-motion-saying-its-ok-to-be-white",
+                            "text": "-\"Australian senators say error led to backing far-right motion saying 'it's OK to be white'\". The Guardian. 16 October 2018. Archived from the original on 1 May 2019. Retrieved 16 October 2018.-",
+                            "dates": {
+                                "Archieved": "2019-05-01",
+                                "Retrieved": "2018-10-16",
+                                "Created": "2018-10-16"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20190501072106/https://www.theguardian.com/australia-news/2018/oct/16/australian-senators-inadvertently-back-far-right-motion-saying-its-ok-to-be-white",
+                            "text": "-\"Australian senators say error led to backing far-right motion saying 'it's OK to be white'\". The Guardian. 16 October 2018. Archived from the original on 1 May 2019. Retrieved 16 October 2018.-",
+                            "dates": {
+                                "Archieved": "2019-05-01",
+                                "Retrieved": "2018-10-16",
+                                "Created": "2018-10-16"
+                            }
+                        }
+                    ],
+                    "start_date": "15/10/2018",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "November",
+            "Data": [
+                {
+                    "event_text": "9 November  Hassan Khalif Shire Ali sets his car on fire and attacks passers-by with a knife in Bourke Street, Melbourne, before he is shot and killed by police. Sisto Malaspina, co-owner of Pellegrini's Espresso Bar, was killed in the attack.",
+                    "links": [],
+                    "start_date": "09/11/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Bali Nine drug smuggler Renae Lawrence returns to Australia after spending 13 years in prison, following her arrest in Indonesia in 2005.",
+                    "links": [],
+                    "start_date": "22/11/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A retrial finds David Eastman, who had spent 19 years in jail, not guilty of the Canberra 1989 murder of Assistant Australian Federal Police Commissioner Colin Winchester.",
+                    "links": [
+                        {
+                            "link": "https://www.abc.net.au/news/2018-11-22/david-eastman-found-not-guilty-of-murdering-top-act-cop/10511292",
+                            "text": "-Byrne, Elizabeth (22 November 2018). \"David Eastman found not guilty of murdering senior AFP officer nearly three decades ago\". ABC News. Archived from the original on 22 November 2018. Retrieved 22 November 2018.-",
+                            "dates": {
+                                "Archieved": "2018-11-22",
+                                "Retrieved": "2018-11-22",
+                                "Created": "2018-11-22"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20181122035604/https://www.abc.net.au/news/2018-11-22/david-eastman-found-not-guilty-of-murdering-top-act-cop/10511292",
+                            "text": "-Byrne, Elizabeth (22 November 2018). \"David Eastman found not guilty of murdering senior AFP officer nearly three decades ago\". ABC News. Archived from the original on 22 November 2018. Retrieved 22 November 2018.-",
+                            "dates": {
+                                "Archieved": "2018-11-22",
+                                "Retrieved": "2018-11-22",
+                                "Created": "2018-11-22"
+                            }
+                        }
+                    ],
+                    "start_date": "22/11/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "24 November  The Labor Party led by Daniel Andrews wins a second term of government with an increased majority at the 2018 Victorian state election.",
+                    "links": [
+                        {
+                            "link": "https://www.abc.net.au/news/2018-11-24/victorian-election-result-shows-labor-win/10551902",
+                            "text": "-\"Victorian election result a Labor landslide with big swings in Melbourne's east\". ABC News. 25 November 2018. Archived from the original on 22 May 2019. Retrieved 25 November 2018.-",
+                            "dates": {
+                                "Archieved": "2019-05-22",
+                                "Retrieved": "2018-11-25",
+                                "Created": "2018-11-25"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20190522185825/https://www.abc.net.au/news/2018-11-24/victorian-election-result-shows-labor-win/10551902",
+                            "text": "-\"Victorian election result a Labor landslide with big swings in Melbourne's east\". ABC News. 25 November 2018. Archived from the original on 22 May 2019. Retrieved 25 November 2018.-",
+                            "dates": {
+                                "Archieved": "2019-05-22",
+                                "Retrieved": "2018-11-25",
+                                "Created": "2018-11-25"
+                            }
+                        }
+                    ],
+                    "start_date": "24/11/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "27 to 29 November  Residents of several towns in Central Queensland are urged to evacuate as the region is hit by bushfires, with two homes destroyed.",
+                    "links": [],
+                    "start_date": "29/11/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "28 November  Two people die during storms that hit Sydney and the Illawarra region, delivering a month's worth of rain in a few hours.",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/australia-news/2018/nov/28/sydney-storm-flooding-weather-chaos-commuters",
+                            "text": "-\"Sydney weather: second person dies as flooding causes chaos across region\". The Guardian. 28 November 2018. Retrieved 3 January 2019.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2019-01-03",
+                                "Created": "2018-11-28"
+                            }
+                        }
+                    ],
+                    "start_date": "28/11/2018",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "December",
+            "Data": [
+                {
+                    "event_text": "15 December  Australia officially recognizes West Jerusalem as the capital of Israel. The move is seen as controversial and bizarre by some as only partially recognizing Jerusalem is deemed unlikely to please either the Israelis or Palestinians entirely.",
+                    "links": [
+                        {
+                            "link": "https://www.cbsnews.com/news/australia-recognizes-west-jerusalem-as-the-capital-of-israel/",
+                            "text": "-\"Australia recognizes west Jerusalem as the capital of Israel\". CBS News. Archived from the original on 16 December 2018. Retrieved 16 December 2018.-",
+                            "dates": {
+                                "Archieved": "2018-12-16",
+                                "Retrieved": "2018-12-16",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20181216011904/https://www.cbsnews.com/news/australia-recognizes-west-jerusalem-as-the-capital-of-israel/",
+                            "text": "-\"Australia recognizes west Jerusalem as the capital of Israel\". CBS News. Archived from the original on 16 December 2018. Retrieved 16 December 2018.-",
+                            "dates": {
+                                "Archieved": "2018-12-16",
+                                "Retrieved": "2018-12-16",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "15/12/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "24 December  Thousands of residents of an apartment block in Sydney Olympic Park are forced to evacuate following structural concerns and fears the 36-storey building could collapse.",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/australia-news/2018/dec/24/police-operation-in-sydney-olympic-park-after-cracking-heard-in-apartment-tower",
+                            "text": "-\"Sydney Olympic Park: Opal Tower and surrounds evacuated after 'cracking' sounds\". The Guardian. 24 December 2018. Retrieved 3 January 2019.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2019-01-03",
+                                "Created": "2018-12-24"
+                            }
+                        }
+                    ],
+                    "start_date": "24/12/2018",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "24 January   2021 Portuguese presidential election.",
+                    "links": [
+                        {
+                            "link": "https://www.electionguide.org/elections/id/2901/",
+                            "text": "-\"Election guide. Portuguese Republic. Election for President\". electionguide.org. Retrieved 5 January 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-01-05",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "24/01/2021",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "19 April  Thousands march in Lisbon against a proposed ban of Portuguese far-right party Chega.",
+                    "links": [
+                        {
+                            "link": "https://www.macaubusiness.com/thousands-march-against-proposed-ban-of-portuguese-far-right-party/",
+                            "text": "-\"Thousands march against proposed ban of Portuguese far-right party\". 19 April 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2021-04-19"
+                            }
+                        }
+                    ],
+                    "start_date": "19/04/2021",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

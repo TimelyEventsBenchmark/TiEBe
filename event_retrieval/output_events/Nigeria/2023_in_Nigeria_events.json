@@ -1,0 +1,438 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "25 January  At least 27 herders are killed, and several others are injured, when a bomb explodes in Nasarawa State. Some herders say it was caused by an airstrike.",
+                    "links": [
+                        {
+                            "link": "https://www.news24.com/news24/africa/news/bomb-kills-27-herders-in-central-nigeria-police-20230125",
+                            "text": "-\"Bomb kills 27 herders in central Nigeria: police\". News24. Retrieved 2023-01-26.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-01-26",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "25/01/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "29 January  At least nine people are killed when a container falls from a truck onto a commercial bus in Lagos.",
+                    "links": [
+                        {
+                            "link": "https://editor.guardian.ng/news/container-falls-off-truck-in-lagos-crushes-9-passengers-to-death/",
+                            "text": "-\"Container falls off truck in Lagos, crushes 9 passengers to death\". The Guardian Nigeria News - Nigeria and World News. 2023-01-29. Retrieved 2023-01-30.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-01-30",
+                                "Created": "2023-01-29"
+                            }
+                        }
+                    ],
+                    "start_date": "29/01/2023",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "4 February-ongoing  2023 Nigerian protests begin began due to the naira, and protests due to the election.",
+                    "links": [
+                        {
+                            "link": "https://www.voanews.com/a/nigerian-authorities-call-for-calm-as-citizens-protest-cash-fuel-shortages/6948012.html",
+                            "text": "-\"Nigerian Authorities Call For Calm as Citizens Protest Cash, Fuel Shortages\". VOA. 4 February 2023. Retrieved 2023-02-27.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-02-04",
+                                "Created": "2023-02-27"
+                            }
+                        }
+                    ],
+                    "start_date": "04/02/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "25 February  2023 Nigerian general election - Nigerians elect a new president and members of their National Assembly.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/africa/nigerians-vote-election-hoping-better-economic-times-2023-02-25/",
+                            "text": "-Igboereteonwu, Anamasere (2023-02-25). \"Nigerians vote for new president, delays seen at some polling stations\". Reuters. Retrieved 2023-02-25.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-02-25",
+                                "Created": "2023-02-25"
+                            }
+                        }
+                    ],
+                    "start_date": "25/02/2023",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "3 March  Sixteen people are killed when a pipeline explodes in Emohua, Rivers State.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/nigeria-oil-refinery-theft-explosion-c2bb9dbe398db7f802c3526c2440cf07",
+                            "text": "-\"Police: Illegal refinery blast in Nigeria kills at least 12\". AP NEWS. 2023-03-03. Retrieved 2023-03-03.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-03-03",
+                                "Created": "2023-03-03"
+                            }
+                        }
+                    ],
+                    "start_date": "03/03/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "9 March  Six people are killed and at least 25 others injured when a train collides with a public bus in Lagos.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/africa/train-rams-into-public-bus-nigerias-lagos-killing-six-2023-03-09/",
+                            "text": "-\"Train rams into public bus in Nigeria's Lagos, killing six\". Reuters. 2023-03-09. Retrieved 2023-03-09.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-03-09",
+                                "Created": "2023-03-09"
+                            }
+                        }
+                    ],
+                    "start_date": "09/03/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "11 March  Herderfarmer conflicts in Nigeria Sixteen people are killed by Fula gunmen at a police checkpoint in Zangon Kataf, Kaduna State.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/nigeria-gunmen-violence-killings-5607147295fb5e2b4584d70c0c8e61ec",
+                            "text": "-\"Government: Gunmen in north Nigeria kill at least 16 people\". AP NEWS. 2023-03-12. Retrieved 2023-03-13.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-03-13",
+                                "Created": "2023-03-12"
+                            }
+                        }
+                    ],
+                    "start_date": "11/03/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "18 March  2023 Nigerian gubernatorial and state of assembly election are held.",
+                    "links": [],
+                    "start_date": "18/03/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "1516 March  At least 100 people are killed in Mangu LGA, Plateau State.",
+                    "links": [],
+                    "start_date": "16/03/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "16 March  An ambush kills four members of a United States convoy in Anambra State.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-africa-65620595",
+                            "text": "-\"Nigeria ambush: Four killed in attack on US convoy in Anambra\". BBC News. 2023-05-17. Retrieved 2023-05-17.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-05-17",
+                                "Created": "2023-05-17"
+                            }
+                        }
+                    ],
+                    "start_date": "16/03/2023",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "May",
+            "Data": [
+                {
+                    "event_text": "Hilda Baci breaks the world record for the longest cooking marathon by an individual, cooking for 93 hours and 11 minutes from  to , 2023. She surpassed the previous record of 87 hours and 45 minutes.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-africa-65575715",
+                            "text": "-\"Hilda Baci sets Guinness World Record for longest cooking marathon\". BBC News. 2023-05-15. Retrieved 2023-05-15.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-05-15",
+                                "Created": "2023-05-15"
+                            }
+                        },
+                        {
+                            "link": "https://www.theguardian.com/world/2023/may/11/hilda-baci-breaks-cooking-marathon-record",
+                            "text": "-\"Hilda Baci breaks cooking marathon record\". The Guardian. 2023-05-11. Retrieved 2023-05-11.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-05-11",
+                                "Created": "2023-05-11"
+                            }
+                        }
+                    ],
+                    "start_date": "11/05/2023",
+                    "end_date": "15/05/2023"
+                }
+            ]
+        },
+        {
+            "Month": "June",
+            "Data": [
+                {
+                    "event_text": "13 June  Kwara boat disaster At least 100 people are killed when a wedding boat capsizes on the Niger River in Kwara State.",
+                    "links": [
+                        {
+                            "link": "https://news.sky.com/story/nigeria-at-least-100-people-killed-after-boat-capsizes-12901819",
+                            "text": "-\"Nigeria: At least 100 people killed after boat capsizes\". Sky News. Retrieved 2023-06-15.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-06-15",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "13/06/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "7 July  Health officers confirm an outbreak of diphtheria in the capital Abuja following the death of a four-year-old. According to NCDC, nearly 800 cases of the disease have been confirmed in the country as of 30 June.",
+                    "links": [
+                        {
+                            "link": "https://edition.cnn.com/2023/07/07/africa/nigeria-confirms-diphtheria-outbreak-intl/index.html",
+                            "text": "-\"Nigeria confirms diphtheria outbreak as 4 year old patient dies\". CNN. 7 July 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2023-07-07"
+                            }
+                        }
+                    ],
+                    "start_date": "30/06/2023",
+                    "end_date": "07/07/2023"
+                }
+            ]
+        },
+        {
+            "Month": "September",
+            "Data": [
+                {
+                    "event_text": "4 September  The 13-kilometre-long (8.1-mile) Lagos Rail Mass Transit Blue Line rapid transit system begins service in Lagos, after being delayed since 1983.",
+                    "links": [
+                        {
+                            "link": "https://www.aljazeera.com/news/2023/9/4/metro-rail-service-starts-in-nigerias-lagos-set-to-ease-traffic",
+                            "text": "-\"Metro rail service starts in Nigeria's Lagos, set to ease traffic\". www.aljazeera.com. Retrieved 2023-09-05.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-09-05",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "04/09/2023",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "October",
+            "Data": [
+                {
+                    "event_text": "2 October  At least 18 people are killed in an explosion at an illegal oil refinery in Emohua district, Rivers State.",
+                    "links": [
+                        {
+                            "link": "https://www.aljazeera.com/news/2023/10/3/several-killed-in-blast-at-illegal-oil-refinery-in-nigeria-report",
+                            "text": "-\"At least 18 killed in blast at illegal oil refinery in Nigeria: Report\". www.aljazeera.com. Retrieved 2023-10-21.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-10-21",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "02/10/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "20 October  Two children were killed and two others injured when a mechanical issue causes a boat engine to catch fire. The incident occurred Katcha, Niger State.",
+                    "links": [
+                        {
+                            "link": "https://www.vanguardngr.com/2023/10/boat-mishap-claims-lives-of-2-children-in-niger/amp/",
+                            "text": "-\"Boat mishap claims lives of 2 children in Niger\". Vanguard News. 21 October 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2023-10-21"
+                            }
+                        },
+                        {
+                            "link": "https://punchng.com/two-children-die-others-injured-in-niger-boat-fire/",
+                            "text": "-Agbana, Rotimi (2023-10-21). \"Two children die, others injured in Niger boat fire\". Punch Newspapers. Retrieved 2023-10-21.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-10-21",
+                                "Created": "2023-10-21"
+                            }
+                        }
+                    ],
+                    "start_date": "20/10/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "29 October  Seventeen bodies are found, and 73 other people were missing when a boat carrying traders returning from a fish market capsizes on the Benue River. The boat had over 100 passengers on board, 14 of whom are rescued.",
+                    "links": [
+                        {
+                            "link": "https://www.foxnews.com/world/73-missing-boat-capsizes-northern-nigeria.amp",
+                            "text": "-\"73 missing after boat capsizes in northern Nigeria | Fox News\". www.foxnews.com. Retrieved 2023-11-02.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-11-02",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "29/10/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "30 October  2023 Yobe State attacks At least seventeen people are killed in Gurokayeya, Yobe State when Boko Haram-aligned gunmen storm the village, attacking residents with explosives and firearms when they reportedly refuse to a pay a tax to the terrorists.",
+                    "links": [
+                        {
+                            "link": "http://www.africanews.com/amp/2023/11/01/nigeria-17-dead-in-jihadist-attack/",
+                            "text": "-\"Africanews | Nigeria: 17 dead in jihadist attack\". Africanews. 2023-11-01. Retrieved 2023-11-02.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-11-02",
+                                "Created": "2023-11-01"
+                            }
+                        },
+                        {
+                            "link": "https://www.reuters.com/world/africa/suspected-boko-haram-kills-least-40-nigerias-yobe-state-police-2023-11-01/",
+                            "text": "-\"Suspected Boko Haram kills at least 40 in Nigeria's Yobe state, police say\". Reuters. 2023-11-01. Retrieved 2023-11-02.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-11-02",
+                                "Created": "2023-11-01"
+                            }
+                        }
+                    ],
+                    "start_date": "30/10/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "31 October  At least 20 people are killed when a land mine placed by Boko Haram explodes while they return from the burials of victims from the previous day's shooting.",
+                    "links": [
+                        {
+                            "link": "https://www.voanews.com/amp/boko-haram-suspected-in-attacks-that-kill-at-least-40-in-nigeria-police-say/7337624.html",
+                            "text": "-\"Boko Haram Suspected in Attacks That Kill at Least 40 in Nigeria, Police Say\". Voice of America. Retrieved 2023-11-02.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-11-02",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://abcnews.go.com/International/wireStory/extremists-kill-37-villagers-latest-attack-nigerias-hard-104558304",
+                            "text": "-\"Extremists kill 37 villagers in latest attack in Nigeria's hard-hit northeast\". ABC News. Retrieved 2023-11-02.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-11-02",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "31/10/2023",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "November",
+            "Data": [
+                {
+                    "event_text": "6 November  Two people are killed and two others injured when a tanker explodes outside the High Commission of Canada in Abuja.",
+                    "links": [
+                        {
+                            "link": "https://crisis24.garda.com/alerts/2023/11/nigeria-fire-reported-at-high-commission-of-canada-in-abuja-nov-6",
+                            "text": "-\"Nigeria: Fire reported at High Commission of Canada in Abuja Nov. 6\". Nigeria: Fire reported at High Commission of Canada in Abuja Nov. 6 | Crisis24. Retrieved 2023-11-06.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-11-06",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "06/11/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "21 November  At least 25 people are killed and about 200 were injured in a vehicle crash on the Yawuri Expressway in Magama, Niger State.",
+                    "links": [
+                        {
+                            "link": "https://www.vanguardngr.com/2023/11/17-die-208-injured-as-articulated-vehicle-crashes-in-niger/amp/",
+                            "text": "-\"17 die, 208 injured as articulated vehicle crashes in Niger\". Vanguard. 22 November 2023. Retrieved 22 November 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-11-22",
+                                "Created": "2023-11-22"
+                            }
+                        },
+                        {
+                            "link": "http://www.africanews.com/amp/2023/11/23/25-killed-when-truck-overloaded-with-food-items-and-people-crashes-in-nigerias-north/",
+                            "text": "-\"Africanews | 25 killed when truck overloaded with food items and people crashes in Nigeria's north\". Africanews. 2023-11-23. Retrieved 2023-11-23.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-11-23",
+                                "Created": "2023-11-23"
+                            }
+                        }
+                    ],
+                    "start_date": "21/11/2023",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "December",
+            "Data": [
+                {
+                    "event_text": "3 December  Tudun Biri drone strike A drone strike on a village in Kaduna State mistakenly kills 85 civilians.",
+                    "links": [],
+                    "start_date": "03/12/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "13 December  Four soldiers and two civilian drivers are killed and two South Korean workers are kidnapped in an ambush against a convoy in Rivers State.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/africa/gunmen-kill-four-soldiers-kidnap-two-s-korean-workers-nigeria-oil-region-2023-12-13/",
+                            "text": "-\"Gunmen kill four soldiers in Nigeria\". Reuters.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "13/12/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "2325 December - Nigerian bandit conflict 2023 Plateau State massacres",
+                    "links": [],
+                    "start_date": "25/12/2023",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

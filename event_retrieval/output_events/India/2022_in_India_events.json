@@ -1,0 +1,1655 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "8 Jan  The Election Commission of India announces the dates for 2022 Legislative Assembly Elections for 5 states. In Uttar Pradesh it will begin on '10 February', in the states of Uttarakhand, Goa and Punjab it will start on 14 February and in Manipur the polling starts 27 February.",
+                    "links": [],
+                    "start_date": "10/02/2022",
+                    "end_date": "14/02/2022"
+                },
+                {
+                    "event_text": "13 Jan  Maynaguri train accident - A train derailed between New Maynaguri Railway Station and New Domohani Railway Station due to some glitch in locomotive engine, around 500 PM in Jalpaiguri district in West Bengal. At least nine people are killed.",
+                    "links": [],
+                    "start_date": "10/02/2022",
+                    "end_date": "14/02/2022"
+                },
+                {
+                    "event_text": "Tableau's of non Bharatiya Janata Party ruling states like Kerala, Tamil Nadu, West Bengal and Odisha gets rejected by Ministry of Defence from taking part in Republic Day parade sparking controversy.",
+                    "links": [
+                        {
+                            "link": "https://www.indiatoday.in/india/story/after-bengal-kerala-and-tamil-nadu-now-centre-rejects-odisha-s-republic-day-tableau-1902245-2022-01-20",
+                            "text": "-Suffian, Mohammad (20 January 2022). \"After Bengal, Kerala and Tamil Nadu, now Centre rejects Odisha's Republic Day tableau\". India Today. Retrieved 27 January 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-01-27",
+                                "Created": "2022-01-20"
+                            }
+                        }
+                    ],
+                    "start_date": "10/02/2022",
+                    "end_date": "14/02/2022"
+                },
+                {
+                    "event_text": "21 Jan  Amar Jawan Jyoti which was continuously burning since last fifty years at India Gate in commemoration of Indo-Pakistani War of 1971 was mergered with the eternal flame at the National War Memorial as part of ongoing Central Vista Redevelopment Project. On 21 , the older flame was merged with the newer one at National War Memorial.",
+                    "links": [
+                        {
+                            "link": "https://www.indiatoday.in/india/story/amar-jawan-jyoti-merge-eternal-flame-national-war-memorial-1902865-2022-01-21",
+                            "text": "-\"Amar Jawan Jyoti merged with Eternal Flame at National War Memorial in New Delhi\". India Today.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "21/01/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "25 Jan - Murder of Kishan Bharvad",
+                    "links": [],
+                    "start_date": "21/01/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "7 February - Central Bureau of Investigation booked a case against ABG Shipyard, a Gujarat based company for carrying out the biggest loan frauds in history of the country. The company defrauded nearly 28 banks for loans that's worth more than 22,000 crores.",
+                    "links": [
+                        {
+                            "link": "https://indianexpress.com/article/india/gujarat-shipbuilding-firm-booked-for-rs-22000-crore-loan-fraud-cbi-7769979/",
+                            "text": "-\"Gujarat shipbuilding firm booked for Rs 22,000 crore loan fraud: CBI\". The Indian Express. 13 February 2022. Retrieved 28 March 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-03-28",
+                                "Created": "2022-02-13"
+                            }
+                        }
+                    ],
+                    "start_date": "07/02/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "14 February - 2022 Karnataka hijab row The high court's interim order was implemented in all schools and colleges across Karnataka, with students, and in some cases teachers, being asked to remove hijabs and burqas outside the school gates.",
+                    "links": [],
+                    "start_date": "14/02/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "420 February - India at the 2022 Winter Olympics, Arif Khan was the flag bearer in the opening ceremony.",
+                    "links": [
+                        {
+                            "link": "https://indianexpress.com/article/sports/sport-others/india-moment-at-winter-olympics-opening-skier-arif-khan-leads-contingent-out-7757167/",
+                            "text": "-\"Flag bearer at the winter games\". indianexpress.com. 15 March 2022. Retrieved 4 February 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-02-04",
+                                "Created": "2022-03-15"
+                            }
+                        }
+                    ],
+                    "start_date": "20/02/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "6 March - 2022 Srinagar bombing",
+                    "links": [],
+                    "start_date": "06/03/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "9 March - India accidentally fired a BrahMos missile originating from Sirsa, Haryana that crashed into Mian Channu, Khanewal District, Punjab, Pakistan. - IndiaPakistan missile incident",
+                    "links": [],
+                    "start_date": "09/03/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "10 March - The legislative assembly elections held in five states - BJP won by beating the incumbency in Uttar Pradesh, Uttarakhand, Goa, Manipur. Where as in Punjab AAP registered a decisive victory over ruling Indian National Congress.",
+                    "links": [],
+                    "start_date": "10/03/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "11 March - Movie based on Persecution of Hindus in Kashmir Valley - The Kashmir Files released, declared tax free by several state governments.",
+                    "links": [
+                        {
+                            "link": "https://www.hindustantimes.com/india-news/the-kashmir-files-list-of-states-which-have-declared-the-film-taxfree-101647344856004.html",
+                            "text": "-\"'The Kashmir Files': List of states which have declared the film tax-free\". Hindustan Times. 15 March 2022. Retrieved 2 July 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-07-02",
+                                "Created": "2022-03-15"
+                            }
+                        }
+                    ],
+                    "start_date": "11/03/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "15 March - The Karnataka High Court upheld the Ban on hijabs in schools in the state of Karnataka (following the 2022 Karnataka hijab row)  stating that the hijab is not an essential religious practice.",
+                    "links": [
+                        {
+                            "link": "https://www.siasat.com/live-updates-karnataka-hc-to-pronounce-verdict-on-hijab-row-2290825/",
+                            "text": "-\"LIVE updates: Karnataka HC upholds Hijab ban\". The Siasat Daily. 15 March 2022. Retrieved 15 March 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-03-15",
+                                "Created": "2022-03-15"
+                            }
+                        },
+                        {
+                            "link": "https://www.news18.com/news/india/hijab-row-handbook-with-hc-verdict-news18-looks-back-at-and-beyond-the-window-dressing-of-the-issue-4874978.html",
+                            "text": "-\"Hijab Row Handbook: With HC Verdict, News18 Looks Back at And Beyond The Window Dressing of The Issue\". News18. 15 March 2022. Retrieved 15 March 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-03-15",
+                                "Created": "2022-03-15"
+                            }
+                        },
+                        {
+                            "link": "https://www.theguardian.com/world/2022/mar/15/india-court-in-karnataka-upholds-ban-on-hijabs-in-colleges",
+                            "text": "-\"India court in Karnataka upholds ban on hijabs in colleges\". TheGuardian.com. 15 March 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2022-03-15"
+                            }
+                        },
+                        {
+                            "link": "https://www.aljazeera.com/news/2022/3/15/india-court-upholds-karnataka-states-ban-on-hijab-in-class",
+                            "text": "-\"India court upholds Karnataka state's ban on hijab in class\".-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "15/03/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "21 March - Eight people burned to death in Birbhum district, West Bengal following the murder of a Trinamool Congress politician.",
+                    "links": [
+                        {
+                            "link": "https://www.thehindu.com/news/national/other-states/birbhum-deaths-cbi-takes-over-probe-after-calcutta-high-court-order/article65258419.ece",
+                            "text": "-Singh, Shiv Sahay (25 March 2022). \"Birbhum deaths | CBI takes over probe after Calcutta High Court order\". The Hindu. ISSN 0971-751X. Retrieved 26 March 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-03-26",
+                                "Created": "2022-03-25"
+                            }
+                        },
+                        {
+                            "link": "https://search.worldcat.org/issn/0971-751X",
+                            "text": "-Singh, Shiv Sahay (25 March 2022). \"Birbhum deaths | CBI takes over probe after Calcutta High Court order\". The Hindu. ISSN 0971-751X. Retrieved 26 March 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-03-26",
+                                "Created": "2022-03-25"
+                            }
+                        }
+                    ],
+                    "start_date": "21/03/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "Trikut cable car accident",
+                    "links": [],
+                    "start_date": "10/04/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Indian communal violence",
+                    "links": [],
+                    "start_date": "10/04/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "20 April - Assam Police arrests Jignesh Mevani a Member of the Legislative Assembly from Gujarat at Banaskantha district following Defamatory Tweet posted by him against Narendra Modi.",
+                    "links": [
+                        {
+                            "link": "https://indianexpress.com/article/cities/gandhinagar/gujarat-mla-jignesh-mevani-arrest-assam-police-congress-7879504/",
+                            "text": "-\"Assam police arrest Mevani from Gujarat after complaint over tweet\". The Indian Express. 22 April 2022. Retrieved 2 May 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-05-02",
+                                "Created": "2022-04-22"
+                            }
+                        }
+                    ],
+                    "start_date": "20/04/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "27 April - Nearly eleven people died of high voltage electrocution at Kallimedu, Thanjavur district when a temple chariot came in contact with Overhead power line.",
+                    "links": [
+                        {
+                            "link": "https://www.thehindu.com/news/national/tamil-nadu/11-die-in-high-voltage-electrocution-during-procession-near-thanjavur/article65359082.ece",
+                            "text": "-Venkatasubramanian, V. (27 April 2022). \"11 die of high-voltage electrocution during a procession near Thanjavur\". The Hindu. ISSN 0971-751X. Retrieved 2 May 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-05-02",
+                                "Created": "2022-04-27"
+                            }
+                        },
+                        {
+                            "link": "https://search.worldcat.org/issn/0971-751X",
+                            "text": "-Venkatasubramanian, V. (27 April 2022). \"11 die of high-voltage electrocution during a procession near Thanjavur\". The Hindu. ISSN 0971-751X. Retrieved 2 May 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-05-02",
+                                "Created": "2022-04-27"
+                            }
+                        }
+                    ],
+                    "start_date": "27/04/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "May",
+            "Data": [
+                {
+                    "event_text": "13 May - 2022 Delhi fire",
+                    "links": [],
+                    "start_date": "13/05/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "16 May - Kapil Sibal quits Indian National Congress following differences that he and other G -23 members had with party leadership.",
+                    "links": [
+                        {
+                            "link": "https://www.thehindu.com/news/national/kapil-sibal-files-rajya-sabha-nomination-as-independent-candidate-backed-by-samajwadi-party-says-he-quit-congress-on-may-16/article65459553.ece",
+                            "text": "-Phukan, Sandeep (25 May 2022). \"Kapil Sibal quits Congress, to fight Rajya Sabha polls with SP support\". The Hindu. ISSN 0971-751X. Retrieved 27 August 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-08-27",
+                                "Created": "2022-05-25"
+                            }
+                        },
+                        {
+                            "link": "https://search.worldcat.org/issn/0971-751X",
+                            "text": "-Phukan, Sandeep (25 May 2022). \"Kapil Sibal quits Congress, to fight Rajya Sabha polls with SP support\". The Hindu. ISSN 0971-751X. Retrieved 27 August 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-08-27",
+                                "Created": "2022-05-25"
+                            }
+                        }
+                    ],
+                    "start_date": "16/05/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "19 May - Nikhat Zareen won the gold medal in the 52 kg category at the 2022 IBA Women's World Boxing Championships defeating Thailand's Jitpong Jutamas in the flyweight final in Istanbul, Turkey. She became the fifth Indian women's boxer to win a gold medal at the World Championships, joining Mary Kom, Laishram Sarita Devi, Jenny R. L., and Lekha K. C.",
+                    "links": [],
+                    "start_date": "19/05/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "25 May - 2022 Assam floods.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/india/floods-kill-25-indias-assam-displace-thousands-2022-05-24/",
+                            "text": "-\"Floods kill 25 in India's Assam, displace thousands\". Reuters. Reuters. 24 May 2022. Retrieved 3 June 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-06-03",
+                                "Created": "2022-05-24"
+                            }
+                        }
+                    ],
+                    "start_date": "25/05/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "27 May - 2022 Muhammad remarks controversy",
+                    "links": [],
+                    "start_date": "27/05/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "29 May - Popular Punjabi Singer Sidhu Moosewala shot dead in Jawaharke, Punjab.",
+                    "links": [],
+                    "start_date": "29/05/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "June",
+            "Data": [
+                {
+                    "event_text": "4 June - Hapur chemical plant explosion",
+                    "links": [],
+                    "start_date": "04/06/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "10 June - Chairman of Ceylon Electricity Board made revelations that Prime Minister of India Narendra Modi pressurized Sri Lanka for handing over a 500 MW Wind power project in Mannar District to Adani Green Energy.",
+                    "links": [
+                        {
+                            "link": "https://www.ndtv.com/india-news/sri-lanka-adani-row-energy-official-quits-after-alleging-link-to-pm-narendra-modi-3063344",
+                            "text": "-\"Sri Lanka Adani Row: Official Quits After Alleging Link To PM Modi\". NDTV.com. Retrieved 5 July 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-07-05",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "10/06/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "13 June - Enforcement Directorate summons and questioned Rahul Gandhi on National Herald corruption case. Protests by Indian National Congress in Delhi around 400 workers detained.",
+                    "links": [
+                        {
+                            "link": "https://www.indiatoday.in/india/story/congress-leader-rahul-gandhi-ed-summons-money-laundering-case-national-herald-protests-1962019-2022-06-13",
+                            "text": "-\"10 hours of questions, drama and fresh summons: Rahul Gandhi's date with ED\". India Today. 13 June 2022. Retrieved 2 July 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-07-02",
+                                "Created": "2022-06-13"
+                            }
+                        }
+                    ],
+                    "start_date": "13/06/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "14 June - India's first private train under the Bharat Gaurav scheme is launched at Southern Railway zone between Coimbatore and Shirdi. This train is operated by South Star Rail based in Tamil Nadu.",
+                    "links": [
+                        {
+                            "link": "https://indianexpress.com/article/trending/trending-in-india/indian-railways-launches-first-private-rail-service-welcomes-passengers-with-colourful-folk-performances-7971465/",
+                            "text": "-\"Indian Railways launches first private rail service, welcomes passengers with colourful folk performances\". The Indian Express. 16 June 2022. Retrieved 21 June 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-06-21",
+                                "Created": "2022-06-16"
+                            }
+                        },
+                        {
+                            "link": "https://www.thenewsminute.com/article/first-private-train-india-flagged-coimbatore-details-164971",
+                            "text": "-\"First private train in India flagged off from Coimbatore: Details\". The News Minute. 15 June 2022. Retrieved 21 June 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-06-21",
+                                "Created": "2022-06-15"
+                            }
+                        }
+                    ],
+                    "start_date": "14/06/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "16 June - Protests across the country against Agnipath Scheme announced by Government of India.",
+                    "links": [
+                        {
+                            "link": "https://www.outlookindia.com/national/agnipath-protests-stone-pelting-by-defence-aspirants-in-bihar-demonstrations-in-rajasthan-news-202709",
+                            "text": "-\"Agnipath Protestors Burn Trains In Bihar, Pelt Stones On BJP MLA As Agitation Spreads Across India\". outlookindia.com. 16 June 2022. Retrieved 29 June 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-06-29",
+                                "Created": "2022-06-16"
+                            }
+                        }
+                    ],
+                    "start_date": "16/06/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Maharashtra in political crisis with rebel MLA's under leadership of Eknath Shinde challenged to leave the Maha Vikas Aghadi.",
+                    "links": [
+                        {
+                            "link": "https://www.thehindu.com/news/national/other-states/maharashtra-political-turmoil-live-updates-june-29-2022/article65578524.ece",
+                            "text": "-\"Maharashtra political turmoil live | Supreme Court to hear Shiv Sena's 'urgent petiton' against floor test today\". The Hindu. 29 June 2022. ISSN 0971-751X. Retrieved 29 June 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-06-29",
+                                "Created": "2022-06-29"
+                            }
+                        },
+                        {
+                            "link": "https://search.worldcat.org/issn/0971-751X",
+                            "text": "-\"Maharashtra political turmoil live | Supreme Court to hear Shiv Sena's 'urgent petiton' against floor test today\". The Hindu. 29 June 2022. ISSN 0971-751X. Retrieved 29 June 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-06-29",
+                                "Created": "2022-06-29"
+                            }
+                        }
+                    ],
+                    "start_date": "21/06/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Yashwant Sinha announced as presidential candidate by opposition parties.",
+                    "links": [
+                        {
+                            "link": "https://timesofindia.indiatimes.com/india/presidential-polls-yashwant-sinha-to-be-joint-opposition-candidate/articleshow/92361273.cms",
+                            "text": "-\"Yashwant Sinha to be joint opposition candidate\". The Times of India. 21 June 2022. Retrieved 2 July 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-07-02",
+                                "Created": "2022-06-21"
+                            }
+                        }
+                    ],
+                    "start_date": "21/06/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Murder of Umesh Kohle",
+                    "links": [],
+                    "start_date": "21/06/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "24 June - Supreme Court of India rejects plea filed by Ehsan Jafri's wife against Special Investigation Team report which acquitted Narendra Modi and 63 others in Gulbarg Society massacre.",
+                    "links": [
+                        {
+                            "link": "https://www.tribuneindia.com/news/nation/sc-dismisses-zakia-jafris-plea-challenging-sits-clean-chit-to-64-people-including-then-cm-narendra-modi-in-2002-gujarat-riots-case-406574",
+                            "text": "-\"Supreme Court dismisses Zakia Jafri's plea against SIT clean chit to Narendra Modi in Gujarat riots case\". Tribuneindia News Service. Retrieved 3 July 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-07-03",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "24/06/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "25 June - Former Indian Police Service officer R. B. Sreekumar and social activist Teesta Setalvad arrested by Gujarat Police in connection with 2002 Gujarat riots.",
+                    "links": [
+                        {
+                            "link": "https://www.thenewsminute.com/article/activist-teesta-setalvad-former-gujarat-top-cop-rb-sreekumar-sent-judicial-remand-165499",
+                            "text": "-\"Activist Teesta Setalvad, former Gujarat top cop RB Sreekumar sent to judicial remand\". The News Minute. 3 July 2022. Retrieved 5 July 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-07-05",
+                                "Created": "2022-07-03"
+                            }
+                        }
+                    ],
+                    "start_date": "25/06/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "27 June - Alt News founder Mohammed Zubair arrested by Delhi Police for a post made by him on Twitter in 2018 which allegedly hurts religious sentiments. The arrest was following a complaint made by an anonymous Twitter user named Hanuman Bhakth.",
+                    "links": [
+                        {
+                            "link": "https://indianexpress.com/article/cities/delhi/altnews-co-founder-mohammad-zubair-arrested-by-delhi-police-7994635/",
+                            "text": "-\"Mohammed Zubair, AltNews co-founder, arrested for allegedly hurting religious sentiments\". The Indian Express. 28 June 2022. Retrieved 3 July 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-07-03",
+                                "Created": "2022-06-28"
+                            }
+                        }
+                    ],
+                    "start_date": "27/06/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "2022 Mumbai building collapse",
+                    "links": [],
+                    "start_date": "28/06/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Kanhaiya Lal is beheaded by Muslims in Udaipur, Rajasthan, for supporting Nupur Sharma in the controversy about Sharma's remarks about Muhammad on social media.",
+                    "links": [
+                        {
+                            "link": "https://www.indiatoday.in/india/story/curfew-imposed-rajasthan-tailor-beheaded-social-media-post-nupur-sharma-udaipur-accused-arrested-1967872-2022-06-28",
+                            "text": "-\"Hindu man beheaded in Udaipur: Prohibitory orders clamped in Rajasthan, NIA to probe case\". India Today. 28 June 2022. Retrieved 29 June 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-06-29",
+                                "Created": "2022-06-28"
+                            }
+                        }
+                    ],
+                    "start_date": "28/06/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "2022 Assam floods",
+                    "links": [
+                        {
+                            "link": "https://www.deccanherald.com/national/assam-flood-situation-worsens-14-dead-2970-lakh-affected-1123190.html",
+                            "text": "-\"Assam flood situation worsens; 14 dead, 29.70 lakh affected\". Deccan Herald. 2 July 2022. Retrieved 2 July 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-07-02",
+                                "Created": "2022-07-02"
+                            }
+                        }
+                    ],
+                    "start_date": "28/06/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "2022 Manipur landslide",
+                    "links": [],
+                    "start_date": "30/06/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Neeraj Chopra breaks his own national record with 89.94m throw at Stockholm Diamond League",
+                    "links": [
+                        {
+                            "link": "https://www.indiatoday.in/sports/other-sports/story/neeraj-chopra-breaks-his-own-national-record-with-89-94m-throw-at-stockholm-diamond-league-finishes-2nd-1968763-2022-06-30",
+                            "text": "-\"Neeraj Chopra breaks his own national record with 89.94m throw at Stockholm Diamond League, finishes 2nd\". India Today. 30 June 2022. Retrieved 1 July 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-07-01",
+                                "Created": "2022-06-30"
+                            }
+                        }
+                    ],
+                    "start_date": "30/06/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Uddhav Thackeray resigns as Chief minister of Maharashtra following Supreme Court of India not admitting the stay petition of Shiv Sena against the Motion of no confidence.",
+                    "links": [
+                        {
+                            "link": "https://www.thehindu.com/news/national/maharashtra-political-crisis-uddhav-thackeray-resigns-after-supreme-court-denies-stay-on-floor-test/article65583238.ece",
+                            "text": "-\"Uddhav Thackeray resigns as Maharashtra Chief Minister after Supreme Court denies stay on floor test\". The Hindu. 29 June 2022. ISSN 0971-751X. Retrieved 2 July 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-07-02",
+                                "Created": "2022-06-29"
+                            }
+                        },
+                        {
+                            "link": "https://search.worldcat.org/issn/0971-751X",
+                            "text": "-\"Uddhav Thackeray resigns as Maharashtra Chief Minister after Supreme Court denies stay on floor test\". The Hindu. 29 June 2022. ISSN 0971-751X. Retrieved 2 July 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-07-02",
+                                "Created": "2022-06-29"
+                            }
+                        }
+                    ],
+                    "start_date": "30/06/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "July",
+            "Data": [
+                {
+                    "event_text": "5 July - The Bharatiya Janata Party led coalition under the leadership of Eknath Shinde (Shiv Sena defected faction) won the floor test with the support of 164 Members of the Legislative Assembly.",
+                    "links": [
+                        {
+                            "link": "https://indianexpress.com/article/cities/mumbai/maharashtra-floor-test-eknath-shinde-shiv-sena-bjp-8007829/",
+                            "text": "-\"Maharashtra CM Eknath Shinde clears floor test: Will not pursue politics of vendetta\". The Indian Express. 5 July 2022. Retrieved 5 July 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-07-05",
+                                "Created": "2022-07-05"
+                            }
+                        }
+                    ],
+                    "start_date": "05/07/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "13 July - Controversy erupts around a booklet issued by Parliamentary Secretariat that list even commonly used words as Unparliamentary language.",
+                    "links": [
+                        {
+                            "link": "https://indianexpress.com/article/india/no-words-banned-list-is-a-compilation-lok-sabha-speaker-om-birla-8030064/",
+                            "text": "-\"No words banned, list is a compilation: Lok Sabha Speaker Om Birla\". The Indian Express. 15 July 2022. Retrieved 31 July 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-07-31",
+                                "Created": "2022-07-15"
+                            }
+                        },
+                        {
+                            "link": "https://thewire.in/government/words-like-ashamed-abused-betrayed-corrupt-to-be-unparliamentary-in-ls-rs",
+                            "text": "-\"Words Like 'Ashamed', 'Abused, 'Betrayed', 'Corrupt' To Be Unparliamentary in LS, RS\". The Wire. Retrieved 31 July 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-07-31",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "13/07/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "23 July - Senior TMC leader and minister in Government of West Bengal, Partha Chatterjee and his aide Arpita Mukherjee were arrested by ED from Kolkata in the SSC Scam.",
+                    "links": [],
+                    "start_date": "23/07/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Droupadi Murmu is sworn in as the 15th President of India",
+                    "links": [],
+                    "start_date": "25/07/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Nearly 42 killed in Botad district of Gujarat by consuming illicit liquor.",
+                    "links": [
+                        {
+                            "link": "https://www.thehindu.com/news/national/other-states/death-toll-reaches-42-in-gujarat-hooch-tragedy/article65691057.ece",
+                            "text": "-Langa, Mahesh (27 July 2022). \"Death toll reaches 42 in Gujarat hooch tragedy\". The Hindu. ISSN 0971-751X. Retrieved 31 July 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-07-31",
+                                "Created": "2022-07-27"
+                            }
+                        },
+                        {
+                            "link": "https://search.worldcat.org/issn/0971-751X",
+                            "text": "-Langa, Mahesh (27 July 2022). \"Death toll reaches 42 in Gujarat hooch tragedy\". The Hindu. ISSN 0971-751X. Retrieved 31 July 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-07-31",
+                                "Created": "2022-07-27"
+                            }
+                        }
+                    ],
+                    "start_date": "25/07/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "August",
+            "Data": [
+                {
+                    "event_text": "9 August - Nitish Kumar resigns as Chief minister of Bihar following Janata Dal (United) leaving the Bharatiya Janata Party led National Democratic Alliance.",
+                    "links": [
+                        {
+                            "link": "https://www.dnaindia.com/india/report-nitish-kumar-quits-nda-bihar-jdu-unpredictable-flip-flops-since-1989-alliance-janata-dal-united-jdu-chief-2975192",
+                            "text": "-\"Nitish Kumar quits NDA: A look at JD(U) chief's unpredictable flip-flops since 1989\". DNA India. Retrieved 16 August 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-08-16",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "09/08/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "10 August - Nitish Kumar sworn in as Chief minister of Bihar with the support of Rashtriya Janata Dal and Indian National Congress.",
+                    "links": [
+                        {
+                            "link": "https://www.business-standard.com/article/politics/nitish-kumar-sworn-in-as-bihar-cm-for-8th-time-tejashwi-to-be-his-deputy-122081001245_1.html",
+                            "text": "-Phadnis, Aditi (10 August 2022). \"Nitish Kumar sworn in as Bihar CM for 8th time, Tejashwi to be his deputy\". Business Standard India. Retrieved 16 August 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-08-16",
+                                "Created": "2022-08-10"
+                            }
+                        }
+                    ],
+                    "start_date": "10/08/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "11 August - Jagdeep Dhankhar, former governor of West Bengal and politician from Rajasthan sworn in as 14th Vice President of India.",
+                    "links": [],
+                    "start_date": "11/08/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "13 August - A nine year old Dalit boy from Jalore district who was beaten by upper caste teacher on 20 July, for drinking water from earthen pots reserved for higher castes succumbs to death.",
+                    "links": [
+                        {
+                            "link": "https://www.thehindu.com/news/national/other-states/dalit-boy-dies-after-being-assaulted-by-teacher-in-rajasthan-school/article65766467.ece",
+                            "text": "-\"Dalit boy dies after being assaulted by teacher in Rajasthan school\". The Hindu. 13 August 2022. ISSN 0971-751X. Retrieved 15 August 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-08-15",
+                                "Created": "2022-08-13"
+                            }
+                        },
+                        {
+                            "link": "https://search.worldcat.org/issn/0971-751X",
+                            "text": "-\"Dalit boy dies after being assaulted by teacher in Rajasthan school\". The Hindu. 13 August 2022. ISSN 0971-751X. Retrieved 15 August 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-08-15",
+                                "Created": "2022-08-13"
+                            }
+                        }
+                    ],
+                    "start_date": "13/08/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "22 August - R Praggnanandhaa, a seventeen year chess player from Tamil Nadu beats world champion Magnus Carlsen on three straight games at FTX Crypto Cup 2022, held at Miami.",
+                    "links": [
+                        {
+                            "link": "https://www.hindustantimes.com/sports/others/indias-chess-grandmaster-praggnanandhaa-beats-5-time-world-chess-champ-carlsen-101661158482865.html",
+                            "text": "-\"India's Chess Grandmaster Praggnanandhaa beats 5-time World Chess Champ Carlsen\". Hindustan Times. 23 August 2022. Retrieved 27 August 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-08-27",
+                                "Created": "2022-08-23"
+                            }
+                        }
+                    ],
+                    "start_date": "22/08/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "25 August - FIR and arrest of Shivamurthy Murugha Sharanaru, of Murugha Mutt on alleged continuous sexual assault on two minor girls.",
+                    "links": [
+                        {
+                            "link": "https://www.financialexpress.com/india-news/muruga-mutt-case-karnataka-shivamurthy-murugha-sharanaru-chitradurga-news-updates/2650458/",
+                            "text": "-\"What is the Muruga Mutt case? Know why Karnataka's most prominent seer is in the eye of a storm\". Financialexpress. 31 August 2022. Retrieved 1 September 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-09-01",
+                                "Created": "2022-08-31"
+                            }
+                        }
+                    ],
+                    "start_date": "25/08/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "26 August - Ghulam Nabi Azad quits from Indian National Congress after his five decade long association with the party.",
+                    "links": [
+                        {
+                            "link": "https://www.ndtv.com/india-news/ghulam-nabi-azad-quits-congress-full-text-of-resignation-letter-3288198",
+                            "text": "-\"Read Ghulam Nabi Azad's Explosive Resignation Letter To Sonia Gandhi\". NDTV.com. Retrieved 27 August 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-08-27",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "26/08/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "27 August - Uday Umesh Lalit took oath as the 49th Chief Justice of India.",
+                    "links": [
+                        {
+                            "link": "https://indianexpress.com/article/india/justice-uu-lalit-sworn-in-chief-justice-of-india-8114693/",
+                            "text": "-\"Justice U U Lalit sworn in as 49th Chief Justice of India\". The Indian Express. 27 August 2022. Retrieved 28 August 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-08-28",
+                                "Created": "2022-08-27"
+                            }
+                        }
+                    ],
+                    "start_date": "27/08/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "28 August - Noida Supertech Twin Towers demolished, being India's biggest building demolition.",
+                    "links": [
+                        {
+                            "link": "https://indianexpress.com/article/cities/delhi/noida-supertech-twin-towers-debris-8117489/",
+                            "text": "-\"What next: removing 80,000 tonnes of debris of Supertech twin towers in 3 months\". The Indian Express. 28 August 2022. Retrieved 30 August 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-08-30",
+                                "Created": "2022-08-28"
+                            }
+                        }
+                    ],
+                    "start_date": "28/08/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "29 August - 17 year old girl set on fire and succumbed death, by a youth due to turning down his proposal in Jharkhand's Dumka.",
+                    "links": [
+                        {
+                            "link": "https://www.indiatoday.in/india/story/man-set-girl-on-fire-jharkhand-dumka-seen-smiling-police-custody-1993882-2022-08-29",
+                            "text": "-\"Man who set girl on fire in Jharkhand's Dumka seen smiling in police custody\". India Today. 29 August 2022. Retrieved 30 August 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-08-30",
+                                "Created": "2022-08-29"
+                            }
+                        }
+                    ],
+                    "start_date": "29/08/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "31 August - Death of Paolo Maino due to prolonged illness, mother of Sonia Gandhi in Italy.",
+                    "links": [
+                        {
+                            "link": "https://www.indiatoday.in/india/story/paola-maino-the-woman-who-shaped-sonia-gandhi-s-life-and-destiny-1995044-2022-09-01",
+                            "text": "-Kidwai, Rasheed (1 September 2022). \"Paola Maino: The woman who shaped Sonia Gandhi's life and destiny\". India Today. Retrieved 1 September 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-09-01",
+                                "Created": "2022-09-01"
+                            }
+                        }
+                    ],
+                    "start_date": "31/08/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "September",
+            "Data": [
+                {
+                    "event_text": "1 September - India reports 13.5% Annual GDP growth in Q1 FY2023.",
+                    "links": [
+                        {
+                            "link": "https://economictimes.indiatimes.com/news/economy/indicators/indias-q1-gdp-grows-at-13-5-percent-hits-1-year-high-on-low-base-effect/articleshow/93886311.cms",
+                            "text": "-\"India's Q1 GDP grows at 13.5 percent, lags estimates\". The Economic Times. Retrieved 1 September 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-09-01",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "01/09/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "2 September - Prime Minister Narendra Modi commissioned India's first indigenous aircraft lifter IINS Vikrant in Kochi.",
+                    "links": [
+                        {
+                            "link": "https://theprint.in/national-interest/3-cheers-for-ins-vikrant-3-questions-for-indias-leadership-on-naval-doctrine/1114139/",
+                            "text": "-Gupta, Shekhar (3 September 2022). \"3 cheers for INS Vikrant & 3 questions for India's leadership on naval doctrine\". ThePrint. Retrieved 3 September 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-09-03",
+                                "Created": "2022-09-03"
+                            }
+                        }
+                    ],
+                    "start_date": "02/09/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "4 September - Indian business tycoon, former Tata Sons Chairman Cyrus Mistry, passes away in a car crash in Palghar.",
+                    "links": [
+                        {
+                            "link": "https://www.hindustantimes.com/india-news/cyrus-mistry-was-not-wearing-seat-belt-car-covered-20km-in-9-minutes-police-101662336969944.html",
+                            "text": "-\"Cyrus Mistry was not wearing seat belt; car covered 20km in 9 minutes: Police\". Hindustan Times. 5 September 2022. Retrieved 5 September 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-09-05",
+                                "Created": "2022-09-05"
+                            }
+                        }
+                    ],
+                    "start_date": "04/09/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "5 September - Hemant Soren wins floor test in Jharkhand Legislative Assembly following allegations of corruption and poaching of MLA's by opposition.",
+                    "links": [
+                        {
+                            "link": "https://www.newindianexpress.com/states/kerala/2018/nov/12/sabarimala-temple-was-buddhist-temple-kerala-government-informs-high-court-1897240.html",
+                            "text": "-\"Sabarimala Temple was Buddhist temple, Kerala government informs High Court\". The New Indian Express. 12 November 2018. Retrieved 8 September 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-09-08",
+                                "Created": "2018-11-12"
+                            }
+                        }
+                    ],
+                    "start_date": "05/09/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "6 September - ED and CBI raid on Manish Sisodia residence and 40 other locations on basis of Delhi liquor scam.",
+                    "links": [
+                        {
+                            "link": "https://timesofindia.indiatimes.com/india/ed-conducts-raids-across-multiple-states-in-delhi-excise-policy-case/articleshow/94021204.cms",
+                            "text": "-\"ED conducts raids across multiple states in Delhi excise policy case\". The Times of India. 6 September 2022. Retrieved 6 September 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-09-06",
+                                "Created": "2022-09-06"
+                            }
+                        }
+                    ],
+                    "start_date": "06/09/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "7 September - Rahul Gandhi commences his 3751 kms long 'Bharat Jodo Yatra' from Kanyakumari.",
+                    "links": [
+                        {
+                            "link": "https://www.ndtv.com/india-news/congress-launches-its-nationwide-bharat-jodo-yatra-in-tamil-nadu-3324252",
+                            "text": "-\"Congress Launches Its Nationwide Bharat Jodo Yatra In Tamil Nadu\". NDTV.com. Retrieved 8 September 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-09-08",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "07/09/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "8 September - Rajpath renamed as Kartavya Path and inaugurated with Subhash Chandra Bose's statue at Central Vista by Narendra Modi.",
+                    "links": [
+                        {
+                            "link": "https://www.hindustantimes.com/cities/delhi-news/kartavya-path-inauguration-pm-modi-delhi-traffic-advisory-check-details-delhi-news-delhi-police-101662570201562.html",
+                            "text": "-\"PM Modi to inaugurate Kartavya Path on Thursday | Here's traffic advisory\". Hindustan Times. 7 September 2022. Retrieved 8 September 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-09-08",
+                                "Created": "2022-09-07"
+                            }
+                        }
+                    ],
+                    "start_date": "08/09/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "16 September - 8 Cheetahs transported to Kuno National Park of India's Madhya Pradesh through a specially designated flight from Namibia, on account of Narendra Modi's birthday.",
+                    "links": [],
+                    "start_date": "16/09/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "22 September - National Investigation Agency conducts a raid on Popular Front of India in 13 states and arrests around 106 people for their alleged involvement in terrorism.",
+                    "links": [
+                        {
+                            "link": "https://www.hindustantimes.com/india-news/nia-ed-police-raid-pfi-sdpi-which-states-and-how-many-detained-101663823080794.html",
+                            "text": "-\"NIA raids PFI-SDPI in Kerala, Bengal, other states. 105 arrested, details here\". Hindustan Times. 22 September 2022. Retrieved 29 September 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-09-29",
+                                "Created": "2022-09-22"
+                            }
+                        }
+                    ],
+                    "start_date": "22/09/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "26 September - President of India appoints senior advocate R. Venkataramani as the next Attorney-General for India.",
+                    "links": [
+                        {
+                            "link": "https://www.thehindu.com/news/national/senior-advocate-r-venkataramani-is-the-new-attorney-general/article65947809.ece",
+                            "text": "-\"Senior advocate R. Venkataramani is the new Attorney General of India\". The Hindu. 28 September 2022. ISSN 0971-751X. Retrieved 2 October 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-10-02",
+                                "Created": "2022-09-28"
+                            }
+                        },
+                        {
+                            "link": "https://search.worldcat.org/issn/0971-751X",
+                            "text": "-\"Senior advocate R. Venkataramani is the new Attorney General of India\". The Hindu. 28 September 2022. ISSN 0971-751X. Retrieved 2 October 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-10-02",
+                                "Created": "2022-09-28"
+                            }
+                        }
+                    ],
+                    "start_date": "26/09/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "28 September - Ministry of Home Affairs bans radical Islamic organisation Popular Front of India and its eight connected organisations across the nation for five years.",
+                    "links": [
+                        {
+                            "link": "https://www.indiatoday.in/india/story/government-bans-popular-front-of-india-links-terror-funding-2005597-2022-09-28",
+                            "text": "-Singh, Jitendra Bahadur (28 September 2022). \"Radical outfit PFI, 8 associated fronts banned for 5 years after nationwide mega raids, arrests\". India Today. Retrieved 29 September 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-09-29",
+                                "Created": "2022-09-28"
+                            }
+                        }
+                    ],
+                    "start_date": "28/09/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Lt General Anil Chauhan appointed as the new Chief of Defence Staff.",
+                    "links": [
+                        {
+                            "link": "https://www.hindustantimes.com/india-news/new-cds-a-border-expert-collector-of-masks-keen-golfer-101664387835378.html",
+                            "text": "-\"New CDS a border expert, collector of masks, keen golfer\". Hindustan Times. 28 September 2022. Retrieved 29 September 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-09-29",
+                                "Created": "2022-09-28"
+                            }
+                        }
+                    ],
+                    "start_date": "29/09/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Supreme Court rules that all women are entitled to an abortion for up to 24 weeks after initial pregnancy as per the women's choice.",
+                    "links": [
+                        {
+                            "link": "https://www.cbsnews.com/news/india-abortion-supreme-court-equal-access/",
+                            "text": "-\"India's Supreme Court allows all women, regardless of marital status, to have abortions up to 24 weeks into pregnancies\". www.cbsnews.com. 29 September 2022. Retrieved 29 September 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-09-29",
+                                "Created": "2022-09-29"
+                            }
+                        }
+                    ],
+                    "start_date": "29/09/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "October",
+            "Data": [
+                {
+                    "event_text": "1 October - 5G telecom services launched in India, primarily in selected 13 cities of the country.",
+                    "links": [
+                        {
+                            "link": "https://economictimes.indiatimes.com/industry/telecom/telecom-news/pm-narendra-modi-launches-first-phase-of-5g-services-in-13-cities/articleshow/94576073.cms",
+                            "text": "-Mishra, Shalinee. \"PM Narendra Modi launches first phase of 5G services in 13 cities\". The Economic Times. Retrieved 2 October 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-10-02",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "01/10/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "2022 Bhadohi fire Fourteen people died and more than 75 people were injured in the incident.",
+                    "links": [
+                        {
+                            "link": "https://thefinancialexpress.com.bd/world/five-killed-in-fire-at-puja-venue-in-india-1664789743",
+                            "text": "-\"Five killed in fire at puja venue in India\". The Financial Express (Bangladesh). 3 October 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2022-10-03"
+                            }
+                        }
+                    ],
+                    "start_date": "02/10/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "4 October - Avalanche in Uttarakashi kills nearly 30 mountaineers, from the Nehru Institute of Mountaineering.",
+                    "links": [
+                        {
+                            "link": "https://indianexpress.com/article/india/avalanche-as-uttarkashi-counts-the-dead-families-of-climbers-brace-for-worst-8196638/",
+                            "text": "-\"Uttarakhand avalanche: As Uttarkashi counts the dead, families of climbers brace for worst\". The Indian Express. 8 October 2022. Retrieved 8 October 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-10-08",
+                                "Created": "2022-10-08"
+                            }
+                        }
+                    ],
+                    "start_date": "04/10/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "5 October - An accident happened in Mal river in Malbazar, Jalpaiguri district, West Bengal during immersion of idols during Durga Puja, where 8 people died and many were seriously injured.",
+                    "links": [
+                        {
+                            "link": "https://timesofindia.indiatimes.com/city/kolkata/mal-river-flash-flood-sweeps-away-8-during-immersion/articleshow/94694139.cms",
+                            "text": "-\"Mal river flash flood sweeps away 8 during immersion in Durga Puja\". The Times Of India. 5 October 2022. Retrieved 6 October 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-10-06",
+                                "Created": "2022-10-05"
+                            }
+                        }
+                    ],
+                    "start_date": "05/10/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "6 October - Congress president Sonia Gandhi joined the Bharat Jodo Yatra, which resumed its journey in Pandavapura in Karnataka's Mandya district on Thursday after a two-day Dasara break.",
+                    "links": [
+                        {
+                            "link": "https://www.thehindu.com/news/national/karnataka/sonia-joins-bharat-jodo-yatra-in-mandya-for-two-hours/article65976791.ece",
+                            "text": "-\"Sonia joins Bharat Jodo Yatra in Mandya for two hours\". The Hindu. 6 October 2022. Retrieved 6 October 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-10-06",
+                                "Created": "2022-10-06"
+                            }
+                        }
+                    ],
+                    "start_date": "06/10/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "11 October - Chief Justice of India Uday Lalit, nominates DY Chandrachud as his successor, prior his retirement on 8 November.",
+                    "links": [
+                        {
+                            "link": "https://currentaffairs.adda247.com/cji-uu-lalit-recommends-justice-dy-chandrachud-as-the-next-chief-justice-of-india/",
+                            "text": "-Arora, Sumit (12 October 2022). \"CJI UU Lalit Recommends Justice DY Chandrachud As The Next Chief Justice Of India\". adda247. Retrieved 12 October 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-10-12",
+                                "Created": "2022-10-12"
+                            }
+                        }
+                    ],
+                    "start_date": "11/10/2022",
+                    "end_date": "08/11/2022"
+                },
+                {
+                    "event_text": "13 October - Two bench Supreme Court Panel provided a split decision over the Hijab row, and would be further transferred to a larger CJI led bench.",
+                    "links": [
+                        {
+                            "link": "https://www.thehindu.com/opinion/editorial/split-over-hijab-the-hindu-editorial-on-the-supreme-court-verdict/article66006780.ece",
+                            "text": "-\"Split over hijab: The Hindu Editorial on the Supreme Court verdict\". The Hindu. 13 October 2022. ISSN 0971-751X. Retrieved 14 October 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-10-14",
+                                "Created": "2022-10-13"
+                            }
+                        },
+                        {
+                            "link": "https://search.worldcat.org/issn/0971-751X",
+                            "text": "-\"Split over hijab: The Hindu Editorial on the Supreme Court verdict\". The Hindu. 13 October 2022. ISSN 0971-751X. Retrieved 14 October 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-10-14",
+                                "Created": "2022-10-13"
+                            }
+                        }
+                    ],
+                    "start_date": "13/10/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "14 October - Allahabad High Court, rejects the plea to carry out carbon-dating process on the alleged Shivaling, found in the surroundings of Gyanvyapi mosque.",
+                    "links": [],
+                    "start_date": "14/10/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "17 October - Elections for the president of All India National Congress carried out. Former president Rahul Gandhi votes from Bellary, Karnataka.",
+                    "links": [],
+                    "start_date": "17/10/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "19 October - Mallikarjun Kharge elected as the national President of Indian National Congress, thereby becoming the first Non-Gandhi president after 24 years by defeating his poll rival Shashi Tharoor.",
+                    "links": [
+                        {
+                            "link": "https://www.hindustantimes.com/india-news/labourers-son-elected-congress-president-says-emotional-mallikarjun-kharge-101666763375733.html",
+                            "text": "-\"'A labourer's son': New Cong chief Mallikarjun Kharge's 'emotional' moment\". Hindustan Times. 26 October 2022. Retrieved 27 October 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-10-27",
+                                "Created": "2022-10-26"
+                            }
+                        }
+                    ],
+                    "start_date": "19/10/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "25 October - ISIS terror plot; suicide bomber blasts a car in Coimbatore of Tamil Nadu with no casualties.",
+                    "links": [
+                        {
+                            "link": "https://www.theweek.in/news/india/2022/10/25/coimbatore-car-blast-was-there-a-plot-to-attack-religious-places-in-tamil-nadu-like-easter-bombings-in-sri-lanka.html",
+                            "text": "-\"Coimbatore car blast: Was there a plot to attack religious places in Tamil Nadu like Easter bombings in Sri Lanka?\". The Week. Retrieved 27 October 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-10-27",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "25/10/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "27 October - BCCI announces equal match fees to both men and women cricketers across all the formats of the game.",
+                    "links": [
+                        {
+                            "link": "https://indianexpress.com/article/sports/cricket/bcci-announces-pay-equality-for-women-internationals-8232746/",
+                            "text": "-\"Pay equity: BCCI announces equal match fee for men, women cricketers\". The Indian Express. 27 October 2022. Retrieved 27 October 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-10-27",
+                                "Created": "2022-10-27"
+                            }
+                        }
+                    ],
+                    "start_date": "27/10/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "30 October - 2022 Morbi bridge collapse",
+                    "links": [],
+                    "start_date": "30/10/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "November",
+            "Data": [
+                {
+                    "event_text": "1 November - The Air quality Index  plunges to 'severe' category in Noida, remains 'very poor' in New Delhi, creation of thick smog in the city.",
+                    "links": [
+                        {
+                            "link": "https://www.indiatoday.in/india/story/air-quality-plunges-severe-category-noida-very-poor-delhi-2291726-2022-11-01",
+                            "text": "-\"Air quality plunges to 'severe' category in Noida, remains 'very poor' in Delhi\". India Today. November 2022. Retrieved 3 November 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-11-03",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "01/11/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "2 November - Global Investors Meet 2022 held in Bengaluru, with delegates and investors present from various countries.",
+                    "links": [
+                        {
+                            "link": "https://www.livemint.com/news/india/pm-modi-to-inaugurate-global-investors-meet-invest-karnataka-2022-today-11667358809404.html",
+                            "text": "-\"PM Modi to inaugurate Global Investors Meet 'Invest Karnataka 2022' today\". mint. 2 November 2022. Retrieved 3 November 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-11-03",
+                                "Created": "2022-11-02"
+                            }
+                        }
+                    ],
+                    "start_date": "02/11/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "6 November - Bhavya Bishnoi is elected to the Haryana Legislative Assembly for the Adampur, Haryana Assembly constituency in a by-election.",
+                    "links": [
+                        {
+                            "link": "https://indianexpress.com/article/cities/chandigarh/bhavya-bishnoi-oath-youngest-haryana-mla-8272249/",
+                            "text": "-\"Bhavya Bishnoi takes oath, becomes youngest member of Haryana Vidhan Sabha\". The Indian Express. 16 November 2022. Retrieved 28 November 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-11-28",
+                                "Created": "2022-11-16"
+                            }
+                        }
+                    ],
+                    "start_date": "06/11/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "7 November - In Janhit Abhiyan vs Union of India case, Supreme Court upheld the validity of the 103rd constitutional amendment which provides 10% reservation for the Economically Weaker Sections by a 3-2 majority.",
+                    "links": [
+                        {
+                            "link": "https://www.thehindu.com/news/national/reservation-policy-cannot-stay-for-indefinite-period-says-supreme-court/article66108033.ece",
+                            "text": "-Rajagopal, Krishnadas (7 November 2022). \"Reservation policy cannot stay for indefinite period, says Supreme Court\". The Hindu. ISSN 0971-751X. Retrieved 8 November 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-11-08",
+                                "Created": "2022-11-07"
+                            }
+                        },
+                        {
+                            "link": "https://search.worldcat.org/issn/0971-751X",
+                            "text": "-Rajagopal, Krishnadas (7 November 2022). \"Reservation policy cannot stay for indefinite period, says Supreme Court\". The Hindu. ISSN 0971-751X. Retrieved 8 November 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-11-08",
+                                "Created": "2022-11-07"
+                            }
+                        }
+                    ],
+                    "start_date": "07/11/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "9 November - Logo with lotus launched, for the G-20 Summit hosted in India.",
+                    "links": [
+                        {
+                            "link": "https://timesofindia.indiatimes.com/india/g20-presidency-reflects-worlds-confidence-in-india-says-pm-modi/articleshow/95387443.cms",
+                            "text": "-\"G20 presidency reflects world's confidence in India, says PM Modi\". The Times of India. 9 November 2022. Retrieved 9 November 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-11-09",
+                                "Created": "2022-11-09"
+                            }
+                        }
+                    ],
+                    "start_date": "09/11/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "10 November - D. Y. Chandrachud takes oath as the 50th Chief Justice of India, succeeding Uday Lalit.",
+                    "links": [
+                        {
+                            "link": "https://indianexpress.com/photos/india-news/justice-chandrachud-50th-cji-takes-oath-8257591/",
+                            "text": "-\"Meet Justice D Y Chandrachud, sworn in as the 50th Chief Justice of India\". The Indian Express. 9 November 2022. Retrieved 11 November 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-11-11",
+                                "Created": "2022-11-09"
+                            }
+                        }
+                    ],
+                    "start_date": "10/11/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Bangalore welcomes 2nd International airport terminal T2, with 108 ft statue of Kempe Gowda, the architect of Bangalore called 'The Statue of Prosperity', inaugurated by Narendra Modi.",
+                    "links": [
+                        {
+                            "link": "https://www.business-standard.com/content/press-releases-ani/karnataka-minister-dr-ashwathnarayan-is-bringing-the-world-to-kempegowda-through-the-statue-of-prosperity-122110800707_1.html",
+                            "text": "-\"Karnataka minister Dr Ashwathnarayan is bringing the world to Kempegowda, through The Statue Of Prosperity\". www.business-standard.com. 8 November 2022. Retrieved 11 November 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-11-11",
+                                "Created": "2022-11-08"
+                            }
+                        }
+                    ],
+                    "start_date": "11/11/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "All the 6 assassins of former Prime Minister Rajiv Gandhi released from prison, as per the orders of the Supreme Court of India.",
+                    "links": [
+                        {
+                            "link": "https://www.thehindu.com/news/national/all-6-rajiv-gandhi-assassination-case-convicts-to-be-released-on-november-12/article66124971.ece",
+                            "text": "-\"All 6 Rajiv Gandhi assassination case convicts to be released on November 12\". The Hindu. 11 November 2022. ISSN 0971-751X. Retrieved 12 November 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-11-12",
+                                "Created": "2022-11-11"
+                            }
+                        },
+                        {
+                            "link": "https://search.worldcat.org/issn/0971-751X",
+                            "text": "-\"All 6 Rajiv Gandhi assassination case convicts to be released on November 12\". The Hindu. 11 November 2022. ISSN 0971-751X. Retrieved 12 November 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-11-12",
+                                "Created": "2022-11-11"
+                            }
+                        }
+                    ],
+                    "start_date": "11/11/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "12 November - 2022 Himachal Pradesh Legislative Assembly Elections, underway for 68 seats of the state.",
+                    "links": [
+                        {
+                            "link": "https://indianexpress.com/elections/himachal-pradesh-votes-today-all-68-seats-live-updates-8263542/",
+                            "text": "-\"Himachal Pradesh Election 2022 Live Updates: 17.98 per cent voter turnout till 11 am; PM Modi urges people to make new voting record\". The Indian Express. 12 November 2022. Retrieved 12 November 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-11-12",
+                                "Created": "2022-11-12"
+                            }
+                        }
+                    ],
+                    "start_date": "12/11/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "14 November - Horrific Incident in Delhi; Man named Aftab kills girlfriend Shraddha Walker by strangling, chops the body into 35 pieces for dispose. Caught by the police department during the act.",
+                    "links": [
+                        {
+                            "link": "https://www.indiatoday.in/india-today-insight/story/shraddha-walker-murder-why-its-not-easy-for-abused-women-to-end-a-toxic-relationship-2300859-2022-11-23",
+                            "text": "-\"Shraddha Walkar murder: Why it's not easy for abused women to end a toxic relationship\". India Today. 23 November 2022. Retrieved 24 November 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-11-24",
+                                "Created": "2022-11-23"
+                            }
+                        }
+                    ],
+                    "start_date": "14/11/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Vikram-S rocket, India's first rocket launch partnered with private space organisation with ISRO launched from Sriharikota.",
+                    "links": [
+                        {
+                            "link": "https://indianexpress.com/article/technology/science/isro-vikram-s-rocket-launch-live-updates-8275214/",
+                            "text": "-\"Vikram-S rocket launch Live Updates: India's first private rocket blasts off successfully\". The Indian Express. 18 November 2022. Retrieved 18 November 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-11-18",
+                                "Created": "2022-11-18"
+                            }
+                        }
+                    ],
+                    "start_date": "18/11/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "BCCI sacks entire selection committee of the cricket board, led by Chetan Sharma.",
+                    "links": [
+                        {
+                            "link": "https://timesofindia.indiatimes.com/sports/cricket/news/t20-world-cup-fallout-bcci-sacks-entire-chetan-sharma-led-selection-committee/articleshow/95610511.cms",
+                            "text": "-\"T20 World Cup fallout: BCCI sacks entire Chetan Sharma-led selection committee\". The Times of India. 18 November 2022. Retrieved 18 November 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-11-18",
+                                "Created": "2022-11-18"
+                            }
+                        }
+                    ],
+                    "start_date": "18/11/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "\" 3rd - No Money for Terror\" - Counter Terrorism conference held under the presidency of Narendra Modi in New Delhi in the presence of International delegates.",
+                    "links": [
+                        {
+                            "link": "https://www.hindustantimes.com/india-news/even-a-single-attack-is-one-too-many-pm-modi-at-anti-terror-conference-101668745466664.html",
+                            "text": "-\"At anti-terror conference, PM Modi's indirect swipe at Pak: 'Some countries...'\". Hindustan Times. 18 November 2022. Retrieved 18 November 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-11-18",
+                                "Created": "2022-11-18"
+                            }
+                        }
+                    ],
+                    "start_date": "18/11/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "20 November - Blast in an auto-rickshaw in Mangalore street, by accused Mohammed Shafiq using a pressure-cooker bomb.",
+                    "links": [
+                        {
+                            "link": "https://indianexpress.com/article/cities/mangaluru/mangaluru-blast-eyewitnesses-thought-it-was-an-accident-helped-driver-accused-8279884/",
+                            "text": "-\"Mangaluru blast: Eyewitnesses thought it was an accident, helped driver, accused\". The Indian Express. 21 November 2022. Retrieved 21 November 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-11-21",
+                                "Created": "2022-11-21"
+                            }
+                        }
+                    ],
+                    "start_date": "20/11/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "December",
+            "Data": [
+                {
+                    "event_text": "1 December - Phase 1 of 2022 Gujarat Legislative Assembly Elections held.",
+                    "links": [],
+                    "start_date": "01/12/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "2 December - Marriage of Dr Abhinav khare with Dr Palak Khare, NAVPAL",
+                    "links": [],
+                    "start_date": "02/12/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "5 December - Phase 2 of  2022 Gujarat Legislative Assembly Elections carried out.",
+                    "links": [],
+                    "start_date": "05/12/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "8 December - Result of 2022 Gujarat Legislative Assembly Elections and 2022 Himachal Pradesh Legislative Assembly election declared. Bharatiya Janata Party won a seventh consecutive term in Gujarat with a landslide victory (156 out of total 182 seats) and Indian National Congress toppled incumbent Bharatiya Janata Party government in Himachal Pradesh by bagging 40 out of 68 seats.",
+                    "links": [
+                        {
+                            "link": "https://indianexpress.com/elections/himachal-pradesh-assembly-election-results-today-live-updates-bjp-congress-aap-8311189/",
+                            "text": "-\"Himachal Assembly Election Result 2022 Live Updates: Congress MLAs pass resolution authorising party high command to decide new CM\". The Indian Express. 8 December 2022. Retrieved 10 December 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-12-10",
+                                "Created": "2022-12-08"
+                            }
+                        }
+                    ],
+                    "start_date": "08/12/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "9 December - Indian soldiers clash with Chinese soldiers at the Tawang border of Arunachal Pradesh. No casualties, several injured.",
+                    "links": [
+                        {
+                            "link": "https://eurasiantimes.com/indian-chinese-soldiers-clash-at-tawang-arunachal-pradesh-india/",
+                            "text": "-\"Indian, Chinese Soldiers Clash At Tawang Arunachal Pradesh; Indian Sources Claim More PLA Soldiers Injured\". eurasiantimes.com. 12 December 2022. Retrieved 13 December 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-12-13",
+                                "Created": "2022-12-12"
+                            }
+                        }
+                    ],
+                    "start_date": "09/12/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "12 December - Congress Leader Raja Pateria arrested for comments \"Kill Prime Minister Modi to save constitution\" in Madhya Pradesh.",
+                    "links": [
+                        {
+                            "link": "https://www.hindustantimes.com/india-news/congress-leader-held-amid-backlash-over-remarks-on-pm-modi-101670898711259.html",
+                            "text": "-\"Congress leader Raja Pateriya held amid backlash over remarks on PM Modi\". Hindustan Times. 13 December 2022. Retrieved 13 December 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-12-13",
+                                "Created": "2022-12-13"
+                            }
+                        }
+                    ],
+                    "start_date": "12/12/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "13 December- At least 3 students died by suicide in Kota, Rajasthan in 12 hours.",
+                    "links": [
+                        {
+                            "link": "https://www.ndtv.com/india-news/3-coaching-students-allegedly-die-by-suicide-in-rajasthans-kota-today-3600036",
+                            "text": "-\"3 Coaching Students Allegedly Die By Suicide In Rajasthan's Kota\". NDTV. 12 December 2022. Retrieved 12 December 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-12-12",
+                                "Created": "2022-12-12"
+                            }
+                        },
+                        {
+                            "link": "https://timesofindia.indiatimes.com/city/jaipur/two-students-die-by-suicide-in-rajasthans-kota/articleshow/96176602.cms",
+                            "text": "-\"Deaths of 3 students by suicide within 12 hours rock coaching hub Kota in Rajasthan\". The Times Of India. 13 December 2022. Retrieved 13 December 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-12-13",
+                                "Created": "2022-12-13"
+                            }
+                        }
+                    ],
+                    "start_date": "13/12/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "20 December — India enacted its first domestic anti-piracy legislation as the Maritime Anti-Piracy Act 2022, criminalizing maritime piracy and empowering Indian agencies with the authority to respond to threats.",
+                    "links": [
+                        {
+                            "link": "https://economictimes.indiatimes.com/news/defence/9-pirates-being-brought-to-india-to-face-legal-action-navy-day-after-rescuing-23-pakistani-crew-from-iranian-fishing-vessel/articleshow/108902077.cms",
+                            "text": "-\"9 pirates being brought to India to face legal action, says Navy a day after rescuing 23 Pakistani crew from Iranian fishing vessel\". The Economic Times. Retrieved 9 May 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-05-09",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "20/12/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "24 December - Tunisha Sharma, a television actress, who was playing the role of Mariyam, in Indian sitcom Ali Baba, died by suicide on the set of Ali Baba at the age of 20 just 11 days before her 21st birthday.",
+                    "links": [
+                        {
+                            "link": "https://www.indiatoday.in/television/celebrity/story/tv-actress-tunisha-sharma-dies-by-suicide-on-sets-of-her-show-2313124-2022-12-24",
+                            "text": "-\"TV actress Tunisha Sharma dies by suicide on sets of her show\". India Today. 24 December 2022. Retrieved 6 January 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-01-06",
+                                "Created": "2022-12-24"
+                            }
+                        }
+                    ],
+                    "start_date": "24/12/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Prime Minister Narendra Modi's mother, Heeraben Modi passes away at the age of 100 in Ahmedabad.",
+                    "links": [],
+                    "start_date": "30/12/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Cricketer Rishabh Pant meet with a major accident, his car (Mercedes-AMG GLE 43 4MATIC Coupe) collided with a road divider on the Delhi-Dehradun highway. He was admitted to AIIMS, Delhi",
+                    "links": [],
+                    "start_date": "30/12/2022",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

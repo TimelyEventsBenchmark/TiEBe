@@ -1,0 +1,140 @@
+{
+    "Events": [
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "2 March  Mexico voted on a United Nations resolution condemning Russia for its invasion of Ukraine.",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/world/2022/mar/02/united-nations-russia-ukraine-vote",
+                            "text": "-Borger, Julian (March 2, 2022).  Written at Washington, D.C.. \"UN votes to condemn Russia's invasion of Ukraine and calls for withdrawal\". The Guardian. London. Archived from the original on March 2, 2022. Retrieved March 7, 2022.-",
+                            "dates": {
+                                "Archieved": "2022-03-02",
+                                "Retrieved": "2022-03-07",
+                                "Created": "2022-03-02"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20220302170440/https://www.theguardian.com/world/2022/mar/02/united-nations-russia-ukraine-vote",
+                            "text": "-Borger, Julian (March 2, 2022).  Written at Washington, D.C.. \"UN votes to condemn Russia's invasion of Ukraine and calls for withdrawal\". The Guardian. London. Archived from the original on March 2, 2022. Retrieved March 7, 2022.-",
+                            "dates": {
+                                "Archieved": "2022-03-02",
+                                "Retrieved": "2022-03-07",
+                                "Created": "2022-03-02"
+                            }
+                        },
+                        {
+                            "link": "https://www.axios.com/united-nations-ukraine-russia-141-55872481-a143-4423-9d3d-80450f01c754.html",
+                            "text": "-Saric, Ivana; Basu, Zachary (March 2, 2022). \"141 countries vote to condemn Russia at UN\". Axios. Archived from the original on March 6, 2022. Retrieved March 7, 2022.-",
+                            "dates": {
+                                "Archieved": "2022-03-06",
+                                "Retrieved": "2022-03-07",
+                                "Created": "2022-03-02"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20220306142132/https://www.axios.com/united-nations-ukraine-russia-141-55872481-a143-4423-9d3d-80450f01c754.html",
+                            "text": "-Saric, Ivana; Basu, Zachary (March 2, 2022). \"141 countries vote to condemn Russia at UN\". Axios. Archived from the original on March 6, 2022. Retrieved March 7, 2022.-",
+                            "dates": {
+                                "Archieved": "2022-03-06",
+                                "Retrieved": "2022-03-07",
+                                "Created": "2022-03-02"
+                            }
+                        }
+                    ],
+                    "start_date": "02/03/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "5 March - QuerétaroAtlas riot",
+                    "links": [
+                        {
+                            "link": "https://au.sports.yahoo.com/mexican-soccer-match-queretaro-atlas-fan-riot-deaths-050059870.html",
+                            "text": "-Baer, Jack (March 6, 2022). \"Mexican soccer league suspends all Sunday matches after fan riot\". Yahoo! Sports. Retrieved March 6, 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-03-06",
+                                "Created": "2022-03-06"
+                            }
+                        }
+                    ],
+                    "start_date": "05/03/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "27 March - Las Tinajas massacre",
+                    "links": [
+                        {
+                            "link": "https://www.aljazeera.com/news/2022/3/28/at-least-19-killed-in-central-mexico-shooting-authorities",
+                            "text": "-\"Gunmen 'storm cockfighting pit' in Mexico, kill 19\". www.aljazeera.com. Retrieved March 28, 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-03-28",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "27/03/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "10 April - 2022 Mexican presidential recall referendum",
+                    "links": [],
+                    "start_date": "10/04/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "26 April - Mexico transited to the endemic phase.",
+                    "links": [],
+                    "start_date": "26/04/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "May",
+            "Data": [
+                {
+                    "event_text": "23 May - Celaya massacre",
+                    "links": [],
+                    "start_date": "23/05/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "June",
+            "Data": [
+                {
+                    "event_text": "5 June - 2022 Mexican local elections",
+                    "links": [],
+                    "start_date": "05/06/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "16 June - FIFA makes its final selection for the sixteen venues to host matches during the 2026 World Cup, and three Mexican venus are selected Estadio Azteca in Mexico City, Estadio BBVA in Monterrey, and Estadio Akron in Guadalajara.",
+                    "links": [],
+                    "start_date": "16/06/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "September",
+            "Data": [
+                {
+                    "event_text": "19 September - 2022 Western Mexico earthquake",
+                    "links": [],
+                    "start_date": "19/09/2022",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

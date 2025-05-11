@@ -1,0 +1,591 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "The Clan del Golfo detonate explosives at an army base in Turbo, Antioquia Department, killing a soldier and injuring 12 others.",
+                    "links": [
+                        {
+                            "link": "https://abcnews.go.com/International/wireStory/1-soldier-killed-12-injured-attack-colombia-blamed-106075987",
+                            "text": "-\"1 soldier killed and 12 injured in attack in Colombia blamed on drug cartel\". ABC News. Retrieved 2024-01-04.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-01-04",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "04/01/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "El Carmen de Atrato landslide A landslide in El Carmen de Atrato, Chocó, kills 37 people and injures at least 35 others.",
+                    "links": [
+                        {
+                            "link": "https://nos.nl/artikel/2504706-zeker-18-doden-en-tientallen-gewonden-bij-aardverschuiving-in-colombia",
+                            "text": "-\"Zeker 18 doden en tientallen gewonden bij aardverschuiving in Colombia\". nos.nl (in Dutch). 2024-01-13. Retrieved 2024-01-13.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-01-13",
+                                "Created": "2024-01-13"
+                            }
+                        }
+                    ],
+                    "start_date": "13/01/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "One person dies after a magnitude 5.6 earthquake strikes the Valle del Cauca Department.",
+                    "links": [
+                        {
+                            "link": "https://www.elespectador.com/colombia/cali/una-mujer-muerta-caida-de-techos-y-agrietamientos-dejo-el-temblor-hoy-en-ansermanuevo/",
+                            "text": "-\"Una mujer muerta, caída de techos y agrietamientos dejó el temblor en Ansermanuevo\" [A dead woman, falling roofs and cracks left the tremor in Ansermanuevo]. El Espectador (in Spanish). 19 January 2024. Retrieved 2024-01-20.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-01-19",
+                                "Created": "2024-01-20"
+                            }
+                        }
+                    ],
+                    "start_date": "19/01/2024",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "President Gustavo Petro announces the suspension of weapons purchases from Israeli manufacturers and acknowledges the Israeli invasion of the Gaza Strip as genocide.",
+                    "links": [
+                        {
+                            "link": "https://www.wradio.com.co/2024/02/29/colombia-suspende-toda-compra-de-armas-a-israel-petro-por-muerte-de-mas-de-100-palestinos/",
+                            "text": "-Uribe, Maria Alejandra (2024-02-29). \"Colombia suspende toda compra de armas a Israel: Petro por muerte de más de 100 palestinos\". W Radio (in Spanish). Retrieved 2024-02-29.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-02-29",
+                                "Created": "2024-02-29"
+                            }
+                        }
+                    ],
+                    "start_date": "27/02/2024",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "Amazon rubber cycle The Government of Colombia issues a formal apology to the indigenous communities of the Amazon basin for allowing the enslavement and systematic brutality they endured during the Amazon rubber boom in the 19th and 20th centuries.",
+                    "links": [
+                        {
+                            "link": "https://www.elespectador.com/el-magazin-cultural/gobierno-colombiano-pide-perdon-por-genocidio-del-caucho-noticias-hoy/",
+                            "text": "-\"Gobierno colombiano pide perdón por \"genocidio\" del caucho\". El Espectador (in Spanish). 2024-04-24. Retrieved 2024-04-24.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-04-24",
+                                "Created": "2024-04-24"
+                            }
+                        }
+                    ],
+                    "start_date": "24/04/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "An Mi-17 army helicopter crashes near Santa Rosa del Sur, Bolívar Department, killing all nine officers on board.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/colombia-helicopter-crash-military-65cd04557f7c8d86c8000de5be414a01",
+                            "text": "-\"A Colombian army helicopter has crashed in a rural area of the country's north, killing 9 soldiers\". AP News. 2024-04-29. Retrieved 2024-04-30.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-04-30",
+                                "Created": "2024-04-29"
+                            }
+                        }
+                    ],
+                    "start_date": "29/04/2024",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "May",
+            "Data": [
+                {
+                    "event_text": "Colombia breaks diplomatic relations with Israel over its war in Gaza.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/colombia-petro-israel-netanyahu-hamas-palestinian-cfcddd89c649ad8111977d3cb5bc60bf",
+                            "text": "-\"Colombia's president says country will break diplomatic relations with Israel over war in Gaza\". AP News. 2 May 2024. Retrieved 2 May 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-05-02",
+                                "Created": "2024-05-02"
+                            }
+                        }
+                    ],
+                    "start_date": "02/05/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Elmer Fernandez, the director of the La Modelo prison in Bogota, is shot dead by a motorcycled gunman while on his way home from work.",
+                    "links": [
+                        {
+                            "link": "https://www.aljazeera.com/news/2024/5/17/colombia-hunts-for-assailants-after-bogota-prison-director-shot-dead",
+                            "text": "-\"Colombia hunts for assailants after Bogota prison director shot dead\". Al Jazeera. 17 May 2024. Retrieved 17 May 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-05-17",
+                                "Created": "2024-05-17"
+                            }
+                        }
+                    ],
+                    "start_date": "16/05/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Six people are injured in a bomb attack in Jamundi blamed on FARC dissidents.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/colombia-rebels-violence-farcemc-220e719762ca2d87823596b2778d43f3",
+                            "text": "-\"Violence intensifies in southwest Colombia as FARC holdout group attacks police and military\". Associated Press. 21 May 2024. Retrieved 21 May 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-05-21",
+                                "Created": "2024-05-21"
+                            }
+                        }
+                    ],
+                    "start_date": "20/05/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Senate of Colombia approves a resolution banning Spanish-style bullfighting in the country.",
+                    "links": [
+                        {
+                            "link": "https://www.lafm.com.co/politica/prohiben-corridas-de-toros-en-colombia",
+                            "text": "-FM, La (2024-05-28). \"Congreso prohíbe corridas de toros en Colombia | La FM\". www.lafm.com.co (in Spanish). Retrieved 2024-05-29.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-05-29",
+                                "Created": "2024-05-28"
+                            }
+                        }
+                    ],
+                    "start_date": "28/05/2024",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "June",
+            "Data": [
+                {
+                    "event_text": "10 June  Doe v. Chiquita Brands International After 17 years of litigation, Chiquita Brands International is found liable by a jury in United States Federal Court of financing the far-right paramilitary death squad United Self-Defense Forces of Colombia in the Antioquia and Magdalena Departments.",
+                    "links": [
+                        {
+                            "link": "https://earthrights.org/media_release/colombian-victims-win-historic-verdict-over-chiquita-jury-finds-banana-company-liable-for-financing-death-squads/",
+                            "text": "-\"COLOMBIAN VICTIMS WIN HISTORIC VERDICT OVER CHIQUITA: JURY FINDS BANANA COMPANY LIABLE FOR FINANCING DEATH SQUADS\". June 11, 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-06-11"
+                            }
+                        }
+                    ],
+                    "start_date": "10/06/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "10 June  One person is killed, and 20 others are injured after a cable car plunges into a sidewalk next to a station platform in Medellin.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/medellin-colombia-cable-car-collapse-2d1be5aaf13785d0a89b05288d0f4d42",
+                            "text": "-\"The collapse of a cable car in Colombia kills 1 person and injures 20\". Associated Press. June 26, 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-06-26"
+                            }
+                        }
+                    ],
+                    "start_date": "10/06/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "29 June  The FARC-splinter group Segunda Marquetalia agrees to a \"unilateral ceasefire\" and the release of its captives following negotiations with the Colombian government held in Venezuela.",
+                    "links": [
+                        {
+                            "link": "https://www.france24.com/en/americas/20240630-colombian-rebel-group-agrees-to-unilateral-ceasefire-and-release-of-captives",
+                            "text": "-\"Colombian rebel group agrees to 'unilateral ceasefire' and release of captives\". France 24. June 30, 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-06-30"
+                            }
+                        }
+                    ],
+                    "start_date": "29/06/2024",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "July",
+            "Data": [
+                {
+                    "event_text": "1 July  Larry Álvarez, a cofounder of the transnational crime group Tren de Aragua based in Venezuela, is arrested by police in Circasia, Quindío.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/gang-leader-tren-de-aragua-colombia-venezuela-arrest-7f7390299e043747de298ffadd4a06fe",
+                            "text": "-\"Colombia captures one of the founders of the Tren de Aragua gang, wanted in Venezuela and Chile\". Associated Press. July 2, 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-07-02"
+                            }
+                        }
+                    ],
+                    "start_date": "01/07/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Colombia loses 1-0 against Argentina at the 2024 Copa América final held in Miami.",
+                    "links": [
+                        {
+                            "link": "https://www.aljazeera.com/news/2024/7/15/argentina-win-record-16th-copa-america-in-match-marred-by-crowd-chaos",
+                            "text": "-\"Argentina win record 16th Copa America in match marred by crowd chaos\". Al Jazeera. July 15, 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-07-15"
+                            }
+                        }
+                    ],
+                    "start_date": "14/07/2024",
+                    "end_date": "26/08/2024"
+                },
+                {
+                    "event_text": "Colombian Football Federation president Ramón Jesurún is arrested in Miami following an altercation related to the Colombian team's defeat to Argentina in the 2024 Copa América final. The charges against him are dropped on 26 August.",
+                    "links": [
+                        {
+                            "link": "https://www.france24.com/en/live-news/20240715-colombian-football-federation-president-arrested-police",
+                            "text": "-\"Colombian football federation president arrested: police\". France 24. July 15, 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-07-15"
+                            }
+                        },
+                        {
+                            "link": "https://apnews.com/article/copa-america-arrests-d19b5eff0b689b5dec2e84de181fc549",
+                            "text": "-Thames, Alamis (August 27, 2024). \"Colombian soccer official Ramón Jesurún has charges from Copa America arrest dropped\". Associated Press. Retrieved September 3, 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-09-03",
+                                "Created": "2024-08-27"
+                            }
+                        }
+                    ],
+                    "start_date": "26/08/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "15 July  Clifton Suspension Bridge human remains discovery Colombian Yostin Andres Mosquera is charged with the murders of two gay men and remanded in custody by Wimbledon Magistrates Court in London, United Kingdom.",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/uk-news/article/2024/jul/15/police-arrest-man-after-human-remains-found-in-bristol",
+                            "text": "-Grierson, Jamie (2024-07-15). \"Man remanded in custody after human remains found in Bristol\". The Guardian. ISSN 0261-3077. Retrieved 2024-07-16.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-07-16",
+                                "Created": "2024-07-15"
+                            }
+                        },
+                        {
+                            "link": "https://search.worldcat.org/issn/0261-3077",
+                            "text": "-Grierson, Jamie (2024-07-15). \"Man remanded in custody after human remains found in Bristol\". The Guardian. ISSN 0261-3077. Retrieved 2024-07-16.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-07-16",
+                                "Created": "2024-07-15"
+                            }
+                        }
+                    ],
+                    "start_date": "15/07/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "16 July  The government ends its ceasefire agreement with dissident FARC factions, citing splits within the group.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/colombia-farc-faction-peace-talks-ceasefire-5d506443f656bd7413c8f55c0289084a",
+                            "text": "-Rueda, Manuel (2024-07-17). \"Colombia ends cease-fire with largest faction of FARC rebel holdout group\". Associated Press. Retrieved 2024-07-17.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-07-17",
+                                "Created": "2024-07-17"
+                            }
+                        }
+                    ],
+                    "start_date": "16/07/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "22 July  President Petro signs into law a bill banning bullfighting in the country.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/colombia-bullfighting-ban-a7b7d0a8f87abef0e79c4eec693af574",
+                            "text": "-Rueda, Manuel (2024-07-23). \"Colombia's president signs bill to ban bullfighting in the South American country\". Associated Press. Retrieved 2024-07-23.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-07-23",
+                                "Created": "2024-07-23"
+                            }
+                        }
+                    ],
+                    "start_date": "22/07/2024",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "August",
+            "Data": [
+                {
+                    "event_text": "912 August  Sixty-six soldiers are abducted and held captive by villagers in Guaviare Department before being released.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/colombia-soldiers-kidnapped-rebel-group-122e027b20e1cfb9ef5e979bd0d3eeca",
+                            "text": "-\"Colombian villagers release more than 60 soldiers who had been held captive for 3 days\". Associated Press. August 13, 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-08-13"
+                            }
+                        }
+                    ],
+                    "start_date": "12/08/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "1519 August  The Duke and Duchess of Sussex, Prince Harry and Meghan Markle embark a four-day visit to Colombia, hosted by Vice President Francia Márquez, with a focus on promoting child online safety and women empowerment.",
+                    "links": [
+                        {
+                            "link": "https://news.sky.com/story/amp/prince-harry-and-meghan-arrive-in-colombia-after-vice-president-moved-by-netflix-documentary-13197567",
+                            "text": "-\"Prince Harry and Meghan arrive in Colombia after vice president 'moved' by Netflix documentary\". Sky News. Retrieved 2024-08-16.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-08-16",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://www.bbc.com/news/articles/ce31qld552lo.amp",
+                            "text": "-\"'We are no longer debating facts', says Harry in Colombia\". BBC News. 2024-08-15. Retrieved 2024-08-16.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-08-16",
+                                "Created": "2024-08-15"
+                            }
+                        }
+                    ],
+                    "start_date": "19/08/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "31 August22 September  2024 FIFA U-20 Women's World Cup",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/articles/cm28d15md0no",
+                            "text": "-\"N Korea win record third U20 Fifa Women's World Cup\". BBC. 23 September 2024. Retrieved 23 September 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-09-23",
+                                "Created": "2024-09-23"
+                            }
+                        }
+                    ],
+                    "start_date": "31/08/2024",
+                    "end_date": "22/09/2024"
+                }
+            ]
+        },
+        {
+            "Month": "September",
+            "Data": [
+                {
+                    "event_text": "3 September  Truckers establish roadblocks around Bogotá, Medellin and Cali as part of a nationwide strike in protest over fuel increases.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/colombia-truckers-protest-fuel-subsidies-ef0b6e13829b1e6f6e006e95509a2c9e",
+                            "text": "-\"Colombian truckers block highways in main cities in protest over increases in fuel prices\". Associated Press. September 4, 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-09-04"
+                            }
+                        }
+                    ],
+                    "start_date": "03/09/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "6 September  The Administrative Court of Cundinamarca orders the Ministry of Environment and Sustainable Development to eradicate hippopotamuses introduced by Pablo Escobar and their descendants by December, citing threats to \"ecological balance\".",
+                    "links": [
+                        {
+                            "link": "https://www.france24.com/en/live-news/20240907-colombian-court-orders-escobar-s-hippos-to-be-hunted",
+                            "text": "-\"Colombian court orders Escobar's hippos to be hunted\". France 24. September 4, 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-09-04"
+                            }
+                        }
+                    ],
+                    "start_date": "06/09/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "17 September  Two soldiers are killed, and 21 others are injured in an attack on an army base near Puerto Jordan, Arauca Department, that is blamed on the ELN, prompting the government to suspend peace negotiations with the group on 18 September.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/eln-colombia-army-attacks-petro-99207930a4969a47809ddff8ec7fe8b5",
+                            "text": "-\"Colombia's president says attack on army base 'practically ends' peace talks with ELN rebels\". Associated Press. September 18, 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-09-18"
+                            }
+                        },
+                        {
+                            "link": "https://apnews.com/article/colombia-eln-rebels-ceasefire-petro-387caf06b740869e2087eb3b90934393",
+                            "text": "-\"Colombia suspends peace talks with ELN rebel group after a deadly attack on the military\". Associated Press. September 19, 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-09-19"
+                            }
+                        }
+                    ],
+                    "start_date": "17/09/2024",
+                    "end_date": "18/09/2024"
+                },
+                {
+                    "event_text": "23 September  The Egmont Group suspends Colombia's access to its financial crimes database in retaliation for President Gustavo Petro's decision to disclose classified information from the group regarding dealings made by his predecessor Ivan Duque with Pegasus spyware.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/colombia-petro-money-duque-pegasus-4c6b0cbce3b1bfd2442cce7bb225c869",
+                            "text": "-\"Anti-money laundering group suspends Colombia after President Petro declassifies confidential report\". Associated Press. September 24, 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-09-24"
+                            }
+                        }
+                    ],
+                    "start_date": "23/09/2024",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "October",
+            "Data": [
+                {
+                    "event_text": "21 October1 November  2024 United Nations Biodiversity Conference in Cali.",
+                    "links": [
+                        {
+                            "link": "https://www.voanews.com/a/agreement-signed-at-un-summit-gives-indigenous-groups-voice-/7849034.html",
+                            "text": "-\"Agreement signed at UN summit gives Indigenous groups voice\". VOA. November 2, 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-11-02"
+                            }
+                        }
+                    ],
+                    "start_date": "21/10/2024",
+                    "end_date": "01/11/2024"
+                }
+            ]
+        },
+        {
+            "Month": "November",
+            "Data": [
+                {
+                    "event_text": "2 November  Nine active and former military personnel are arrested on suspicion of weapons smuggling following a grenade attack on a toll booth in Bogota in 2023.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/colombia-army-military-weapons-trafficking-arrests-3f1dc938398ed47a35106bd22327cb11",
+                            "text": "-\"Colombian authorities arrest active and retired military personnel over weapons trafficking\". Associated Press. November 3, 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-11-03"
+                            }
+                        }
+                    ],
+                    "start_date": "02/11/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "26 November  President Petro announces the imposition of visa requirements on British nationals travelling to Colombia in response to the United Kingdom revoking visa-free access to Colombian nationals.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/colombia-visas-uk-british-citizens-petro-c8c7a223d23b27b59b40063b70ae2b03",
+                            "text": "-\"Colombia to require visas for British citizens in response to UK visa restrictions\". Associated Press. November 27, 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-11-27"
+                            }
+                        }
+                    ],
+                    "start_date": "26/11/2024",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "December",
+            "Data": [
+                {
+                    "event_text": "3 December  Simultaneous raids are carried out by authorities on 11 prisons nationwide as part of efforts to seize contraband.",
+                    "links": [
+                        {
+                            "link": "https://www.france24.com/en/live-news/20241203-colombian-police-raid-11-prisons-to-combat-extortion-rackets",
+                            "text": "-\"Colombian police raid 11 prisons to combat extortion rackets\". France 24. December 4, 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-12-04"
+                            }
+                        }
+                    ],
+                    "start_date": "03/12/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "7 December  One person is killed in a motorcycle bombing at a police checkpoint in Jamundi.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/colombia-motorcycle-explosives-organized-crime-farc-b2f02fe6c1c4bb1ec51c512f6c8a9f92",
+                            "text": "-\"A motorcycle loaded with explosives detonated in Colombia killing 1 and injuring 14\". Associated Press. December 8, 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-12-08"
+                            }
+                        }
+                    ],
+                    "start_date": "07/12/2024",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "12 January  An incendiary device is thrown at the Venezuelan consulate in Lisbon, causing minor damage.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/venezuela-opposition-diplomatic-facilities-vandalized-43ae6bac62f9bcb68aaefea1b4ee01b9",
+                            "text": "-\"Venezuela accuses opposition of coordinating attacks on diplomatic facilities in 5 countries\". AP News. 14 January 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2025-01-14"
+                            }
+                        }
+                    ],
+                    "start_date": "12/01/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "17 January  Madeira's Legislative Assembly is dissolved and an election is called for 23 March, the third in just over one year.",
+                    "links": [
+                        {
+                            "link": "https://24.sapo.pt/atualidade/artigos/marcelo-dissolve-parlamento-da-madeira-e-marca-eleicoes-regionais-para-23-de-marco",
+                            "text": "-Lusa, Agência (2025-01-17). \"Marcelo dissolve parlamento da Madeira e marca eleições regionais para 23 de março\". Sapo24 (in Portuguese). Retrieved 2025-01-17.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-01-17",
+                                "Created": "2025-01-17"
+                            }
+                        }
+                    ],
+                    "start_date": "17/01/2025",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "17 February  A 4.7 magnitude earthquake hits the Lisbon metropolitan area. No damage or victims are reported.",
+                    "links": [
+                        {
+                            "link": "https://www.rtp.pt/noticias/pais/sismo-de-magnitude-47-sentido-nas-regioes-de-lisboa-e-setubal_n1635034",
+                            "text": "-\"Sismo de magnitude 4.7 sentido nas regiões de Lisboa e Setúbal\". RTP (in Portuguese). 2025-02-17. Retrieved 2025-02-17.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-17",
+                                "Created": "2025-02-17"
+                            }
+                        }
+                    ],
+                    "start_date": "17/02/2025",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "11 March  The government of Prime Minister Luís Montenegro loses a no-confidence vote in the Assembly of the Republic.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/portugal-government-collapse-confidence-vote-2e081d0d60954cb1449636e420e0e687",
+                            "text": "-\"Portugal's government loses confidence vote, triggering early election amid prolonged instability\". AP News. 2025-03-12. Retrieved 2025-03-12.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-03-12",
+                                "Created": "2025-03-12"
+                            }
+                        }
+                    ],
+                    "start_date": "11/03/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "13 March  President Marcelo Rebelo de Sousa calls an early legislative election for 18 May 2025.",
+                    "links": [
+                        {
+                            "link": "https://eco.sapo.pt/2025/03/13/e-oficial-marcelo-marca-eleicoes-para-18-de-maio/",
+                            "text": "-Pinto, Salomé (13 March 2025). \"É oficial. Marcelo marca eleições para 18 de maio\". Eco (in Portuguese). Lisbon. Retrieved 13 March 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-03-13",
+                                "Created": "2025-03-13"
+                            }
+                        }
+                    ],
+                    "start_date": "13/03/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "23 March  2025 Madeiran regional election The Social Democratic Party wins, again, the most seats and falls short of a majority by just one seat.",
+                    "links": [
+                        {
+                            "link": "https://www.sabado.pt/portugal/detalhe/madeira-psd-com-23-deputados-e-consegue-maioria-com-o-cds",
+                            "text": "-\"Madeira: PSD com 23 deputados e consegue maioria com o CDS \", Sábado, 23 March 2025. Retrieved 24 March 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-03-24",
+                                "Created": "2025-03-23"
+                            }
+                        }
+                    ],
+                    "start_date": "23/03/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "25 March  Authorities announce the arrest of five people and the seizure of 6.5 tons of cocaine from a semi-submersible vessel that was intercepted off the Azores.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/portugal-drugs-cocaine-sub-359c23f3e2318785c5ac445cd3f84aa2",
+                            "text": "-\"Portugal intercepts a semi-submersible vessel loaded with cocaine\". AP News. 2025-03-25. Retrieved 2025-03-26.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-03-26",
+                                "Created": "2025-03-25"
+                            }
+                        }
+                    ],
+                    "start_date": "25/03/2025",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

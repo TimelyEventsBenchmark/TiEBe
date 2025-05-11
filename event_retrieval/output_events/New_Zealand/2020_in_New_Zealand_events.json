@@ -1,0 +1,878 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "28 January  Jacinda Ardern announces the general election date to be 19 September.",
+                    "links": [],
+                    "start_date": "28/01/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "29 January  The New Zealand Upgrade Programme is announced.",
+                    "links": [
+                        {
+                            "link": "https://web.archive.org/web/20200129090446/https://www.newshub.co.nz/home/politics/2020/01/new-zealand-upgrade-programme-a-closer-look-at-the-8-billion-transport-spend.html",
+                            "text": "-Small, Zane (29 January 2020). \"New Zealand Upgrade Programme: A closer look at the $8 billion transport spend\". Newshub. Archived from the original on 29 January 2020. Retrieved 2 February 2020.-",
+                            "dates": {
+                                "Archieved": "2020-01-29",
+                                "Retrieved": "2020-02-02",
+                                "Created": "2020-01-29"
+                            }
+                        },
+                        {
+                            "link": "https://www.newshub.co.nz/home/politics/2020/01/new-zealand-upgrade-programme-a-closer-look-at-the-8-billion-transport-spend.html",
+                            "text": "-Small, Zane (29 January 2020). \"New Zealand Upgrade Programme: A closer look at the $8 billion transport spend\". Newshub. Archived from the original on 29 January 2020. Retrieved 2 February 2020.-",
+                            "dates": {
+                                "Archieved": "2020-01-29",
+                                "Retrieved": "2020-02-02",
+                                "Created": "2020-01-29"
+                            }
+                        }
+                    ],
+                    "start_date": "29/01/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "3 February  A state of emergency is declared in Milford Sound as rain and flooding hit the region.",
+                    "links": [
+                        {
+                            "link": "https://www.tvnz.co.nz/one-news/new-zealand/state-emergency-declared-heavy-rain-and-flooding-slams-milford-sound",
+                            "text": "-\"State of emergency declared as heavy rain and flooding slams Milford Sound\". TVNZ. Retrieved 5 February 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-02-05",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "03/02/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "5 February  Residents of Gore, Mataura and Wyndham are ordered to evacuate as the Mataura River bursts its banks.",
+                    "links": [
+                        {
+                            "link": "https://www.stuff.co.nz/national/119279961/southland-chaos-as-towns-evacuated-after-heavy-rain",
+                            "text": "-\"Mataura River peaks, residents evacuated for 24 hours\". Stuff. Retrieved 5 February 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-02-05",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "05/02/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "COVID-19 in New Zealand New Zealand's first case of the coronavirus is confirmed. They had recently returned from Iran via Bali.",
+                    "links": [
+                        {
+                            "link": "https://www.stuff.co.nz/national/health/119899280/ministry-of-health-gives-latest-update-on-novel-coronavirus",
+                            "text": "-\"Coronavirus: first case of virus in New Zealand\". Stuff. Retrieved 28 February 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-02-28",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "28/02/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Kiwibank stops issuing and accepting cheques as payment, becoming the first New Zealand bank to do so.",
+                    "links": [
+                        {
+                            "link": "https://www.stuff.co.nz/business/money/119879384/kiwibank-checks-out-last-day-for-customers-to-use-cheques",
+                            "text": "-\"Kiwibank checks out: Last day for customers to use cheques\". Stuff. 27 February 2020. Retrieved 6 October 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-10-06",
+                                "Created": "2020-02-27"
+                            }
+                        }
+                    ],
+                    "start_date": "28/02/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "5 March  COVID-19 in New Zealand Information of the first human transmission case of the coronavirus within New Zealand is released.",
+                    "links": [
+                        {
+                            "link": "https://www.stuff.co.nz/national/health/120025480/coronavirus-third-confirmed-case-for-new-zealand",
+                            "text": "-\"Coronavirus: What we know about the third confirmed case of coronavirus\". Stuff. 5 March 2020. Retrieved 5 March 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-03-05",
+                                "Created": "2020-03-05"
+                            }
+                        }
+                    ],
+                    "start_date": "05/03/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "14 March  COVID-19 in New Zealand Jacinda Ardern announces new measures to stop the spread of the coronavirus. These measures provide that all people (excluding people who have come from Pacific islands where no cases have been confirmed) who arrive in New Zealand must self-isolate for 14 days. Cruise ships are also banned from docking in New Zealand ports.",
+                    "links": [],
+                    "start_date": "14/03/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "17 March  COVID-19 in New Zealand A $12.1 billion scheme is announced by the government, due to the economic impact of coronavirus on New Zealand, including $5.1 billion for an income subsidy. This is the biggest peacetime government spend in history.",
+                    "links": [
+                        {
+                            "link": "https://www.stuff.co.nz/national/health/coronavirus/120335359/coronavirus-governments-giant-121b-scheme-will-pay-for-people-to-stay-in-work-at-home",
+                            "text": "-Cooke, Henry (17 March 2020). \"Coronavirus: Government's giant $12.1b scheme will pay for people to stay in work and at home\". Stuff. Retrieved 17 March 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-03-17",
+                                "Created": "2020-03-17"
+                            }
+                        }
+                    ],
+                    "start_date": "17/03/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "19 March  COVID-19 in New Zealand The Royal New Zealand Returned and Services' Association announces that all Anzac Day services, scheduled for 25 April, will be cancelled and the red poppy collection postponed due to the health risk. This is the first time that Anzac Day services have not been held since 1916.",
+                    "links": [],
+                    "start_date": "19/03/2020",
+                    "end_date": "25/04/2020"
+                },
+                {
+                    "event_text": "21 March  COVID-19 in New Zealand Ardern announces the COVID-19 alert level system, with New Zealand initially being placed at alert level 2.",
+                    "links": [
+                        {
+                            "link": "https://web.archive.org/web/20200322020155/https://www.newshub.co.nz/home/new-zealand/2020/03/jacinda-ardern-announces-alert-system-for-covid-19.html",
+                            "text": "-O'Brien, Tova (21 March 2020). \"Jacinda Ardern announces alert system for COVID-19\". Newshub. Archived from the original on 22 March 2020. Retrieved 21 April 2020.-",
+                            "dates": {
+                                "Archieved": "2020-03-22",
+                                "Retrieved": "2020-04-21",
+                                "Created": "2020-03-21"
+                            }
+                        },
+                        {
+                            "link": "https://www.newshub.co.nz/home/new-zealand/2020/03/jacinda-ardern-announces-alert-system-for-covid-19.html",
+                            "text": "-O'Brien, Tova (21 March 2020). \"Jacinda Ardern announces alert system for COVID-19\". Newshub. Archived from the original on 22 March 2020. Retrieved 21 April 2020.-",
+                            "dates": {
+                                "Archieved": "2020-03-22",
+                                "Retrieved": "2020-04-21",
+                                "Created": "2020-03-21"
+                            }
+                        }
+                    ],
+                    "start_date": "21/03/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "23 March  COVID-19 in New Zealand New Zealand is placed at alert level 3.",
+                    "links": [
+                        {
+                            "link": "https://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=12319029",
+                            "text": "-\"Covid 19 coronavirus alert 3: New Zealand to move to alert 4 lockdown for next four weeks - Jacinda Ardern says schools closed, essential services only\". New Zealand Herald. 23 March 2020. Retrieved 30 March 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-03-30",
+                                "Created": "2020-03-23"
+                            }
+                        }
+                    ],
+                    "start_date": "23/03/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "COVID-19 in New Zealand A State of National Emergency is declared in response to the COVID-19 pandemic.",
+                    "links": [
+                        {
+                            "link": "https://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=12319699",
+                            "text": "-\"Covid-19 coronavirus: Fifty new cases, state of emergency declared to police lockdown\". New Zealand Herald. 25 March 2020. Retrieved 30 March 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-03-30",
+                                "Created": "2020-03-25"
+                            }
+                        }
+                    ],
+                    "start_date": "25/03/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "COVID-19 in New Zealand New Zealand is upgraded to alert level 4 at 1159 pm, and the country enters lockdown for a period of at least four weeks.",
+                    "links": [
+                        {
+                            "link": "https://www.rnz.co.nz/news/national/412606/covid-19-new-zealand-is-now-in-lockdown",
+                            "text": "-\"Covid-19: New Zealand is now in lockdown\". RNZ News. 25 March 2020. Retrieved 25 March 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-03-25",
+                                "Created": "2020-03-25"
+                            }
+                        }
+                    ],
+                    "start_date": "25/03/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "26 March  The perpetrator of the 2019 Christchurch mosque shootings pleads guilty to all 51 murder charges, as well as 40 charges of attempted murder and one charge of engaging in a terrorist act laid under the Terrorism Suppression Act 2002.",
+                    "links": [
+                        {
+                            "link": "https://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=12319961",
+                            "text": "-Leask, Kurt Bayer and Anna (26 March 2020). \"Christchurch mosque shootings: Brenton Tarrant's shock guilty plea to murders\". The New Zealand Herald. ISSN 1170-0777. Retrieved 3 April 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-04-03",
+                                "Created": "2020-03-26"
+                            }
+                        },
+                        {
+                            "link": "https://search.worldcat.org/issn/1170-0777",
+                            "text": "-Leask, Kurt Bayer and Anna (26 March 2020). \"Christchurch mosque shootings: Brenton Tarrant's shock guilty plea to murders\". The New Zealand Herald. ISSN 1170-0777. Retrieved 3 April 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-04-03",
+                                "Created": "2020-03-26"
+                            }
+                        }
+                    ],
+                    "start_date": "26/03/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "29 March  COVID-19 in New Zealand The first coronavirus-related death in New Zealand occurs, a woman in her 70s from Greymouth.",
+                    "links": [
+                        {
+                            "link": "https://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=12320670",
+                            "text": "-Walls, Jason (29 March 2020). \"Covid 19 coronavirus: NZ's first death confirmed, woman aged in 70s dies in Greymouth Hospital\". New Zealand Herald. Retrieved 29 March 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-03-29",
+                                "Created": "2020-03-29"
+                            }
+                        }
+                    ],
+                    "start_date": "29/03/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "6 April  COVID-19 in New Zealand Queen Elizabeth II makes a rare broadcast to the nation and the Commonwealth regarding the COVID-19 pandemic, her fifth televised broadcast outside of her Christmas Message.",
+                    "links": [
+                        {
+                            "link": "https://www.rnz.co.nz/news/world/413531/queen-promises-better-days-will-return-in-rare-televised-address-on-covid-19",
+                            "text": "-\"Queen promises 'better days will return' in rare televised address on Covid-19\". RNZ. 6 April 2020. Retrieved 5 April 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-04-05",
+                                "Created": "2020-04-06"
+                            }
+                        }
+                    ],
+                    "start_date": "06/04/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "8 April  Dunedin's Baldwin Street reclaims its title as the steepest residential street in the world after Ffordd Pen Llech in Harlech, Wales, took the title in July 2019.",
+                    "links": [
+                        {
+                            "link": "https://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=12323660",
+                            "text": "-Hudson, Daisy (8 April 2020). \"Dunedin's Baldwin St reclaims world's steepest street title\". The New Zealand Herald. ISSN 1170-0777. Retrieved 8 April 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-04-08",
+                                "Created": "2020-04-08"
+                            }
+                        },
+                        {
+                            "link": "https://search.worldcat.org/issn/1170-0777",
+                            "text": "-Hudson, Daisy (8 April 2020). \"Dunedin's Baldwin St reclaims world's steepest street title\". The New Zealand Herald. ISSN 1170-0777. Retrieved 8 April 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-04-08",
+                                "Created": "2020-04-08"
+                            }
+                        }
+                    ],
+                    "start_date": "08/04/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "COVID-19 in New Zealand New Zealanders paid tribute at private dawn services as public remembrance services are cancelled, the first time since 1916.",
+                    "links": [
+                        {
+                            "link": "https://www.rnz.co.nz/news/national/415104/anzac-day-2020-recap-stand-at-dawn",
+                            "text": "-\"Anzac Day 2020 recap: Stand at dawn\". RNZ. 25 April 2020. Retrieved 25 April 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-04-25",
+                                "Created": "2020-04-25"
+                            }
+                        }
+                    ],
+                    "start_date": "25/04/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Central government announces $40 million funding for mental health service, giving 1.5 million New Zealanders free access to the service, once fully operational.",
+                    "links": [
+                        {
+                            "link": "https://www.rnz.co.nz/news/national/415106/govt-announces-40m-funding-for-mental-health-service",
+                            "text": "-\"Govt announces $40m funding for mental health service\". RNZ. 25 April 2020. Retrieved 25 April 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-04-25",
+                                "Created": "2020-04-25"
+                            }
+                        }
+                    ],
+                    "start_date": "25/04/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "27 April  COVID-19 in New Zealand New Zealand enters alert level 3 for a period of at least two weeks at 1159 pm, partially lifting the lockdown requirements.",
+                    "links": [
+                        {
+                            "link": "https://www.stuff.co.nz/national/health/coronavirus/121131785/coronavirus-prime-minister-jacinda-ardern-will-reveal-alert-level-three-decision-at-4pm",
+                            "text": "-Devlin, Collette; Cooke, Henry (20 April 2020). \"Coronavirus: Prime Minister Jacinda Ardern says NZ will stay in lockdown until April 27\". Stuff. Retrieved 20 April 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-04-20",
+                                "Created": "2020-04-20"
+                            }
+                        }
+                    ],
+                    "start_date": "27/04/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "May",
+            "Data": [
+                {
+                    "event_text": "11 May  COVID-19 in New Zealand Cabinet decides to lower New Zealand's COVID-19 alert level to level two, effective from the 14 May.",
+                    "links": [],
+                    "start_date": "11/05/2020",
+                    "end_date": "14/05/2020"
+                },
+                {
+                    "event_text": "COVID-19 in New Zealand New Zealand entered COVID-19 alert level two at 11.59pm.",
+                    "links": [],
+                    "start_date": "13/05/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "It is reported that New Zealand Police failed to receive clearance from higher officials in central government, the senior police hierarchy or the Privacy Commissioner to use facial recognition software, after a trial was tested using the American firm Clearview AI's system.",
+                    "links": [
+                        {
+                            "link": "https://www.rnz.co.nz/news/national/416580/police-trial-of-facial-recognition-technology-a-matter-of-concern-andrew-little",
+                            "text": "-\"Police trial of facial recognition technology 'a matter of concern' - Andrew Little\". RNZ. 13 May 2020. Retrieved 13 May 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-05-13",
+                                "Created": "2020-05-13"
+                            }
+                        },
+                        {
+                            "link": "https://www.rnz.co.nz/news/national/416483/police-trialled-facial-recognition-tech-without-clearance",
+                            "text": "-\"Police trialled facial recognition tech without clearance\". RNZ. 13 May 2020. Retrieved 13 May 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-05-13",
+                                "Created": "2020-05-13"
+                            }
+                        }
+                    ],
+                    "start_date": "13/05/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "14 May  The 2020 Budget is unveiled, including a $50 billion recovery package to offset the impending recession.",
+                    "links": [
+                        {
+                            "link": "https://www.rnz.co.nz/news/budget-2020/416634/budget-2020-what-you-need-to-know",
+                            "text": "-\"Budget 2020: What you need to know\". RNZ. 14 May 2020. Retrieved 14 May 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-05-14",
+                                "Created": "2020-05-14"
+                            }
+                        }
+                    ],
+                    "start_date": "14/05/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "18 May  Statistics NZ announces that New Zealand's population reached five million during March, and estimates the population at 31 March as 5,002,100.",
+                    "links": [
+                        {
+                            "link": "https://www.tvnz.co.nz/one-news/new-zealand/significant-event-covid-19-migration-pushes-nzs-population-past-5-million-first-time",
+                            "text": "-\"'Significant event' - Covid-19 migration pushes NZ's population past 5 million for first time\". TVNZ. Retrieved 20 May 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-05-20",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "18/05/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "22 May  Todd Muller and Nikki Kaye are elected leader and deputy leader of the National Party in a leadership election, replacing Simon Bridges and Paula Bennett.",
+                    "links": [
+                        {
+                            "link": "https://www.stuff.co.nz/national/300018336/todd-muller-elected-national-leader-simon-bridges-ends-twoyear-reign",
+                            "text": "-\"Todd Muller elected National leader, Simon Bridges ends two-year reign\". Stuff. 22 May 2020. Retrieved 22 May 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-05-22",
+                                "Created": "2020-05-22"
+                            }
+                        }
+                    ],
+                    "start_date": "22/05/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "June",
+            "Data": [
+                {
+                    "event_text": "1 June  The 2020 Queen's Birthday Honours are announced.",
+                    "links": [
+                        {
+                            "link": "https://dpmc.govt.nz/publications/queens-birthday-honours-list-2020",
+                            "text": "-\"Queen's Birthday honours list 2020\". Department of the Prime Minister and Cabinet. 1 June 2020. Retrieved 1 June 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-06-01",
+                                "Created": "2020-06-01"
+                            }
+                        }
+                    ],
+                    "start_date": "01/06/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "8 June  COVID-19 in New Zealand New Zealand moves to alert level 1 at 1159 pm, removing nearly all social restrictions.",
+                    "links": [
+                        {
+                            "link": "https://www.rnz.co.nz/news/political/418524/prime-minister-jacinda-ardern-reveals-move-to-level-1-from-midnight",
+                            "text": "-\"Prime Minister Jacinda Ardern reveals move to level 1 from midnight\". RNZ. 8 June 2020. Retrieved 8 June 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-06-08",
+                                "Created": "2020-06-08"
+                            }
+                        }
+                    ],
+                    "start_date": "08/06/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "19 June  A fatal police shooting in West Auckland leaves a police officer dead and another seriously injured.",
+                    "links": [
+                        {
+                            "link": "https://www.stuff.co.nz/national/crime/121882364/one-officer-shot-dead-one-injured-and-another-person-hit-by-car-in-west-aucklands-massey",
+                            "text": "-\"One officer shot dead, one injured and another person hit by car in West Auckland's Massey\". Stuff. 19 June 2020. Retrieved 19 June 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-06-19",
+                                "Created": "2020-06-19"
+                            }
+                        }
+                    ],
+                    "start_date": "19/06/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "July",
+            "Data": [
+                {
+                    "event_text": "Sky New Zealand merges Lightbox into its Neon streaming service.",
+                    "links": [
+                        {
+                            "link": "https://web.archive.org/web/20200707043333/https://www.stuff.co.nz/entertainment/tv-radio/122055159/the-new-neon-is-here-what-does-the-neonlightbox-merger-look-like",
+                            "text": "-Downes, Siobhan (7 July 2020). \"The new Neon is here: What does the Neon-Lightbox merger look like?\". Stuff. Archived from the original on 7 July 2020. Retrieved 7 July 2020.-",
+                            "dates": {
+                                "Archieved": "2020-07-07",
+                                "Retrieved": "2020-07-07",
+                                "Created": "2020-07-07"
+                            }
+                        },
+                        {
+                            "link": "https://www.stuff.co.nz/entertainment/tv-radio/122055159/the-new-neon-is-here-what-does-the-neonlightbox-merger-look-like",
+                            "text": "-Downes, Siobhan (7 July 2020). \"The new Neon is here: What does the Neon-Lightbox merger look like?\". Stuff. Archived from the original on 7 July 2020. Retrieved 7 July 2020.-",
+                            "dates": {
+                                "Archieved": "2020-07-07",
+                                "Retrieved": "2020-07-07",
+                                "Created": "2020-07-07"
+                            }
+                        }
+                    ],
+                    "start_date": "07/07/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Hamish Walker, Member of Parliament for Clutha-Southland leaks sensitive information containing private details of COVID-19 patients. On the same day, Michelle Boag, former president of the National Party confesses that she sent the information to Walker. Boag resigns from her position as chief executive of the Auckland Rescue Helicopter Trust.",
+                    "links": [
+                        {
+                            "link": "https://www.stuff.co.nz/national/politics/300051710/national-mp-hamish-walker-admits-passing-on-leaked-covid19-patient-info-from-former-party-president-michelle-boag",
+                            "text": "-\"National MP Hamish Walker admits passing on leaked Covid-19 patient info from former party president Michelle Boag\". Stuff. 7 July 2020. Retrieved 10 July 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-07-10",
+                                "Created": "2020-07-07"
+                            }
+                        }
+                    ],
+                    "start_date": "07/07/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "9 July  Rio Tinto announces that Tiwai Point smelter is set to close, leaving 1000 people out of employment.",
+                    "links": [
+                        {
+                            "link": "https://www.rnz.co.nz/news/business/420817/rio-tinto-announces-plans-to-close-tiwai-point-smelter",
+                            "text": "-\"Rio Tinto announces plans to close Tiwai Point smelter\". RNZ. 9 July 2020. Retrieved 10 July 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-07-10",
+                                "Created": "2020-07-09"
+                            }
+                        }
+                    ],
+                    "start_date": "09/07/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Todd Muller announces his immediate resignation as the leader of National Party, citing health reasons.",
+                    "links": [
+                        {
+                            "link": "https://www.rnz.co.nz/news/political/421155/live-blog-todd-muller-resigns-as-national-party-leader",
+                            "text": "-\"Live blog: Todd Muller resigns as National Party leader\". RNZ. 14 July 2020. Retrieved 14 July 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-07-14",
+                                "Created": "2020-07-14"
+                            }
+                        }
+                    ],
+                    "start_date": "14/07/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Judith Collins and Gerry Brownlee are elected new leader and deputy leader of the National Party.",
+                    "links": [
+                        {
+                            "link": "https://www.rnz.co.nz/news/political/421206/new-national-party-leader-is-judith-collins",
+                            "text": "-\"New National Party leader is Judith Collins\". RNZ. 14 July 2020. Retrieved 14 July 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-07-14",
+                                "Created": "2020-07-14"
+                            }
+                        }
+                    ],
+                    "start_date": "14/07/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "August",
+            "Data": [
+                {
+                    "event_text": "11 August  COVID-19 in New Zealand Four new cases of COVID-19 outside of a quarantine facility are reported.",
+                    "links": [],
+                    "start_date": "11/08/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "COVID-19 in New Zealand At noon, Auckland enters alert level 3, while the rest of the country enters alert level 2.",
+                    "links": [],
+                    "start_date": "12/08/2020",
+                    "end_date": "17/08/2020"
+                },
+                {
+                    "event_text": "The dissolution of Parliament, originally set for this day, is delayed until 17 August.",
+                    "links": [],
+                    "start_date": "17/08/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Ardern announces that the 2020 New Zealand general election will be delayed until 17 October.",
+                    "links": [],
+                    "start_date": "17/08/2020",
+                    "end_date": "06/09/2020"
+                },
+                {
+                    "event_text": "The dissolution of Parliament is also delayed, to 6 September.",
+                    "links": [
+                        {
+                            "link": "https://web.archive.org/web/20200913065854/https://www.interest.co.nz/news/106574/general-election-be-moved-october-17-september-19-dissolution-parliament-deferred",
+                            "text": "-Tibshraeny, Jenée (17 August 2020). \"Election deferred by four weeks to October 17; Treasury's pre-election economic update pushed out\". Interest.co.nz. Archived from the original on 13 September 2020. Retrieved 17 August 2020.-",
+                            "dates": {
+                                "Archieved": "2020-09-13",
+                                "Retrieved": "2020-08-17",
+                                "Created": "2020-08-17"
+                            }
+                        },
+                        {
+                            "link": "https://www.interest.co.nz/news/106574/general-election-be-moved-october-17-september-19-dissolution-parliament-deferred",
+                            "text": "-Tibshraeny, Jenée (17 August 2020). \"Election deferred by four weeks to October 17; Treasury's pre-election economic update pushed out\". Interest.co.nz. Archived from the original on 13 September 2020. Retrieved 17 August 2020.-",
+                            "dates": {
+                                "Archieved": "2020-09-13",
+                                "Retrieved": "2020-08-17",
+                                "Created": "2020-08-17"
+                            }
+                        }
+                    ],
+                    "start_date": "06/09/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "September",
+            "Data": [
+                {
+                    "event_text": "4 September  COVID-19 in New Zealand The first death from COVID-19 since 28 May is reported.",
+                    "links": [
+                        {
+                            "link": "https://www.stuff.co.nz/national/health/coronavirus/300100073/coronavirus-auckland-man-with-covid19-dies-in-middlemore-hospital-the-first-death-of-the-new-cluster",
+                            "text": "-\"Coronavirus: Auckland man with Covid-19 dies in Middlemore Hospital, the first death of the new cluster\". Stuff. 4 September 2020. Retrieved 5 September 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-09-05",
+                                "Created": "2020-09-04"
+                            }
+                        }
+                    ],
+                    "start_date": "04/09/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "6 September  The 52nd New Zealand Parliament is dissolved.",
+                    "links": [
+                        {
+                            "link": "https://www.stuff.co.nz/national/politics/300100688/election-2020-parliament-dissolves-setting-stage-for-election-campaign",
+                            "text": "-Cooke, Henry (6 September 2020). \"Election 2020: Parliament dissolves, setting stage for election campaign\". Stuff. Retrieved 6 September 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-09-06",
+                                "Created": "2020-09-06"
+                            }
+                        }
+                    ],
+                    "start_date": "06/09/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "29 September  Two people are charged over the New Zealand First Foundation investigation.",
+                    "links": [
+                        {
+                            "link": "https://www.rnz.co.nz/news/national/427199/two-people-charged-with-obtaining-by-deception-in-nz-first-foundation-investigation",
+                            "text": "-\"Two people charged with 'obtaining by deception' in NZ First foundation investigation\". RNZ. 29 September 2020. Retrieved 30 September 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-09-30",
+                                "Created": "2020-09-29"
+                            }
+                        }
+                    ],
+                    "start_date": "29/09/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "October",
+            "Data": [
+                {
+                    "event_text": "4 October  A wildfire at Lake Ōhau causes the evacuation of 90 residents. As of 6 October, the fire had burnt 5,300 hectares, of which 1,900 hectares is conservation land.",
+                    "links": [
+                        {
+                            "link": "https://www.rnz.co.nz/news/national/427661/lake-ohau-fire-residents-may-be-able-to-collect-essential-belongings",
+                            "text": "-\"Lake Ōhau fire: Residents may be able to collect essential belongings\". RNZ. 6 October 2020. Retrieved 6 October 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-10-06",
+                                "Created": "2020-10-06"
+                            }
+                        }
+                    ],
+                    "start_date": "04/10/2020",
+                    "end_date": "06/10/2020"
+                },
+                {
+                    "event_text": "17 October  The 2020 general election is held alongside referendums on personal cannabis consumption and euthanasia. Labour wins a majority of the seats in Parliament, continuing the Sixth Labour Government.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-asia-54519628",
+                            "text": "-\"New Zealand election: Jacinda Ardern's Labour Party scores landslide win\". BBC News. 17 October 2020. Retrieved 17 October 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-10-17",
+                                "Created": "2020-10-17"
+                            }
+                        }
+                    ],
+                    "start_date": "17/10/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "November",
+            "Data": [
+                {
+                    "event_text": "9 November  A state of emergency is declared in Napier due to flooding.",
+                    "links": [
+                        {
+                            "link": "https://www.civildefence.govt.nz/resources/previous-emergencies/declared-states-of-emergency",
+                            "text": "-\"Declared States of Emergency\". www.civildefence.govt.nz. Retrieved 23 April 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-04-23",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "09/11/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "December",
+            "Data": [
+                {
+                    "event_text": "9 December  The University of Otago cancels its end-of-year graduation ceremonies after receiving a security threat.",
+                    "links": [
+                        {
+                            "link": "https://www.rnz.co.nz/news/national/432473/otago-university-postpones-graduation-ceremonies-after-security-threat",
+                            "text": "-\"Otago university postpones graduation ceremonies after security threat\". RNZ. 9 December 2020. Retrieved 30 December 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-12-30",
+                                "Created": "2020-12-09"
+                            }
+                        }
+                    ],
+                    "start_date": "09/12/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "26 December  The Tasman region suffers a heavy hail storm, causing millions of dollars in physical and economic damage.",
+                    "links": [
+                        {
+                            "link": "https://web.archive.org/web/20201229065616/https://www.tvnz.co.nz/one-news/new-zealand/tasman-hailstorm-destruction-boxing-day-storm-likely-impact-farmers-over-year",
+                            "text": "-\"Tasman hailstorm destruction: Boxing Day storm likely to impact farmers for over a year\". TVNZ. Archived from the original on 29 December 2020. Retrieved 30 December 2020.-",
+                            "dates": {
+                                "Archieved": "2020-12-29",
+                                "Retrieved": "2020-12-30",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://www.tvnz.co.nz/one-news/new-zealand/tasman-hailstorm-destruction-boxing-day-storm-likely-impact-farmers-over-year",
+                            "text": "-\"Tasman hailstorm destruction: Boxing Day storm likely to impact farmers for over a year\". TVNZ. Archived from the original on 29 December 2020. Retrieved 30 December 2020.-",
+                            "dates": {
+                                "Archieved": "2020-12-29",
+                                "Retrieved": "2020-12-30",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "26/12/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "27 December  Manukura, a North Island brown kiwi, born entirely with white feathers, dies after deteriorating health following surgery.",
+                    "links": [
+                        {
+                            "link": "https://www.rnz.co.nz/news/national/433705/first-white-kiwi-hatched-in-captivity-dies",
+                            "text": "-\"First white kiwi hatched in captivity dies\". RNZ. 28 December 2020. Retrieved 30 December 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-12-30",
+                                "Created": "2020-12-28"
+                            }
+                        }
+                    ],
+                    "start_date": "27/12/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A large bushfire in Ahipara leads to local residents being evacuated.",
+                    "links": [
+                        {
+                            "link": "https://www.stuff.co.nz/national/300195016/far-north-fire-residents-flee-homes-as-blaze-uncontained-overnight",
+                            "text": "-\"Far North fire: Residents flee homes as blaze 'uncontained' overnight\". Stuff. 29 December 2020. Retrieved 30 December 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-12-30",
+                                "Created": "2020-12-29"
+                            }
+                        }
+                    ],
+                    "start_date": "29/12/2020",
+                    "end_date": "29/12/2020"
+                },
+                {
+                    "event_text": "29 December - 3   Riots between inmates and prison guards at Waikeria Prison, causing major fire damage to the complex.",
+                    "links": [
+                        {
+                            "link": "https://www.stuff.co.nz/national/123838748/waikeria-prison-first-images-show-devastated-prison-inmates-rooftop-camp",
+                            "text": "-\"Waikeria Prison: First images show devastated prison, inmates' rooftop camp\". Stuff. 30 December 2020. Retrieved 30 December 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-12-30",
+                                "Created": "2020-12-30"
+                            }
+                        }
+                    ],
+                    "start_date": "29/12/2020",
+                    "end_date": "03/01/2021"
+                },
+                {
+                    "event_text": "31 December  The 2021 New Year Honours are announced.",
+                    "links": [
+                        {
+                            "link": "https://www.dpmc.govt.nz/publications/new-year-honours-list-2021",
+                            "text": "-\"New Year honours list 2021\". Department of the Prime Minister and Cabinet. 31 December 2020. Retrieved 31 December 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-12-31",
+                                "Created": "2020-12-31"
+                            }
+                        }
+                    ],
+                    "start_date": "31/12/2020",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

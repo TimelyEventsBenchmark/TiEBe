@@ -1,0 +1,581 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "1 January  The minimum wage in Colombia is raised from 1.3 million to 1.4 million Colombian pesos per month, a 9.54% rise.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/americas/colombia-minimum-wage-increase-954-323-per-month-2025-2024-12-24/",
+                            "text": "-\"Colombia minimum wage to increase 9.54% to $323 per month in 2025\". Reuters. 24 December 2024. Retrieved 1 January 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-01-01",
+                                "Created": "2024-12-24"
+                            }
+                        }
+                    ],
+                    "start_date": "01/01/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "3 January   Thirteen people die and 28 are injured after a bus carrying 42 people falls into a gorge while traveling on a road connecting Ipiales with Pasto in Nariño Department.",
+                    "links": [
+                        {
+                            "link": "https://www.eltiempo.com/colombia/otras-ciudades/relato-de-testigos-de-grave-accidente-en-la-via-pasto-ipiales-bus-de-pasajeros-se-fue-al-abismo-3414547",
+                            "text": "-Ruiz Hurtado, Angie Nataly (3 January 2025). \"Escalofriante relato de testigo del accidente en la vía Pasto- Ipiales: bus se fue al abismo y hay 13 muertos\". El Tiempo (in Spanish). Retrieved 4 January 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-01-04",
+                                "Created": "2025-01-03"
+                            }
+                        }
+                    ],
+                    "start_date": "03/01/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "8 January  A Cessna 402 operated by Pacifica de Aviación (registered as HK-2522) crashes in Antioquia Department, killing all 10 occupants on board.",
+                    "links": [
+                        {
+                            "link": "https://asn.flightsafety.org/wikibase/470417",
+                            "text": "-Ranter, Harro. \"Accident Cessna 402C HK-2522, Wednesday 8 January 2025\". asn.flightsafety.org. Retrieved 2025-01-11.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-01-08",
+                                "Created": "2025-01-11"
+                            }
+                        }
+                    ],
+                    "start_date": "08/01/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "10 January  Venezuela closes its border with Colombia ahead of President Nicolás Maduro's third inauguration.",
+                    "links": [
+                        {
+                            "link": "https://www.lemonde.fr/en/international/article/2025/01/10/venezuela-closes-colombia-border-ahead-of-maduro-s-swearing-in_6736907_4.html",
+                            "text": "-\"Venezuela closes Colombia border ahead of Maduro's swearing-in\". 10 January 2025. Retrieved 12 January 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-01-12",
+                                "Created": "2025-01-10"
+                            }
+                        },
+                        {
+                            "link": "https://www.cbsnews.com/miami/video/report-from-the-colombia-venezuela-border/",
+                            "text": "-\"Report from the Colombia-Venezuela border\". CBS Miami. 10 January 2025. Retrieved 12 January 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-01-12",
+                                "Created": "2025-01-10"
+                            }
+                        }
+                    ],
+                    "start_date": "10/01/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "17 January  2025 Catatumbo clashes The government suspends peace talks with the National Liberation Army (ELN) following separate clashes between the group and dissident Revolutionary Armed Forces of Colombia (FARC) members in Norte de Santander Department and the Clan del Golfo in Bolívar Department that leaves at least 39 people dead.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/americas/colombias-president-suspends-peace-talks-with-eln-rebels-2025-01-17/",
+                            "text": "-\"Colombia's president suspends peace talks with ELN rebels\". Reuters. 17 January 2025. Retrieved 17 January 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-01-17",
+                                "Created": "2025-01-17"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20250117214724/https://www.reuters.com/world/americas/colombias-president-suspends-peace-talks-with-eln-rebels-2025-01-17/",
+                            "text": "-\"Colombia halts peace talks with ELN rebels amid accusations of 'war crimes' in northeast region\". Reuters. 17 January 2025. Archived from the original on 17 January 2025. Retrieved 17 January 2025.-",
+                            "dates": {
+                                "Archieved": "2025-01-17",
+                                "Retrieved": "2025-01-17",
+                                "Created": "2025-01-17"
+                            }
+                        },
+                        {
+                            "link": "https://www.reuters.com/world/americas/colombias-president-suspends-peace-talks-with-eln-rebels-2025-01-17/",
+                            "text": "-\"Colombia halts peace talks with ELN rebels amid accusations of 'war crimes' in northeast region\". Reuters. 17 January 2025. Archived from the original on 17 January 2025. Retrieved 17 January 2025.-",
+                            "dates": {
+                                "Archieved": "2025-01-17",
+                                "Retrieved": "2025-01-17",
+                                "Created": "2025-01-17"
+                            }
+                        },
+                        {
+                            "link": "https://www.france24.com/en/live-news/20250117-30-killed-in-colombia-armed-violence-govt-suspends-rebel-peace-talks",
+                            "text": "-\"39 dead in Colombia guerilla violence, govt suspends peace talks\". France 24. 18 January 2025. Retrieved 18 January 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-01-18",
+                                "Created": "2025-01-18"
+                            }
+                        }
+                    ],
+                    "start_date": "17/01/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The death toll of the ELN attacks in northeastern Colombia rises to at least 80 people, with thousands more displaced.",
+                    "links": [
+                        {
+                            "link": "https://www.washingtonpost.com/video/world/guerrilla-violence-in-northern-colombia-displaces-thousands/2025/01/21/6c7cbfc1-622a-4480-ab4b-fc574534e7c1_video.html",
+                            "text": "-\"Guerrilla violence in northern Colombia displaces thousands\". Reuters. 21 January 2025. Retrieved 21 January 2025 – via The Washington Post.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-01-21",
+                                "Created": "2025-01-21"
+                            }
+                        }
+                    ],
+                    "start_date": "21/01/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The government officially declares a state of internal commotion and launches a military offensive against ELN guerillas. The National Police begin evacuating people from affected areas.",
+                    "links": [
+                        {
+                            "link": "https://www.france24.com/en/americas/20250121-colombia-war-guerrilla-violence",
+                            "text": "-\"Colombia vows 'war' against left-wing guerrillas as violence kills more than 100\". France 24. 21 January 2025. Retrieved 21 January 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-01-21",
+                                "Created": "2025-01-21"
+                            }
+                        },
+                        {
+                            "link": "https://www.larepublica.co/economia/gustavo-petro-decreta-estado-de-emergencia-economica-por-la-situacion-en-catatumbo-4041533",
+                            "text": "-\"Gustavo Petro decreta Estado de Emergencia Económica por la situación en Catatumbo\" [Gustavo Petro declares a State of Economic Emergency due to the situation in Catatumbo]. La República (in Spanish). 20 January 2025. Retrieved 21 January 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-01-21",
+                                "Created": "2025-01-20"
+                            }
+                        }
+                    ],
+                    "start_date": "21/01/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Fourteen FARC dissidents from the 33rd front surrender to the National Army to avoid attacks by the ELN in El Tarra and Tibú municipalities of Norte de Santander.",
+                    "links": [
+                        {
+                            "link": "https://www.bluradio.com/nacion/14-disidentes-de-las-farc-se-entregaron-en-medio-de-guerra-contra-eln-en-catatumbo-rg10",
+                            "text": "-García, Felipe (21 January 2025). \"14 disidentes de las Farc se entregaron en medio de guerra contra ELN en Catatumbo\". Blu Radio (in Spanish). Retrieved 22 January 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-01-22",
+                                "Created": "2025-01-21"
+                            }
+                        }
+                    ],
+                    "start_date": "21/01/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "2025 Catatumbo clashes The Attorney General reactivates arrest warrants for 31 ELN leaders, including some who had represented the ELN during peace talks.",
+                    "links": [
+                        {
+                            "link": "https://www.elpais.com.co/judicial/fiscalia-reactivo-ordenes-de-captura-contra-cupula-del-eln-por-ola-de-violencia-en-el-catatumbo-2200.html",
+                            "text": "-\"Fiscalía reactivó órdenes de captura contra cúpula del ELN por crisis en Catatumbo\". El País (in Spanish). 22 January 2025. Retrieved 22 January 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-01-22",
+                                "Created": "2025-01-22"
+                            }
+                        }
+                    ],
+                    "start_date": "22/01/2025",
+                    "end_date": "22/01/2025"
+                },
+                {
+                    "event_text": "President Petro travels to Haiti in an official state visit and meets with members of the transitional government.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/americas/colombias-petro-visits-southern-haiti-violence-spikes-both-countries-2025-01-23/",
+                            "text": "-Morland, Sarah (22 January 2025). \"Colombia's Petro visits southern Haiti as violence spikes in both countries\". Reuters. Retrieved 23 January 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-01-23",
+                                "Created": "2025-01-22"
+                            }
+                        },
+                        {
+                            "link": "https://apnews.com/article/haiti-petro-colombia-gangs-violence-2bc0bafb3161c190a9b8001e385d81ec",
+                            "text": "-\"Colombian president visits southern Haiti as country battles surge in gang violence\". Associated Press. 22 January 2025. Retrieved 23 January 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-01-23",
+                                "Created": "2025-01-22"
+                            }
+                        }
+                    ],
+                    "start_date": "22/01/2025",
+                    "end_date": "22/01/2025"
+                },
+                {
+                    "event_text": "24 January  2025 Catatumbo clashes President Petro issues a decree giving himself emergency powers to restore order in the Catatumbo region for a period of 270 days.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/colombia-president-decree-powers-coca-region-c750a090635dff5ba6231c99e52ee919",
+                            "text": "-Suarez, Astrid (20 January 2025). \"Colombia president decrees emergency powers to restore order in coca region wracked by rebel combat\". AP News. Retrieved 24 January 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-01-24",
+                                "Created": "2025-01-20"
+                            }
+                        }
+                    ],
+                    "start_date": "24/01/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "25 January  2025 Catatumbo clashes Eight-four ELN combatants surrender to authorities and 20 child soldiers are rescued from the ELN's 33rd Front. Fifty-five rifles, five machine guns, a sniper rifle, 25 pistols, 80 mortar shells, explosives, 300 anti-personnel mines, 20,327 rounds of ammunition and communications equipment are also seized.",
+                    "links": [],
+                    "start_date": "25/01/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "26 January  US President Donald Trump threatens to impose sanctions, tariffs, a travel ban, and visa revocations against Colombia as retaliation for not accepting two U.S. military deportation flights. President Petro says that the country will not accept any deportation flights until the United States creates a process that treats the migrants with \"dignity and respect,\" and that civilian aircraft flights would be accepted. Later in the day, the White House announces that Colombia had agreed to accept deportees.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/americas/colombias-petro-will-not-allow-us-planes-return-migrants-2025-01-26/",
+                            "text": "-Stewart, Phil; Griffin, Oliver (26 January 2025). \"Trump heaps tariffs on Colombia after it refuses migration deportation flights\". Reuters. Retrieved 26 January 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-01-26",
+                                "Created": "2025-01-26"
+                            }
+                        },
+                        {
+                            "link": "https://www.nytimes.com/2025/01/26/world/americas/colombia-us-deportation-flights.html",
+                            "text": "-Glatsky, Genevieve; Romero, Simon (26 January 2025). \"Trump Hits Colombia With Tariffs in Feud Over Military Deportation Flights\". The New York Times. ISSN 0362-4331. Archived from the original on 26 January 2025. Retrieved 26 January 2025.-",
+                            "dates": {
+                                "Archieved": "2025-01-26",
+                                "Retrieved": "2025-01-26",
+                                "Created": "2025-01-26"
+                            }
+                        },
+                        {
+                            "link": "https://search.worldcat.org/issn/0362-4331",
+                            "text": "-Glatsky, Genevieve; Romero, Simon (26 January 2025). \"Trump Hits Colombia With Tariffs in Feud Over Military Deportation Flights\". The New York Times. ISSN 0362-4331. Archived from the original on 26 January 2025. Retrieved 26 January 2025.-",
+                            "dates": {
+                                "Archieved": "2025-01-26",
+                                "Retrieved": "2025-01-26",
+                                "Created": "2025-01-26"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20250126193503/https://www.nytimes.com/2025/01/26/world/americas/colombia-us-deportation-flights.html",
+                            "text": "-Glatsky, Genevieve; Romero, Simon (26 January 2025). \"Trump Hits Colombia With Tariffs in Feud Over Military Deportation Flights\". The New York Times. ISSN 0362-4331. Archived from the original on 26 January 2025. Retrieved 26 January 2025.-",
+                            "dates": {
+                                "Archieved": "2025-01-26",
+                                "Retrieved": "2025-01-26",
+                                "Created": "2025-01-26"
+                            }
+                        },
+                        {
+                            "link": "https://apnews.com/article/colombia-immigration-deportation-flights-petro-trump-us-67870e41556c5d8791d22ec6767049fd",
+                            "text": "-\"White House says Colombia agrees to take deported migrants after Trump tariff showdown\". AP News. 27 January 2025. Retrieved 26 January 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-01-26",
+                                "Created": "2025-01-27"
+                            }
+                        }
+                    ],
+                    "start_date": "26/01/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "29 January The first leg of the 2025 Superliga Colombiana is held at Estadio Atanasio Girardot in Medellín.",
+                    "links": [],
+                    "start_date": "29/01/2025",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "4 February  President Petro orders the cancellation of a joint petroleum production venture between the state oil company Ecopetrol and the US firm Occidental Petroleum, citing concerns over the usage of fracking.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/colombia-ecopetrol-oxy-fracking-petro-254a102d26b3c17dc8bfadc1ba37659e",
+                            "text": "-Rueda, Manuel (5 February 2025). \"Colombia's president orders national oil company to cancel US venture over environmental concerns\". AP News. Retrieved 5 February 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-05",
+                                "Created": "2025-02-05"
+                            }
+                        }
+                    ],
+                    "start_date": "04/02/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "6 February The second leg of the 2025 Superliga Colombiana is held at Estadio Américo Montanini in Bucaramanga. Atlético Nacional wins 43 on penalties, winning their fourth title.[citation needed]",
+                    "links": [],
+                    "start_date": "06/02/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "9 February  President Petro asks his entire cabinet to resign amid an ongoing internal dispute.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/colombia-cabinet-political-crisis-petro-benedetti-security-2c4261cdf983d1babe97f2e2c2cba411",
+                            "text": "-Rueda, Manuel (11 February 2025). \"Colombia's interior minister resigns as cracks deepen in President Petro's coalition\". AP News. Retrieved 11 February 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-11",
+                                "Created": "2025-02-11"
+                            }
+                        }
+                    ],
+                    "start_date": "09/02/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "18 February  The ELN launches a three-day \"armed strike\" in Chocó Department.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/colombia-eln-rebel-strike-choco-fighting-displaced-people-5d595cb7c5f0fc8b6b04e9c23f0e03e4",
+                            "text": "-Rueda, Manuel (18 February 2025). \"ELN rebels launch 3-day armed strike in Colombia's northwest as violence in rural areas escalates\". AP News. Retrieved 19 February 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-19",
+                                "Created": "2025-02-18"
+                            }
+                        }
+                    ],
+                    "start_date": "18/02/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "20 February  A police officer is injured in a bomb attack on a police station in Cúcuta.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/colombia-petro-coca-eln-farc-explosions-catatumbo-00355666825121a5086d25ecf64f2631",
+                            "text": "-\"Clashes between Colombian military and guerrilla dissidents leave a soldier dead and another wounded\". AP News. 21 February 2025. Retrieved 21 February 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-21",
+                                "Created": "2025-02-21"
+                            }
+                        }
+                    ],
+                    "start_date": "20/02/2025",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "6 March  Twenty-eight soldiers and a police officer are abducted in an attack by FARC dissidents in El Plateado, Cauca Department. They are released on 8 March.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/colombia-kidnapped-police-el-plateado-262afe49582de7b0e4338008a8258ade",
+                            "text": "-\"29 kidnapped law enforcement officers in southwest Colombia are freed\". AP News. 9 March 2025. Retrieved 12 March 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-03-12",
+                                "Created": "2025-03-09"
+                            }
+                        }
+                    ],
+                    "start_date": "06/03/2025",
+                    "end_date": "08/03/2025"
+                },
+                {
+                    "event_text": "11 March  Five soldiers are killed in a roadside bombing of their vehicle by FARC dissidents in the Micay Canyon, Cauca Department.",
+                    "links": [
+                        {
+                            "link": "https://thedefensepost.com/2025/03/12/guerrilla-attack-soldiers-colombia/",
+                            "text": "-\"Five Soldiers Killed in Guerrilla Attack in Southwest Colombia\". The Defense Post. 12 March 2025. Retrieved 13 March 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-03-13",
+                                "Created": "2025-03-12"
+                            }
+                        }
+                    ],
+                    "start_date": "11/03/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "20 March  Match 63 of the 2026 FIFA World Cup qualifications is played between Brazil and Colombia at Estádio Nacional Mané Garrincha in Brasília, Brazil. Brazil wins 2-1 in a last minute goal.",
+                    "links": [
+                        {
+                            "link": "https://www.espn.com/soccer/report/_/gameId/684638",
+                            "text": "-\"Brazil 2-1 Colombia (Mar 20, 2025) Game Analysis\". ESPN. Retrieved 2025-04-12.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2025-04-12"
+                            }
+                        },
+                        {
+                            "link": "https://www.forbes.com/sites/josephosullivan/2025/03/20/brazil-defeats-colombia-in-epic-south-american-world-cup-qualifier/",
+                            "text": "-O'Sullivan, Joseph. \"Brazil Defeats Colombia In Epic South American World Cup Qualifier\". Forbes. Retrieved 2025-04-12.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-04-12",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "20/03/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "25 March  Match 66 of the 2026 FIFA World Cup qualifications is played between Colombia and Paraguay at the Estadio Metropolitano Roberto Meléndez in Barranquilla.",
+                    "links": [
+                        {
+                            "link": "https://www.espn.com.au/football/matchstats/_/gameId/684646",
+                            "text": "-\"Colombia 2-2 Paraguay (26 Mar, 2025) Team Stats - ESPN (AU)\". ESPN. Retrieved 2025-04-12.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-04-12",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "25/03/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "2527 March  The World Health Organization's (WHO) Second Global Conference on Air Pollution and Health is held in Cartagena.",
+                    "links": [
+                        {
+                            "link": "https://www.who.int/news-room/events/detail/2025/03/25/default-calendar/second-global-conference-on-air-pollution-and-health",
+                            "text": "-\"Second Global Conference on Air Pollution and Health\". World Health Organization. Retrieved 27 September 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-09-27",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "27/03/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Former Medellín Cartel leader Carlos Lehder is arrested upon arrival at El Dorado International Airport in Bogotá from Germany. He is released on 31 March after a court rules that his 24-year prison sentence for drug trafficking in Colombia had expired in 2019.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/colombia-carlos-lehder-medellin-cartel-released-02cbc5c201a6e930c15137a8bf9ee4af",
+                            "text": "-\"Former Medellin Cartel boss released in Colombia after a judge rules his sentence expired\". AP News. 31 March 2025. Retrieved 1 April 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-04-01",
+                                "Created": "2025-03-31"
+                            }
+                        }
+                    ],
+                    "start_date": "31/03/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Deportation in the second presidency of Donald Trump Felipe Zapata Velázquez, a Colombian student studying in the United States on an F-1 visa at the University of Florida, is pulled over in a traffic stop for alleged traffic violations and deported back to Colombia.",
+                    "links": [
+                        {
+                            "link": "https://www.nbcnews.com/news/us-news/university-florida-student-deported-colombia-traffic-stop-rcna200366",
+                            "text": "-\"University of Florida student deported to Colombia after traffic stop\". NBC News. 2025-04-09. Retrieved 2025-04-12.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-04-12",
+                                "Created": "2025-04-09"
+                            }
+                        }
+                    ],
+                    "start_date": "31/03/2025",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "The Comuneros del Sur, an ELN splinter group, signs a peace agreement with the government.",
+                    "links": [
+                        {
+                            "link": "https://www.dw.com/en/colombian-rebel-group-begins-handing-over-arms-to-government/a-72151906",
+                            "text": "-\"Colombian rebel group begins handing over arms to government\". DW News. 6 April 2025. Retrieved 7 April 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-04-07",
+                                "Created": "2025-04-06"
+                            }
+                        }
+                    ],
+                    "start_date": "05/04/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Sara Millerey González, a 32 year old trans woman, dies after being assaulted, raped, and thrown into a stream near Bello, Antioquia. Her assault and death spark protests and vigils in Bello as well as Barranquilla, Bogotá, Cali, and Medellín.",
+                    "links": [
+                        {
+                            "link": "https://www.thepinknews.com/2025/04/11/sara-millerey-vigil-trans-colombia/",
+                            "text": "-Perry, Sophie (2025-04-11). \"Sara Millerey: Vigil held for trans woman brutally killed in Colombia\". PinkNews. Retrieved 2025-04-12.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-04-12",
+                                "Created": "2025-04-11"
+                            }
+                        },
+                        {
+                            "link": "https://cnnespanol.cnn.com/2025/04/09/colombia/homicidio-sara-millerey-mujer-trans-colombia-orix",
+                            "text": "-Torres, Mauricio; Triana, Nathaly (2025-04-10). \"Investigan el homicidio de Sara Millerey, una mujer trans cuyo crimen genera repudio en Colombia\". CNN en Español (in Spanish). Retrieved 2025-04-12.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-04-12",
+                                "Created": "2025-04-10"
+                            }
+                        },
+                        {
+                            "link": "https://cnnespanol.cnn.com/2025/04/10/colombia/video/caso-sara-millerey-colombia-orix",
+                            "text": "-Quintana, Daniella; Triana, Nathaly (2025-04-10). Homicidio de Sara Millerey: el crimen de una mujer trans que conmociona a Colombia (in Spanish). Retrieved 2025-04-12 – via CNN en Español.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-04-12",
+                                "Created": "2025-04-10"
+                            }
+                        }
+                    ],
+                    "start_date": "05/04/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "6 April  The dismembered remains of Italian biologist Alessandro Coatti are found in multiple locations near and in the city of Santa Marta. Mayor of Santa Marta Carlos Pinedo Cuello makes a public statement committing to finding those responsible.",
+                    "links": [],
+                    "start_date": "06/04/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "12 April  Authorities in Bogotá lift a water-rationing scheme that had been implemented in the city since 2024 due to drought.",
+                    "links": [
+                        {
+                            "link": "https://www.france24.com/en/live-news/20250411-bogota-ends-one-year-of-climate-induced-water-rationing",
+                            "text": "-\"Bogota ends one year of climate-induced water rationing\". France 24. 12 April 2025. Retrieved 12 April 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-04-12",
+                                "Created": "2025-04-12"
+                            }
+                        }
+                    ],
+                    "start_date": "12/04/2025",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

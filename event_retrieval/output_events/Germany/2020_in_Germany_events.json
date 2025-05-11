@@ -1,0 +1,476 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "5 January  Beginning of Volleyball at the 2020 Summer Olympics  Men's European qualification",
+                    "links": [
+                        {
+                            "link": "https://www.cev.eu/News.aspx?NewsID=29649",
+                            "text": "-\"Germany and Berlin to host men's European Olympic qualifier!\". CEV. 29 August 2019.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2019-08-29"
+                            }
+                        }
+                    ],
+                    "start_date": "05/01/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "6 January  End of 201920 Four Hills Tournament, a ski jumping event co-hosted by Germany and Austria",
+                    "links": [
+                        {
+                            "link": "https://www.fis-ski.com/DB/general/results.html?sectorcode=JP&raceid=5571",
+                            "text": "-\"Four Hills Tournament / Overall Standings\". FIS. Retrieved 11 January 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-01-11",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "06/01/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "17 January  Beginning of 2020 Men's EuroHockey Indoor Nations Championship",
+                    "links": [],
+                    "start_date": "17/01/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "20 January  Beginning of 2020 German Masters",
+                    "links": [],
+                    "start_date": "20/01/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "21 February  2020 Junior World Luge Championships",
+                    "links": [],
+                    "start_date": "21/02/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "24 January  2020 Rot am See shooting",
+                    "links": [],
+                    "start_date": "24/01/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "27 January  The first recorded infection of the COVID-19 pandemic in Germany occurs in Bavaria.",
+                    "links": [],
+                    "start_date": "27/01/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "5 February  The Start of the 2020 Thuringian government crisis. The Crisis was triggered by the election of Thomas Kemmerich from Free Democratic Party (Germany) FDP as Thuringian Minister President with votes from the Alternative for Germany (AfD), Christian Democratic Union of Germany (CDU} and (FDP). The election attracted considerable national and international attention because, for the first time in the history of the Federal Republic of Germany, a Minister President was elected with votes from a far-right populist party, in this case the AfD.",
+                    "links": [],
+                    "start_date": "05/02/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "8 February  Kemmerich resigns as the Thuringian Minister President.",
+                    "links": [],
+                    "start_date": "08/02/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "19 February  Hanau shootings",
+                    "links": [],
+                    "start_date": "19/02/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "20 February  70th Berlin International Film Festival",
+                    "links": [],
+                    "start_date": "20/02/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Beginning of IBSF World Championships 2020",
+                    "links": [],
+                    "start_date": "21/02/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Beginning of 2020 Judo Grand Slam Düsseldorf",
+                    "links": [],
+                    "start_date": "21/02/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "22 February  2020 German Indoor Athletics Championships",
+                    "links": [],
+                    "start_date": "22/02/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "23 February  2020 Hamburg state election the SPD remains in first place with 39% of the vote.",
+                    "links": [
+                        {
+                            "link": "https://www.merkur.de/politik/buergerschaftswahl-hamburg-2020-buergermeister-buergerschaft-afd-fdp-ergebnis-ticker-zr-13555162.html",
+                            "text": "-\"Hamburg-Wahl 2020: Katastrophe für FDP besiegelt - Merz spricht von \"Desaster\" für CDU (in German)\". Merkur.de. 24 February 2020. Retrieved 24 February 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-02-24",
+                                "Created": "2020-02-24"
+                            }
+                        }
+                    ],
+                    "start_date": "23/02/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "24 February  Volkmarsen ramming attack",
+                    "links": [],
+                    "start_date": "24/02/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "26 February  Beginning of 2020 UCI Track Cycling World Championships",
+                    "links": [],
+                    "start_date": "26/02/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "9 March  First death in Essen in COVID-19 pandemic in Germany",
+                    "links": [],
+                    "start_date": "09/03/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "12 March  The Federal Office for the Protection of the Constitution (BfV) classified the Flügel a far-right faction within Germany's Alternative for Germany (AfD) as \"a right-wing extremist endeavor against the free democratic basic order\" that was incompatible with Germany's Basic Law, and placed the group under intelligence surveillance.",
+                    "links": [
+                        {
+                            "link": "https://www.verfassungsschutz.de/de/oeffentlichkeitsarbeit/presse/pm-20200312-bfv-stuft-afd-teilorganisation-der-fluegel-als-gesichert-rechtsextremistische-bestrebung-ein",
+                            "text": "-Bundesamt für Verfassungsschutz stuft AfD-Teilorganisation \"Der Flügel\" als gesichert rechtsextremistische Bestrebung ein Archived 18 March 2020 at the Wayback Machine [The Federal Office for the Protection of the Constitution classifies the AfD sub-organization \"The Wing\" as a right-wing extremist endeavor] (press release), Federal Office for the Protection of the Constitution (March 12, 2020).-",
+                            "dates": {
+                                "Archieved": "2020-03-18",
+                                "Retrieved": null,
+                                "Created": "2020-03-12"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20200318155006/https://www.verfassungsschutz.de/de/oeffentlichkeitsarbeit/presse/pm-20200312-bfv-stuft-afd-teilorganisation-der-fluegel-als-gesichert-rechtsextremistische-bestrebung-ein",
+                            "text": "-Bundesamt für Verfassungsschutz stuft AfD-Teilorganisation \"Der Flügel\" als gesichert rechtsextremistische Bestrebung ein Archived 18 March 2020 at the Wayback Machine [The Federal Office for the Protection of the Constitution classifies the AfD sub-organization \"The Wing\" as a right-wing extremist endeavor] (press release), Federal Office for the Protection of the Constitution (March 12, 2020).-",
+                            "dates": {
+                                "Archieved": "2020-03-18",
+                                "Retrieved": null,
+                                "Created": "2020-03-12"
+                            }
+                        },
+                        {
+                            "link": "https://www.spiegel.de/politik/deutschland/afd-verfassungsschutz-stuft-fluegel-als-beobachtungsfall-ein-a-1436d2da-ded7-4c62-9209-3ab648d104cf",
+                            "text": "-\"Verfassungsschutz stuft \"Flügel\" als rechtsextrem ein\". Der Spiegel (in German). 12 March 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2020-03-12"
+                            }
+                        }
+                    ],
+                    "start_date": "12/03/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "16 March  COVID-19 pandemic in Germany; All schools in Germany are closed",
+                    "links": [],
+                    "start_date": "16/03/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "20 April  2020 coronavirus pandemic in Germany, Germany reopens shops with cloth face mask restriction for buyers, but Chancellor Angela Merkel warns of a second coronavirus wave in the country in autumn 2020.",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/world/2020/apr/20/germany-takes-tentative-steps-back-to-normality-as-coronavirus-lockdown-eases",
+                            "text": "-\"Germany takes tentative steps back to normality as lockdown eases\". the Guardian. 20 April 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2020-04-20"
+                            }
+                        }
+                    ],
+                    "start_date": "20/04/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "30 April  2020 coronavirus pandemic in Germany - After a summit between Angela Merkel and state leaders, the federal government allowed opening of museums, monuments, botanical gardens and zoos, and religious services under strict social distancing conditions.",
+                    "links": [
+                        {
+                            "link": "https://www.bundeskanzlerin.de/bkin-de/aktuelles/telefonschaltkonferenz-der-bundeskanzlerin-mit-den-regierungschefinnen-und-regierungschefs-der-laender-am-30-april-2020-1749798",
+                            "text": "-\"Telefonschaltkonferenz der Bundeskanzlerin mit den Regierungschefinnen und Regierungschefs der Länder am 30 April 2020\". Die Bundeskanzlerin (in German). Retrieved 7 May 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-05-07",
+                                "Created": "2020-04-30"
+                            }
+                        }
+                    ],
+                    "start_date": "30/04/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "May",
+            "Data": [
+                {
+                    "event_text": "5 May  German Bundesverfassungsgericht decided, that the expanded asset-purchase programme (EAPP) since 2015 by European Central Bank violates German law.",
+                    "links": [
+                        {
+                            "link": "https://jura-online.de/blog/2020/05/07/paukenschlag-aus-karlsruhe-bverfg-urteilt-gegen-ezb-und-eugh/",
+                            "text": "-Jura-Online: Paukenschlag aus Karlsruhe Archived 23 January 2021 at the Wayback Machine (german), May 5, 2020-",
+                            "dates": {
+                                "Archieved": "2021-01-23",
+                                "Retrieved": null,
+                                "Created": "2020-05-05"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20210123003840/https://jura-online.de/blog/2020/05/07/paukenschlag-aus-karlsruhe-bverfg-urteilt-gegen-ezb-und-eugh/",
+                            "text": "-Jura-Online: Paukenschlag aus Karlsruhe Archived 23 January 2021 at the Wayback Machine (german), May 5, 2020-",
+                            "dates": {
+                                "Archieved": "2021-01-23",
+                                "Retrieved": null,
+                                "Created": "2020-05-05"
+                            }
+                        },
+                        {
+                            "link": "https://www.merkur.de/wirtschaft/ezb-anleihenkaeufe-staatsanleihen-bundesverfassungsgericht-angela-merkel-urteil-verfassungswidrig-zr-13750612.html",
+                            "text": "-Merkur.de: EZB hält trotz Urteil an Anleihenkäufen fest - Merkel spricht von \"heikler Lage\" Archived 27 May 2020 at the Wayback Machine, May 5, 2020-",
+                            "dates": {
+                                "Archieved": "2020-05-27",
+                                "Retrieved": null,
+                                "Created": "2020-05-05"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20200527100427/https://www.merkur.de/wirtschaft/ezb-anleihenkaeufe-staatsanleihen-bundesverfassungsgericht-angela-merkel-urteil-verfassungswidrig-zr-13750612.html",
+                            "text": "-Merkur.de: EZB hält trotz Urteil an Anleihenkäufen fest - Merkel spricht von \"heikler Lage\" Archived 27 May 2020 at the Wayback Machine, May 5, 2020-",
+                            "dates": {
+                                "Archieved": "2020-05-27",
+                                "Retrieved": null,
+                                "Created": "2020-05-05"
+                            }
+                        }
+                    ],
+                    "start_date": "05/05/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "7 May  German parliament Bundestag bans conversion therapy for those under 18 years nationwide and forbids advertising of conversion therapy. It also forbids conversion therapy for adults, if they decided by force, fraud or pressure.",
+                    "links": [
+                        {
+                            "link": "https://www.bundestag.de/dokumente/textarchiv/2020/kw19-de-konversionsbehandlung-692676",
+                            "text": "-Bundestag.de: Bundestag verbietet Therapien zur \"Heilung\" von Homosexualität (german) Archived 1 June 2020 at the Wayback Machine, May 7, 2020-",
+                            "dates": {
+                                "Archieved": "2020-06-01",
+                                "Retrieved": null,
+                                "Created": "2020-05-07"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20200601103800/https://www.bundestag.de/dokumente/textarchiv/2020/kw19-de-konversionsbehandlung-692676",
+                            "text": "-Bundestag.de: Bundestag verbietet Therapien zur \"Heilung\" von Homosexualität (german) Archived 1 June 2020 at the Wayback Machine, May 7, 2020-",
+                            "dates": {
+                                "Archieved": "2020-06-01",
+                                "Retrieved": null,
+                                "Created": "2020-05-07"
+                            }
+                        }
+                    ],
+                    "start_date": "07/05/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "15 May  Germany's Bundestag votes to make the burning of the EU flag or that of another country a hate crime equivalent to that of burning the German flag - carrying a sentence of up to three years in prison. The only major party that opposed the move was the right-wing Alternative for Germany.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-europe-52674809",
+                            "text": "-\"Burning EU and other flags can now bring German jail term\". BBC News. 15 May 2020. Retrieved 2 September 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-09-02",
+                                "Created": "2020-05-15"
+                            }
+                        }
+                    ],
+                    "start_date": "15/05/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "July",
+            "Data": [
+                {
+                    "event_text": "21 July  The government of Baden-Württemberg bans full-face coverings burqas, niqabs for all school children. the rule will apply to primary and secondary education. Winfried Kretschmann the Ministers-President said that full-face veiling did not belong in a free society.",
+                    "links": [
+                        {
+                            "link": "https://www.dw.com/en/german-state-bans-burqas-niqabs-in-schools/a-54256541",
+                            "text": "-Welle (www.dw.com), Deutsche. \"German state bans burqas, niqabs in schools | DW | 21.07.2020\". DW.COM. Retrieved 2 September 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-09-02",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://metro.co.uk/2020/07/23/german-state-bans-children-wearing-burka-school-13029540/",
+                            "text": "-\"Children banned from wearing burkas at school in German state\". Metro. 23 July 2020. Retrieved 2 September 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-09-02",
+                                "Created": "2020-07-23"
+                            }
+                        }
+                    ],
+                    "start_date": "21/07/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "August",
+            "Data": [
+                {
+                    "event_text": "22 August  Alexai Navalny, a seriously ill Russian opposition leader, is taken to Berlin for treatment.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/world-europe-53871617",
+                            "text": "-\"Alexei Navalny: Putin critic arrives in Germany for medical treatment\". BBC News. 22 August 2020. Retrieved 2 September 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-09-02",
+                                "Created": "2020-08-22"
+                            }
+                        }
+                    ],
+                    "start_date": "22/08/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "29 August  hundreds of protesters try to storm the Reichstag. Early in the day tens of thousands protested against government measures for the coronavirus.",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/world/2020/aug/29/berlin-braces-for-anti-coronavirus-protest-against-covid-19-restrictions",
+                            "text": "-\"'Anti-corona' extremists try to storm German parliament\". the Guardian. Associated Press. 29 August 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2020-08-29"
+                            }
+                        },
+                        {
+                            "link": "https://www.bbc.com/news/world-europe-53964147",
+                            "text": "-\"Germany coronavirus: Anger after attempt to storm parliament\". BBC News. 30 August 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2020-08-30"
+                            }
+                        },
+                        {
+                            "link": "https://www.9news.com.au/world/germany-news-farright-extremists-try-to-enter-berlin-parliament/5a0da103-9de3-4087-bd11-0e33a05c115f",
+                            "text": "-\"Police disperse tens of thousands at controversial German protest\". www.9news.com.au.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://www.dw.com/en/german-leaders-slam-extremists-who-rushed-reichstag-steps/a-54758246",
+                            "text": "-\"German leaders slam extremists who rushed Reichstag steps | DW | 30.08.2020\". DW.COM.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "29/08/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "September",
+            "Data": [
+                {
+                    "event_text": "2 September  The German government claims to have \"unequivocal proof\" that Alexai Navalny was poisoned with Novichok.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/world-europe-54002880",
+                            "text": "-\"Alexei Navalny: Russia opposition leader poisoned with Novichok - Germany\". BBC News. 2 September 2020. Retrieved 2 September 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-09-02",
+                                "Created": "2020-09-02"
+                            }
+                        }
+                    ],
+                    "start_date": "02/09/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "3 September  2020 Solingen killings",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/world-europe-54012885",
+                            "text": "-\"Germany children deaths: Bodies of five found in flat in Solingen\". BBC News. 3 September 2020. Retrieved 27 September 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-09-27",
+                                "Created": "2020-09-03"
+                            }
+                        }
+                    ],
+                    "start_date": "03/09/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "October",
+            "Data": [
+                {
+                    "event_text": "4 October - 2020 Dresden knife attack.",
+                    "links": [],
+                    "start_date": "04/10/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "December",
+            "Data": [
+                {
+                    "event_text": "1 December - 2020 Trier attack.",
+                    "links": [],
+                    "start_date": "01/12/2020",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

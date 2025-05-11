@@ -1,0 +1,292 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "Two soldiers and 14 Allied Democratic Forces (ADF) rebels are killed in fighting in Loselose village, Beni. Twenty-five civilians were killed on December 31, 2020.",
+                    "links": [
+                        {
+                            "link": "https://www.aljazeera.com/news/2021/1/2/drcongo-army-says-lost-two-soldiers-killed-14-rebels",
+                            "text": "-\"DR Congo army says lost two soldiers, killed 14 ADF fighters\". aljazeera.com. Al Jazeera English. January 2, 2021. Retrieved January 2, 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-01-02",
+                                "Created": "2021-01-02"
+                            }
+                        }
+                    ],
+                    "start_date": "01/01/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Allied Democratic Forces (ADF) kill 25 civilians in villages of Tingwe, Mwenda and Nzenga.",
+                    "links": [
+                        {
+                            "link": "https://news.un.org/en/story/2021/01/1081562",
+                            "text": "-\"Guterres 'shocked' at massacre of civilians in eastern DR Congo\". UN News. 2021-01-07. Retrieved 2021-01-09.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-01-09",
+                                "Created": "2021-01-07"
+                            }
+                        },
+                        {
+                            "link": "https://www.aljazeera.com/news/2021/1/6/at-least-22-civilians-killed-in-rebel-attack-in-eastern-drc",
+                            "text": "-\"At least 22 civilians killed in rebel attack in eastern DRC\". aljazeera.com. Al Jazeera English. January 6, 2021. Retrieved January 7, 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-01-07",
+                                "Created": "2021-01-06"
+                            }
+                        }
+                    ],
+                    "start_date": "04/01/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "President Tshisekedi pardons and releases twenty-two men, including Colonel Eddy Kapend, convicted for the 2001 assassination of former president Laurent-Désiré Kabila.",
+                    "links": [
+                        {
+                            "link": "https://www.aljazeera.com/news/2021/1/8/killers-of-former-dr-congo-president-released-from-jail-2",
+                            "text": "-\"DRC releases 22 convicted in former President Kabila's murder\". aljazeera.com. Al Jazeera English. January 8, 2021. Retrieved January 9, 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-01-09",
+                                "Created": "2021-01-08"
+                            }
+                        }
+                    ],
+                    "start_date": "08/01/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Six rangers are killed by Mai-Mai fighters in Virunga National Park.",
+                    "links": [
+                        {
+                            "link": "https://www.aljazeera.com/news/2021/1/10/deadly-attack-kills-at-least-six-dr-congo-park-rangers",
+                            "text": "-\"Six DRC rangers killed in latest Virunga park attack\". aljazeera.com. Al Jazeera English. January 10, 2021. Retrieved January 10, 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-01-10",
+                                "Created": "2021-01-10"
+                            }
+                        }
+                    ],
+                    "start_date": "09/01/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "President Felix Tshisekedi pays tribute to Patrice Lumumba on the 60th anniversary of his assassination.",
+                    "links": [
+                        {
+                            "link": "https://www.aljazeera.com/news/2021/1/17/dr-congo-honours-lumumba-60-years-on-from-his-assassination",
+                            "text": "-\"DRC honours Patrice Lumumba 60 years after his assassination\". aljazeera.com. Al Jazeera English. January 17, 2021. Retrieved January 17, 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-01-17",
+                                "Created": "2021-01-17"
+                            }
+                        }
+                    ],
+                    "start_date": "17/01/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The National Assembly files a motion of no-confidence in Prime Minister Sylvestre Ilunga Ilunkamba.",
+                    "links": [
+                        {
+                            "link": "https://www.yahoo.com/news/congo-lawmakers-move-force-prime-183706901.html",
+                            "text": "-Holland, Hereward. \"Congo lawmakers move to force out prime minister in victory for President\". news.yahoo.com. Reuters. Retrieved January 22, 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-01-22",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "22/01/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Nine die and 19 are missing after a barge sinks on the Congo River in Tshopo.",
+                    "links": [
+                        {
+                            "link": "https://www.aljazeera.com/news/2021/1/12/up-to-25-feared-drowned-in-congo-river-barge-sinking",
+                            "text": "-\"Up to 25 feared drowned in Congo River barge sinking\". aljazeera.com. Al Jazeera English. January 26, 2021. Retrieved January 26, 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-01-26",
+                                "Created": "2021-01-26"
+                            }
+                        }
+                    ],
+                    "start_date": "26/01/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Prime Minister Sylvestre Ilunga resigns.",
+                    "links": [],
+                    "start_date": "29/01/2021",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "A new case of ebola is reported in North Kivu.",
+                    "links": [
+                        {
+                            "link": "https://www.msn.com/en-us/news/world/dr-congo-announces-resurgence-of-ebola/ar-BB1dtreD?ocid=ob-fb-enus-1541512262291",
+                            "text": "-\"DR Congo announces 'resurgence' of Ebola\". msn.com. AFP. February 7, 2021. Retrieved February 7, 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-02-07",
+                                "Created": "2021-02-07"
+                            }
+                        }
+                    ],
+                    "start_date": "07/02/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Jean-Michel Sama Lukonde becomes the new Prime Minister; 2021 Congo River disaster",
+                    "links": [
+                        {
+                            "link": "https://www.archyde.com/jean-michel-sama-lukonde-appointed-prime-minister-of-the-drc/",
+                            "text": "-archyde (2021-02-15). \"Jean-Michel Sama Lukonde appointed Prime Minister of the DRC\". Archyde. Retrieved 2021-02-16.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-02-16",
+                                "Created": "2021-02-15"
+                            }
+                        },
+                        {
+                            "link": "https://www.news18.com/news/world/congo-river-disaster-nine-dead-many-missing-as-boat-capsizes-near-dr-congo-capital-3439022.html",
+                            "text": "-\"Congo River Disaster: Nine dead, Many Missing as Boat Capsizes Near DR Congo Capital\". News18. 2021-02-16. Retrieved 2021-02-16.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-02-16",
+                                "Created": "2021-02-16"
+                            }
+                        }
+                    ],
+                    "start_date": "15/02/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Italian ambassador to the Democratic Republic of the Congo, Luca Attanasio, is killed in an apparent kidnapping attempt near Kanyamahoro, north of Goma. A carabiniere and their driver are also killed by the attackers. Their group was part of a larger World Food Programme convoy visiting a WFP-run school feeding program in Rutshuru.",
+                    "links": [
+                        {
+                            "link": "https://www.politico.eu/article/italy-ambassador-killed-in-congo-ambush-united-nations/",
+                            "text": "-Adkins, William (February 22, 2021). \"Italian ambassador to DR Congo killed in UN convoy attack\". Politico.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2021-02-22"
+                            }
+                        },
+                        {
+                            "link": "https://news.un.org/en/story/2021/02/1085352",
+                            "text": "-\"Three killed in attack on UN World Food Programme convoy in DR Congo\". UN News. 2021-02-22. Retrieved 2021-03-20.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-03-20",
+                                "Created": "2021-02-22"
+                            }
+                        }
+                    ],
+                    "start_date": "22/02/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Thirteen civilians are killed in Beni and Kisima. 1,010 civilians have been killed in fighting in Kiva since November 2019.",
+                    "links": [
+                        {
+                            "link": "https://www.aljazeera.com/news/2021/2/24/13-killed-in-dr-congo-attacks-blamed-on-adf-militia",
+                            "text": "-\"Over a dozen killed in latest attacks blamed on notorious militia\". aljazeera.com. Al Jazeera English. February 24, 2021. Retrieved February 24, 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-02-24",
+                                "Created": "2021-02-24"
+                            }
+                        }
+                    ],
+                    "start_date": "24/02/2021",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "- At least twelve people were killed in a mass stabbing in Bulongo village, blamed on the Allied Democratic Forces.",
+                    "links": [
+                        {
+                            "link": "https://www.aljazeera.com/news/2021/3/15/at-least-a-dozen-killed-in-easter-dr-congo-attack",
+                            "text": "-\"At least a dozen killed in eastern DR Congo attack\". Al Jazeera English. March 15, 2021. At least a dozen villagers have been killed in an overnight raid on a village in the eastern Democratic Republic of the Congo, according to a witness and monitoring and civil rights groups, in an attack blamed on the notorious Allied Democratic Forces (ADF) armed group. Men armed with knives and other weapons attacked Bulongo village, some 30km (18 miles) east of the city of Beni, late on Sunday.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2021-03-15"
+                            }
+                        }
+                    ],
+                    "start_date": "14/03/2021",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "- The new Lukonde cabinet is formed.",
+                    "links": [
+                        {
+                            "link": "https://www.aa.com.tr/en/africa/dr-congo-announces-new-cabinet/2207117",
+                            "text": "-\"DR Congo announces new Cabinet\". www.aa.com.tr. Retrieved 2021-05-02.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-05-02",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "12/04/2021",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "May",
+            "Data": [
+                {
+                    "event_text": "- 2021 Mount Nyiragongo eruption begins.",
+                    "links": [],
+                    "start_date": "22/05/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Militia chief Jackson Muhukambuto is arrested in connection with 19 murders of rangers in Virunga National Park over a period of three years.",
+                    "links": [
+                        {
+                            "link": "https://www.yahoo.com/news/dr-congo-seizes-militia-chief-124403058.html",
+                            "text": "-\"DR Congo seizes militia chief accused of killing 19 wildlife rangers\". news.yahoo.com. Retrieved June 10, 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-06-10",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "08/05/2021",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

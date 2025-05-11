@@ -1,0 +1,168 @@
+{
+    "Events": [
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "10-11 2019 Kaduna State massacre.",
+                    "links": [],
+                    "start_date": "10/02/2019",
+                    "end_date": "11/02/2019"
+                },
+                {
+                    "event_text": "2019 Nigerian general election was on 16  to elect the President and the National Assembly. They were the sixth quadrennial elections since the end of military rule in 1999. Presidential primaries are likely to be held during the last six months of 2018.",
+                    "links": [
+                        {
+                            "link": "http://guardian.ng/news/inec-fixes-date-for-2019-presidential-election/",
+                            "text": "-INEC fixes date for 2019 presidential election Archived 2019-02-13 at the Wayback Machine The Guardian, 9 March 2017-",
+                            "dates": {
+                                "Archieved": "2019-02-13",
+                                "Retrieved": null,
+                                "Created": "2017-03-09"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20190213094224/http://guardian.ng/news/inec-fixes-date-for-2019-presidential-election/",
+                            "text": "-INEC fixes date for 2019 presidential election Archived 2019-02-13 at the Wayback Machine The Guardian, 9 March 2017-",
+                            "dates": {
+                                "Archieved": "2019-02-13",
+                                "Retrieved": null,
+                                "Created": "2017-03-09"
+                            }
+                        },
+                        {
+                            "link": "http://www.premiumtimesng.com/news/headlines/225704-breaking-inec-announces-dates-2019-general-elections.html",
+                            "text": "-INEC announces dates for 2019 general elections Archived 2019-03-30 at the Wayback Machine Premium Times, 9 March 2019-",
+                            "dates": {
+                                "Archieved": "2019-03-30",
+                                "Retrieved": null,
+                                "Created": "2019-03-09"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20190330055135/http://www.premiumtimesng.com/news/headlines/225704-breaking-inec-announces-dates-2019-general-elections.html",
+                            "text": "-INEC announces dates for 2019 general elections Archived 2019-03-30 at the Wayback Machine Premium Times, 9 March 2019-",
+                            "dates": {
+                                "Archieved": "2019-03-30",
+                                "Retrieved": null,
+                                "Created": "2019-03-09"
+                            }
+                        }
+                    ],
+                    "start_date": "16/02/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The elections was delayed by one week.",
+                    "links": [],
+                    "start_date": "16/02/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "2019 Nigerian general election General elections were held in Nigeria on 23  to elect the President, Vice President, House of Representatives and the Senate. The elections had initially been scheduled for 16 February, but the Electoral Commission postponed the vote by a week at 0300 on the original polling day, citing logistical challenges in getting electoral materials to polling stations on time. In some places, the vote was delayed until 24 February due to electoral violence. Polling in some areas was subsequently delayed until 9 March, when voting was carried out alongside gubernatorial and state assembly elections.",
+                    "links": [
+                        {
+                            "link": "https://en.wikipedia.org/wiki/2019_Nigerian_general_election",
+                            "text": "-\"2019 Nigerian general election\", Wikipedia, 2024-10-14, retrieved 2025-01-07-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-01-07",
+                                "Created": "2024-10-14"
+                            }
+                        }
+                    ],
+                    "start_date": "23/02/2019",
+                    "end_date": "16/02/2019"
+                }
+            ]
+        },
+        {
+            "Month": "May",
+            "Data": []
+        },
+        {
+            "Month": "September",
+            "Data": []
+        },
+        {
+            "Month": "December",
+            "Data": [
+                {
+                    "event_text": "- Action Against Hunger says four of six aid workers held by ISIL in the Islamic State's Central Africa Province since July have been killed.",
+                    "links": [
+                        {
+                            "link": "https://www.aljazeera.com/news/2019/12/isil-linked-group-executes-hostages-nigeria-ngo-191214000540719.html",
+                            "text": "-ISIL-linked group executes 4 hostages in Nigeria: NGO Archived 2020-02-04 at the Wayback Machine Al Jazeera, 13 Dec 2019, retrieved 4 Feb 2020-",
+                            "dates": {
+                                "Archieved": "2020-02-04",
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20200204175958/https://www.aljazeera.com/news/2019/12/isil-linked-group-executes-hostages-nigeria-ngo-191214000540719.html",
+                            "text": "-ISIL-linked group executes 4 hostages in Nigeria: NGO Archived 2020-02-04 at the Wayback Machine Al Jazeera, 13 Dec 2019, retrieved 4 Feb 2020-",
+                            "dates": {
+                                "Archieved": "2020-02-04",
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "13/12/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "− Citizens express alarm over new social media bill.",
+                    "links": [
+                        {
+                            "link": "https://www.aljazeera.com/news/2019/12/nigerians-raise-alarm-controversial-social-media-bill-191218130631539.html",
+                            "text": "-Nigerians raise alarm over controversial Social Media Bill Archived 2020-02-04 at the Wayback Machine by Timileyin Omilana, Al Jazeera, 18 Dec 2019, retrieved 4 Feb 2020-",
+                            "dates": {
+                                "Archieved": "2020-02-04",
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20200204175956/https://www.aljazeera.com/news/2019/12/nigerians-raise-alarm-controversial-social-media-bill-191218130631539.html",
+                            "text": "-Nigerians raise alarm over controversial Social Media Bill Archived 2020-02-04 at the Wayback Machine by Timileyin Omilana, Al Jazeera, 18 Dec 2019, retrieved 4 Feb 2020-",
+                            "dates": {
+                                "Archieved": "2020-02-04",
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "18/12/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Islamic State of Iraq and the Levant (ISIL)-linked propaganda arm Amaq releases a video showing the execution of 11 Christians.",
+                    "links": [
+                        {
+                            "link": "https://www.aljazeera.com/news/2019/12/isil-claims-execution-11-christians-nigeria-191227141817907.html",
+                            "text": "-ISIL-linked group claims 'execution of 11 Christians' in Nigeria Archived 2020-02-04 at the Wayback Machine Al Jazeera, 27 December 2019, retrieved 4 Feb 2020-",
+                            "dates": {
+                                "Archieved": "2020-02-04",
+                                "Retrieved": null,
+                                "Created": "2019-12-27"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20200204175939/https://www.aljazeera.com/news/2019/12/isil-claims-execution-11-christians-nigeria-191227141817907.html",
+                            "text": "-ISIL-linked group claims 'execution of 11 Christians' in Nigeria Archived 2020-02-04 at the Wayback Machine Al Jazeera, 27 December 2019, retrieved 4 Feb 2020-",
+                            "dates": {
+                                "Archieved": "2020-02-04",
+                                "Retrieved": null,
+                                "Created": "2019-12-27"
+                            }
+                        }
+                    ],
+                    "start_date": "27/12/2019",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "Events": [
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "16 February The Portuguese government announces the end of the Portugal Golden Visa investor program, as well as a ban on new licenses for Airbnbs, due to a severe housing shortage and rising rents.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/markets/europe/portugal-ends-golden-visas-curtails-airbnb-rentals-address-housing-crisis-2023-02-16/",
+                            "text": "-Rua, Patricia Vicente; Demony, Catarina; Demony, Catarina (2023-02-17). \"Portugal ends Golden Visas, curtails Airbnb rentals to address housing crisis\". Reuters. Retrieved 2023-02-17.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-02-17",
+                                "Created": "2023-02-17"
+                            }
+                        }
+                    ],
+                    "start_date": "16/02/2023",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "28 March 2023 Lisbon Ismaili Centre stabbing Two Portuguese women are killed in a stabbing attack at an Isma'ilism Shia religious centre in Lisbon. Police shoot the suspect, an Afghan man, in the leg at the scene, before arresting him and taking him to a hospital.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-europe-65097098",
+                            "text": "-\"Lisbon stabbing: Two women killed at Ismaili Muslim centre\". BBC News. 2023-03-28. Retrieved 2023-04-07.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-04-07",
+                                "Created": "2023-03-28"
+                            }
+                        }
+                    ],
+                    "start_date": "28/03/2023",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "August",
+            "Data": [
+                {
+                    "event_text": "1-6 August World Youth Day 2023",
+                    "links": [
+                        {
+                            "link": "https://www.aciprensa.com/noticias/ya-es-oficial-anuncian-fecha-de-la-jmj-lisboa-2023-35318",
+                            "text": "-\"Ya es oficial: Estas son las fechas de la JMJ Lisboa 2023\" (in Spanish). Aciprensa. October 3, 2021. Retrieved October 3, 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-10-03",
+                                "Created": "2021-10-03"
+                            }
+                        }
+                    ],
+                    "start_date": "06/08/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "8 August 2023 Iberian wildfires In Portugal, 7,000 hectares of forest have burned down and 1,400 people have been evacuated.",
+                    "links": [
+                        {
+                            "link": "https://nos.nl/artikel/2485911-bosbrand-portugal-verspreidt-zich-naar-algarve-1400-mensen-geevacueerd",
+                            "text": "-\"Bosbrand Portugal verspreidt zich naar Algarve, 1400 mensen geëvacueerd\". nos.nl (in Dutch). 2023-08-08. Retrieved 2023-08-09.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-08-09",
+                                "Created": "2023-08-08"
+                            }
+                        }
+                    ],
+                    "start_date": "08/08/2023",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "November",
+            "Data": [
+                {
+                    "event_text": "7 November Prime Minister António Costa resigns over a corruption probe.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-europe-67346780",
+                            "text": "-\"Portuguese PM António Costa resigns over lithium deal probe\". BBC News. 2023-11-07. Retrieved 2023-11-07.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-11-07",
+                                "Created": "2023-11-07"
+                            }
+                        }
+                    ],
+                    "start_date": "07/11/2023",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

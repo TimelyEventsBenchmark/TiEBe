@@ -1,0 +1,607 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "14 January   Cryptocurrency exchange Cryptopia is hacked in one of the biggest heists in New Zealand history.",
+                    "links": [
+                        {
+                            "link": "https://www.stuff.co.nz/national/crime/119263192/sabotage-or-theft-inside-the-24m-cryptopia-heist",
+                            "text": "-Sherwood, Sam; van Beynen, Martin (8 February 2020). \"Sabotage or theft? Inside the $24m Cryptopia heist\". Stuff. Retrieved 26 November 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-11-26",
+                                "Created": "2020-02-08"
+                            }
+                        }
+                    ],
+                    "start_date": "14/01/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "23 January  A cliffside at Cape Kidnappers collapses, seriously injuring two tourists.",
+                    "links": [
+                        {
+                            "link": "https://www.rnz.co.nz/news/national/383359/cape-kidnappers-slip-unacceptable-risks-raised-in-2017-report",
+                            "text": "-\"Cape Kidnappers slip: 'Unacceptable risks' raised in 2017 report\". RNZ. 26 February 2019. Retrieved 19 October 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-10-19",
+                                "Created": "2019-02-26"
+                            }
+                        },
+                        {
+                            "link": "https://www.stuff.co.nz/dominion-post/news/hawkes-bay/110114397/emergency-services-rush-to-slip-near-clifton-hawkes-bay",
+                            "text": "-\"Two hurt, one critically in dramatic seaside landslide near Clifton, Hawke's Bay\". Dominion Post. 23 January 2019. Retrieved 19 October 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-10-19",
+                                "Created": "2019-01-23"
+                            }
+                        }
+                    ],
+                    "start_date": "23/01/2019",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "5 February  6 March  Wildfires in Nelson cause thousands to evacuate their homes.",
+                    "links": [
+                        {
+                            "link": "https://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=12202002",
+                            "text": "-Leahy, Ben (8 February 2019). \"Tasman fires: Nelson, Wakefield evacuated; Pigeon Valley residents must leave homes as fears wind may fan blaze\". Retrieved 15 December 2019.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2019-12-15",
+                                "Created": "2019-02-08"
+                            }
+                        }
+                    ],
+                    "start_date": "05/02/2019",
+                    "end_date": "06/03/2019"
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "8 March  Ngā Puna Wai Sports Hub opens.",
+                    "links": [],
+                    "start_date": "08/03/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "15 March  Shootings at two Christchurch mosques result in the deaths of 51 people.",
+                    "links": [
+                        {
+                            "link": "https://www.abc.net.au/news/2019-03-15/armed-police-respond-to-suspected-shooting-christchurch-mosque/10904306",
+                            "text": "-\"Australian in custody after 49 people killed in Christchurch terror attack\". ABC News. 15 March 2019. Retrieved 15 March 2019.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2019-03-15",
+                                "Created": "2019-03-15"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20190502161457/https://www.channelnewsasia.com/news/world/christchurch-terror-attack-new-zealand-death-toll-new-11497782",
+                            "text": "-\"Turkish citizen hurt in Christchurch attacks dies, NZ death toll at 51: Minister\". Channel News Asia. Archived from the original on 2 May 2019. Retrieved 3 May 2019.-",
+                            "dates": {
+                                "Archieved": "2019-05-02",
+                                "Retrieved": "2019-05-03",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://www.channelnewsasia.com/news/world/christchurch-terror-attack-new-zealand-death-toll-new-11497782",
+                            "text": "-\"Turkish citizen hurt in Christchurch attacks dies, NZ death toll at 51: Minister\". Channel News Asia. Archived from the original on 2 May 2019. Retrieved 3 May 2019.-",
+                            "dates": {
+                                "Archieved": "2019-05-02",
+                                "Retrieved": "2019-05-03",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "15/03/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "16 March  Sky News Australia is pulled off the air by independently-owned Sky New Zealand. The decision was made after the channel refused to stop showing graphic video footage that had been live-streamed by the Christchurch shooter at the two mosques in Christchurch.",
+                    "links": [
+                        {
+                            "link": "https://thinkprogress.org/new-zealand-pulls-murdochs-sky-news-australia-off-the-air-over-mosque-massacre-coverage-353cd22f86a7/",
+                            "text": "-Mandel, Kyla (16 March 2019). \"New Zealand pulls Murdoch's Sky News Australia off the air over mosque massacre coverage\". Think Progress. Retrieved 23 March 2019.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2019-03-23",
+                                "Created": "2019-03-16"
+                            }
+                        }
+                    ],
+                    "start_date": "16/03/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "19 March  Wellington Central Library closes indefinitely due to the building's earthquake vulnerabilities.",
+                    "links": [
+                        {
+                            "link": "https://www.stuff.co.nz/dominion-post/news/111397052/wellington-city-library-to-close-after-advice-received-from-engineers",
+                            "text": "-\"Wellington Central Library to close indefinitely due to earthquake concerns\". Dominion Post. 19 March 2019. Retrieved 19 October 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-10-19",
+                                "Created": "2019-03-19"
+                            }
+                        }
+                    ],
+                    "start_date": "19/03/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "26 March  A state of emergency is declared in the Westland District due to severe weather.",
+                    "links": [
+                        {
+                            "link": "https://www.civildefence.govt.nz/resources/previous-emergencies/declared-states-of-emergency",
+                            "text": "-\"Declared States of Emergency\". www.civildefence.govt.nz. Retrieved 23 April 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-04-23",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "26/03/2019",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "21 May  Mine re-entry efforts into the Pike River Mine begin.",
+                    "links": [
+                        {
+                            "link": "https://www.stuff.co.nz/the-press/news/west-coast/112896213/pike-river-reentry-finally-a-reality-after-eightyear-battle#comments",
+                            "text": "-Carroll, Joanne (22 May 2019). \"Pike River re-entry finally a reality after eight-year battle\". The Press. Stuff. Archived from the original on 9 July 2021. Retrieved 22 May 2019.-",
+                            "dates": {
+                                "Archieved": "2021-07-09",
+                                "Retrieved": "2019-05-22",
+                                "Created": "2019-05-22"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20210709222450/https://www.stuff.co.nz/the-press/news/west-coast/112896213/pike-river-reentry-finally-a-reality-after-eightyear-battle#comments",
+                            "text": "-Carroll, Joanne (22 May 2019). \"Pike River re-entry finally a reality after eight-year battle\". The Press. Stuff. Archived from the original on 9 July 2021. Retrieved 22 May 2019.-",
+                            "dates": {
+                                "Archieved": "2021-07-09",
+                                "Retrieved": "2019-05-22",
+                                "Created": "2019-05-22"
+                            }
+                        }
+                    ],
+                    "start_date": "21/05/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "30 May  The 2019 New Zealand budget is presented to Parliament by the Minister of Finance, Grant Robertson.",
+                    "links": [
+                        {
+                            "link": "https://treasury.govt.nz/publications/budgets/budget-2019",
+                            "text": "-\"Budget 2019\". New Zealand Government. 11 December 2019. Retrieved 7 January 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-01-07",
+                                "Created": "2019-12-11"
+                            }
+                        }
+                    ],
+                    "start_date": "30/05/2019",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "May",
+            "Data": [
+                {
+                    "event_text": "21 May  Mine re-entry efforts into the Pike River Mine begin.",
+                    "links": [
+                        {
+                            "link": "https://www.stuff.co.nz/the-press/news/west-coast/112896213/pike-river-reentry-finally-a-reality-after-eightyear-battle#comments",
+                            "text": "-Carroll, Joanne (22 May 2019). \"Pike River re-entry finally a reality after eight-year battle\". The Press. Stuff. Archived from the original on 9 July 2021. Retrieved 22 May 2019.-",
+                            "dates": {
+                                "Archieved": "2021-07-09",
+                                "Retrieved": "2019-05-22",
+                                "Created": "2019-05-22"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20210709222450/https://www.stuff.co.nz/the-press/news/west-coast/112896213/pike-river-reentry-finally-a-reality-after-eightyear-battle#comments",
+                            "text": "-Carroll, Joanne (22 May 2019). \"Pike River re-entry finally a reality after eight-year battle\". The Press. Stuff. Archived from the original on 9 July 2021. Retrieved 22 May 2019.-",
+                            "dates": {
+                                "Archieved": "2021-07-09",
+                                "Retrieved": "2019-05-22",
+                                "Created": "2019-05-22"
+                            }
+                        }
+                    ],
+                    "start_date": "21/05/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "30 May  The 2019 New Zealand budget is presented to Parliament by the Minister of Finance, Grant Robertson.",
+                    "links": [
+                        {
+                            "link": "https://treasury.govt.nz/publications/budgets/budget-2019",
+                            "text": "-\"Budget 2019\". New Zealand Government. 11 December 2019. Retrieved 7 January 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-01-07",
+                                "Created": "2019-12-11"
+                            }
+                        }
+                    ],
+                    "start_date": "30/05/2019",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "June",
+            "Data": [
+                {
+                    "event_text": "3 June  The 2019 Queen's Birthday Honours are announced.",
+                    "links": [
+                        {
+                            "link": "https://web.archive.org/web/20190602205106/https://dpmc.govt.nz/publications/queens-birthday-honours-list-2019",
+                            "text": "-\"Queen's Birthday honours list 2019\". Department of the Prime Minister and Cabinet. 3 June 2019. Archived from the original on 2 June 2019. Retrieved 7 January 2020.-",
+                            "dates": {
+                                "Archieved": "2019-06-02",
+                                "Retrieved": "2020-01-07",
+                                "Created": "2019-06-03"
+                            }
+                        },
+                        {
+                            "link": "https://dpmc.govt.nz/publications/queens-birthday-honours-list-2019",
+                            "text": "-\"Queen's Birthday honours list 2019\". Department of the Prime Minister and Cabinet. 3 June 2019. Archived from the original on 2 June 2019. Retrieved 7 January 2020.-",
+                            "dates": {
+                                "Archieved": "2019-06-02",
+                                "Retrieved": "2020-01-07",
+                                "Created": "2019-06-03"
+                            }
+                        }
+                    ],
+                    "start_date": "03/06/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "26 June  The primary school teachers' union New Zealand Educational Institute (NZEI) accepts the Government's NZ$1.5 billion collective agreement, which includes a new, unified pay scale. While primary teachers voted to accept the Government's offer, primary principals rejected the offer, demanding better pay and working conditions.",
+                    "links": [
+                        {
+                            "link": "https://www.stuff.co.nz/national/113762569/primary-teachers-principals-vote-on-governments-collective-agreement-offer-to-be-announced",
+                            "text": "-Williams, Katarina; Iles, Julie (26 June 2019). \"Primary teachers say yes, principals say no to latest collective agreement offers\". Stuff. Archived from the original on 26 June 2019. Retrieved 26 June 2019.-",
+                            "dates": {
+                                "Archieved": "2019-06-26",
+                                "Retrieved": "2019-06-26",
+                                "Created": "2019-06-26"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20190626012304/https://www.stuff.co.nz/national/113762569/primary-teachers-principals-vote-on-governments-collective-agreement-offer-to-be-announced",
+                            "text": "-Williams, Katarina; Iles, Julie (26 June 2019). \"Primary teachers say yes, principals say no to latest collective agreement offers\". Stuff. Archived from the original on 26 June 2019. Retrieved 26 June 2019.-",
+                            "dates": {
+                                "Archieved": "2019-06-26",
+                                "Retrieved": "2019-06-26",
+                                "Created": "2019-06-26"
+                            }
+                        }
+                    ],
+                    "start_date": "26/06/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "28 June  The secondary teachers' union the Post Primary Teachers' Association voted to accept the Government's pay offer.",
+                    "links": [
+                        {
+                            "link": "https://web.archive.org/web/20190707100300/https://www.newshub.co.nz/home/new-zealand/2019/06/secondary-school-teachers-union-accepts-the-government-s-latest-pay-offer.html",
+                            "text": "-\"Secondary school teachers union accepts the Government's latest pay offer\". Newshub. 28 June 2019. Archived from the original on 7 July 2019. Retrieved 7 July 2019.-",
+                            "dates": {
+                                "Archieved": "2019-07-07",
+                                "Retrieved": "2019-07-07",
+                                "Created": "2019-06-28"
+                            }
+                        },
+                        {
+                            "link": "https://www.newshub.co.nz/home/new-zealand/2019/06/secondary-school-teachers-union-accepts-the-government-s-latest-pay-offer.html",
+                            "text": "-\"Secondary school teachers union accepts the Government's latest pay offer\". Newshub. 28 June 2019. Archived from the original on 7 July 2019. Retrieved 7 July 2019.-",
+                            "dates": {
+                                "Archieved": "2019-07-07",
+                                "Retrieved": "2019-07-07",
+                                "Created": "2019-06-28"
+                            }
+                        }
+                    ],
+                    "start_date": "28/06/2019",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "July",
+            "Data": [
+                {
+                    "event_text": "19 July  A Christchurch house destroyed in a gas explosion results in six people being hospitalised.",
+                    "links": [
+                        {
+                            "link": "https://www.stuff.co.nz/national/114373159/christchurch-explosion-video-shows-extent-of-blast",
+                            "text": "-\"Christchurch explosion: Blast sent debris flying over the neighbourhood, as shown in aerial video\". Stuff. 19 July 2019. Retrieved 19 July 2019.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2019-07-19",
+                                "Created": "2019-07-19"
+                            }
+                        }
+                    ],
+                    "start_date": "19/07/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "26 July  The NZEI's kindergarten teacher members voted to accept a pay parity agreement with the Ministry of Education",
+                    "links": [
+                        {
+                            "link": "https://www.stuff.co.nz/national/education/114504515/kindergarten-teachers-vote-to-accept-collective-agreement",
+                            "text": "-Franks, Josephine (26 July 2019). \"Kindergarten teachers vote to accept collective agreement, giving them pay parity\". Stuff. Archived from the original on 26 July 2019. Retrieved 26 July 2019.-",
+                            "dates": {
+                                "Archieved": "2019-07-26",
+                                "Retrieved": "2019-07-26",
+                                "Created": "2019-07-26"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20190726000620/https://www.stuff.co.nz/national/education/114504515/kindergarten-teachers-vote-to-accept-collective-agreement",
+                            "text": "-Franks, Josephine (26 July 2019). \"Kindergarten teachers vote to accept collective agreement, giving them pay parity\". Stuff. Archived from the original on 26 July 2019. Retrieved 26 July 2019.-",
+                            "dates": {
+                                "Archieved": "2019-07-26",
+                                "Retrieved": "2019-07-26",
+                                "Created": "2019-07-26"
+                            }
+                        }
+                    ],
+                    "start_date": "26/07/2019",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "August",
+            "Data": []
+        },
+        {
+            "Month": "September",
+            "Data": [
+                {
+                    "event_text": "12 October  (Postal) voting for the 2019 local elections concludes.",
+                    "links": [
+                        {
+                            "link": "http://www.localcouncils.govt.nz/lgip.nsf/wpg_URL/About-Local-Government-Participate-in-Local-Government-About-your-2019-local-elections",
+                            "text": "-\"About your 2019 local elections\". Department of Internal Affairs). Retrieved 23 October 2019.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2019-10-23",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "12/10/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "22 October  The Skycity Convention Centre catches fire while still under construction, causing significant disruption in the Auckland CBD.",
+                    "links": [
+                        {
+                            "link": "https://www.stuff.co.nz/national/116480357/fire-at-sky-city-convention-centre",
+                            "text": "-\"Auckland's SkyCity Convention Centre fire: Firefighter in serious condition as building goes up in flames\". Stuff. 22 October 2019.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2019-10-22"
+                            }
+                        }
+                    ],
+                    "start_date": "22/10/2019",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "October",
+            "Data": [
+                {
+                    "event_text": "12 October  (Postal) voting for the 2019 local elections concludes.",
+                    "links": [
+                        {
+                            "link": "http://www.localcouncils.govt.nz/lgip.nsf/wpg_URL/About-Local-Government-Participate-in-Local-Government-About-your-2019-local-elections",
+                            "text": "-\"About your 2019 local elections\". Department of Internal Affairs). Retrieved 23 October 2019.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2019-10-23",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "12/10/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "22 October  The Skycity Convention Centre catches fire while still under construction, causing significant disruption in the Auckland CBD.",
+                    "links": [
+                        {
+                            "link": "https://www.stuff.co.nz/national/116480357/fire-at-sky-city-convention-centre",
+                            "text": "-\"Auckland's SkyCity Convention Centre fire: Firefighter in serious condition as building goes up in flames\". Stuff. 22 October 2019.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2019-10-22"
+                            }
+                        }
+                    ],
+                    "start_date": "22/10/2019",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "November",
+            "Data": [
+                {
+                    "event_text": "1723 November  Prince Charles and Camilla, Duchess of Cornwall, make an official visit to Auckland, Northland, Christchurch and Kaikōura.",
+                    "links": [],
+                    "start_date": "23/11/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "19 November  The Disney+ streaming service launches in New Zealand.",
+                    "links": [
+                        {
+                            "link": "https://www.stuff.co.nz/entertainment/tv-radio/117523813/disney-launches-in-new-zealand-the-one-thing-the-streaming-service-is-missing",
+                            "text": "-Downes, Siobhan (19 November 2024). \"Disney+ launches in New Zealand: The one thing the streaming service is missing\". Stuff. Archived from the original on 5 April 2023. Retrieved 5 November 2024.-",
+                            "dates": {
+                                "Archieved": "2023-04-05",
+                                "Retrieved": "2024-11-05",
+                                "Created": "2024-11-19"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20230405081438/https://www.stuff.co.nz/entertainment/tv-radio/117523813/disney-launches-in-new-zealand-the-one-thing-the-streaming-service-is-missing",
+                            "text": "-Downes, Siobhan (19 November 2024). \"Disney+ launches in New Zealand: The one thing the streaming service is missing\". Stuff. Archived from the original on 5 April 2023. Retrieved 5 November 2024.-",
+                            "dates": {
+                                "Archieved": "2023-04-05",
+                                "Retrieved": "2024-11-05",
+                                "Created": "2024-11-19"
+                            }
+                        }
+                    ],
+                    "start_date": "19/11/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "20 November  A severe hailstorm in Timaru occurs, with hail stones reaching the size of golf balls. Insurance claims totalled $170 million, making it, at the time, the costliest New Zealand weather event in the 21st century.",
+                    "links": [
+                        {
+                            "link": "https://hwe.niwa.co.nz/event/November_2019_Timaru_Hail",
+                            "text": "-\"November 2019 Timaru Hail ( 2019-11-20 )\". NIWA. Retrieved 9 November 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-11-09",
+                                "Created": "2019-11-20"
+                            }
+                        },
+                        {
+                            "link": "https://www.stuff.co.nz/timaru-herald/news/123406317/timarus-hailstorm-cost-reaches-record-170m-mark",
+                            "text": "-\"Timaru's hailstorm cost reaches record $170m mark\". Timaru Herald. 16 November 2020. Retrieved 9 November 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-11-09",
+                                "Created": "2020-11-16"
+                            }
+                        }
+                    ],
+                    "start_date": "20/11/2019",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "December",
+            "Data": [
+                {
+                    "event_text": "8 December  Severe rain causes landslides and flooding in the South Island, closing two state highways (SH 1 and SH 6) and Inland Scenic Route 72, and trapping 1000 tourists in South Westland.",
+                    "links": [
+                        {
+                            "link": "https://www.stuff.co.nz/the-press/news/118034898/heavy-rain-slips-and-floodwaters-close-key-roads-and-cut-south-island-in-half",
+                            "text": "-\"Heavy rain, slips and floodwaters close key roads and cut South Island in half\". Stuff. 8 December 2019. Retrieved 5 February 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-02-05",
+                                "Created": "2019-12-08"
+                            }
+                        },
+                        {
+                            "link": "https://www.theguardian.com/world/2019/dec/08/new-zealand-storms-tornado-warning-issued-as-floods-cut-off-towns",
+                            "text": "-Roy, Eleanor Ainge (8 December 2019). \"New Zealand storms: 1,000 foreign tourists stranded as floods cut off towns\". The Guardian. ISSN 0261-3077. Retrieved 5 February 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-02-05",
+                                "Created": "2019-12-08"
+                            }
+                        },
+                        {
+                            "link": "https://search.worldcat.org/issn/0261-3077",
+                            "text": "-Roy, Eleanor Ainge (8 December 2019). \"New Zealand storms: 1,000 foreign tourists stranded as floods cut off towns\". The Guardian. ISSN 0261-3077. Retrieved 5 February 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-02-05",
+                                "Created": "2019-12-08"
+                            }
+                        }
+                    ],
+                    "start_date": "08/12/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "9 December  Whakaari / White Island erupts, killing 21 and injuring 26.",
+                    "links": [],
+                    "start_date": "09/12/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "19 December  Sky New Zealand acquires Spark New Zealand's Lightbox streaming service in order to merge it with its own Neon streaming service.",
+                    "links": [
+                        {
+                            "link": "https://web.archive.org/web/20191221131129/https://www.rnz.co.nz/news/business/405818/sky-expected-to-merge-lightbox-with-neon-streaming-service",
+                            "text": "-\"Sky expected to merge Lightbox with Neon streaming service\". Radio New Zealand. 19 December 2019. Archived from the original on 21 December 2019. Retrieved 19 December 2019.-",
+                            "dates": {
+                                "Archieved": "2019-12-21",
+                                "Retrieved": "2019-12-19",
+                                "Created": "2019-12-19"
+                            }
+                        },
+                        {
+                            "link": "https://www.rnz.co.nz/news/business/405818/sky-expected-to-merge-lightbox-with-neon-streaming-service",
+                            "text": "-\"Sky expected to merge Lightbox with Neon streaming service\". Radio New Zealand. 19 December 2019. Archived from the original on 21 December 2019. Retrieved 19 December 2019.-",
+                            "dates": {
+                                "Archieved": "2019-12-21",
+                                "Retrieved": "2019-12-19",
+                                "Created": "2019-12-19"
+                            }
+                        }
+                    ],
+                    "start_date": "19/12/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "31 December  The 2020 New Year Honours are announced.",
+                    "links": [
+                        {
+                            "link": "https://www.dpmc.govt.nz/publications/new-year-honours-list-2020",
+                            "text": "-\"New Year honours list 2020\". Department of the Prime Minister and Cabinet. 31 December 2019. Retrieved 7 January 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-01-07",
+                                "Created": "2019-12-31"
+                            }
+                        }
+                    ],
+                    "start_date": "31/12/2019",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

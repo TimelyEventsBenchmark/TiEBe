@@ -1,0 +1,246 @@
+{
+    "Events": [
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "- Seasonal rains come early to the country, causing floods, leaving at least 28 people dead.",
+                    "links": [
+                        {
+                            "link": "http://www.aljazeera.com/news/2016/04/deadly-floods-hit-ethiopia-160406101102909.html",
+                            "text": "-\"Deadly floods hit Ethiopia\".-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "06/04/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "- Ethiopia claims that South Sudanese men killed at least 140 people across the border.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-africa-36064710",
+                            "text": "-\"Ethiopia: Armed men 'kill 140' near South Sudan border\". BBC News. 16 April 2016.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2016-04-16"
+                            }
+                        }
+                    ],
+                    "start_date": "16/04/2016",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "June",
+            "Data": [
+                {
+                    "event_text": "- Ethiopia and Eritrea argue over who caused a recent border clash between the two nations.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-africa-36515503",
+                            "text": "-\"Ethiopia and Eritrea blame each other for border clash\". BBC News. 13 June 2016.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2016-06-13"
+                            }
+                        }
+                    ],
+                    "start_date": "13/06/2016",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "August",
+            "Data": [
+                {
+                    "event_text": "- Student protests erupt in Addis Ababa and quickly spread across the country.",
+                    "links": [],
+                    "start_date": "05/08/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "- Over 50 protesters are killed by security forces over the past few days. Internet and journalist access is also restricted by the government.",
+                    "links": [
+                        {
+                            "link": "http://www.aljazeera.com/news/2016/08/30-killed-ethiopia-protests-opposition-160808105428331.html",
+                            "text": "-\"Dozens killed in Ethiopia protest crackdown\".-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "08/08/2016",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "September",
+            "Data": [
+                {
+                    "event_text": "- 23 prisoners are killed in a fire and stampede at the Kaliti Prison near the capital of Addis Ababa during an attempted prison break.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-africa-37274883",
+                            "text": "-\"Ethiopia fire kills 23 at prison 'holding Oromo protesters'\". BBC News. 5 September 2016.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2016-09-05"
+                            }
+                        }
+                    ],
+                    "start_date": "05/09/2016",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "October",
+            "Data": [
+                {
+                    "event_text": "- Police allegedly attack Oromo protesters at a religious festival in Bishoftu, causing a stampede that killed 52 people.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-africa-37534387",
+                            "text": "-\"Oromia: Stampede at Ethiopia protest leaves 52 dead\". BBC News. 2 October 2016.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2016-10-02"
+                            }
+                        }
+                    ],
+                    "start_date": "02/10/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "- The railway line with Djibouti opens. However, an American women is killed during protests.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-africa-37562177",
+                            "text": "-\"Ethiopia-Djibouti electric railway line opens\". BBC News. 5 October 2016.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2016-10-05"
+                            }
+                        },
+                        {
+                            "link": "https://www.bbc.com/news/world-africa-37566711",
+                            "text": "-\"US woman dies in Ethiopia van attack\". BBC News. 5 October 2016.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2016-10-05"
+                            }
+                        }
+                    ],
+                    "start_date": "05/10/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "- A state of emergency is declared following months of protests against the government.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-africa-37600225",
+                            "text": "-\"Ethiopia declares state of emergency amid protests\". BBC News. 9 October 2016.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2016-10-09"
+                            }
+                        }
+                    ],
+                    "start_date": "09/10/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "- Ethiopia blames Egypt and Eritrea for the recent unrest in the country.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-africa-37607751",
+                            "text": "-\"Ethiopia blames Egypt and Eritrea over unrest\". BBC News. 10 October 2016.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2016-10-10"
+                            }
+                        }
+                    ],
+                    "start_date": "10/10/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "- A government minister reveals that over 1600 people have been detained following the state of emergency.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-africa-37716653",
+                            "text": "-\"Ethiopia 'detains 1,600' under state of emergency\". BBC News. 20 October 2016.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2016-10-20"
+                            }
+                        }
+                    ],
+                    "start_date": "20/10/2016",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "November",
+            "Data": [
+                {
+                    "event_text": "- 20 aircraft pilots are detained in Ethiopia's Gambela region after \"illegally\" arriving from Sudan.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-africa-38095316",
+                            "text": "-\"Ethiopia detains vintage air rally pilots\". BBC News. 24 November 2016.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2016-11-24"
+                            }
+                        }
+                    ],
+                    "start_date": "24/11/2016",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "December",
+            "Data": [
+                {
+                    "event_text": "- After arriving back from a trip to Europe, Merera Gudina, an opposition leader, is detained for allegedly violating the state of emergency.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-africa-38169256",
+                            "text": "-\"Ethiopia's Merera Gudina detained after trip to Europe\". BBC News. December 2016.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "01/12/2016",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

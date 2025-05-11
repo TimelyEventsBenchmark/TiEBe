@@ -1,0 +1,358 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "13 January  Riza Akpolat, the CHP mayor of Beşiktaş, Istanbul Province, is arrested as part of an investigation into alleged bid-rigging, bribery and unjust acquisition of property.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/turkey-chp-besiktas-arrest-mayor-bidrigging-95509cdb155e9cad787bb6e01a04051a",
+                            "text": "-\"Mayor of opposition Istanbul stronghold arrested over bid-rigging claims\". Associated Press. 13 January 2025. Retrieved 13 January 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-01-13",
+                                "Created": "2025-01-13"
+                            }
+                        }
+                    ],
+                    "start_date": "13/01/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "16 January  At least 30 people are reported to have died across Istanbul after consuming bootleg alcohol. By 17 February, the death toll reaches 124, with cases also reported in Ankara.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/istanbul-bootleg-alcohol-deaths-turkey-counterfeit-inflation-67abd8c8aa4c648df54872b38662e366",
+                            "text": "-\"Bootleg alcohol claims lives of at least 30 people in Istanbul while dozens are hospitalized\". Associated Press. 16 January 2025. Retrieved 16 January 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-01-16",
+                                "Created": "2025-01-16"
+                            }
+                        },
+                        {
+                            "link": "https://www.cbsnews.com/news/bootleg-alcohol-kills-124-turkey-6-weeks/",
+                            "text": "-\"Bootleg alcohol kills at least 124 people in Turkey in just 6 weeks, state news agency reports\". CBS News. 17 February 2025. Retrieved 19 February 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-19",
+                                "Created": "2025-02-17"
+                            }
+                        }
+                    ],
+                    "start_date": "16/01/2025",
+                    "end_date": "17/02/2025"
+                },
+                {
+                    "event_text": "20 January  Ümit Özdağ, the leader of the Victory Party, is arrested on charges of insulting President Recep Tayyip Erdoğan and inciting violence on social media during the 2024 anti-refugee riots in Turkey.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/turkey-far-right-politician-arrest-9dcb2d529ddc12ad0b3b561efb40a94d",
+                            "text": "-\"Turkey arrests leader of far-right party on charges of inciting violence through social media\". Associated Press. 22 January 2025. Retrieved 22 January 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-01-22",
+                                "Created": "2025-01-22"
+                            }
+                        }
+                    ],
+                    "start_date": "20/01/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "At least 78 people are killed in a fire at a hotel in Kartalkaya, Bolu Province.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/turkey-ski-resort-fire-safety-hotel-kartalkaya-3f1643306b8971ee79d7625dbce0ac4d",
+                            "text": "-\"Waitress dies from Turkish ski resort blaze, one of 78 lives lost as concerns over safety revive\". AP News. 23 January 2025. Retrieved 23 January 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-01-23",
+                                "Created": "2025-01-23"
+                            }
+                        }
+                    ],
+                    "start_date": "21/01/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Four people are injured in a gas explosion at a ski resort in Sivas Province.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/turkey-ski-resort-hotel-fire-dead-ec925fbe132455d4bf13e470aca79f0d",
+                            "text": "-\"At least 66 dead and 51 injured in a hotel fire at a ski resort in northwestern Turkey\". AP News. 21 January 2025. Retrieved 21 January 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-01-21",
+                                "Created": "2025-01-21"
+                            }
+                        }
+                    ],
+                    "start_date": "21/01/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "25 January  Two people are killed in the collapse of an apartment building in Konya.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/turkey-building-collapse-people-trapped-3b60412f1044d56444dd5cb227073f5d",
+                            "text": "-\"Apartment building collapses in central Turkey, killing 2 people\". AP News. 25 January 2025. Retrieved 25 January 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-01-25",
+                                "Created": "2025-01-25"
+                            }
+                        }
+                    ],
+                    "start_date": "25/01/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "28 January  Serhan Asker, the chief editor of Halk TV, is detained along with two other journalists after the station airs a phone conversation with a court-appointed expert accused of bias against mayors belonging to the CHP.",
+                    "links": [],
+                    "start_date": "28/01/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "29 January  Sofya Alagas, the DEM mayor of Siirt, is removed from her position after a conviction for terrorism offenses connected with accusations of her supporting the PKK.",
+                    "links": [],
+                    "start_date": "29/01/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "31 January  Five alumni of the Turkish Military Academy are dismissed along with three other officers from the Turkish Armed Forces for reciting an unauthorized secularist oath at their graduation ceremony in 2024.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/turkey-military-dismissals-secular-oath-f8158be989a3bcc21397e77ee9a69ef1",
+                            "text": "-\"Turkey dismisses 5 military academy graduates for taking discontinued secular oath\". Associated Press. 1 February 2025. Retrieved 1 February 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-01",
+                                "Created": "2025-02-01"
+                            }
+                        }
+                    ],
+                    "start_date": "31/01/2025",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "6 February  Turkey withdraws its accreditation of Afghan diplomats representing the pre-2021 government.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/turkey-afghanistan-taliban-diplomats-embassy-ankara-948241b9bcf2e8291c7d56c8a052bd6b",
+                            "text": "-\"Turkey ends Afghan diplomats' mission, paving way for Taliban to appoint their own team\". Associated Press. 7 February 2025. Retrieved 7 February 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-07",
+                                "Created": "2025-02-07"
+                            }
+                        }
+                    ],
+                    "start_date": "06/02/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "11 February  Ten CHP district municipal officials from Kartal and Ataşehir in Istanbul Province are arrested on suspicion of links to the PKK.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/turkey-detentions-istanbul-opposition-municipalities-a44b4d7a7f631e20f44c24669a48daae",
+                            "text": "-\"Turkey detains 10 officials, widening a crackdown on Istanbul's opposition-held districts\". Associated Press. 11 February 2025. Retrieved 11 February 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-11",
+                                "Created": "2025-02-11"
+                            }
+                        }
+                    ],
+                    "start_date": "11/02/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "1318 February  Around 282 people are arrested in nationwide raids in 51 cities on suspicion of having links with the PKK.",
+                    "links": [
+                        {
+                            "link": "https://www.aljazeera.com/news/2025/2/18/turkiye-arrests-282-amid-bid-to-reconcile-with-pkk",
+                            "text": "-\"Turkiye arrests 282 amid bid to reconcile with PKK\". Al Jazeera. 19 February 2025. Retrieved 19 February 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-19",
+                                "Created": "2025-02-19"
+                            }
+                        }
+                    ],
+                    "start_date": "18/02/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "19 February  An inflatable dinghy carrying migrants sinks off the coast of Selçuk, killing at least six people.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/turkey-migrants-drown-sinking-dinghy-b482a5fe43f28f51a5183f9d21dbe6a2",
+                            "text": "-\"Turkish coast guard recovers bodies of 6 migrants, rescues 27 others from sinking dinghy\". Associated Press. 20 February 2025. Retrieved 20 February 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-20",
+                                "Created": "2025-02-20"
+                            }
+                        }
+                    ],
+                    "start_date": "19/02/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "27 February  PKK leader Abdullah Öcalan issues a message from prison calling for the group to hold a congress dissolving itself and laying down its weapons.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/turkey-pkk-ocalan-peace-talks-68decd55c35fa537f04b117bc9736128",
+                            "text": "-\"Imprisoned Kurdish leader urges his PKK militant group to disarm to make peace with Turkey\". Associated Press. 20 February 2025. Retrieved 27 February 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-27",
+                                "Created": "2025-02-20"
+                            }
+                        }
+                    ],
+                    "start_date": "27/02/2025",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "1 March  The PKK declares a ceasefire following Abdullah Öcalan's appeal on 27 February.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/articles/cgkmg3kmmero",
+                            "text": "-\"Kurdish group PKK declares ceasefire with Turkey\". BBC. 1 March 2025. Retrieved 1 March 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-03-01",
+                                "Created": "2025-03-01"
+                            }
+                        }
+                    ],
+                    "start_date": "01/03/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "19 March  The CHP mayor of Istanbul, Ekrem İmamoğlu, is arrested on charges of corruption and terrorism, sparking nationwide protests.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/articles/c5yren8mxp8o",
+                            "text": "-\"Protests erupt in Turkey after Erdogan rival arrested\". BBC. 19 March 2025. Retrieved 20 March 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-03-20",
+                                "Created": "2025-03-19"
+                            }
+                        },
+                        {
+                            "link": "https://www.bbc.com/news/articles/c20l4xexp7go",
+                            "text": "-\"Hundreds arrested in third night of Turkey protests\". BBC. 22 March 2025. Retrieved 22 March 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-03-22",
+                                "Created": "2025-03-22"
+                            }
+                        }
+                    ],
+                    "start_date": "19/03/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "27 March  Two people, including Olympic skier Berkin Usta, are killed in a fire at the Kervansaray Hotel in Uludağ, Bursa Province.",
+                    "links": [
+                        {
+                            "link": "https://www.ctvnews.ca/sports/article/a-fire-at-a-winter-resort-hotel-in-turkey-kills-an-olympic-skier-and-his-father/",
+                            "text": "-\"A fire at a winter resort hotel in Turkey kills an Olympic skier and his father\". CTV. 27 March 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2025-03-27"
+                            }
+                        }
+                    ],
+                    "start_date": "27/03/2025",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "2 April  Meta Platforms announces that the Turkish government has imposed a \"substantial\" fine on the company for refusing to limit content on Facebook and Instagram.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/meta-facebook-instagram-turkey-erdogan-59f16571e884fd6f0f9597a72771131f",
+                            "text": "-\"Meta hit with fines by Turkey after refusing to restrict content on Facebook, Instagram\". AP News. 2 April 2025. Retrieved 2 April 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-04-02",
+                                "Created": "2025-04-02"
+                            }
+                        }
+                    ],
+                    "start_date": "02/04/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "3 April  A boat carrying migrants sinks off the coast of Çanakkale Province, killing nine passengers.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/migration-greece-capsize-lesbos-f8b58302de27e3a819b0bad02b32b28f",
+                            "text": "-\"More than a dozen migrants die as boats sink off Greece and Turkey\". AP News. 3 April 2025. Retrieved 3 April 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-04-03",
+                                "Created": "2025-04-03"
+                            }
+                        }
+                    ],
+                    "start_date": "03/04/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "8 April  At least 38 officers of the General Directorate of Customs Protection are arrested as part of an investigation into bribery at the Kapıkule border crossing with Bulgaria.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/kapikule-bribery-customs-bulgaria-turkey-f75fcdf64080d8762ab9b348b4843b31",
+                            "text": "-\"Dozens of Turkish customs officers detained in graft probe at Europe's busiest border crossing\". AP News. 8 April 2025. Retrieved 8 April 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-04-08",
+                                "Created": "2025-04-08"
+                            }
+                        }
+                    ],
+                    "start_date": "08/04/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "17 April  The Interior Ministry announces the arrest of 525 suspected drug dealers across Ankara in what is described as the country's \"biggest narcotics operation\".",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/turkey-drug-raids-arrests-ankara-4d3a67fc68fa197c9fb50f632ca4b14d",
+                            "text": "-\"Turkey detains 525 suspects in country's biggest anti-drugs operation, minister says\". AP News. 17 April 2025. Retrieved 17 April 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-04-17",
+                                "Created": "2025-04-17"
+                            }
+                        }
+                    ],
+                    "start_date": "17/04/2025",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

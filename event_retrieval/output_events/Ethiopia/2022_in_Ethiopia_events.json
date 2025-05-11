@@ -1,0 +1,123 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "7 January  At least 56 people are killed by an airstrike on an IDP camp in Dedebit, Tigray Region, Ethiopia.",
+                    "links": [
+                        {
+                            "link": "https://news.sky.com/story/ethiopia-at-least-56-killed-in-tigray-air-strike-on-camp-for-internally-displaced-aid-workers-say-12511519",
+                            "text": "-\"Ethiopia: At least 56 killed in Tigray airstrike on camp for internally displaced, aid workers say\". Sky News. Retrieved 8 January 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-01-08",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "07/01/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "2 March  Twenty Ethiopian soldiers, 30 attackers, and three civilians are killed in the Metekel Zone of Benishangul-Gumuz Region.",
+                    "links": [
+                        {
+                            "link": "https://www.jpost.com/international/article-701214",
+                            "text": "-\"Ambush and reprisals in Ethiopia kill 64 - rights body\". The Jerusalem Post | Jpost.com. Retrieved 25 March 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-03-25",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "02/03/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "June",
+            "Data": [
+                {
+                    "event_text": "18 June - Gimbi massacre",
+                    "links": [],
+                    "start_date": "18/06/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "July",
+            "Data": [
+                {
+                    "event_text": "20 July - 2022 al-Shabaab invasion of Ethiopia",
+                    "links": [],
+                    "start_date": "20/07/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "October",
+            "Data": [
+                {
+                    "event_text": "4 October - Adi Daero school airstrike",
+                    "links": [],
+                    "start_date": "04/10/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "25 October - Tigray War peace talks mediated by the African Union is formally being held for the first time in Johannesburg, South Africa.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/africa/ethiopia-peace-talks-start-south-africa-2022-10-25/",
+                            "text": "-\"Ethiopia peace talks start in South Africa\". Al Jazeera. Retrieved 30 October 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-10-30",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "25/10/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "November",
+            "Data": [
+                {
+                    "event_text": "2 November - Ethiopian and Tigrayan forces agreed to permanently cease any hostilities, ending the 2 year war in Tigray.",
+                    "links": [],
+                    "start_date": "02/11/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "December",
+            "Data": [
+                {
+                    "event_text": "Hundreds of people held demonstrations across Oromia following reports of hostilities across the region.",
+                    "links": [],
+                    "start_date": "06/12/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Oromo militias calls upon residents of Oromia to take up arms for \"self-defense\".",
+                    "links": [],
+                    "start_date": "06/12/2022",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

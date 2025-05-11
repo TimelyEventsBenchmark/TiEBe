@@ -1,0 +1,735 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "Jair Bolsonaro is sworn in as the 38th President of Brazil.",
+                    "links": [
+                        {
+                            "link": "http://agenciabrasil.ebc.com.br/o-presidente-jair-bolsonaro-recebe-faixa-presidencial?id=130231",
+                            "text": "-\"O presidente Jair Bolsonaro recebe a Faixa Presidencial\". Agência Brasil (in Portuguese). January 2019. Retrieved January 2, 2019.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2019-01-02",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "01/01/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The federal government sends National Forces to Ceará, after a wave of attacks carried out by criminal organizations.",
+                    "links": [
+                        {
+                            "link": "https://g1.globo.com/ce/ceara/noticia/2019/01/07/veja-a-cronologia-dos-ataques-no-ceara.ghtml",
+                            "text": "-\"Veja a cronologia dos ataques no Ceará\". G1. Retrieved January 10, 2019.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2019-01-10",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://g1.globo.com/ce/ceara/noticia/2019/01/04/forca-nacional-chega-ao-ceara-para-auxiliar-no-combate-a-ataque-de-faccoes.ghtml",
+                            "text": "-\"Força Nacional chega ao Ceará para auxiliar no combate a ataque de facções\". G1. January 4, 2019. Retrieved January 11, 2019.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2019-01-11",
+                                "Created": "2019-01-04"
+                            }
+                        }
+                    ],
+                    "start_date": "04/01/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Brazil formally withdraws from the UN's Global Compact for Migration pact, however, Brazilian Foreign Minister Ernesto Araújo says that the country will continue to accept Venezuelan refugees.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/article/us-brazil-migration/brazil-quits-un-migration-pact-will-still-take-in-venezuelan-refugees-source-idUSKCN1P22G0",
+                            "text": "-\"Brazil quits U.N. migration pact, will still take in Venezuelan refugees: source\". Reuters. January 8, 2019. Retrieved January 9, 2019.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2019-01-09",
+                                "Created": "2019-01-08"
+                            }
+                        }
+                    ],
+                    "start_date": "08/01/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A mining dam owned by Vale, collapses in Brumadinho, Minas Gerais, after suffering a catastrophic failure. 259 people are officially declared dead and 11 others are reported missing.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-latin-america-47009118",
+                            "text": "-\"Brumadinho dam collapse: 'Little hope' of finding missing in Brazil\". BBC News. January 25, 2019. Retrieved January 25, 2019.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2019-01-25",
+                                "Created": "2019-01-25"
+                            }
+                        },
+                        {
+                            "link": "https://g1.globo.com/mg/minas-gerais/noticia/2019/12/28/brumadinho-mais-duas-vitimas-do-rompimento-da-barragem-da-vale-sao-identificadas.ghtml",
+                            "text": "-\"Brumadinho: mais duas vítimas do rompimento da barragem da Vale são identificadas\". G1 Minas (in Brazilian Portuguese). Belo Horizonte, Brazil. December 28, 2019. Archived from the original on December 29, 2019. Retrieved January 12, 2020.-",
+                            "dates": {
+                                "Archieved": "2019-12-29",
+                                "Retrieved": "2020-01-12",
+                                "Created": "2019-12-28"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20191229143845/https://g1.globo.com/mg/minas-gerais/noticia/2019/12/28/brumadinho-mais-duas-vitimas-do-rompimento-da-barragem-da-vale-sao-identificadas.ghtml",
+                            "text": "-\"Brumadinho: mais duas vítimas do rompimento da barragem da Vale são identificadas\". G1 Minas (in Brazilian Portuguese). Belo Horizonte, Brazil. December 28, 2019. Archived from the original on December 29, 2019. Retrieved January 12, 2020.-",
+                            "dates": {
+                                "Archieved": "2019-12-29",
+                                "Retrieved": "2020-01-12",
+                                "Created": "2019-12-28"
+                            }
+                        }
+                    ],
+                    "start_date": "25/01/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Israeli Prime Minister Benjamin Netanyahu authorizes the deployment of a military group from the Israel Defense Forces to assist in search for survivors in Brumadinho, Minas Gerais.",
+                    "links": [
+                        {
+                            "link": "http://agenciabrasil.ebc.com.br/internacional/noticia/2019-01/ajuda-israelense-para-resgate-de-vitimas-de-brumadinho-chega-hoje",
+                            "text": "-\"Ajuda israelense para resgate de vítimas de Brumadinho chega hoje\". Agência Brasil. January 27, 2019. Retrieved January 1, 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-01-01",
+                                "Created": "2019-01-27"
+                            }
+                        }
+                    ],
+                    "start_date": "26/01/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "After 124 years, writer Ângela Gutiérrez becomes the first woman to preside over the Academia Cearense de Letras (Cearense Academy of Letters).",
+                    "links": [
+                        {
+                            "link": "https://g1.globo.com/ce/ceara/noticia/2019/01/30/escritora-angela-gutierrez-toma-posse-como-presidente-da-academia-cearense-de-letras.ghtml",
+                            "text": "-\"Escritora Angela Gutiérrez será a primeira mulher a presidir a Academia Cearense de Letras | Ceará | G1\". g1.globo.com. Retrieved February 12, 2019.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2019-02-12",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "30/01/2019",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "Rodrigo Maia is reelected President of Chamber of Deputies.",
+                    "links": [
+                        {
+                            "link": "https://g1.globo.com/politica/noticia/2019/02/01/rodrigo-maia-e-reeleito-presidente-e-comandara-camara-ate-2021.ghtml",
+                            "text": "-\"Rodrigo Maia é reeleito presidente e comandará Câmara até 2021\". G1 (in Portuguese). Retrieved February 1, 2019.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2019-02-01",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "01/02/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Davi Alcolumbre is elected President of Senate.",
+                    "links": [
+                        {
+                            "link": "https://g1.globo.com/politica/noticia/2019/02/02/apos-desistencia-de-renan-e-duas-votacoes-davi-alcolumbre-e-eleito-presidente-do-senado-em-1o-turno.ghtml",
+                            "text": "-\"Após desistência de Renan e duas votações, Davi Alcolumbre é eleito presidente do Senado em 1º turno\". G1 (in Portuguese). Retrieved February 2, 2019.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2019-02-02",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "02/02/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Heavy rain hits Rio de Janeiro, leaving six people dead and two missing.",
+                    "links": [
+                        {
+                            "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2019/02/06/chuva-volta-ao-rio-na-noite-desta-quarta-e-deve-ficar-ate-domingo.ghtml",
+                            "text": "-\"Temporal no Rio mata 3 pessoas, derruba árvores, alaga ruas e hotel\". G1 (in Portuguese). Retrieved February 7, 2019.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2019-02-07",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2019/02/07/sobe-para-seis-o-numero-de-mortos-em-decorrencia-das-chuvas-no-rio.htm",
+                            "text": "-\"Sobe para seis o número de mortos em decorrência das chuvas no Rio\". UOL (in Portuguese). Retrieved February 7, 2019.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2019-02-07",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2019/02/07/saiba-quem-sao-os-mortos-na-chuva-desta-quarta-no-rio.ghtml",
+                            "text": "-\"Saiba quem são os mortos na chuva desta quarta no Rio\". RJTV (in Portuguese). Retrieved February 8, 2019.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2019-02-08",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "06/02/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A fire at the Flamengo youth academy in Rio de Janeiro, leaves ten people dead and three injured.",
+                    "links": [
+                        {
+                            "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2019/02/08/incendio-deixa-mortos-e-feridos-no-centro-de-treinamento-do-flamengo.ghtml",
+                            "text": "-\"Atletas da base do Flamengo morrem em incêndio no CT Ninho do Urubu\". G1 (in Portuguese). Retrieved February 8, 2019.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2019-02-08",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://globoesporte.globo.com/futebol/times/flamengo/noticia/bombeiros-dizem-que-10-pessoas-morreram-em-incendio-no-ninho-do-urubu.ghtml",
+                            "text": "-\"Flamengo de luto: incêndio deixa 10 mortos no Ninho do Urubu\". Globo Esporte. February 8, 2019.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2019-02-08"
+                            }
+                        }
+                    ],
+                    "start_date": "08/02/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Journalist and news anchor Ricardo Boechat, along with his pilot, is killed in a helicopter crash in São Paulo.",
+                    "links": [
+                        {
+                            "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2019-02/jornalista-ricardo-boechat-morre-em-queda-de-helicoptero-em-sao-paulo",
+                            "text": "-Mello, Daniel (February 11, 2019). \"Jornalista Ricardo Boechat morre em queda de helicóptero em São Paulo\". Agência Brasil. Retrieved December 31, 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-12-31",
+                                "Created": "2019-02-11"
+                            }
+                        },
+                        {
+                            "link": "https://www.bbc.com/news/world-latin-america-47196268",
+                            "text": "-\"Ricardo Boechat: Brazil news anchor dies in helicopter crash\". BBC News. February 11, 2019. Retrieved February 12, 2019.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2019-02-12",
+                                "Created": "2019-02-11"
+                            }
+                        }
+                    ],
+                    "start_date": "11/02/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A fire hits a Bangu lodge, where three people are taken to the hospital.",
+                    "links": [
+                        {
+                            "link": "https://globoesporte.globo.com/futebol/noticia/incendio-atinge-alojamento-do-bangu-e-tres-jogadores-sao-encaminhados-para-o-hospital/",
+                            "text": "-\"Incêndio atinge alojamento do Bangu, e três pessoas são encaminhadas para o hospital\". GloboEsporte. February 11, 2019. Retrieved February 11, 2019.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2019-02-11",
+                                "Created": "2019-02-11"
+                            }
+                        }
+                    ],
+                    "start_date": "11/02/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A fire hits the Belo Monte Dam.",
+                    "links": [
+                        {
+                            "link": "https://oglobo.globo.com/economia/incendio-atinge-area-da-usina-de-belo-monte-no-para-23445684",
+                            "text": "-\"Incêndio atinge área da usina de Belo Monte, no Pará\". O Globo. February 11, 2019. Retrieved February 12, 2019.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2019-02-12",
+                                "Created": "2019-02-11"
+                            }
+                        }
+                    ],
+                    "start_date": "11/02/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A supermarket catches fire in Jacaré, Rio de Janeiro, leaving two people with minor injuries.",
+                    "links": [
+                        {
+                            "link": "https://oglobo.globo.com/rio/supermercado-no-jacare-tomado-por-incendio-duas-pessoas-tiveram-ferimentos-leves-23445032",
+                            "text": "-\"Supermercado no Jacaré é tomado por incêndio; duas pessoas tiveram ferimentos leves\". O Globo. February 11, 2019. Retrieved February 12, 2019.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2019-02-12",
+                                "Created": "2019-02-11"
+                            }
+                        }
+                    ],
+                    "start_date": "11/02/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Supreme Federal Court debate on the criminalization of homophobia and transphobia in Brazil.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/portuguese/brasil-47206924",
+                            "text": "-Rafael Barifouse (February 13, 2019). \"STF debate criminalização da homofobia; saiba o que está em jogo\". BBC. Retrieved February 13, 2019.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2019-02-13",
+                                "Created": "2019-02-13"
+                            }
+                        }
+                    ],
+                    "start_date": "13/02/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Four children are dead after a landslide in Mauá, São Paulo.",
+                    "links": [
+                        {
+                            "link": "https://g1.globo.com/sp/sao-paulo/noticia/2019/02/17/quatro-criancas-sao-encontradas-mortas-em-maua-apos-desabamentos.ghtml",
+                            "text": "-\"Quatro crianças são encontradas mortas em Mauá em desabamentos após temporal\". G1 (in Portuguese). Retrieved February 17, 2019.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2019-02-17",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "17/02/2019",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "Heavy rain in São Paulo causes flooding and blocks access roads, resulting in 12 deaths and 4 injuries.",
+                    "links": [
+                        {
+                            "link": "https://g1.globo.com/sp/sao-paulo/noticia/2019/03/11/forte-chuva-isola-areas-na-grande-sao-paulo-e-causa-alagamentos.ghtml",
+                            "text": "-\"Forte chuva isola áreas na Grande São Paulo e causa alagamentos\". G1 São Paulo.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "11/03/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Two former military police officers are arrested for the murders of Marielle Franco and her driver Anderson Gomes. One of the suspects was arrested at home, in a Rio de Janeiro gated community where President Jair Bolsonaro also resides.",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/world/2019/mar/12/police-officers-arrested-murder-brazilian-politician-marielle-franco",
+                            "text": "-\"Brazil: two ex-police officers arrested over murder of Marielle Franco\". The Guardian. March 12, 2019. Retrieved March 13, 2019.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2019-03-13",
+                                "Created": "2019-03-12"
+                            }
+                        }
+                    ],
+                    "start_date": "13/03/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Two men, ages 17 and 25, kill seven people and wound 11 others at a school with a revolver and knife in Suzano, São Paulo. Among those killed are five students and two faculty members. The two shooters commit suicide afterwards. Police find a crossbow, Molotov cocktails, and a \"suitcase with wires\" at the scene.",
+                    "links": [
+                        {
+                            "link": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/noticia/2019/03/13/tiros-deixam-feridos-em-escola-de-suzano.ghtml",
+                            "text": "-\"Dupla ataca escola em Suzano, mata oito pessoas e se suicida\". G1 (in Portuguese). Retrieved March 13, 2019.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2019-03-13",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/noticia/2019/03/13/tiros-deixam-feridos-em-escola-de-suzano.ghtml",
+                            "text": "-\"Dupla ataca escola em Suzano, mata oito pessoas e se suicida\". G1. March 13, 2019. Retrieved January 1, 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-01-01",
+                                "Created": "2019-03-13"
+                            }
+                        }
+                    ],
+                    "start_date": "13/03/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Former President Michel Temer and former Rio de Janeiro Governor Moreira Franco are arrested in Rio de Janeiro as part of an investigation into corruption.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-latin-america-47657159",
+                            "text": "-\"Michel Temer: Brazil ex-president arrested in corruption probe\". BBC News. March 21, 2019. Retrieved March 22, 2019.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2019-03-22",
+                                "Created": "2019-03-21"
+                            }
+                        },
+                        {
+                            "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2019/03/21/forca-tarefa-da-lava-jato-faz-operacao-para-prender-michel-temer-e-moreira-franco.ghtml",
+                            "text": "-\"Força-tarefa da Lava Jato faz operação para prender Michel Temer e Moreira Franco\". G1.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "21/03/2019",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "Musician Evaldo Rosa dos Santos and recyclable material collector Luciano Macedo are murdered in a drive-by shooting by Brazilian Army soldiers in Rio de Janeiro. Initially, it was reported that eighty shots had hit the vehicle, but the Judiciary Military Police later determine that the correct number was two hundred and fifty-seven.",
+                    "links": [
+                        {
+                            "link": "https://brasil.elpais.com/brasil/2019/04/08/politica/1554759819_257480.html?outputType=amp",
+                            "text": "-\"80 tiros e o risco da impunidade no Rio de Janeiro\". El País (in Brazilian Portuguese). April 9, 2019. Archived from the original on April 20, 2020. Retrieved April 8, 2021.-",
+                            "dates": {
+                                "Archieved": "2020-04-20",
+                                "Retrieved": "2021-04-08",
+                                "Created": "2019-04-09"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20200420140528/https://brasil.elpais.com/brasil/2019/04/08/politica/1554759819_257480.html?outputType=amp",
+                            "text": "-\"80 tiros e o risco da impunidade no Rio de Janeiro\". El País (in Brazilian Portuguese). April 9, 2019. Archived from the original on April 20, 2020. Retrieved April 8, 2021.-",
+                            "dates": {
+                                "Archieved": "2020-04-20",
+                                "Retrieved": "2021-04-08",
+                                "Created": "2019-04-09"
+                            }
+                        }
+                    ],
+                    "start_date": "07/04/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Unusual rain causes landslides, flooding and at least 10 deaths in Rio de Janeiro.",
+                    "links": [
+                        {
+                            "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2019/04/08/tempo-muda-no-rio-com-previsao-de-chuva-raios-e-ventos.ghtml",
+                            "text": "-\"Chuva forte causa deslizamentos, morte e deixa o Rio em estágio de crise\". G1. April 8, 2019. Retrieved January 1, 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-01-01",
+                                "Created": "2019-04-08"
+                            }
+                        }
+                    ],
+                    "start_date": "08/04/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "President Jair Bolsonaro signs a law revoking daylight saving time in Brazil.",
+                    "links": [],
+                    "start_date": "25/04/2019",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "May",
+            "Data": [
+                {
+                    "event_text": "A gambler wins R$289,420,865 in the Mega-Sena 2150 draw, which is the biggest prize in the history of regular contests (excluding the Mega da Virada draws).",
+                    "links": [
+                        {
+                            "link": "https://oglobo.globo.com/brasil/um-apostador-acerta-as-seis-dezenas-da-mega-sena-leva-2894-milhoes-23659423",
+                            "text": "-\"Um apostador acerta as seis dezenas da Mega-Sena e leva R$ 289,4 milhões\". O Globo. May 11, 2019. Retrieved October 17, 2019.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2019-10-17",
+                                "Created": "2019-05-11"
+                            }
+                        }
+                    ],
+                    "start_date": "11/05/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A small plane crashes in Estância, Sergipe, killing three people, including singer Gabriel Diniz.",
+                    "links": [
+                        {
+                            "link": "https://noticias.r7.com/cidades/cantor-gabriel-diniz-morre-em-acidente-de-aviao-em-sergipe-06102019",
+                            "text": "-\"Cantor Gabriel Diniz morre em acidente de avião em Sergipe\". R7.com. May 27, 2019. Retrieved October 17, 2019.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2019-10-17",
+                                "Created": "2019-05-27"
+                            }
+                        }
+                    ],
+                    "start_date": "27/05/2019",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "June",
+            "Data": [
+                {
+                    "event_text": "The Supreme Federal Court approves the criminalization of homophobia per the Racism Law.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/portuguese/brasil-47206924",
+                            "text": "-Barifouse, Rafael (June 13, 2019). \"STF aprova a criminalização da homofobia\". BBC. Retrieved January 1, 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-01-01",
+                                "Created": "2019-06-13"
+                            }
+                        }
+                    ],
+                    "start_date": "13/06/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Three million evangelicals gather in São Paulo for the \"March for Jesus\" event.",
+                    "links": [
+                        {
+                            "link": "https://www.foxnews.com/faith-values/brazil-evangelicals-jesus-march-millions",
+                            "text": "-\"3 million evangelicals march in Brazil: 'Our country belongs to Jesus'\". Fox News. June 28, 2019.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2019-06-28"
+                            }
+                        },
+                        {
+                            "link": "https://www.christianpost.com/news/3-million-christians-rally-brazil-proclaim-gospel-pray-end-corruption.html",
+                            "text": "-\"3 million Christians rally in streets of São Paulo to proclaim Gospel, pray to end corruption\". June 29, 2019.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2019-06-29"
+                            }
+                        },
+                        {
+                            "link": "http://evangelicalfocus.com/world/4549/The_March_for_Jesus_gathers_millions_in_Brazil",
+                            "text": "-\"The March for Jesus gathers millions in Brazil\".-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "20/06/2019",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "July",
+            "Data": [
+                {
+                    "event_text": "Brazil defeats Peru 3-1, to win the 2019 Copa America. This is Brazil's ninth Copa America trophy.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/sport/football/48897389",
+                            "text": "-\"Copa America 2019: Brazil beat Peru 3:1 to win first title in 12 years\".-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "07/07/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Rival gangs battle for five hours, during a prison riot in Pará. At least 52 people are killed, including sixteen beheadings.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-latin-america-49157858",
+                            "text": "-\"Brazil jail riot in Para state leaves 52 dead as gangs fight\". BBC News. July 29, 2019. Retrieved July 29, 2019.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2019-07-29",
+                                "Created": "2019-07-29"
+                            }
+                        }
+                    ],
+                    "start_date": "29/07/2019",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "August",
+            "Data": [
+                {
+                    "event_text": "A bus is hijacked on the Rio-Niterói bridge. The hijacking ends after police shoot and kill the hijacker.",
+                    "links": [
+                        {
+                            "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2019/08/20/tiros-sao-ouvidos-em-sequestro-a-onibus-na-ponte-rio-niteroi.ghtml",
+                            "text": "-\"Sequestrador de ônibus é morto por atirador de elite na Ponte Rio-Niterói; os 39 reféns passam bem\". G1. Retrieved October 17, 2019.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2019-10-17",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "20/08/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Oil stains appear on ten beaches in Paraíba, according to mapping data compiled by the Brazilian Institute of Environment and Renewable Natural Resources (Ibama). The oil spill would eventually worsen in October.",
+                    "links": [
+                        {
+                            "link": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2019/10/12/ibama-cobra-explicacoes-da-shell-sobre-barris-encontrados-no-litoral-do-nordeste.htm",
+                            "text": "-\"Ibama cobra explicações da Shell sobre barris encontrados no litoral do Nordeste\". noticias.uol.com.br. Retrieved October 13, 2019.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2019-10-13",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "30/08/2019",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "October",
+            "Data": [
+                {
+                    "event_text": "Nine people are killed after a residential building collapses in Fortaleza.",
+                    "links": [
+                        {
+                            "link": "https://www.gazetadopovo.com.br/republica/breves/predio-desaba-em-fortaleza-ceara/",
+                            "text": "-\"Prédio de sete andares desaba em Fortaleza, Ceará\". Gazeta do Povo. Retrieved November 4, 2019.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2019-11-04",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "15/10/2019",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "November",
+            "Data": [
+                {
+                    "event_text": "Former President Luiz Inácio Lula da Silva is released by judicial decision after 580 days in prison. This is after a Supreme Federal Court decision, that ended mandatory imprisonment of convicted criminals after their first appeal fail.",
+                    "links": [
+                        {
+                            "link": "https://www.aljazeera.com/news/2019/11/brazil-judge-orders-president-lula-released-prison-191108192957297.html",
+                            "text": "-\"Brazil's ex-President Lula freed from prison\".-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://brasil.elpais.com/brasil/2019/11/08/politica/1573230948_757857.html",
+                            "text": "-PAÍS, EL (November 8, 2019). \"AO VIVO | Lula deixa a prisão em Curitiba; as últimas notícias\". EL PAÍS. Retrieved November 8, 2019.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2019-11-08",
+                                "Created": "2019-11-08"
+                            }
+                        },
+                        {
+                            "link": "https://www.bbc.com/portuguese/brasil-50350821",
+                            "text": "-Souza - @felipe_dess, Felipe (November 8, 2019). \"Defesa de Lula pede soltura 'imediata' e militância prepara palanque em Curitiba\". {{cite journal}}: Cite journal requires |journal= (help)-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2019-11-08"
+                            }
+                        }
+                    ],
+                    "start_date": "09/11/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "President Jair Bolsonaro forms his new party Alliance for Brazil.",
+                    "links": [
+                        {
+                            "link": "https://noticias.r7.com/prisma/r7-planalto/bolsonaro-anuncia-saida-do-psl-e-criacao-do-alianca-pelo-brasil-12112019",
+                            "text": "-Nolasco, Thiago (November 12, 2019). \"Bolsonaro anuncia saída do PSL e criança do Aliança pelo Brasil\" (in Portuguese). R7. Retrieved November 13, 2019.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2019-11-13",
+                                "Created": "2019-11-12"
+                            }
+                        }
+                    ],
+                    "start_date": "12/11/2019",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "December",
+            "Data": [
+                {
+                    "event_text": "A group known as the \"Popular Nationalist Insurgency Command of the Large Brazilian Integralist Family\" claim responsibility for a firebombing at the headquarters of comedic group Porta dos Fundos in Rio de Janeiro.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-latin-america-50918636",
+                            "text": "-\"Brazil police investigate fire-bombing of 'gay Jesus' film office\". BBC. December 26, 2019. Retrieved December 30, 2019.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2019-12-30",
+                                "Created": "2019-12-26"
+                            }
+                        }
+                    ],
+                    "start_date": "26/12/2019",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

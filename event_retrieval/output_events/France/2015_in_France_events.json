@@ -1,0 +1,456 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "Former Prime Minister Lionel Jospin enters the Constitutional Council.",
+                    "links": [],
+                    "start_date": "06/01/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Gunmen kill 12 people at the headquarters of Charlie Hebdo in Paris.",
+                    "links": [
+                        {
+                            "link": "http://edition.cnn.com/2015/01/07/europe/france-satire-magazine-gunfire/index.html",
+                            "text": "-Greg Botelho and Catherine E. Shoichet (7 January 2015). \"Charlie Hebdo attack: Man turns himself in, agency reports\". CNN.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2015-01-07"
+                            }
+                        }
+                    ],
+                    "start_date": "07/01/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "One of the suspects in the killings, Hamyd Mourad, voluntarily surrenders to police at Charleville-Mézières while the other two suspects are still at large.",
+                    "links": [
+                        {
+                            "link": "https://www.nytimes.com/2015/01/08/world/europe/charlie-hebdo-paris-shooting.html?smid=tw-nytimes&_r=1",
+                            "text": "-\"One Suspect Surrenders in Attack on French Newspaper; Two Others at Large\". New York Times. 8 January 2015. Retrieved 8 January 2015.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2015-01-08",
+                                "Created": "2015-01-08"
+                            }
+                        }
+                    ],
+                    "start_date": "08/01/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Gunshots are reported in Dammartin-en-Goele as a manhunt continues for two suspects nearby.",
+                    "links": [
+                        {
+                            "link": "http://www.sbs.com.au/news/storystream/live-charlie-hebdo-gunshots-car-chase-near-manhunt-gunmen",
+                            "text": "-\"LIVE Charlie Hebdo: gunshots, car chase near manhunt for gunmen\". 9 January 2015. Retrieved 9 January 2015.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2015-01-09",
+                                "Created": "2015-01-09"
+                            }
+                        }
+                    ],
+                    "start_date": "09/01/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A hostage situation occurs at a Jewish market, Hypercacher, in the eastern Paris suburb of Vincennes. There are two suspected hostage takers, Hayat Boumeddiene, 26, and Amedy Coulibaly, 32, who were previously suspected of shooting a policewoman dead earlier in the week. There were at least sixteen hostages. The standoff ends with Coulibaly dead as well as four hostages. Four additional hostages and two police officers require hospitalization. Boumeddiene remains at large.",
+                    "links": [
+                        {
+                            "link": "https://www.msnbc.com/msnbc/paris-suspects-cornered-hostage-charlie-hebdo",
+                            "text": "-Timm, Jane C. (9 January 2015). \"Three suspects dead as French police free hostages\". MSNBC. Retrieved 11 January 2015.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2015-01-11",
+                                "Created": "2015-01-09"
+                            }
+                        }
+                    ],
+                    "start_date": "09/01/2015",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "Hooded gunmen attack French police in the city of Marseille, which Prime Minister Manuel Valls is due to visit.",
+                    "links": [
+                        {
+                            "link": "https://www.telegraph.co.uk/news/worldnews/europe/france/11400122/Marseille-police-fired-on-by-hooded-gunmen.html",
+                            "text": "-Samuel, Henry (9 February 2015). \"Marseille police fired on by 'hooded gunmen'\". Telegraph.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2015-02-09"
+                            }
+                        }
+                    ],
+                    "start_date": "09/02/2015",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "Villa Castelli helicopter collision Two helicopters collide over Western Argentina, killing 10 people, including three French sports stars.",
+                    "links": [],
+                    "start_date": "09/03/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Voters in France go to the polls for the first round of voting in local government elections. Exit polls show the conservative UMP in first place, Marine Le Pen's National Front in second, with President Francois Hollande's French Socialist Party in third.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-europe-32006268",
+                            "text": "-\"France local elections: Conservatives hold off National Front\". BBC News. 22 March 2015.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2015-03-22"
+                            }
+                        }
+                    ],
+                    "start_date": "22/03/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A Germanwings flight carrying 144 passengers and six crew crashes en route from Barcelona, Spain, to Düsseldorf, Germany, in a mountainous region of the Alps near Digne-les-Bains in Southern France. All on board are dead.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/article/us-france-crash-airbus-lufthansa-idUSKBN0MK0ZP20150324",
+                            "text": "-\"German Airbus crashes in French Alps with 150 dead, black box found\". Reuters. 24 March 2015.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2015-03-24"
+                            }
+                        }
+                    ],
+                    "start_date": "24/03/2015",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "Vladimir Putin wants France to refund Russia for Mistral warships. The deal for these warships may not go through because of the Russo-Ukrainian war",
+                    "links": [
+                        {
+                            "link": "https://www.nytimes.com/aponline/2015/04/16/world/europe/ap-eu-russia-putin-the-latest.html",
+                            "text": "-\"The Latest: Putin Wants Refund if French Don't Deliver Ship\". New York Times. April 16, 2015.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2015-04-16"
+                            }
+                        }
+                    ],
+                    "start_date": "16/04/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Sid Ahmed Ghlam, a 24-year-old Algerian student, is arrested in Paris on suspicion of plotting a terrorist attack on one or more churches as well as for the killing of Aurélie Châtelain.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-europe-32409253",
+                            "text": "-\"France police arrest man 'planning to attack churches'\". BBC News. 19 April 2015.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2015-04-19"
+                            }
+                        }
+                    ],
+                    "start_date": "19/04/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "President François Hollande says he will refund Russia for the Mistral warships if the deal falls through",
+                    "links": [
+                        {
+                            "link": "http://www.dw.de/france-to-refund-moscow-for-undelivered-mistral-warship/a-18402100",
+                            "text": "-\"France to refund Moscow for undelivered 'Mistral' warship\". Deutsche Welle.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "22/04/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "- Qatar buys 24 Rafale fighter jets from France, paying about 6.3 billion euros (or 7.05 million US dollars). Qatar is in search of military power due to instability in the Middle Eastern region. They are fearful of recent conflict in Yemen, Syria, and Libya, as well as the growing power of Iran. The deal also \"includes MBDA missiles, and the training of 36 Qatari pilots and 100 technicians by the French army\". France's arms exports are now at 15 billion euros for this year.",
+                    "links": [
+                        {
+                            "link": "http://www.france24.com/en/20150430-france-qatar-rafale-fighter-jets",
+                            "text": "-\"France confirms sale of 24 Rafale fighter jets to Qatar\". France 24.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "30/04/2015",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "May",
+            "Data": [
+                {
+                    "event_text": "Gilles Le Guen, who is accused of working with a branch of Al-Queda in North Africa, goes into trial in Paris. He is the first person to go on trial for a new anti-terrorism law that was passed in 2012. This law \"allows French prosecutors to go after citizens who are suspected of participating in terrorist acts on foreign soil, or who have left the country to receive terrorist training.\"",
+                    "links": [
+                        {
+                            "link": "http://www.france24.com/en/20150504-tiral-french-jihadist-le-guen-paris-mali-aqmi",
+                            "text": "-Bamat, Joseph (4 May 2015). \"Ageing French 'jihadist' faces trial in Paris\". France 24.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2015-05-04"
+                            }
+                        }
+                    ],
+                    "start_date": "04/05/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The French parliament passes a bill that gives power to intelligence services to do things such as tap cell phones and read emails. Intelligence services can use these powers \"while bypassing the judiciary\". The point of this bill is to protect France from security threats. The bill has raised questions about privacy of the French people",
+                    "links": [
+                        {
+                            "link": "http://www.aljazeera.com/programmes/insidestory/2015/05/story-france-surveillance-150506210711876.html",
+                            "text": "-\"Inside Story: France under surveillance\". Al Jazeera.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "06/05/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A French family is trapped in Portuguese water after their ship capsizes near the mid-Atlantic Azores islands. The six-year-old girl of the family dies of hypothermia after being stranded in 21 degree Celsius water for 7 hours. The rest of the family was rescued by a Spanish hospital ship.",
+                    "links": [
+                        {
+                            "link": "http://www.france24.com/en/20150507-french-girl-dies-after-sailboat-capsizes-off-azores-accident-portugal",
+                            "text": "-\"French girl dies after sailboat capsizes off Azores\". France 24. 7 May 2015.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2015-05-07"
+                            }
+                        }
+                    ],
+                    "start_date": "07/05/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Wiretaps of Nicolas Sarkozy (head of the UMP) were approved by a French court to be used as evidence. These wiretappings would likely be used against Sarkozy in a corruption case against him. Sarkozy's phones were first bugged \"over allegations that he accepted illicit payments from L'Oréal heiress Liliane Bettencourt for his 2007 presidential campaign, much of it in cash-filled envelopes.\" The recordings entail conversations between Sarkozy and his lawyer. This case is seen as a threat to Sarkozy's recent \"political comeback\".",
+                    "links": [
+                        {
+                            "link": "http://www.france24.com/en/20150507-france-court-approves-use-sarkozy-wiretaps-corruption-case",
+                            "text": "-\"French court approves use of Sarkozy wiretaps in corruption case\". France 24. 7 May 2015.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2015-05-07"
+                            }
+                        }
+                    ],
+                    "start_date": "07/05/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The state prosecutor of France confirms that judges in France will investigate rape allegations against French peacekeepers in Bangui, Central African Republic. The allegations come from six children between the ages of 9 and 13, claiming that fourteen French soldiers raped them in exchange for food between December 2013 and .",
+                    "links": [
+                        {
+                            "link": "http://www.france24.com/en/20150507-france-launches-probe-alleged-sex-crimes-car-rape-children",
+                            "text": "-\"French judges to investigate CAR 'sex-for-sweet scandal'\". France 24. 7 May 2015.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2015-05-07"
+                            }
+                        }
+                    ],
+                    "start_date": "07/05/2015",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "June",
+            "Data": [
+                {
+                    "event_text": "The 2015 French Open tennis tournament concludes at Stade Roland Garros. Stan Wawrinka wins the Men's Singles title, and Serena Williams the Ladies' Singles.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/sport/0/tennis/33042056",
+                            "text": "-Newbery, Piers (7 June 2015). \"Stanislas Wawrinka stuns Novak Djokovic to win French Open\". BBC Sport. Retrieved 8 June 2015.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2015-06-08",
+                                "Created": "2015-06-07"
+                            }
+                        },
+                        {
+                            "link": "https://www.bbc.com/sport/0/tennis/33035777",
+                            "text": "-\"French Open final: Serena Williams wins 20th Grand Slam\". BBC Sport. 6 June 2015. Retrieved 8 June 2015.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2015-06-08",
+                                "Created": "2015-06-06"
+                            }
+                        }
+                    ],
+                    "start_date": "07/06/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "\"Vendredi Noir\" At Saint-Quentin-Fallavier, near Lyon, a French Muslim, Yassin Salhi, murders his employer Hervé Cornara and drives a van into gas cylinders at a factory, causing an explosion.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/article/us-france-blast-investigation-idUSKCN0P80EB20150628",
+                            "text": "-\"France attack suspect admits killing, police make link to Syria\". Reuters. 29 June 2015.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2015-06-29"
+                            }
+                        }
+                    ],
+                    "start_date": "26/06/2015",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "July",
+            "Data": [
+                {
+                    "event_text": "The 2015 Tour de France concludes in Paris, and is won by Chris Froome of Team Sky, the first British rider to win the Tour twice.",
+                    "links": [
+                        {
+                            "link": "http://www.cyclingnews.com/races/tour-de-france-2015/stage-21/results",
+                            "text": "-\"Chris Froome wins Tour de France 2015\". Cyclingnews.com. Immediate Media Company. 26 July 2015. Retrieved 29 July 2015.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2015-07-29",
+                                "Created": "2015-07-26"
+                            }
+                        }
+                    ],
+                    "start_date": "26/07/2015",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "August",
+            "Data": [
+                {
+                    "event_text": "An attempted mass shooting occurred on board a Thalys train on its way to Paris from Amsterdam. Four people including the assailant were injured but no fatalities were reported. Three Americans and one British person, who all helped to subdue the gunmen, were made Knights of the Legion of Honour (Chevaliers de la Légion d'honneur) by President François Hollande.",
+                    "links": [
+                        {
+                            "link": "https://www.wsj.com/articles/three-wounded-in-attack-on-french-train-1440187820",
+                            "text": "-\"Three Wounded in Attack on French Train\". Wall Street Journal. 21 August 2015.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2015-08-21"
+                            }
+                        },
+                        {
+                            "link": "https://www.theguardian.com/world/2015/aug/24/legion-dhonneur-for-men-who-prevented-carnage-on-french-train",
+                            "text": "-\"French train attack men receive Légion d'honneur for 'preventing massacre'\". TheGuardian.com. 24 August 2015.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2015-08-24"
+                            }
+                        }
+                    ],
+                    "start_date": "21/08/2015",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "October",
+            "Data": [
+                {
+                    "event_text": "Jean-Jacques Hyest enters the Constitutional Council.",
+                    "links": [],
+                    "start_date": "12/10/2015",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "November",
+            "Data": [
+                {
+                    "event_text": "Terrorist attacks rip through France with as many as 130 people reported to be dead. The Islamic State claims responsibility of the shooting.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-europe-34814203",
+                            "text": "-BBC News report Archived 2018-06-13 at the Wayback Machine, Paris attacks.-",
+                            "dates": {
+                                "Archieved": "2018-06-13",
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20180613102011/https://www.bbc.com/news/world-europe-34814203",
+                            "text": "-BBC News report Archived 2018-06-13 at the Wayback Machine, Paris attacks.-",
+                            "dates": {
+                                "Archieved": "2018-06-13",
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "13/11/2015",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "December",
+            "Data": [
+                {
+                    "event_text": "A Muslim prayer hall is ransacked in Ajaccio, Corsica during a series of protests by Corsican nationalists.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-europe-35179198",
+                            "text": "-\"Muslim prayer hall attacked in Corsica\". BBC News. 2015-12-25. Retrieved 2021-07-30.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-07-30",
+                                "Created": "2015-12-25"
+                            }
+                        }
+                    ],
+                    "start_date": "25/12/2015",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

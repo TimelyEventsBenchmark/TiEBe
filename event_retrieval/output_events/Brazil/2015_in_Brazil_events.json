@@ -1,0 +1,278 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "Dilma Rousseff is inaugurated for a second term as Brazilian President.",
+                    "links": [
+                        {
+                            "link": "http://g1.globo.com/politica/noticia/2015/01/dilma-toma-posse-nesta-quinta-e-inicia-quarto-mandato-consecutivo-do-pt.html",
+                            "text": "-\"Dilma toma posse nesta quinta e inicia quarto mandato consecutivo do PT\". G1. 1 January 2015.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2015-01-01"
+                            }
+                        }
+                    ],
+                    "start_date": "01/01/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Two commuter trains collide at Mesquita, Rio de Janeiro, injuring 158 people.",
+                    "links": [
+                        {
+                            "link": "http://www.news24.com/World/News/Brazil-train-collision-leaves-158-injured-20150106",
+                            "text": "-\"Brazil train collision leaves 158 injured\". 6 January 2015. Retrieved 10 January 2015.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2015-01-10",
+                                "Created": "2015-01-06"
+                            }
+                        }
+                    ],
+                    "start_date": "06/01/2015",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "The president of Petrobras, Maria das Graças Foster, as well as five other directors of the oil company resign; amidst allegations of corruption.",
+                    "links": [
+                        {
+                            "link": "https://www.wsj.com/articles/petrobras-ceo-and-5-other-executives-resign-1423055419",
+                            "text": "-\"Petrobras CEO and Five Other Executives Resign\". 4 February 2015. Retrieved 14 July 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-07-14",
+                                "Created": "2015-02-04"
+                            }
+                        }
+                    ],
+                    "start_date": "04/02/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Six months since the beginning of Operation Castanheira, Ezequiel Antônio Castanha, who is considered to be the biggest Amazon deforester of all time, is arrested. This was a joint operation by the Federal Police, the Brazilian Institute of the Environment, the Federal Public Ministry, the Federal Revenue Service, and the National Public Security Force.",
+                    "links": [
+                        {
+                            "link": "https://mj.jusbrasil.com.br/noticias/308533774/com-ajuda-da-forca-nacional-e-pf-ibama-prende-grileiro-e-desmatador-da-amazonia",
+                            "text": "-\"Com ajuda da Força Nacional e PF, Ibama prende grileiro e desmatador da Amazônia\" (in Brazilian Portuguese). Jusbrasil. 2015-02-23. Retrieved 2023-01-27.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-01-27",
+                                "Created": "2015-02-23"
+                            }
+                        },
+                        {
+                            "link": "http://g1.globo.com/jornal-nacional/noticia/2015/02/homem-considerado-o-maior-desmatador-da-amazonia-e-preso.html",
+                            "text": "-\"Homem considerado o maior desmatador da Amazônia é preso\" (in Brazilian Portuguese). Jornal Nacional. 2015-02-23. Retrieved 2023-01-27.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-01-27",
+                                "Created": "2015-02-23"
+                            }
+                        }
+                    ],
+                    "start_date": "21/02/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The judge in the insider trading trial of Eike Batista is videotaped driving one of his seized vehicles.",
+                    "links": [
+                        {
+                            "link": "https://www.nytimes.com/2015/02/25/business/dealbook/judge-in-batistas-insider-trading-case-acknowledges-driving-seized-porsche.html",
+                            "text": "-Dan Horch (February 24, 2015). \"Judge in Batista's Insider Trading Case Acknowledges Driving Seized Porsche\". DealBook. New York Times. Retrieved February 18, 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-02-18",
+                                "Created": "2015-02-24"
+                            }
+                        }
+                    ],
+                    "start_date": "24/02/2015",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "The Supreme Federal Court extinguishes the sentence of former Workers' Party president José Genoino, after being convicted in the monthly allowance process.",
+                    "links": [
+                        {
+                            "link": "http://noticias.uol.com.br/politica/ultimas-noticias/2015/03/04/supremo-extingue-pena-de-genoino.htm",
+                            "text": "-Supremo extingue pena de José Genoino, condenado no mensalão-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "04/03/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Hundreds of thousands of people in Brazil protest against corruption and denounce the government of President Dilma Rousseff.",
+                    "links": [],
+                    "start_date": "15/03/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "51 people die in a bus accident near Joinville.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/article/us-brazil-crash-idUSKBN0MB02Y20150315",
+                            "text": "-\"Up to 51 dead after bus crash in southern Brazil\". Reuters. 2017-03-15. Retrieved 2017-01-05.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-01-05",
+                                "Created": "2017-03-15"
+                            }
+                        }
+                    ],
+                    "start_date": "15/03/2015",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "July",
+            "Data": [
+                {
+                    "event_text": "Two million people attend the 19th São Paulo Gay Pride Parade on Avenida Paulista in São Paulo.",
+                    "links": [
+                        {
+                            "link": "http://g1.globo.com/sao-paulo/noticia/2015/06/parada-gay-reune-milhares-em-sp.html",
+                            "text": "-Letícia Macedo e Carolina Dantas (7 June 2015). \"Parada Gay reúne milhares em SP\". G1. Globo. Retrieved 8 June 2015.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2015-06-08",
+                                "Created": "2015-06-07"
+                            }
+                        }
+                    ],
+                    "start_date": "07/07/2015",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "August",
+            "Data": [
+                {
+                    "event_text": "In more than 200 cities, in all 26 states in the country, people protest against the Workers' Party government, calling for the removal of President Dilma Rousseff through impeachment or resignation.",
+                    "links": [
+                        {
+                            "link": "https://web.archive.org/web/20150927200441/http://brasil.elpais.com/m/brasil/2015/08/16/politica/1439728675_375038.html",
+                            "text": "-\"Manifestações de 16 de agosto\". 16 August 2015. Archived from the original on 2015-09-27. Retrieved 17 August 2015.-",
+                            "dates": {
+                                "Archieved": "2015-08-16",
+                                "Retrieved": "2015-08-17",
+                                "Created": "2015-09-27"
+                            }
+                        },
+                        {
+                            "link": "http://brasil.elpais.com/m/brasil/2015/08/16/politica/1439728675_375038.html",
+                            "text": "-\"Manifestações de 16 de agosto\". 16 August 2015. Archived from the original on 2015-09-27. Retrieved 17 August 2015.-",
+                            "dates": {
+                                "Archieved": "2015-08-16",
+                                "Retrieved": "2015-08-17",
+                                "Created": "2015-09-27"
+                            }
+                        }
+                    ],
+                    "start_date": "16/08/2015",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "September",
+            "Data": [
+                {
+                    "event_text": "The Supreme Court of Brazil ruled that campaign donations from businesses should be illegal.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/article/us-brazil-politics-financing/brazils-top-court-bans-corporate-money-in-election-campaigns-idUSKCN0RH33A20150917",
+                            "text": "-Anthony Boadle (September 17, 2015). \"Brazil's top court bans corporate money in election campaigns\". Reuters. Retrieved February 14, 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-02-14",
+                                "Created": "2015-09-17"
+                            }
+                        }
+                    ],
+                    "start_date": "17/09/2015",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "November",
+            "Data": [
+                {
+                    "event_text": "An iron ore tailings dam in Bento Rodrigues, a subdistrict of Mariana, Minas Gerais, suffers a catastrophic failure, causing flooding, killing 19 and injuring over 16. This would become the biggest environmental disaster in the country’s history after the mud had reached the course of the Doce River and later in the following weeks, the Atlantic Ocean.",
+                    "links": [
+                        {
+                            "link": "http://g1.globo.com/minas-gerais/desastre-ambiental-em-mariana/noticia/2016/03/corpo-e-achado-dentro-de-caminhao-em-area-do-desastre-em-mariana.html",
+                            "text": "-G1 (9 March 2016). \"Corpo é achado dentro de caminhão em área do desastre em Mariana\". Retrieved 18 March 2016.{{cite web}}:  CS1 maint: numeric names: authors list (link)-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2016-03-18",
+                                "Created": "2016-03-09"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20160403001447/http://veja.abril.com.br/noticia/brasil/tragedia-de-mariana-lama-levara-desastre-ambiental-para-o-oceano/",
+                            "text": "-Nicole Fusco (20 November 2015). \"Tragédia de Mariana: lama que arrasou rios ameaça o ecossistema marinho\". Veja. Archived from the original on 2016-04-03. Retrieved 18 March 2016.-",
+                            "dates": {
+                                "Archieved": "2015-11-20",
+                                "Retrieved": "2016-03-18",
+                                "Created": "2016-04-03"
+                            }
+                        },
+                        {
+                            "link": "http://veja.abril.com.br/noticia/brasil/tragedia-de-mariana-lama-levara-desastre-ambiental-para-o-oceano/",
+                            "text": "-Nicole Fusco (20 November 2015). \"Tragédia de Mariana: lama que arrasou rios ameaça o ecossistema marinho\". Veja. Archived from the original on 2016-04-03. Retrieved 18 March 2016.-",
+                            "dates": {
+                                "Archieved": "2015-11-20",
+                                "Retrieved": "2016-03-18",
+                                "Created": "2016-04-03"
+                            }
+                        }
+                    ],
+                    "start_date": "05/11/2015",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "December",
+            "Data": [
+                {
+                    "event_text": "The Brazilian Chamber of Deputies accepts the impeachment request of President Dilma Rousseff.",
+                    "links": [
+                        {
+                            "link": "http://noticias.uol.com.br/politica/listas/veja-argumentos-a-favor-e-contra-o-impeachment-de-dilma.htm",
+                            "text": "-Amorim, Felipe (2 December 2015). \"Veja 8 razões a favor e contra o impeachment da presidente Dilma Rousseff\" [See 8 reasons for and against the impeachment of President Dilma Rousseff] (in Portuguese). UOL Notícias – Política. Retrieved 13 May 2016.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2016-05-13",
+                                "Created": "2015-12-02"
+                            }
+                        }
+                    ],
+                    "start_date": "02/12/2015",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

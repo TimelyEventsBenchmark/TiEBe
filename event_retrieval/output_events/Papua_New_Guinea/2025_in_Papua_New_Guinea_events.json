@@ -1,0 +1,129 @@
+{
+    "Events": [
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "6 February  A twin-engine aircraft operated by TropicAir undergoes a runway excursion during takeoff at Kerema Airport due to strong winds. No injuries are reported among its eight passengers and crew.",
+                    "links": [
+                        {
+                            "link": "https://www.postcourier.com.pg/strong-winds-causes-plane-into-ditch/",
+                            "text": "-\"Strong winds causes plane to ditch\". Papua New Guinea Post-courier. 6 February 2025. Retrieved 7 February 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-07",
+                                "Created": "2025-02-06"
+                            }
+                        },
+                        {
+                            "link": "https://www.postcourier.com.pg/investigations-continue-on-the-plane-crash-at-kerema-airport/",
+                            "text": "-\"Investigations continue on the plane crash at Kerema Airport\". Papua New Guinea Post-courier. 6 February 2025. Retrieved 7 February 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-07",
+                                "Created": "2025-02-06"
+                            }
+                        }
+                    ],
+                    "start_date": "06/02/2025",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "20 March  Prosecutors in Australia drop charges of assault against former petroleum minister Jimmy Maladina.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/papua-new-guinea-australia-lawmaker-maladina-assault-e1b138eae76d5f9ddc9255d27f0028b7",
+                            "text": "-\"Australian prosecutors drop assault charge against Papua New Guinea minister\". Associated Press. 20 March 2025. Retrieved 20 March 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-03-20",
+                                "Created": "2025-03-20"
+                            }
+                        }
+                    ],
+                    "start_date": "20/03/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "24 March  The government imposes a ban on Facebook as part of a \"test\" to limit hate speech, misinformation and pornography.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/articles/cj92kxlkx4mo",
+                            "text": "-\"Outcry as Papua New Guinea blocks Facebook\". BBC. 26 March 2025. Retrieved 26 March 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-03-26",
+                                "Created": "2025-03-26"
+                            }
+                        }
+                    ],
+                    "start_date": "24/03/2025",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "5 April  A magnitude 6.9 earthquake hits off the coast of Kimbe.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/papua-new-guinea-earthquake-tsunami-warning-1cbf326c94843aff907253abc225532b",
+                            "text": "-\"A tsunami warning has been canceled for Papua New Guinea after a strong magnitude 6.9 earthquake\". AP News. 5 April 2025. Retrieved 5 April 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-04-05",
+                                "Created": "2025-04-05"
+                            }
+                        }
+                    ],
+                    "start_date": "05/04/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "10 April  The government lifts a three-year moratorium on its carbon credit schemes.",
+                    "links": [
+                        {
+                            "link": "https://www.france24.com/en/live-news/20250410-papua-new-guinea-lifts-ban-on-forest-carbon-credits",
+                            "text": "-\"Papua New Guinea lifts ban on forest carbon credits\". France 24. 10 April 2025. Retrieved 10 April 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-04-10",
+                                "Created": "2025-04-10"
+                            }
+                        }
+                    ],
+                    "start_date": "10/04/2025",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "September",
+            "Data": [
+                {
+                    "event_text": "28 September  2025 Bougainvillean general election",
+                    "links": [
+                        {
+                            "link": "https://www.postcourier.com.pg/bougainville-general-election-dates-announced-2/",
+                            "text": "-\"Bougainville general election dates announced\". Papua New Guinea Post-courier. 6 February 2025. Retrieved 6 February 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-06",
+                                "Created": "2025-02-06"
+                            }
+                        }
+                    ],
+                    "start_date": "08/09/2025",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

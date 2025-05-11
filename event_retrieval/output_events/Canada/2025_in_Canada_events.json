@@ -1,0 +1,522 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "Justin Trudeau announces his resignation as leader of the Liberal Party, effective following the selection of his successor.",
+                    "links": [
+                        {
+                            "link": "https://www.france24.com/en/live-news/20250106-canada-s-trudeau-expected-to-announce-resignation-amid-political-crisis",
+                            "text": "-\"Canada's Justin Trudeau announces resignation as prime minister\". France 24. January 6, 2024. Retrieved January 6, 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-01-06",
+                                "Created": "2024-01-06"
+                            }
+                        }
+                    ],
+                    "start_date": "06/01/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Public Inquiry into Foreign Interference publishes its final report, saying that it had found “no evidence of traitors” in the Parliament of Canada, while warning that foreign actors were generating disinformation in traditional and social media to threaten the democratic system.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/canada-foreign-interference-report-traitors-parliament-df7001ea0c76f76fe105869ccec4a420",
+                            "text": "-\"Canada inquiry found no evidence of 'traitors' in parliament, but warns against disinformation\". AP News. January 29, 2024. Retrieved January 29, 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-01-29",
+                                "Created": "2024-01-29"
+                            }
+                        }
+                    ],
+                    "start_date": "28/01/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Tanner Fox is sentenced to life imprisonment of the Supreme Court of British Columbia for the 2022 murder of Sikh businessman Ripudaman Singh Malik, who was acquitted of involvement in the 1985 bombing of Air India Flight 182, in Surrey.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/articles/cpql5vqj0xgo",
+                            "text": "-\"Life sentence for hitman who killed suspect in 1985 Air India bombings\". BBC. January 29, 2024. Retrieved January 29, 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-01-29",
+                                "Created": "2024-01-29"
+                            }
+                        }
+                    ],
+                    "start_date": "28/01/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Ontario premier Doug Ford announces that a snap provincial election would be held on 27 February, citing the need for a stronger mandate to respond to threats of tariffs by US President Donald Trump.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/canada-snap-election-ontario-doug-ford-trump-tariffs-fa805c1209f09b84840d47857f869469",
+                            "text": "-\"Ontario leader calls for snap election to fight Trump's threatened tariffs\". AP News. January 30, 2024. Retrieved January 30, 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-01-30",
+                                "Created": "2024-01-30"
+                            }
+                        }
+                    ],
+                    "start_date": "29/01/2025",
+                    "end_date": "27/02/2025"
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "US President Donald Trump imposes a 10% tariff on energy imports from Canada and a 25% tariff for other Canadian goods, prompting Prime Minister Trudeau to declare a 25% on American imports in response.",
+                    "links": [
+                        {
+                            "link": "https://edition.cnn.com/2025/02/01/politics/mexico-canada-china-tariffs-trump/index.html",
+                            "text": "-\"Trump announces significant new tariffs on Mexico, Canada and China, sparking retaliatory actions\". CNN. February 1, 2025. Retrieved February 2, 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-02",
+                                "Created": "2025-02-01"
+                            }
+                        }
+                    ],
+                    "start_date": "01/02/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The provincial government of Ontario imposes a ban on American companies from bidding on government contracts and terminates an agreement with Starlink to provide internet to remote areas of northern Ontario in retaliation for US tariffs.",
+                    "links": [
+                        {
+                            "link": "https://www.france24.com/en/americas/20250203-canada-s-ontario-bans-us-firms-from-governmant-contracts-in-response-to-trump-tariffs",
+                            "text": "-\"Canada's Ontario bans US firms from government contracts in response to Trump tariffs\". France 24. February 3, 2025. Retrieved February 3, 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-03",
+                                "Created": "2025-02-03"
+                            }
+                        }
+                    ],
+                    "start_date": "03/02/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The US suspends its increased tariffs on Canadian imports for a month following last-minute calls between Prime Minister Trudeau and President Trump.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/articles/c87d5rlee52o",
+                            "text": "-\"Trump agrees to pause tariffs on Canada and Mexico but not on China\". BBC. February 4, 2025. Retrieved February 4, 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-04",
+                                "Created": "2025-02-04"
+                            }
+                        }
+                    ],
+                    "start_date": "03/02/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A Bombardier CRJ900LR (N932XJ) operated by Endeavor Air as Delta Connection Flight 4819 from MinneapolisSaint Paul International Airport crashes and overturns on landing at Toronto Pearson International Airport, injuring at least 17 people.",
+                    "links": [
+                        {
+                            "link": "https://toronto.citynews.ca/2025/02/17/plane-fire-toronto-pearson-airport/",
+                            "text": "-Lourenco, Denio (February 17, 2025). \"17 injured after Delta Airlines plane crashes at Toronto Pearson Airport\". CityNews Toronto. Retrieved February 17, 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-17",
+                                "Created": "2025-02-17"
+                            }
+                        }
+                    ],
+                    "start_date": "17/02/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Prime Minister Trudeau officially announces the establishment of Alto, a high-speed rail plan that will connect Quebec City to Toronto.",
+                    "links": [
+                        {
+                            "link": "https://www.cbc.ca/news/politics/trudeau-announces-high-speed-rail-quebec-toronto-1.7462538",
+                            "text": "-Zimonjic, Peter; Prost, Mathieu; Bordeleau, Stéphane (February 19, 2025). \"High-speed rail line with 300 km/h trains will run between Toronto and Quebec City, Trudeau announces\". CBC News. Retrieved February 19, 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-19",
+                                "Created": "2025-02-19"
+                            }
+                        }
+                    ],
+                    "start_date": "19/02/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Activist Pat King is sentenced to three months' house arrest on charges related to the Canada convoy protest in 2022.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/canada-truck-protests-covid-pat-king-sentence-075be3c7658bb50b27c285fba03f2a09",
+                            "text": "-\"Leader of Canada's trucker protests against COVID-19 restrictions gets 3 months house arrest\". AP News. February 20, 2025. Retrieved February 20, 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-20",
+                                "Created": "2025-02-20"
+                            }
+                        }
+                    ],
+                    "start_date": "19/02/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Canada wins the 2025 4 Nations Face-Off after defeating the United States 32 in Boston.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/united-states-canada-hockey-anthems-4-nations-2fb76ba5d850b1613db9b78e60ac79c4",
+                            "text": "-\"Connor McDavid scores in OT to give Canada 3-2 win over United States in 4 Nations Face-Off final\". AP News. February 21, 2025. Retrieved February 21, 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-21",
+                                "Created": "2025-02-21"
+                            }
+                        }
+                    ],
+                    "start_date": "20/02/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Canada designates the Sinaloa Cartel, the Jalisco New Generation Cartel, the Carteles Unidos, the Cártel del Noreste, the Gulf Cartel, La Nueva Familia Michoacana Organization, Tren de Aragua and MS-13, as terrorist organizations.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/canada-foreign-criminal-groups-terrorist-mexico-el-salvador-venezuela-2c7789970f3d6a91c20bc16b27740395",
+                            "text": "-\"Following US lead, Canada designates 7 Latin American criminal groups as terrorist entities\". AP News. February 22, 2025. Retrieved February 22, 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-22",
+                                "Created": "2025-02-22"
+                            }
+                        }
+                    ],
+                    "start_date": "20/02/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Trudeau pledges to send $5 billion in aid to Ukraine, due to the Russian invasion of Ukraine, using funds from seized Russian assets.",
+                    "links": [
+                        {
+                            "link": "https://nationalpost.com/news/canada/canada-will-send-5b-in-aid-to-ukraine-using-funds-from-seized-russian-assets-trudeau",
+                            "text": "-Graveland, Bill (February 24, 2025). \"Canada will send $5B in aid to Ukraine using funds from seized Russian assets: Trudeau\". The National Post. Retrieved February 24, 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-24",
+                                "Created": "2025-02-24"
+                            }
+                        }
+                    ],
+                    "start_date": "24/02/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Newfoundland and Labrador Premier Andrew Furey announced his intentions to resign as both Premier and Leader of the Liberal Party, kicking off a leadership race.",
+                    "links": [
+                        {
+                            "link": "https://www.cbc.ca/news/canada/newfoundland-labrador/andrew-furey-steps-down-as-premier-of-n-l-after-4-years-in-office-1.7467923",
+                            "text": "-https://www.cbc.ca/news/canada/newfoundland-labrador/andrew-furey-steps-down-as-premier-of-n-l-after-4-years-in-office-1.7467923-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://nlliberals.ca/article/liberal-party-of-newfoundland-and-labrador-provides-update-on-the-2025-leadership-election/",
+                            "text": "-\"Liberal Party of Newfoundland and Labrador Provides Update on the 2025 Leadership Election\". March 10, 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2025-03-10"
+                            }
+                        }
+                    ],
+                    "start_date": "25/02/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "2025 Ontario general election Doug Ford's Progressive Conservatives win a third straight majority, becoming the first party since 1959 to win three straight majorities in Ontario.",
+                    "links": [
+                        {
+                            "link": "https://www.cbc.ca/news/canada/toronto/ontario-election-2025-results-ford-1.7470513",
+                            "text": "-Powers, Lucas (February 27, 2025). \"Ontario's Progressive Conservatives cruise to rare 3rd-straight majority, CBC News projects\". CBC. Retrieved February 28, 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-28",
+                                "Created": "2025-02-27"
+                            }
+                        }
+                    ],
+                    "start_date": "27/02/2025",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "Trudeau meets with King Charles III, at his Sandringham estate, to discuss \"matters of importance to Canada.\"",
+                    "links": [
+                        {
+                            "link": "https://globalnews.ca/news/11062839/justin-trudeau-king-charles-audience/",
+                            "text": "-Robertson, Dylan (March 3, 2025). \"Trudeau meets King Charles as he wraps up London visit\". Global News. Retrieved March 3, 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-03-03",
+                                "Created": "2025-03-03"
+                            }
+                        },
+                        {
+                            "link": "https://www.cbc.ca/news/politics/trudeau-meets-with-king-charles-to-discuss-matters-of-importance-to-canada-1.7472672",
+                            "text": "-Steven, Benjamin Lopez (March 3, 2025). \"Trudeau meets with King Charles to discuss 'matters of importance to Canada'\". CBC News. Retrieved March 3, 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-03-03",
+                                "Created": "2025-03-03"
+                            }
+                        }
+                    ],
+                    "start_date": "03/03/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "President Trump reimposes expanded tariffs on Canada.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/trump-tariffs-canada-mexico-china-643086a6dc7ff716d876b3c83e3255b0",
+                            "text": "-\"Trump's trade war draws swift retaliation with new tariffs from Mexico, Canada and China\". AP News. March 5, 2025. Retrieved March 5, 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-03-05",
+                                "Created": "2025-03-05"
+                            }
+                        }
+                    ],
+                    "start_date": "04/03/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "BC MLA Dallas Brodie is expelled from the Conservative Party of British Columbia caucus.",
+                    "links": [
+                        {
+                            "link": "https://www.vicnews.com/news/dallas-brodie-ousted-from-bc-conservative-caucus-rustad-says-7867520",
+                            "text": "-\"B.C. Conservatives say MLA Brodie mocked abuse victims, oust her from caucus\". Victoria News. March 7, 2025. Retrieved March 7, 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-03-07",
+                                "Created": "2025-03-07"
+                            }
+                        }
+                    ],
+                    "start_date": "07/03/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Twelve people are injured in a shooting at a bar in Scarborough, Ontario.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/articles/c80ygg9yzrmo",
+                            "text": "-\"Three suspects at large after 12 injured in Toronto pub shooting\". BBC. March 9, 2025. Retrieved March 12, 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-03-12",
+                                "Created": "2025-03-09"
+                            }
+                        }
+                    ],
+                    "start_date": "07/03/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Liberal Party chooses Mark Carney as their new leader and next prime minister in an election.",
+                    "links": [
+                        {
+                            "link": "https://www.cbc.ca/news/politics/when-will-liberal-leader-chosen-march-9th-1.7427723",
+                            "text": "-Major, Darren (January 9, 2025). \"Federal Liberals to announce new leader on March 9\". CBC News. Retrieved January 10, 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-01-10",
+                                "Created": "2025-01-09"
+                            }
+                        },
+                        {
+                            "link": "https://www.theglobeandmail.com/canada/article-liberals-set-to-announce-new-party-leader-on-march-9/",
+                            "text": "-\"Liberals set rules for leadership race, will announce new party leader on March 9\". The Globe and Mail. The Canadian Press. January 9, 2025. Retrieved January 10, 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-01-10",
+                                "Created": "2025-01-09"
+                            }
+                        },
+                        {
+                            "link": "https://www.ctvnews.ca/politics/article/new-threats-demand-new-ideas-mark-carney-addresses-liberals-after-landslide-win-follow-for-live-updates/",
+                            "text": "-\"'New threats demand new ideas': Mark Carney addresses Liberals after landslide win. Follow for live updates\". CTV News. March 9, 2025. Retrieved March 9, 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-03-09",
+                                "Created": "2025-03-09"
+                            }
+                        }
+                    ],
+                    "start_date": "09/03/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "2025 United States trade war with Canada and Mexico Following Doug Ford's decision to respond to Trump's tariffs with a 25% receptional tariff on electricity exports to the United States, Trump imposes an additional 25% tariff on Canadian steel and aluminum, bringing total tariffs on Canadian steel and aluminum to 50%.",
+                    "links": [
+                        {
+                            "link": "https://www.cnbc.com/2025/03/11/trump-raises-canadian-steel-aluminum-tariffs-to-50percent-in-retaliation-for-ontario-energy-duties.html",
+                            "text": "-Breuninger, Kevin (March 11, 2025). \"Trump raises Canadian steel, aluminum tariffs to 50% in retaliation for Ontario energy duties\". CNBC News. Retrieved March 11, 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-03-11",
+                                "Created": "2025-03-11"
+                            }
+                        }
+                    ],
+                    "start_date": "11/03/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Liberal leader Carney is sworn in as the 24th prime minister, following Trudeau's resignation.",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/world/2025/mar/09/mark-carney-to-be-next-canada-pm-after-winning-liberal-leadership-race",
+                            "text": "-Cecco, Leyland (March 9, 2025). \"Mark Carney to be next Canada PM after winning Liberal leadership race\". The Guardian.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2025-03-09"
+                            }
+                        },
+                        {
+                            "link": "https://apnews.com/article/canada-carney-new-prime-minister-trump-tariffs-46b29cfb1d40a8ade38f003774934792",
+                            "text": "-\"Mark Carney is sworn in as Canada's new prime minister as country deals with Trump's trade war\". AP News. March 14, 2025. Retrieved March 14, 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-03-14",
+                                "Created": "2025-03-14"
+                            }
+                        }
+                    ],
+                    "start_date": "14/03/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Carney, in his first international prime ministerial trip, visits Emmanual Macron, the President of France in Paris. Following this, Carney visits Keir Starmer, the Prime Minister of the United Kingdom, and King Charles III.",
+                    "links": [
+                        {
+                            "link": "https://globalnews.ca/news/11084446/trump-tariff-threat-carney-france-u-k-visit/",
+                            "text": "-Rana, Uday (March 16, 2025). \"Amid Trump tariff threat, Carney leaves for France, U.K. visit\". Global News. Retrieved March 19, 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-03-19",
+                                "Created": "2025-03-16"
+                            }
+                        },
+                        {
+                            "link": "https://www.bbc.com/news/articles/c78el01zd03o",
+                            "text": "-Coughlan, Sean (March 17, 2025). \"King meets Carney in symbolic support for Canada\". BBC News. Retrieved March 19, 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-03-19",
+                                "Created": "2025-03-17"
+                            }
+                        }
+                    ],
+                    "start_date": "16/03/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The 2025 Terrebonne provincial by-election in Quebec is held.",
+                    "links": [],
+                    "start_date": "17/03/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The 2025 Transcona provincial by-election in Manitoba is held.",
+                    "links": [],
+                    "start_date": "18/03/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Global Affairs Canada announces that four Canadian-Chinese nationals had been executed in China earlier in the year for drug offences.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/articles/c204ywyl4kvo",
+                            "text": "-\"China executed four Canadians for drug crimes, says Ottawa\". BBC. March 20, 2025. Retrieved March 20, 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-03-20",
+                                "Created": "2025-03-20"
+                            }
+                        }
+                    ],
+                    "start_date": "20/03/2025",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "Tamara Lich and Chris Barber are convicted of mischief in their role as organizers of the Canada convoy protest in 2022.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/canada-trucker-protests-organizers-guilty-a45b9c16148a1453f290b86350fea795",
+                            "text": "-\"Canada trucker protest organizers found guilty of mischief\". AP News. April 4, 2025. Retrieved April 4, 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-04-04",
+                                "Created": "2025-04-04"
+                            }
+                        }
+                    ],
+                    "start_date": "03/04/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Global Affairs Canada announces that Canada will donate $9.75 million to the Canadian Red Cross, the World Food Programme, the United Nations Office for the Coordination of Humanitarian Affairs, and the Humanitarian Coalition for humanitarian assistance in respond to the 2025 Myanmar Earthquake.",
+                    "links": [
+                        {
+                            "link": "https://www.ctvnews.ca/world/article/canada-offering-millions-in-aid-in-response-to-myanmar-earthquake/",
+                            "text": "-Dabu, Christl (April 9, 2025). \"Canada offering millions in aid in response to Myanmar earthquake\". CTV News. Retrieved April 9, 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-04-09",
+                                "Created": "2025-04-09"
+                            }
+                        }
+                    ],
+                    "start_date": "04/04/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A man is arrested for entering Parliament Hill in Ottawa and locking himself for hours inside the East Block.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/canada-parliament-lockdown-76efd003033b8297766529102c588cfd",
+                            "text": "-\"Canadian police say arrest made after man barricaded himself inside Parliament's east block\". AP News. April 7, 2025. Retrieved April 7, 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-04-07",
+                                "Created": "2025-04-07"
+                            }
+                        }
+                    ],
+                    "start_date": "05/04/2025",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

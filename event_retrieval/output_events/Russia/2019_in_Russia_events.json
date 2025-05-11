@@ -1,0 +1,136 @@
+{
+    "Events": [
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "14 February  Michael Calvey, the founder of the Moscow-based private equity firm Baring Vostok Capital Partners, was arrested on suspicion of alleged embezzlement.",
+                    "links": [],
+                    "start_date": "14/02/2019",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "212 March  2019 Winter Universiade, a multi-sport event in Krasnoyarsk, Russia.",
+                    "links": [
+                        {
+                            "link": "https://www.fisu.net/2019/03/01/just-one-day-to-the-big-show-preview-to-winter-universiade-2019/",
+                            "text": "-mathieu (2019-02-28). \"Just one day to the big show – preview to Winter Universiade 2019\". FISU. Retrieved 2024-07-19.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-07-19",
+                                "Created": "2019-02-28"
+                            }
+                        }
+                    ],
+                    "start_date": "12/03/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "6 March  the Russian Federal Assembly passed a law criminalising publication of online statements that are found \"indecent\" or \"disrespectful\" towards Russian state or government officials (including the president), stipulating fines of up to 100,000 roubles for first-time offenders, and 200,000 roubles or up to 15 days imprisonment for repeat.",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/world/2019/mar/06/russian-parliament-outlaws-online-disrespect",
+                            "text": "-Bennetts, Marc (6 March 2019). \"Russia passes law to jail people for 15 days for 'disrespecting' government\". The Guardian. Retrieved 19 October 2019.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2019-10-19",
+                                "Created": "2019-03-06"
+                            }
+                        }
+                    ],
+                    "start_date": "06/03/2019",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "May",
+            "Data": [
+                {
+                    "event_text": "5 May  Aeroflot Flight 1492 crashes and bursts into flames at Sheremetyevo International Airport, killing 41 people on board.",
+                    "links": [],
+                    "start_date": "05/05/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "28 May in the village of Bolshevik in Volsk, Russia 15-year-old seventh-grader Daniil Pulkin threw two Molotov cocktails and hit a 12-year-old girl on the head with an axe, after which he fled the scene of the crime. The attacker was detained the same day.",
+                    "links": [
+                        {
+                            "link": "https://en.crimerussia.com/gromkie-dela/7th-grader-who-attacked-school-attempts-to-commit-suicide/",
+                            "text": "-\"7th grader who attacked school attempts to commit suicide\". Crime Russia. May 25, 2019. Retrieved September 10, 2019.[permanent dead link]-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2019-09-10",
+                                "Created": "2019-05-25"
+                            }
+                        },
+                        {
+                            "link": "https://www.themoscowtimes.com/2019/05/28/russian-teenager-attacks-classmate-with-axe-cites-past-school-shootings-reports-a65774",
+                            "text": "-\"Russian Teenager Attacks Classmate With Axe, Cites Past School Shootings – Reports\". The Moscow Times. 28 May 2019. Retrieved 2021-06-13.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2019-05-28",
+                                "Created": "2021-06-13"
+                            }
+                        }
+                    ],
+                    "start_date": "28/05/2019",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "August",
+            "Data": [
+                {
+                    "event_text": "8 August  Nyonoksa radiation accident caused 5 immediate deaths.",
+                    "links": [],
+                    "start_date": "08/08/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "15 August  Ural Airlines Flight 178 crashed, all on board survived.",
+                    "links": [
+                        {
+                            "link": "https://www.newsweek.com/ural-airlines-russia-crash-landing-passengers-1454464",
+                            "text": "-Reporter, Brendan Cole Senior News (2019-08-15). \"Russian Plane With 234 On Board Crash-lands in Cornfield After Bird Strike\". Newsweek. Retrieved 2024-07-19.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-07-19",
+                                "Created": "2019-08-15"
+                            }
+                        }
+                    ],
+                    "start_date": "15/08/2019",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "September",
+            "Data": [
+                {
+                    "event_text": "7 September  Filmmaker Oleh Sentsov and 66 others have been released in a prisoner exchange between Ukraine and Russia.",
+                    "links": [
+                        {
+                            "link": "https://www.amnestyusa.org/press-releases/filmmaker-oleg-sentsov-and-others-freed-in-prisoner-swap/",
+                            "text": "-\"FILMMAKER OLEG SENTSOV AND OTHERS FREED IN PRISONER SWAP\", Amnesty International/USA, retrieved Sep 7, 2019-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "07/09/2019",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

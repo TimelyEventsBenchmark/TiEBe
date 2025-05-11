@@ -1,0 +1,1593 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "At least 56 people are killed in a prison riot in Manaus at the Anisio Jobim penitentiary complex in Amazonas.",
+                    "links": [
+                        {
+                            "link": "http://www.aljazeera.com/news/2017/01/dozens-killed-prison-riot-brazil-city-manaus-170102140358459.html",
+                            "text": "-\"Dozens killed in prison riot in Brazil city of Manaus\". Al-Jazeera. Retrieved 2 January 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-01-02",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://www.reuters.com/article/us-brazil-prison-riot-idUSKBN14M0QB",
+                            "text": "-\"Around 60 killed as drug gangs clash in Brazil prison massacre\". Reuters. 2 January 2017. Retrieved 2 January 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-01-02",
+                                "Created": "2017-01-02"
+                            }
+                        }
+                    ],
+                    "start_date": "02/01/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Members of the Primeiro Comando da Capital (PCC) prison gang kill 31 inmates at the Monte Cristo Agricultural Penitentiary in Roraima, in revenge for an earlier massacre in Amazonas that killed 56 inmates.",
+                    "links": [
+                        {
+                            "link": "http://istoe.com.br/pcc-decapita-26-presos-rivais-em-motim-de-14h-na-maior-prisao-do-rn/",
+                            "text": "-\"Mortes em rebeliões de presídios chegam a 119 no ano; PCC mata 26 no RN\". IstoÉ. 16 January 2017. Retrieved 20 January 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-01-20",
+                                "Created": "2017-01-16"
+                            }
+                        },
+                        {
+                            "link": "https://www.reuters.com/article/geral-roraima-presidio-mortos-idBRKBN14Q2DZ",
+                            "text": "-\"After riots in Manaus and Roraima, Minister of Justice sees no wave of riots in prisons\". Reuters. 6 January 2017. Retrieved 5 August 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-08-05",
+                                "Created": "2017-01-06"
+                            }
+                        }
+                    ],
+                    "start_date": "06/01/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Police raid multiple Rio de Janeiro locations in an investigation of Caixa Econômica Federal lending practices.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/article/brazil-corruption-caixa-ec-federal/update-4-brazil-police-raid-offices-in-probe-of-caixa-loans-idUSL1N1F30H6",
+                            "text": "-By Pedro Fonseca; Brad Haynes. \"UPDATE 4-Brazil police raid offices in probe of Caixa loans\". Reuters. Retrieved February 14, 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-02-14",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "13/01/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "At least 10 inmates are killed in a prison riot between rival gangs in Natal.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-latin-america-38626821",
+                            "text": "-\"Brazil prisoners beheaded in riot at Natal prison\". BBC News. 15 January 2017. Retrieved 15 January 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-01-15",
+                                "Created": "2017-01-15"
+                            }
+                        }
+                    ],
+                    "start_date": "15/01/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Another 33 prisoners are killed in a fresh outbreak of violence at Alcacuz prison in Rio Grande do Norte.",
+                    "links": [
+                        {
+                            "link": "http://www.aljazeera.com/news/2017/01/dozens-killed-wounded-alcacuz-prison-riot-170116034708371.html",
+                            "text": "-\"Dozens killed and wounded in Alcacuz prison riot\". Al-Jazeera. 15 January 2017. Retrieved 11 February 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-02-11",
+                                "Created": "2017-01-15"
+                            }
+                        }
+                    ],
+                    "start_date": "15/01/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A small plane carrying Supreme Court Justice Teori Zavascki crashes into the sea near the tourist town of Paraty; killing the magistrate and four other people. Zavascki had been handling the politically-charged, Operation Car Wash corruption trials.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/article/us-brazil-crash-idUSKBN1532WH?il=0",
+                            "text": "-\"Brazil Supreme Court judge handling graft probe killed in plane crash\". Reuters. 19 January 2017. Retrieved 19 January 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-01-19",
+                                "Created": "2017-01-19"
+                            }
+                        }
+                    ],
+                    "start_date": "19/01/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Brazilian police enter the Alcacuz prison outside of Natal, Rio Grande do Norte after a week of fighting left 26 inmates dead. At least 126 people have been killed in Brazil's prisons since the beginning of the year.",
+                    "links": [
+                        {
+                            "link": "http://hosted.ap.org/dynamic/stories/L/LT_BRAZIL_PRISON_KILLINGS?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2017-01-21-18-42-30",
+                            "text": "-\"Police enter Brazil prison after gang clash; control tenuous\". AP. Retrieved 22 January 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-01-22",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "21/01/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Brazilian police arrest EBX Group CEO Eike Batista for allegedly bribing officials in Rio de Janeiro, including former governor Sérgio Cabral Filho.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-latin-america-38796393",
+                            "text": "-\n\"Brazilian tycoon Eike Batista held in corruption probe\". BBC News. 30 January 2017. Retrieved 30 January 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-01-30",
+                                "Created": "2017-01-30"
+                            }
+                        },
+                        {
+                            "link": "http://agenciabrasil.ebc.com.br/geral/noticia/2017-01/empres%C3%A1rio-eike-batista-e-transferido-para-bangu-9",
+                            "text": "-CAMPOS, Ana Cristina (30 January 2017). \"Empresário Eike Batista é transferido para Bangu 9\". Agência Brasil. Retrieved 27 June 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-06-27",
+                                "Created": "2017-01-30"
+                            }
+                        }
+                    ],
+                    "start_date": "30/01/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "STF Minister Edson Fachin is selected as the new rapporteur for Operation Lava Jato, after the death of Teori Zavascki.",
+                    "links": [
+                        {
+                            "link": "http://g1.globo.com/politica/operacao-lava-jato/noticia/fachin-e-escolhido-novo-relator-da-lava-jato-no-stf.ghtml",
+                            "text": "-Mariana Oliveira. \"Ministro Edson Fachin é sorteado novo relator da Lava Jato no STF\". G1. Globo.com. Retrieved 2 February 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-02-02",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "02/02/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Espírito Santo experiences the biggest security crisis in the state.",
+                    "links": [],
+                    "start_date": "03/02/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "President Michel Temer deploys the Brazilian Army to the southeastern state of Espírito Santo, where a police strike leads to a wave of violence and looting, including dozens of murders in the state capital, Vitória.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/article/us-brazil-violence-espirito-santo-idUSKBN15L26A",
+                            "text": "-\"Brazil sends troops to state torn by violence due to police strike\". Reuters. 6 February 2017. Retrieved 7 February 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-02-07",
+                                "Created": "2017-02-06"
+                            }
+                        },
+                        {
+                            "link": "https://www.theguardian.com/world/2017/feb/06/brazil-police-strike-crimewave-troops-espirito-santo",
+                            "text": "-\"Brazil sends 200 troops to control lethal violence sparked by police strike\". The Guardian. 6 February 2017. Retrieved 7 February 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-02-07",
+                                "Created": "2017-02-06"
+                            }
+                        }
+                    ],
+                    "start_date": "06/02/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "TRE-RJ determines the impeachment of the mandates of the Governor of Rio de Janeiro, Luiz Fernando Pezão and vice governor Francisco Dornelles.",
+                    "links": [
+                        {
+                            "link": "http://g1.globo.com/globo-news/jornal-das-dez/videos/v/tre-rj-determina-cassacao-dos-mandatos-do-governador-pezao-e-do-vice-dornelles/5638754/",
+                            "text": "-TRE-RJ determina cassação dos mandatos do governador Pezão e do vice Dornelles - GloboNews - Jornal das Dez - Catálogo de Vídeos, retrieved 2017-02-20-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-02-20",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "08/02/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Supreme Court justice Edson Fachin authorizes an investigation into efforts to impede the Operation Car Wash kickback investigation. Prosecutor General Rodrigo Janot accuses former President and current Senator José Sarney, as well as Senators Romero Juca and Renan Calheiros of obstruction of justice, citing conversations secretly recorded by cooperating witness Sergio Machado, former president of Transpetro.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/article/uk-brazil-corruption-court-idUKKBN15P00P",
+                            "text": "-\"Brazil's Supreme Court probes former president, senators\". Reuters. 9 February 2017. Retrieved 6 August 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-08-06",
+                                "Created": "2017-02-09"
+                            }
+                        }
+                    ],
+                    "start_date": "09/02/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "Economic figures released show that the Brazilian economy shrank 3.6% in 2016.",
+                    "links": [
+                        {
+                            "link": "https://money.cnn.com/2017/03/07/news/economy/brazil-gdp-2016/index.html",
+                            "text": "-Patrick Gillespie (7 March 2017). \"Brazil's worst recession: 8 consecutive quarters of contraction\". CNNMoney. CNN. Retrieved 9 February 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-02-09",
+                                "Created": "2017-03-07"
+                            }
+                        }
+                    ],
+                    "start_date": "07/03/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "By using the fully expendable version of their Falcon 9 launch vehicle; SpaceX successfully launches the EchoStar 23 satellite, a direct-to-home television broadcast service for Brazil, into a geosynchronous transfer orbit.",
+                    "links": [
+                        {
+                            "link": "https://www.nasaspaceflight.com/2017/03/falcon-9-expendable-echostar-23/",
+                            "text": "-\"SpaceX launches expendable Falcon 9 with EchoStar 23\". NASA Spaceflight. 15 March 2017. Retrieved 21 March 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-03-21",
+                                "Created": "2017-03-15"
+                            }
+                        }
+                    ],
+                    "start_date": "16/03/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Operation Carne Fraca begins, which investigates some of the largest meat processing companies in the country.",
+                    "links": [],
+                    "start_date": "17/03/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Share prices for meatpacker JBS S.A. drop 10%.",
+                    "links": [
+                        {
+                            "link": "https://www.wsj.com/articles/brazil-police-launch-massive-anticorruption-investigation-of-meatpacking-industry-1489754884",
+                            "text": "-Rogerio Jelmayer; Luciana Magalhaes (17 March 2017). \"Brazil Police Launch Massive Anticorruption Probe of Meatpacking Industry: Police allege officials of companies including JBS SA and BRF SA bribed sanitary inspectors\". Wall Street Journal. Retrieved 12 February 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-02-12",
+                                "Created": "2017-03-17"
+                            }
+                        }
+                    ],
+                    "start_date": "17/03/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "China, Chile, and Egypt lift their bans on importing meat from Brazil.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-latin-america-39394937",
+                            "text": "-\"Brazil meat scandal: China and others lift ban\". BBC News. 25 March 2017. Retrieved 26 March 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-03-26",
+                                "Created": "2017-03-25"
+                            }
+                        }
+                    ],
+                    "start_date": "25/03/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "Former Secretary of Health of Rio de Janeiro Sérgio Côrtes is charged, along with two other people, with obstruction of justice for trying to get former under-secretary Cesar Romero to change his testimony in an Operation Car Wash investigation.",
+                    "links": [
+                        {
+                            "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2018/02/08/gilmar-mendes-manda-soltar-ex-secretario-de-saude-do-rio.htm",
+                            "text": "-Italo Nogueira (5 April 2017). \"'Nossas putarias têm que continuar', escreveu ex-secretário de Cabral\" [\"Our whores have to continue,\" wrote Cabral's former secretary]. UOL. Retrieved 12 February 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-02-12",
+                                "Created": "2017-04-05"
+                            }
+                        }
+                    ],
+                    "start_date": "05/04/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "STF Minister, Edson Fachin removes the secrecy of Odebrecht's accusations in the context of Operation Lava Jato.",
+                    "links": [
+                        {
+                            "link": "http://politica.estadao.com.br/blogs/fausto-macedo/exclusivo-fachin-acaba-com-sigilo-das-delacoes-da-odebrecht/",
+                            "text": "-Macedo, Fausto (11 April 2017). \"Exclusivo: Fachin acaba com sigilo das delações da Odebrecht\". Estadão. O Estado de São Paulo. Retrieved 12 April 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-04-12",
+                                "Created": "2017-04-11"
+                            }
+                        }
+                    ],
+                    "start_date": "11/04/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A former Odebrecht executive, jailed for bribery, says that Michel Temer was involved in a scheme to funnel a $40 million dollar illegal campaign contribution to his party's campaign fund. Temer denies this.",
+                    "links": [
+                        {
+                            "link": "https://www.wsj.com/articles/brazil-president-michel-temer-allegedly-linked-to-40-million-bribe-1492095463",
+                            "text": "-\"Brazilian President Michel Temer Allegedly Linked to $40 Million Bribe: Former Odebrecht executive said he agreed to payment to Temer's party, PMDB, in exchange for construction contract\". Wall Street Journal. 13 April 2017. Retrieved 9 February 2018. firewall-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-02-09",
+                                "Created": "2017-04-13"
+                            }
+                        }
+                    ],
+                    "start_date": "13/04/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A federal judge orders Petrobras to suspend the sale of its stake in an offshore prospect to Norway's Statoil. This is in response to the National Federation of Oil Workers petition, where there should have been an open bidding process for the transaction.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/article/us-petrobras-divestiture-statoil-idUSKBN17J1U1?il=0",
+                            "text": "-\"Brazil court suspends Petrobras oilfield sale to Statoil\". Reuters. 17 April 2017. Retrieved 18 April 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-04-18",
+                                "Created": "2017-04-17"
+                            }
+                        }
+                    ],
+                    "start_date": "17/04/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Around 50 armed men allegedly belonging to the Brazil-based First Capital Command, storm a security vault and police headquarters in Ciudad del Este, Paraguay, escape with around $6 million in a daring cross-border raid.",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/world/2017/apr/25/paraguay-heist-brazil-gangsters-dynamite-speedboat",
+                            "text": "-\"'Heist of the century': Brazilian gang hits security vault and police HQ in Paraguay\". The Guardian. 25 April 2017. Retrieved 25 April 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-04-25",
+                                "Created": "2017-04-25"
+                            }
+                        }
+                    ],
+                    "start_date": "25/04/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A nationwide strike takes place against cuts to social security benefits and changes to labour laws by Michel Temer's government, including plans to raise the retirement age to 65. This is the first general strike in Brazil in twenty years.",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/world/2017/apr/19/brazil-police-storm-congress-over-proposal-to-raise-retirement-age",
+                            "text": "-\"Brazil police storm Congress over proposal to raise retirement age\". The Guardian. Reuters. 19 April 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2017-04-19"
+                            }
+                        },
+                        {
+                            "link": "https://www.reuters.com/article/us-brazil-politics-protests-idUSKBN17U0EX?il=0",
+                            "text": "-\"Brazil faces nationwide strike threatening to paralyze country\". Reuters. 28 April 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2017-04-28"
+                            }
+                        },
+                        {
+                            "link": "http://www.latimes.com/world/mexico-americas/la-fg-brazil-strike-20170428-story.html",
+                            "text": "-\"In Brazil, protesters clash with police as a general strike empties schools and brings business to a halt\". LA Times. 29 April 2017. Retrieved 29 April 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-04-29",
+                                "Created": "2017-04-29"
+                            }
+                        },
+                        {
+                            "link": "https://www.nytimes.com/2017/04/28/world/americas/brazil-general-strike.html",
+                            "text": "-Simon Romero (28 April 2017). \"Brazil Gripped by General Strike Over Austerity Measures\". New York Times. Retrieved 13 February 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-02-13",
+                                "Created": "2017-04-28"
+                            }
+                        }
+                    ],
+                    "start_date": "28/04/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Rocha Loures is filmed leaving a pizzeria with 500,000 reals in a carry-on he received from one of Joesley Batista's executives.",
+                    "links": [
+                        {
+                            "link": "https://www.irishtimes.com/news/world/operation-car-wash-brazil-s-endemic-corruption-laid-bare-1.3245703",
+                            "text": "-Tom Hennigan (7 October 2017). \"Operation Car Wash: Brazil's endemic corruption laid bare: Presidents, politics and big business have become embroiled in a scandal that has cost the country over €33bn so far\". The Irish Times. Retrieved 14 February 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-02-14",
+                                "Created": "2017-10-07"
+                            }
+                        }
+                    ],
+                    "start_date": "28/04/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Eike Batista is released from prison, whilst pending trial, by Supreme Court justice Gilmar Mendes. Batista had been charged with making $16.5 million in bribes to the former governor of Rio de Janeiro.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/article/us-brazil-corruption-batista/brazil-supreme-court-releases-former-billionaire-batista-from-jail-idUSKBN17U34V",
+                            "text": "-\"Brazil Supreme Court releases former billionaire Batista from jail\". Reuters. April 28, 2017. Retrieved February 18, 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-02-18",
+                                "Created": "2017-04-28"
+                            }
+                        }
+                    ],
+                    "start_date": "28/04/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "May",
+            "Data": [
+                {
+                    "event_text": "The Brazilian geostationary satellite SGDC-1 is launched at the Kourou base in French Guiana. It was carried out by Arianespace, which was launched by the Ariane 5 rocket.",
+                    "links": [
+                        {
+                            "link": "http://ciencia.estadao.com.br/noticias/geral,satelite-brasileiro-e-lancado-com-sucesso-na-guiana-francesa,70001763796",
+                            "text": "-Satélite Brasileiro-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "04/05/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The federal government of Brazil informs the World Health Organization that it is ending its state of emergency concerning the Zika virus, following a 95.3% reduction in cases in early 2017 compared to early 2016.",
+                    "links": [
+                        {
+                            "link": "https://web.archive.org/web/20170511223123/https://au.news.yahoo.com/world/a/35476694/brazil-calls-off-zika-emergency/#page1",
+                            "text": "-\"Brazil calls off Zika emergency\". Seven News. Archived from the original on 11 May 2017. Retrieved 12 May 2017.-",
+                            "dates": {
+                                "Archieved": "2017-05-11",
+                                "Retrieved": "2017-05-12",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://au.news.yahoo.com/world/a/35476694/brazil-calls-off-zika-emergency/#page1",
+                            "text": "-\"Brazil calls off Zika emergency\". Seven News. Archived from the original on 11 May 2017. Retrieved 12 May 2017.-",
+                            "dates": {
+                                "Archieved": "2017-05-11",
+                                "Retrieved": "2017-05-12",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "11/05/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "O Globo reports, that it has obtained recordings of President Michel Temer discussing a bribe for Eduardo Cunha. Cunha is imprisoned on a nine-year sentence for corruption, money laundering and tax evasion in return for not talking to prosecutors. Temer strongly denies the report.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-latin-america-39576896",
+                            "text": "-\"Brazil corruption probe: Key words and names#Michel Temer\". BBC. 12 July 2017. Retrieved 9 February 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-02-09",
+                                "Created": "2017-07-12"
+                            }
+                        },
+                        {
+                            "link": "https://nacla.org/news/2018/02/08/long-brazilian-crisis-part-i",
+                            "text": "-\n\"The long Brazilian Crisis, Part I: Latin America's largest economy is in disarray; its historic Workers Party faces destruction; and its radical left searches for a response\". North American Congress on Latin America. 1 February 2018. Retrieved 10 February 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-02-10",
+                                "Created": "2018-02-01"
+                            }
+                        }
+                    ],
+                    "start_date": "17/05/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Police search the Rio de Janeiro apartment of Aécio Neves, who narrowly lost the 2014 presidential election to Dilma Rousseff in the second-round runoff. The Supreme Court, which has jurisdiction in criminal trials of sitting politicians, suspend Neves' senatorial status, due to his pending criminal trial. An Odebrecht executive seeking a lighter sentence on his own bribery charges, filmed Nueves discussing a payment of two million reals, roughly $638,000.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/article/us-brazil-corruption-neves/brazil-police-searches-rio-apartment-owned-by-senator-source-idUSKCN18E1H3",
+                            "text": "-Staff (18 May 2017). \"Brazil police searches Rio apartment owned by senator: source\". Reuters. Retrieved 10 February 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-02-10",
+                                "Created": "2017-05-18"
+                            }
+                        }
+                    ],
+                    "start_date": "18/05/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Supreme Court releases a plea bargain testimony from JBS S.A., revealing that the company paid 500 million reais in bribes to politicians, including current President Michel Temer; his predecessors Dilma Rousseff and Luiz Inácio Lula da Silva; and former presidential candidates Aécio Neves and José Serra.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/article/us-brazil-corruption-idUSKCN18E1YX",
+                            "text": "-\"Brazil plea-bargain testimony says president took $4.6 million in bribes\". Reuters. 18 May 2017. Retrieved 20 May 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-05-20",
+                                "Created": "2017-05-18"
+                            }
+                        },
+                        {
+                            "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2017/05/19/joesley-batista-explica-por-que-resolveu-fazer-delacao-assista.htm",
+                            "text": "-\"Joesley diz que repassou R$ 500 milhões para políticos; assista depoimentos\". UOL. 19 May 2017. Retrieved 27 June 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-06-27",
+                                "Created": "2017-05-19"
+                            }
+                        }
+                    ],
+                    "start_date": "19/05/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Protesters demand new elections after the release of an audio tape in which Temer appears to approve a hush money payment to Eduardo Cunha.",
+                    "links": [
+                        {
+                            "link": "https://elpais.com/elpais/2017/05/19/inenglish/1495192079_312731.html",
+                            "text": "-XOSÉ HERMIDA (19 May 2017). \"Brazil's outraged opposition calls for scandal-hit Temer to step down: But opponents of unpopular president face uphill battle in their bid for new popular ballot\". São Paulo: El País. Retrieved February 20, 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-02-20",
+                                "Created": "2017-05-19"
+                            }
+                        }
+                    ],
+                    "start_date": "19/05/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Protestors set fire to the Ministry of Agriculture headquarters in Brasília, amid calls for the impeachment or resignation of Michel Temer as President of Brazil over allegations of corruption.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-us-canada-40038650",
+                            "text": "-\"Brazil protests: Ministerial building set on fire during clashes\". BBC News. 24 May 2017. Retrieved 24 May 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-05-24",
+                                "Created": "2017-05-24"
+                            }
+                        },
+                        {
+                            "link": "http://zh.clicrbs.com.br/rs/noticias/politica/noticia/2017/05/ministerio-da-agricultura-registra-incendio-todos-os-ministerios-sao-evacuados-na-esplanada-9798575.html",
+                            "text": "-\"Ministério da Agricultura registra incêndio; todos os ministérios são evacuados na Esplanada\". ZH. 24 May 2017. Retrieved 27 June 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-06-27",
+                                "Created": "2017-05-24"
+                            }
+                        }
+                    ],
+                    "start_date": "24/05/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "June",
+            "Data": [
+                {
+                    "event_text": "The first increase in GDP after eight consecutive quarterly declines is registered. The country is recovering from the 2014 economic crisis.",
+                    "links": [],
+                    "start_date": "01/06/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Superior Electoral Court (TSE) reopens the illegal campaign funding case against President Michel Temer, the vice presidential candidate on former President Dilma Rousseff's ticket in 2014. Temer became president in August 2016 when Rousseff was impeached, and could be unseated if the court annuls the RousseffTemer election victory.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/article/us-brazil-politics-ticket-idUSKBN18X29O",
+                            "text": "-\"Brazil court opens case that could unseat President Temer\". Reuters. 6 June 2017. Retrieved 10 June 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-06-10",
+                                "Created": "2017-06-06"
+                            }
+                        }
+                    ],
+                    "start_date": "06/06/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "TSE hears a motion on the admissibility of new allegations made in plea bargain testimony by construction company Odebrecht about illegal campaign contributions to the political ticket shared by then-president Dilma Rousseff and then-vice president Michel Temer, who replaced her after her impeachment.",
+                    "links": [
+                        {
+                            "link": "http://mobile.reuters.com/article/amp/idUSKBN18Y2X6",
+                            "text": "-Ricardo Brito (7 June 2017). \"Brazil court split over whether to accept new evidence in campaign\". Reuters. Retrieved 11 February 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-02-11",
+                                "Created": "2017-06-07"
+                            }
+                        }
+                    ],
+                    "start_date": "07/06/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "TSE votes 43 to reject the campaign finance case against Temer, which had also implicated Rousseff as his running mate.",
+                    "links": [
+                        {
+                            "link": "https://www.thestar.com/news/world/2017/06/09/brazilian-court-weighs-president-temers-fate-over-2014-campaign-funds-case.html",
+                            "text": "-Sarah DiLorenzo (9 June 2017). \"Embattled Brazilian President Temer avoids removal from office with court victory\". Toronto Star. Associated Press. Retrieved 12 February 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-02-12",
+                                "Created": "2017-06-09"
+                            }
+                        },
+                        {
+                            "link": "http://brasil.elpais.com/brasil/2017/06/08/politica/1496919381_359827.html",
+                            "text": "-\"TSE salva Temer por quatro votos a três\". El País. 10 June 2017. Retrieved 27 June 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-06-27",
+                                "Created": "2017-06-10"
+                            }
+                        }
+                    ],
+                    "start_date": "09/06/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Former governor of Rio de Janeiro, Sergio Cabral Filho, is sentenced to 14 years and two months in prison for corruption and money laundering in a scheme involving kickbacks for construction contracts, such as a Rio petrochemical plant. Former Rio interior minister Wilson Carlos Carvalho, described as Cabral's right hand, is also found guilty and sentenced to ten years. Judge Sergio Moro said there wasn't enough evidence to convict Cabral's wife, Adriana Ancelmo.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-latin-america-40261501",
+                            "text": "-\"Rio state ex-governor Sergio Cabral sentenced to 14 years\". BBC. 13 June 2017. Retrieved 13 February 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-02-13",
+                                "Created": "2017-06-13"
+                            }
+                        }
+                    ],
+                    "start_date": "13/06/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Reports surface of a Temer administration plan to lift restrictions on foreign mining company operations within a 150-mile zone of the country's border.",
+                    "links": [
+                        {
+                            "link": "https://www.bloomberg.com/news/articles/2017-06-21/as-supermodel-helps-save-amazon-a-much-bigger-battle-looms",
+                            "text": "-R.T. Watson (21 June 2017). \"After Rainforest Victory for Brazil's Environmentalists, a Mining Battle Looms\". Bloomberg Politics. Retrieved 14 February 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-02-14",
+                                "Created": "2017-06-21"
+                            }
+                        }
+                    ],
+                    "start_date": "21/06/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "DataPoder puts Temer approval rating at 2%.",
+                    "links": [
+                        {
+                            "link": "http://www.poder360.com.br/datapoder360/para-79-michel-temer-deveria-renunciar-ou-ser-cassado-diz-datapoder360/",
+                            "text": "-Zuquim, Rodrigo (21 June 2017). \"Para 79%, Michel Temer deveria renunciar ou ser cassado, diz DataPoder360\". Poder360 (in Portuguese). Retrieved 2 May 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-05-02",
+                                "Created": "2017-06-21"
+                            }
+                        }
+                    ],
+                    "start_date": "21/06/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "President Michel Temer is charged with corruption by Prosecutor General Rodrigo Janot. The case eventually goes to the Supreme Federal Court.",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/world/2017/jun/27/brazils-president-michel-temer-charged-over-alleged-corruption",
+                            "text": "-\"Brazil faces fresh turmoil after President Temer charged with corruption\". The Guardian. 27 June 2017. Retrieved 27 June 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-06-27",
+                                "Created": "2017-06-27"
+                            }
+                        }
+                    ],
+                    "start_date": "27/06/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A federal court upholds João Vaccari Neto's appeal of his 15-year sentence for bribery and money laundering.",
+                    "links": [
+                        {
+                            "link": "http://g1.globo.com/jornal-nacional/noticia/2017/06/justica-do-parana-reverte-decisao-de-moro-e-absolve-joao-vaccari-neto.html",
+                            "text": "-\n\"TRF-4 reverte decisão de Moro e absolve João Vaccari Neto\" [TRF4 reverses decision of Moro and absolves João Vaccari Neto] (in Portuguese). O Globo. 27 June 2017. Retrieved 24 July 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-07-24",
+                                "Created": "2017-06-27"
+                            }
+                        }
+                    ],
+                    "start_date": "27/06/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Ipsos Institute poll puts Temer disapproval rating at 93%.",
+                    "links": [
+                        {
+                            "link": "https://blogs.oglobo.globo.com/lauro-jardim/post/ipsos-2-consideram-o-governo-temer-otimo-ou-bome.html",
+                            "text": "-Góes, Bruno (25 July 2017). \"Ipsos: 2% consideram o governo Temer 'ótimo' ou 'bom'\". O Globo (in Portuguese). Retrieved 2 May 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-05-02",
+                                "Created": "2017-07-25"
+                            }
+                        }
+                    ],
+                    "start_date": "29/06/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "July",
+            "Data": [
+                {
+                    "event_text": "Temer's government introduces a legislative initiative described as labor reform.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/article/us-brazil-politics-labor/brazil-senators-set-final-vote-on-labor-reform-for-july-11-idUSKBN19P2H2",
+                            "text": "-\"Brazil senators set final vote on labor reform for July 11\". Reuters. 4 July 2017. Retrieved 6 August 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-08-06",
+                                "Created": "2017-07-04"
+                            }
+                        }
+                    ],
+                    "start_date": "04/07/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Temer signs MP 759 into law, making significant changes to Brazilian land and agrarian reform policies that environmentalists say threaten to worsen deforestation and a massive asset transfer to large landowners.",
+                    "links": [
+                        {
+                            "link": "https://news.mongabay.com/2017/07/temer-signs-law-that-could-see-millions-of-acres-lost-in-the-amazon/",
+                            "text": "-Sue Branford; Maurício Torres (13 July 2017). \"Temer signs law that could see millions of acres lost in the Amazon\". Monga Bay. Retrieved 13 February 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-02-13",
+                                "Created": "2017-07-13"
+                            }
+                        }
+                    ],
+                    "start_date": "11/07/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Judge Sergio Moro sentences former Brazilian president Luiz Inácio Lula da Silva to nine and a half years in prison, albeit remaining free on appeal. Lula is found guilty on corruption and money laundering charges in connection with the Petrobras investigation. He is the first president of Brazil to be criminally convicted since the enactment of the 1988 Constitution.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/article/us-brazil-corruption-lula-idUSKBN19X2FO",
+                            "text": "-\"Ex-Brazil President Lula sentenced to nearly 10 years for corruption\". Reuters. 12 July 2017. Retrieved 12 July 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-07-12",
+                                "Created": "2017-07-12"
+                            }
+                        },
+                        {
+                            "link": "https://www.theatlantic.com/international/archive/2018/02/brazil-lula-carwash-corruption-temer-due-process-dilma/552056/",
+                            "text": "-Alex Quadro (2 February 2018). \"The Rot at the Heart of Brazil's Anti-Corruption Crusade: Allegations of bias have tarnished the investigation against Lula, setting the stage for yet another institutional crisis in the country that decided Lula da Silva will be its candidate again in the 2018 election in Sao Paulo, Brazil\". The Atlantic. Retrieved 19 February 2012.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2012-02-19",
+                                "Created": "2018-02-02"
+                            }
+                        },
+                        {
+                            "link": "http://veja.abril.com.br/politica/urgente-lula-e-condenado-a-nove-anos-e-meio-de-cadeia/",
+                            "text": "-\"Lula é condenado a nove anos de prisão\". VEJA. Abril. 12 July 2017. Retrieved 12 July 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-07-12",
+                                "Created": "2017-07-12"
+                            }
+                        }
+                    ],
+                    "start_date": "12/07/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Temer appoints Sérgio Sá Leitão as Minister of Culture.",
+                    "links": [
+                        {
+                            "link": "https://www1.folha.uol.com.br/ilustrada/2017/07/1902820-temer-escolhe-jornalista-sergio-sa-leitao-para-ministerio-da-cultura.shtml",
+                            "text": "-Bruno Boghossian (20 July 2017). \"Temer escolhe jornalista Sérgio Sá Leitão para Ministério da Cultura\". Folha de Sao Paulo. UOL. Retrieved 6 August 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-08-06",
+                                "Created": "2017-07-20"
+                            }
+                        }
+                    ],
+                    "start_date": "25/07/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Transparency NGO Contas Abertas (Open Accounts) said Temer spent 4.2 billion reals ($1.33 billion) since June, compared to 100 million reals in January through May, in advance of a vote in the lower house on corruption charges that could remove him from office.",
+                    "links": [
+                        {
+                            "link": "https://www.usnews.com/news/world/articles/2017-07-27/brazils-temer-scrambles-for-support-to-block-corruption-trial",
+                            "text": "-Anthony Boadle (27 July 2017). \"Brazil's Temer Scrambles for Support to Block Corruption Trial\". U.S. News & World Report. Reuters. Retrieved 13 February 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-02-13",
+                                "Created": "2017-07-27"
+                            }
+                        }
+                    ],
+                    "start_date": "27/07/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "August",
+            "Data": [
+                {
+                    "event_text": "The Chamber of Deputies bars accusations of passive corruption against President Michel Temer.",
+                    "links": [
+                        {
+                            "link": "http://www.correiobraziliense.com.br/app/outros/ultimas-noticias/63,37,63,14/2017/08/02/internas_polbraeco,614722/na-camara-temer-derruba-possibilidade-de-ser-investigado-pelo-stf.shtml",
+                            "text": "-\"Na Câmara, Temer derruba possibilidade de ser investigado pelo STF\". Correio Braziliense. 2 August 2017. Retrieved 2 August 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-08-02",
+                                "Created": "2017-08-02"
+                            }
+                        }
+                    ],
+                    "start_date": "02/08/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "In association football, Paris Saint-Germain sign Neymar from FC Barcelona for a world-record transfer fee of €222 million (£200 million, US$264 million).",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/sport/football/40762417",
+                            "text": "-\"Neymar: Paris St-Germain sign Barcelona forward for world record 222m euros\". BBC Sport. Retrieved 4 August 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-08-04",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "03/08/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Police and soldiers raid five poor suburbs of Rio de Janeiro looking for those responsible for a string of truck hijackings.",
+                    "links": [
+                        {
+                            "link": "https://www.japantimes.co.jp/news/2017/08/06/world/crime-legal-world/troops-storm-rio-slums-catch-gang-leaders/#.WoTjiehubIU",
+                            "text": "-\"Troops storm Rio slums to catch gang leaders\". Japan Times. AFP-JIJI. 6 August 2017. Retrieved 14 February 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-02-14",
+                                "Created": "2017-08-06"
+                            }
+                        }
+                    ],
+                    "start_date": "06/08/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Sérgio Côrtes, former Secretary of Health of Rio de Janeiro, states in court that $3 million US had been deposited for his use in a Swiss bank account in connection with an overbilling scheme involving prosthesis at a Rio trauma center.",
+                    "links": [
+                        {
+                            "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2017/11/08/secretario-de-cabral-diz-que-acusado-de-fraudar-licitacoes-pagou-a-ele-ate-r-80-mil-em-viagens-por-ano.htm",
+                            "text": "-Hanrrikson de Andrade; Paula Bianchi (11 August 2017). \"Empresário bancou R$ 70 mil/ano em viagens e depositou US$ 3 milhões na Suíça, diz ex-secretário\" [Entrepreneur banked R $ 70,000 / year in travel and deposited US $ 3 million in Switzerland, says former secretary] (in Portuguese). UOL.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2017-08-11"
+                            }
+                        }
+                    ],
+                    "start_date": "11/08/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Petrobras discovers \"oil accumulation in the Campos basin's pre-salt layer, in the area of Marlim Sul field.\"",
+                    "links": [
+                        {
+                            "link": "http://www.worldoil.com/news/2017/8/11/petrobras-discovers-oil-accumulation-in-campos-basin-pre-salt-layer",
+                            "text": "-\"Petrobras discovers oil accumulation in Campos basin pre-salt layer\". World Oil. 11 August 2017. Retrieved 13 February 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-02-13",
+                                "Created": "2017-08-11"
+                            }
+                        }
+                    ],
+                    "start_date": "11/08/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Justice Minister Torquato Jardim stated at a conference that Brazil's informal economy accounted for 16% of its gross domestic product.",
+                    "links": [
+                        {
+                            "link": "https://web.archive.org/web/20180216025410/http://www.xinhuanet.com/english/2017-08/16/c_136529083.htm",
+                            "text": "-\"Brazil's informal economy accounts for 16 pct of GDP: official\". Xinhua. 16 August 2017. Archived from the original on February 16, 2018. Retrieved 14 February 2018.-",
+                            "dates": {
+                                "Archieved": "2018-02-14",
+                                "Retrieved": "2018-02-16",
+                                "Created": "2017-08-16"
+                            }
+                        },
+                        {
+                            "link": "http://www.xinhuanet.com/english/2017-08/16/c_136529083.htm",
+                            "text": "-\"Brazil's informal economy accounts for 16 pct of GDP: official\". Xinhua. 16 August 2017. Archived from the original on February 16, 2018. Retrieved 14 February 2018.-",
+                            "dates": {
+                                "Archieved": "2018-02-14",
+                                "Retrieved": "2018-02-16",
+                                "Created": "2017-08-16"
+                            }
+                        }
+                    ],
+                    "start_date": "16/08/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Temer administration announces plans to privatize Eletrobras, the Petrobras subsidiary that produces 40% of Brazil's electricity.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/article/us-eletrobras-privatisation/brazils-move-to-privatize-eletrobras-sparks-investor-euphoria-idUSKCN1B12E5",
+                            "text": "-\"Brazil's move to privatize Eletrobras sparks investor euphoria\". Reuters. 21 August 2017. Retrieved 6 August 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-08-06",
+                                "Created": "2017-08-21"
+                            }
+                        }
+                    ],
+                    "start_date": "21/08/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The passenger ship Comandante Ribeiro sinks in the Xingu River near Porto de Moz, where at least ten people lost their lives.",
+                    "links": [],
+                    "start_date": "22/08/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "News emerges that Michel Temer has abolished the protected status of a huge piece of land in the remote northern Amazon known as the National Reserve of Copper and Associates (Renca).",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/environment/2017/aug/24/brazil-abolishes-huge-amazon-reserve-in-biggest-attack-in-50-years",
+                            "text": "-\n\"Brazil abolishes huge Amazon reserve in biggest attack in 50 years\". The Guardian.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "23/08/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "President Michel Temer abolishes the 46,000 km2 National Reserve of Copper and Associates (Renca) ecological reserve, which spans the borders of Amapá and Pará in northern Brazil. More than 20 domestic and multinational firms have expressed interest in accessing the area's deposits of gold, copper, tantalum, iron ore, nickel and manganese.",
+                    "links": [
+                        {
+                            "link": "http://g1.globo.com/politica/blog/matheus-leitao/post/governo-lanca-57-privatizacoes-e-abre-reserva-na-amazonia-mineracao-jornais-de-quinta-24.html",
+                            "text": "-\"Governo lança 57 privatizações e abre reserva na Amazônia à mineração\". G1 (in Portuguese). Retrieved 25 August 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-08-25",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "25/08/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "An injunction is issued against the revocation of Renca, stating that Michel Temer has exceeded his authority and that the area's ecological protections can only be undertaken by the legislative branch.",
+                    "links": [
+                        {
+                            "link": "https://www.nytimes.com/2017/08/30/world/americas/brazil-amazon-mining-temer-environmentalists-judge.html",
+                            "text": "-ERNESTO LONDOÑO; SHANNON SIMS (30 August 2017). \"Brazilian Judge Stymies Plan to Allow Mining in Amazon Region\". New York Times. Retrieved 11 February 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-02-11",
+                                "Created": "2017-08-30"
+                            }
+                        }
+                    ],
+                    "start_date": "29/08/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "September",
+            "Data": [
+                {
+                    "event_text": "- The Federal Police makes the biggest seizure of cash in the nation's history, during a search and seizure in Operation Lost Treasure.",
+                    "links": [
+                        {
+                            "link": "http://politica.estadao.com.br/blogs/fausto-macedo/acabou-a-contagem-r-51-milhoes-no-bunker-de-geddel/",
+                            "text": "-Julia Affonso, Fausto Macedo, Fabio Serapião e Fabio Fabrini (6 September 2017). \"Acabou a contagem: R$ 51 milhões no bunker de Geddel\". Estadão. Retrieved 7 September 2017.{{cite web}}:  CS1 maint: multiple names: authors list (link)-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-09-07",
+                                "Created": "2017-09-06"
+                            }
+                        },
+                        {
+                            "link": "https://oglobo.globo.com/brasil/pf-levou-14-horas-para-contar-os-51-milhoes-achados-em-bunker-que-seria-de-geddel-21791443",
+                            "text": "-\"PF levou 14 horas para contar os R$ 51 milhões achados em 'bunker' que seria de Geddel\". O Globo. Globo.com. 6 September 2017. Retrieved 7 September 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-09-07",
+                                "Created": "2017-09-06"
+                            }
+                        },
+                        {
+                            "link": "http://odia.ig.com.br/brasil/2017-09-06/pf-contabiliza-r-51-milhoes-no-bunker-de-geddel.html",
+                            "text": "-\"PF contabiliza R$ 51 milhões no 'bunker de Geddel'\". O Dia. iG. 6 September 2017. Retrieved 7 September 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-09-07",
+                                "Created": "2017-09-06"
+                            }
+                        },
+                        {
+                            "link": "http://politica.estadao.com.br/blogs/coluna-do-estadao/pf-acha-bunker-onde-geddel-escondia-propina/",
+                            "text": "-Andreza Matias e Marcelo de Moraes (5 September 2017). \"PF acha bunker onde Geddel escondia propina\". Estadão. Retrieved 7 September 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-09-07",
+                                "Created": "2017-09-05"
+                            }
+                        },
+                        {
+                            "link": "http://veja.abril.com.br/politica/policia-federal-encontra-local-onde-geddel-escondia-propina/",
+                            "text": "-\"Polícia Federal encontra local onde Geddel escondia propina\". VEJA. Abril. 6 September 2017. Retrieved 7 September 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-09-07",
+                                "Created": "2017-09-06"
+                            }
+                        }
+                    ],
+                    "start_date": "05/09/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Prosecutors file corruption charges in connection with Operation Carwash against ex-presidents Dilma Rousseff and Luiz Inácio Lula da Silva. This is the first time allegations had been made against Rousseff, whereas Lula has previously been charged in connection with a beach house that prosecutors say was a bribe.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-latin-america-41170460",
+                            "text": "-\"Brazilian ex-presidents charged in corruption case\". BBC. 6 September 2017. Retrieved 9 February 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-02-09",
+                                "Created": "2017-09-06"
+                            }
+                        }
+                    ],
+                    "start_date": "06/09/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Prosecutor Rodrigo Janot files charges in the Supreme Court against  officials in President Michel Temer's Brazilian Democratic Movement Party accusing them of  forming a criminal organization.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/article/us-brazil-corruption-temer/brazil-prosecutor-charges-members-of-temers-party-with-criminal-organization-idUSKCN1BJ2PU",
+                            "text": "-\"Brazil prosecutor charges members of Temer's party with criminal organization\". Reuters. 8 September 2017. Retrieved 9 September 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-09-09",
+                                "Created": "2017-09-08"
+                            }
+                        }
+                    ],
+                    "start_date": "08/09/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Fundação Nacional do Índio (Funai), the Brazilian agency for indigenous people, report that a group of miners had boasted of killing as many as ten members of an uncontacted tribe.",
+                    "links": [
+                        {
+                            "link": "https://www.nytimes.com/2017/09/10/world/americas/brazil-amazon-tribe-killings.html",
+                            "text": "-Darlington, Shasta (10 September 2017). \"'Uncontacted' Amazon Tribe Members Reported Killed in Brazil\". New York Times. Retrieved 2018-05-28.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-09-10",
+                                "Created": "2018-05-28"
+                            }
+                        }
+                    ],
+                    "start_date": "10/09/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Authorities investigate the reported murder of ten members of an Amazonian tribe in the Javari Valley.",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/global-development/2017/sep/12/brazil-investigates-reports-of-massacre-among-amazon-tribe-javari-valley",
+                            "text": "-\"Brazil investigates reports of massacre among Amazonian tribe by gold miners\". The Guardian. 12 September 2017. Retrieved 12 September 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-09-12",
+                                "Created": "2017-09-12"
+                            }
+                        }
+                    ],
+                    "start_date": "11/09/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Brazilian prosecutors announce a joint investigation with Venezuela, regarding a scheme in which the Venezuelan government agency PDVSA overpaid for agricultural equipment from Brazil's America Trading by $64 million. Investigators say that most of the payments wound up in accounts in Panama, Switzerland and the United States.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/article/us-brazil-pdvsa-corruption/brazil-probes-alleged-money-laundering-on-sales-to-venezuelas-pdvsa-idUSKCN1BM2RV",
+                            "text": "-Lisandra Paraguassu (11 September 2017). \"Brazil probes alleged money laundering on sales to Venezuela's PDVSA\". Reuters. Retrieved 14 February 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-02-14",
+                                "Created": "2017-09-11"
+                            }
+                        }
+                    ],
+                    "start_date": "11/09/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Additional corruption charges are filed against Michel Temer in relation to illegal campaign contributions from JBS S.A.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-latin-america-41275822",
+                            "text": "-\"Brazil President Michel Temer faces more criminal charges\". BBC. 15 September 2017. Retrieved 12 February 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-02-12",
+                                "Created": "2017-09-15"
+                            }
+                        }
+                    ],
+                    "start_date": "15/09/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Brazil imposes a 20% tariff on imports of US ethanol.",
+                    "links": [
+                        {
+                            "link": "https://www.omaha.com/money/u-s-producers-not-happy-after-brazil-adds-percent-tariff/article_695f0f6c-9a3d-11e7-b033-03e465135af4.html",
+                            "text": "-Russell Hubbard (16 September 2017). \"U.S. producers not happy after Brazil adds 20 percent tariff to ethanol imports\". Omaha World-Herald. Retrieved 14 February 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-02-14",
+                                "Created": "2017-09-16"
+                            }
+                        }
+                    ],
+                    "start_date": "16/09/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Brazil auctions oil leases, raising more than one billion dollars.",
+                    "links": [
+                        {
+                            "link": "https://phys.org/news/2017-09-brazil-oil-field-auctions.html",
+                            "text": "-\"Brazil holds record oil field auctions\". phys.org. AFP. September 28, 2017. Retrieved February 20, 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-02-20",
+                                "Created": "2017-09-28"
+                            }
+                        }
+                    ],
+                    "start_date": "28/09/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "October",
+            "Data": [
+                {
+                    "event_text": "Brazilian police detain Italian fugitive Cesare Battisti, after he was attempting to flee across the border into Bolivia, in order to avoid extradition back to Italy. If extradited, he faces a life sentence in prison for four murders he committed during the 1970s.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/article/us-brazil-italy-battisti/brazil-detains-italian-fugitive-battisti-leaving-country-idUSKBN1C92QO?il=0",
+                            "text": "-\"Brazil detains Italian fugitive Battisti leaving country\". Reuters. 4 October 2017. Retrieved 4 October 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-10-04",
+                                "Created": "2017-10-04"
+                            }
+                        }
+                    ],
+                    "start_date": "04/10/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "In the town of Janaúba, Minas Gerais state, a recently dismissed security guard set fire to a childcare center killing ten children and three teachers, and leaving, mostly children aged four and five, injured.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-latin-america-41515503",
+                            "text": "-\"Brazil nursery attack: Children set on fire in Minas Gerais\". BBC News. 5 October 2017. Retrieved 6 October 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-10-06",
+                                "Created": "2017-10-05"
+                            }
+                        }
+                    ],
+                    "start_date": "05/10/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Tribunal de Contas da União (Federal Accounting Court) said Brazilian Development Bank (BNDES) paid 20% too much for the shares it bought of JBS S.A., from Joesley and Wesley Batista, causing an $89 million loss.",
+                    "links": [
+                        {
+                            "link": "http://www1.folha.uol.com.br/internacional/en/business/2017/10/1928020-bndes-unduly-paid-20-more-for-jbs-shares-says-federal-accounting-court.shtml",
+                            "text": "-Fábio Fabrini (18 October 2018). \"BNDES Unduly Paid 20% More for JBS Shares, Says Federal Accounting Court\". Folha de S. Paulo. Retrieved 13 February 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-02-13",
+                                "Created": "2018-10-18"
+                            }
+                        }
+                    ],
+                    "start_date": "18/10/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Brazil's Chamber of Deputies voted 233251 on a motion to approve impeachment proceedings against President Michel Temer. The motion required a two-thirds majority (342 votes) to proceed. Brazilian law requires Chamber of Deputies approval of a Supreme Court trial; criminal charges cannot be brought against a sitting president under Brazilian law.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-latin-america-41755666",
+                            "text": "-\"Brazil's President Temer avoids corruption trial\". 26 October 2017. Retrieved 11 February 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-02-11",
+                                "Created": "2017-10-26"
+                            }
+                        }
+                    ],
+                    "start_date": "26/10/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Brazil auctions offshore oil leases to ExxonMobil, Statoil and Shell.",
+                    "links": [
+                        {
+                            "link": "https://www.nytimes.com/2017/10/27/business/energy-environment/brazil-oil.html",
+                            "text": "-Vinod Sreeharsha (October 27, 2017). \"Brazil Draws Broad Interest in Offshore Oil Drilling Rights\". New York Times. Retrieved February 20, 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-02-20",
+                                "Created": "2017-10-27"
+                            }
+                        }
+                    ],
+                    "start_date": "27/10/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "November",
+            "Data": [
+                {
+                    "event_text": "Commission approves a bill restricting abortion, even in cases of rape.",
+                    "links": [
+                        {
+                            "link": "https://www.cartacapital.com.br/politica/comissao-aprova-projeto-que-restringe-aborto-ate-em-caso-de-estupro",
+                            "text": "-\"Comissão aprova projeto que restringe aborto até em caso de estupro\". 8 November 2017. Retrieved 11 November 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-11-11",
+                                "Created": "2017-11-08"
+                            }
+                        }
+                    ],
+                    "start_date": "08/11/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Brazilian Grand Prix takes place at the Autódromo José Carlos Pace in the Interlagos neighborhood of São Paulo. It is the final home race for Felipe Massa and is won by Sebastian Vettel.",
+                    "links": [
+                        {
+                            "link": "https://web.archive.org/web/20180412160458/https://www.formula1.com/en/championship/races/2017/Brazil.html",
+                            "text": "-\"Brazil\". Formula1.com. Archived from the original on 12 April 2018. Retrieved 13 November 2017.-",
+                            "dates": {
+                                "Archieved": "2018-04-12",
+                                "Retrieved": "2017-11-13",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://www.formula1.com/en/championship/races/2017/Brazil.html",
+                            "text": "-\"Brazil\". Formula1.com. Archived from the original on 12 April 2018. Retrieved 13 November 2017.-",
+                            "dates": {
+                                "Archieved": "2018-04-12",
+                                "Retrieved": "2017-11-13",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://www.formula1.com/en/results.html/2017/races/977/brazil.html",
+                            "text": "-\n\"Results\". Formula1.com. Retrieved 13 November 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-11-13",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://www.formula1.com/en/video/2017/11/Massa_s_emotional_final_race_on_home_soil.html",
+                            "text": "-\n\"Massa's emotional final race on home soil\". Formula1.com.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "12/11/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Temer signs immigration bill into law.",
+                    "links": [
+                        {
+                            "link": "http://www1.folha.uol.com.br/internacional/en/world/2017/11/1936915-immigration-bill-is-signed-into-law-but-amendments-are-subject-to-criticism.shtml",
+                            "text": "-PATRÍCIA CAMPOS MELLO (November 21, 2017). \"Immigration Bill Is Signed into Law, but Amendments Are Subject to Criticism\". Retrieved February 15, 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-02-15",
+                                "Created": "2017-11-21"
+                            }
+                        }
+                    ],
+                    "start_date": "21/11/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Supreme Court upholds a national ban on the use of asbestos.",
+                    "links": [
+                        {
+                            "link": "http://www1.folha.uol.com.br/internacional/en/business/2017/11/1939473-brazilian-supreme-court-bans-use-of-asbestos-in-brazil.shtml",
+                            "text": "-LETÍCIA CASADO (30 November 2017). \"Brazilian Supreme Court Bans Use of Asbestos in Brazil\". Folha de S. Paulo. Retrieved 11 February 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-02-11",
+                                "Created": "2017-11-30"
+                            }
+                        }
+                    ],
+                    "start_date": "30/11/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "December",
+            "Data": [
+                {
+                    "event_text": "Alleged drug lord Rogério da Silva, known as Rogério 157, is arrested in Rocinha, in an operation involving 3,000 members of the Brazilian military and police forces.",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/world/2017/dec/06/most-wanted-trafficker-brazil-rogerio-da-silva-in-rio-arrested-3000-strong-operation",
+                            "text": "-Dom Phillips, Rio police hail arrest of drug kingpin in 3,000-strong favela operation Archived 2018-03-29 at the Wayback Machine, The Guardian (December 6, 2017).-",
+                            "dates": {
+                                "Archieved": "2018-03-29",
+                                "Retrieved": null,
+                                "Created": "2017-12-06"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20180329104011/https://www.theguardian.com/world/2017/dec/06/most-wanted-trafficker-brazil-rogerio-da-silva-in-rio-arrested-3000-strong-operation",
+                            "text": "-Dom Phillips, Rio police hail arrest of drug kingpin in 3,000-strong favela operation Archived 2018-03-29 at the Wayback Machine, The Guardian (December 6, 2017).-",
+                            "dates": {
+                                "Archieved": "2018-03-29",
+                                "Retrieved": null,
+                                "Created": "2017-12-06"
+                            }
+                        },
+                        {
+                            "link": "https://www.theguardian.com/world/2017/dec/10/brazil-rio-favela-rogerio-da-silva-drugs",
+                            "text": "-Dom Phillips & Júlio Carvalho, Arrest of Rio drug kingpin brings fear of power grab – and further violence Archived 2018-03-29 at the Wayback Machine, The Guardian (December 10, 2017).-",
+                            "dates": {
+                                "Archieved": "2018-03-29",
+                                "Retrieved": null,
+                                "Created": "2017-12-10"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20180329121328/https://www.theguardian.com/world/2017/dec/10/brazil-rio-favela-rogerio-da-silva-drugs",
+                            "text": "-Dom Phillips & Júlio Carvalho, Arrest of Rio drug kingpin brings fear of power grab – and further violence Archived 2018-03-29 at the Wayback Machine, The Guardian (December 10, 2017).-",
+                            "dates": {
+                                "Archieved": "2018-03-29",
+                                "Retrieved": null,
+                                "Created": "2017-12-10"
+                            }
+                        }
+                    ],
+                    "start_date": "06/12/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Brazilian Social Democracy Party (PSDB) selects Geraldo Alckmin as its presidential candidate in the upcoming 2018 general election.",
+                    "links": [
+                        {
+                            "link": "https://g1.globo.com/politica/noticia/psdb-elege-geraldo-alckmin-como-presidente-nacional-do-partido.ghtml",
+                            "text": "-\"Por 470 votos a 3, PSDB elege Geraldo Alckmin presidente nacional do partido\".-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "09/12/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Charges are filed in the 10th Federal Court in Brasília against Rodrigo Santos da Rocha Loures, after accepting a bribe as an aide to Michel Temer. Loures was filmed leaving a São Paulo pizzeria with a bag containing 500,000 reis which was, according to prosecutors, supposed to be a down payment on a R38 million project, to be paid over nine months. Temer was charged as well, but the Chamber of Deputies voted against allowing the Supreme Court to try the charge. A prosecution of Temer on that charge thereupon cannot proceed until he leaves office. This filing represents a move forward in a criminal case against Rocha Lourdes.",
+                    "links": [
+                        {
+                            "link": "http://www1.folha.uol.com.br/internacional/en/brazil/2017/12/1942625-former-temer-aide-rocha-loures-named-as-defendant-in-corruption-probe.shtml",
+                            "text": "-Fabio Fabrini (12 December 2017). \"Former Temer Aide Rocha Loures Named as Defendant in Corruption Probe\". Folha de S. Paulo. Retrieved 14 February 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-02-14",
+                                "Created": "2017-12-12"
+                            }
+                        }
+                    ],
+                    "start_date": "12/12/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Ecudadorean Vice President Jorge Glas is sentenced to six years in prison for taking $13.5 million from Brazilian conglomerate Odebrecht.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-latin-america-41109132",
+                            "text": "-\"Odebrecht case: Politicians worldwide suspected in bribery scandal\". BBC News. BBC. 15 December 2017. Retrieved February 15, 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-02-15",
+                                "Created": "2017-12-15"
+                            }
+                        }
+                    ],
+                    "start_date": "15/12/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Marcelo Odebrecht is released from prison after two and a half years. Seven years of his reduced sentence remain, but he's been greenlighted to serve the remainder of his sentence at his luxury home in São Paulo. Originally sentenced to 9 years, Odebrecht's sentence is reduced in return for his cooperation in Operation Car Wash.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-latin-america-42420578",
+                            "text": "-\"Brazil corruption: Jailed former Odebrecht chief to serve term at home\". BBC News. December 19, 2017. Retrieved February 15, 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-02-15",
+                                "Created": "2017-12-19"
+                            }
+                        }
+                    ],
+                    "start_date": "19/12/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Relations between Brazil and Guyana are intensified after a new cooperation agreement between the countries.",
+                    "links": [
+                        {
+                            "link": "http://agenciabrasil.ebc.com.br/politica/noticia/2017-12/brasil-e-guiana-firmam-acordos-de-cooperacao",
+                            "text": "-\"Brasil e Guiana firmam acordos de cooperação\". Agência Brasil. 21 December 2017. Retrieved 21 December 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-12-21",
+                                "Created": "2017-12-21"
+                            }
+                        }
+                    ],
+                    "start_date": "21/12/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Supreme Court chief justice Cármen Lúcia upholds the appeal of chief prosecutor Raquel Dodge against Temer's Christmas pardon, which he expanded to cover first offenders with convictions for non-violent crimes who served at least one fifth of their sentence. Corncerns have been expressed that the change was intendeded to benefit politicians convicted under the Operation Car Wash investigation.",
+                    "links": [
+                        {
+                            "link": "https://www.ft.com/content/7f194cc8-ec13-11e7-bd17-521324c81e23",
+                            "text": "-Joe Leahy (28 December 2017). \"Brazil court suspends parts of 'Christmas pardon': Critics complain of softened terms for politicians convicted in corruption case\". Financial Times. Reuters. Retrieved 14 February 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-02-14",
+                                "Created": "2017-12-28"
+                            }
+                        }
+                    ],
+                    "start_date": "28/12/2017",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

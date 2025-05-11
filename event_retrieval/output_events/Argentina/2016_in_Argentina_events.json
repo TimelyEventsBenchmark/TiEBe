@@ -1,0 +1,364 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "2 A band of thieves storm into the radio of the Mothers of the Plaza de Mayo.",
+                    "links": [
+                        {
+                            "link": "http://www.lanacion.com.ar/1858800-las-madres-denuncian-un-ataque-a-su-radio",
+                            "text": "-Las Madres denuncian un ataque a su radio (in Spanish) Archived 2016-01-04 at the Wayback Machine-",
+                            "dates": {
+                                "Archieved": "2016-01-04",
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20160104200230/http://www.lanacion.com.ar/1858800-las-madres-denuncian-un-ataque-a-su-radio",
+                            "text": "-Las Madres denuncian un ataque a su radio (in Spanish) Archived 2016-01-04 at the Wayback Machine-",
+                            "dates": {
+                                "Archieved": "2016-01-04",
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "02/01/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "6 Mauricio Macri lifts the custom restrictions on the imports of books.",
+                    "links": [
+                        {
+                            "link": "http://www.lanacion.com.ar/1859732-el-gobierno-anuncio-que-ya-podran-ingresar-libros-impresos-en-el-extranjero",
+                            "text": "-El Gobierno de Mauricio Macri anunció que ya podrán ingresar libros impresos en el extranjero (in Spanish) Archived 2016-01-07 at the Wayback Machine-",
+                            "dates": {
+                                "Archieved": "2016-01-07",
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20160107140836/http://www.lanacion.com.ar/1859732-el-gobierno-anuncio-que-ya-podran-ingresar-libros-impresos-en-el-extranjero",
+                            "text": "-El Gobierno de Mauricio Macri anunció que ya podrán ingresar libros impresos en el extranjero (in Spanish) Archived 2016-01-07 at the Wayback Machine-",
+                            "dates": {
+                                "Archieved": "2016-01-07",
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "06/01/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "7 Protests of former employees of the Néstor Kirchner Cultural Centre.",
+                    "links": [
+                        {
+                            "link": "http://www.lanacion.com.ar/1859969-los-trabajadores-desplazados-del-centro-cultural-kirchner-hacen-una-marcha-y-le-responden-a-lombardi-no-somos-noquis",
+                            "text": "-Los trabajadores del Centro Cultural Kirchner marchan y responden: \"No somos ñoquis\" (in Spanish)-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "07/01/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "8 The Buenos Aires Provincial Police is removed from the pursuit of the fugitives of the Triple crime.",
+                    "links": [
+                        {
+                            "link": "http://www.lanacion.com.ar/1860444-la-justicia-federal-y-una-denuncia-desplazan-a-la-bonaerense-del-caso",
+                            "text": "-La justicia federal y una denuncia desplazan a la bonaerense del caso (in Spanish)-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "08/01/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "9 Capture of the three fugitives of the Triple crime.",
+                    "links": [
+                        {
+                            "link": "http://www.lanacion.com.ar/1860839-capturaron-a-martin-lanatta",
+                            "text": "-Capturaron a Martín y Cristian Lanatta y a Víctor Schillaci en Santa Fe, trece días después de la fuga (in Spanish)-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "09/01/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "13 Martín Sabbatella attempts to enter the premises of the Federal Authority for Audiovisual Communication Services, but the police prevents him from doing so.",
+                    "links": [
+                        {
+                            "link": "http://www.lanacion.com.ar/1861700-sabbatella-intento-ingresar-otra-vez-en-el-edificio-de-la-afsca-pero-la-policia-lo-impidio",
+                            "text": "-Sabbatella intentó ingresar otra vez en el edificio de la Afsca, pero la policía lo impidió (in Spanish)-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "13/01/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "16 Milagro Sala is arrested on charges of fraud and criminal conspiracy.",
+                    "links": [],
+                    "start_date": "16/01/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "19 Mauricio Macri takes part in the World Economic Forum.",
+                    "links": [
+                        {
+                            "link": "http://www.lanacion.com.ar/1863329-macri-viaja-hoy-a-davos-y-se-vera-con-influyentes-jefes-de-estado-y-empresarios",
+                            "text": "-Macri viaja hoy a Davos y se verá con influyentes jefes de Estado y empresarios (in Spanish)-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "19/01/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "31 A fire strikes the studios of El Trece and Todo Noticias.",
+                    "links": [],
+                    "start_date": "31/01/2016",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "6  2016 Buenos Aires ePrix",
+                    "links": [],
+                    "start_date": "06/02/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "16 State Visit of Matteo Renzi, Prime Minister of Italy.",
+                    "links": [],
+                    "start_date": "16/02/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "24 State Visit of François Hollande, President of France.",
+                    "links": [],
+                    "start_date": "24/02/2016",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "23-24 State Visit of Barack Obama, President of the United States of America.",
+                    "links": [],
+                    "start_date": "23/03/2016",
+                    "end_date": "24/03/2016"
+                }
+            ]
+        },
+        {
+            "Month": "June",
+            "Data": [
+                {
+                    "event_text": "3 More than 300 thousand people attended the protest of #NiUnaMenos, which took place mainly in Buenos Aires but was also repeated throughout the whole country.",
+                    "links": [],
+                    "start_date": "03/06/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "15-16 Mauricio Macri visited Colombia in the form of a State Visit.",
+                    "links": [],
+                    "start_date": "15/06/2016",
+                    "end_date": "16/06/2016"
+                },
+                {
+                    "event_text": "17 195th Anniversary of the Death of Martín Miguel de Güemes, a national holiday was made for the occasion.",
+                    "links": [],
+                    "start_date": "17/06/2016",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "July",
+            "Data": [
+                {
+                    "event_text": "2-6 Mauricio Macri went on a European Tour, having visited Paris (where he met President François Hollande), Brussels (where he met Donald Tusk as well as King Philippe and Queen Mathilde), and Berlin (where he met President Joachim Gauck and Chancellor Angela Merkel).",
+                    "links": [],
+                    "start_date": "02/07/2016",
+                    "end_date": "06/07/2016"
+                },
+                {
+                    "event_text": "6 The National Congress had its formal session in the City of Tucumán for the first time in its history, as part of the celebrations for the Bicentennial of the Declaration of Independence.",
+                    "links": [],
+                    "start_date": "06/07/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "9 Bicentennial of the Declaration of Independence of Argentina. The main celebrations were held in the City of Tucumán.",
+                    "links": [],
+                    "start_date": "09/07/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "10 Celebrations for the Bicentennial of the Declaration of Independence were held in Buenos Aires.",
+                    "links": [],
+                    "start_date": "10/07/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "29 State Visit of Enrique Peña Nieto, President of Mexico.",
+                    "links": [],
+                    "start_date": "29/07/2016",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "August",
+            "Data": [
+                {
+                    "event_text": "7-9 Official Visit of Ban Ki-moon, Secretary-General of the United Nations.",
+                    "links": [],
+                    "start_date": "07/08/2016",
+                    "end_date": "09/08/2016"
+                }
+            ]
+        },
+        {
+            "Month": "September",
+            "Data": [
+                {
+                    "event_text": "4-5 Mauricio Macri attended to the 11th G-20 summit in Hangzhou, China.",
+                    "links": [],
+                    "start_date": "04/09/2016",
+                    "end_date": "05/09/2016"
+                },
+                {
+                    "event_text": "10 Discovering of the Gancedo meteorite, the second-largest known fragment of the meteor shower that fell in Campo del Cielo, in Charata, Chaco Province, Argentina.",
+                    "links": [],
+                    "start_date": "10/09/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "12-15 Argentina Business & Investment Forum",
+                    "links": [],
+                    "start_date": "12/09/2016",
+                    "end_date": "15/09/2016"
+                }
+            ]
+        },
+        {
+            "Month": "October",
+            "Data": [
+                {
+                    "event_text": "3 Visit of Michel Temer, President of Brazil.",
+                    "links": [],
+                    "start_date": "03/10/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "11 Queen Máxima of the Netherlands visits her home country in her role of UN Secretary-General's Special Advocate for Inclusive Finance for Development.",
+                    "links": [],
+                    "start_date": "11/10/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "15 Mauricio Macri visited Italy and the Vatican City, where he met Prime Minister Matteo Renzi and Pope Francis. The President assisted as well to the Canonization of José Gabriel del Rosario Brochero.",
+                    "links": [],
+                    "start_date": "15/10/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "19 #NiUnaMenos, a massive protest against femicides and gender violence, took place in all cities of Argentina for the second time of the year.",
+                    "links": [],
+                    "start_date": "19/10/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "24 State Visit of Tabaré Vázquez, President of Uruguay.",
+                    "links": [],
+                    "start_date": "24/10/2016",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "November",
+            "Data": [
+                {
+                    "event_text": "17 State Visit of Justin Trudeau, Prime Minister of Canada.",
+                    "links": [],
+                    "start_date": "17/11/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "21 State Visit of Shinzo Abe, Prime Minister of Japan.",
+                    "links": [],
+                    "start_date": "21/11/2016",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "December",
+            "Data": [
+                {
+                    "event_text": "1 Argentina assumes the pro-tempore Presidency of the Mercosur after the suspension of Venezuela from the organization.",
+                    "links": [],
+                    "start_date": "01/12/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "16 State Visit of Michelle Bachelet, President of Chile.",
+                    "links": [],
+                    "start_date": "16/12/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "21 Isela Costantini resigns as CEO of Aerolíneas Argentinas.",
+                    "links": [],
+                    "start_date": "21/12/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "26 Alfonso Prat-Gay, Minister of Treasury and Public Finances, announces his resignation.",
+                    "links": [],
+                    "start_date": "26/12/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "31 Alfonso Prat-Gay makes effective his resignation.",
+                    "links": [],
+                    "start_date": "31/12/2017",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

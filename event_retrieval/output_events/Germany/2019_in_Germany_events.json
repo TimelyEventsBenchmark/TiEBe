@@ -1,0 +1,183 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "29 December 2018 to 6 January  The 20182019 Four Hills Tournament",
+                    "links": [],
+                    "start_date": "06/01/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "22 January  Signing of the Aachen Treaty in Aachen, 56 years to the day after the signing of the Élysée Treaty",
+                    "links": [],
+                    "start_date": "22/01/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "26 January  the Commission on Growth, Structural Change and Employment by the German government recommends Germany to entirely phase out and shut down coal-fired plants on its territory by 2038.",
+                    "links": [],
+                    "start_date": "26/01/2019",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "7 to 17 February  The annual 69th Berlin International Film Festival takes place, with French actress Juliette Binoche as the Jury President. The Golden Bear is awarded to Israeli-French film Synonyms, directed by Nadav Lapid.",
+                    "links": [
+                        {
+                            "link": "https://variety.com/2019/film/news/berlin-film-festival-2019-award-winners-1203141753/",
+                            "text": "-Meza, Ed (16 February 2019). \"Berlin Film Festival 2019: Nadav Lapid's 'Synonyms' Wins Golden Bear\". Variety. Retrieved 7 June 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-06-07",
+                                "Created": "2019-02-16"
+                            }
+                        }
+                    ],
+                    "start_date": "17/02/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "21 February A German court fines two ex-employers of German gun maker Heckler & Koch for illegal gun sales to Mexico.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-europe-47316445?intlink_from_url=https://www.bbc.com/news/topics/crr7mlg0vr2t/mexico&link_location=live-reporting-story",
+                            "text": "-\"Heckler & Koch fined for illegal gun sales to Mexico\". BBC News. 21 February 2019. Retrieved 1 April 2019.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2019-04-01",
+                                "Created": "2019-02-21"
+                            }
+                        }
+                    ],
+                    "start_date": "21/02/2019",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "May",
+            "Data": [
+                {
+                    "event_text": "26 May - 2019 Bremen state election",
+                    "links": [],
+                    "start_date": "26/05/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "26 May - 2019 European Parliament election in Germany",
+                    "links": [],
+                    "start_date": "26/05/2019",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "June",
+            "Data": [
+                {
+                    "event_text": "2 June  Murder of Walter Lübcke, a German politician and a member of the Christian Democratic Union of Germany who is found shot in the head at close range on the terrace of his residence.",
+                    "links": [],
+                    "start_date": "02/06/2019",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "July",
+            "Data": [
+                {
+                    "event_text": "28 July - Formula One grand prix occurred in Hockenheim, Germany.",
+                    "links": [
+                        {
+                            "link": "https://www.formula1.com/en/racing/2019/Germany.html",
+                            "text": "-\"German Grand Prix 2019 - F1 Race\".-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "28/07/2019",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "September",
+            "Data": [
+                {
+                    "event_text": "2019 Brandenburg state election The SPD declines 5.7% with 26.2% of the vote and AfD becomes the second largest party in Brandenburg with 23.5%.",
+                    "links": [],
+                    "start_date": "01/09/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "2019 Saxony state election The CDU declines 7.3% with 32.1% of the vote and AfD becomes the second largest party in Saxony with 27.5%.",
+                    "links": [],
+                    "start_date": "01/09/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "5 September -  The (NPD) National Democratic Party of Germany Stefan Jagsch becomes the Mayor of the Waldsiedlung. The unanimous election of the NPD politician in the local council shocks other parties including Angela Merkel's Christian Democratic Union (CDU), the center-left Social Democrats (SPD), and the liberal Free Democratic Party (FDP), whose local council members voted for Jagsch.",
+                    "links": [
+                        {
+                            "link": "https://www.european-views.com/2019/09/far-right-politicians-election-as-town-council-head-shocks-germanys-mainstream-parties/",
+                            "text": "-\"Far-Right Politician's Election as Town Council Head Shocks Germany's Mainstream Parties\". European Views. 7 September 2019. Retrieved 7 June 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-06-07",
+                                "Created": "2019-09-07"
+                            }
+                        },
+                        {
+                            "link": "https://www.dw.com/en/germany-merkel-party-colleagues-elect-far-right-extremist-to-local-council/a-50340079",
+                            "text": "-Knight, Ben (7 September 2019). \"Germany: Merkel party colleagues elect far-right extremist to local council\". Deutsche Welle. Retrieved 7 June 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-06-07",
+                                "Created": "2019-09-07"
+                            }
+                        }
+                    ],
+                    "start_date": "05/09/2019",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "October",
+            "Data": [
+                {
+                    "event_text": "9 October — Halle synagogue shooting",
+                    "links": [],
+                    "start_date": "09/10/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "27 October — 2019 Thuringian state election The Die Linke wins the election with 31.0% of the vote, the AfD becomes the second largest party in Thuringia with 23.4% of the vote.",
+                    "links": [],
+                    "start_date": "27/10/2019",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "November",
+            "Data": [
+                {
+                    "event_text": "25 November — 2019 Dresden heist",
+                    "links": [],
+                    "start_date": "25/11/2019",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

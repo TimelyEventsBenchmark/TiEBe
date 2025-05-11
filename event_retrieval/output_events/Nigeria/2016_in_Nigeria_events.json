@@ -1,0 +1,134 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "4 January - Haliru Mohammed Bello, the former Defense Minister and campaign manager for former President Goodluck Jonathan, was arrested on suspicion of money laundering.",
+                    "links": [
+                        {
+                            "link": "https://web.archive.org/web/20160304113942/http://en.starafrica.com/news/nigerias-ex-defence-minister-arraigned-for-money-laundering.html",
+                            "text": "-\"Nigeria's ex-Defence minister arraigned for money laundering\". Star Africa. 5 January 2016. Archived from the original on 4 March 2016. Retrieved 6 January 2016.-",
+                            "dates": {
+                                "Archieved": "2016-03-04",
+                                "Retrieved": "2016-01-06",
+                                "Created": "2016-01-05"
+                            }
+                        },
+                        {
+                            "link": "http://en.starafrica.com/news/nigerias-ex-defence-minister-arraigned-for-money-laundering.html",
+                            "text": "-\"Nigeria's ex-Defence minister arraigned for money laundering\". Star Africa. 5 January 2016. Archived from the original on 4 March 2016. Retrieved 6 January 2016.-",
+                            "dates": {
+                                "Archieved": "2016-03-04",
+                                "Retrieved": "2016-01-06",
+                                "Created": "2016-01-05"
+                            }
+                        }
+                    ],
+                    "start_date": "04/01/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "12 January - Boko Haram militants shot and killed 7 people and burned down 10 houses in Madagali, Adamawa",
+                    "links": [
+                        {
+                            "link": "https://www.enca.com/africa/7-killed-nigeria-attack",
+                            "text": "-7 killed in Nigeria attack Archived 2016-02-03 at the Wayback Machine ENCA-",
+                            "dates": {
+                                "Archieved": "2016-02-03",
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20160203143922/https://www.enca.com/africa/7-killed-nigeria-attack",
+                            "text": "-7 killed in Nigeria attack Archived 2016-02-03 at the Wayback Machine ENCA-",
+                            "dates": {
+                                "Archieved": "2016-02-03",
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "12/01/2016",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "11 February - Two individuals identified as female detonated explosive devices in a camp located in Dikwa, Borno. The incident resulted in the loss of approximately 58 lives among internally displaced persons (IDPs). Additionally, another individual, described as a girl, admitted to security authorities that she refrained from carrying out a similar suicide mission after realizing that her relatives were seeking refuge in the camp.",
+                    "links": [],
+                    "start_date": "11/02/2016",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "June",
+            "Data": [
+                {
+                    "event_text": "11 June - 12th Africa Movie Academy Awards took place in Port Harcourt.",
+                    "links": [],
+                    "start_date": "11/06/2016",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "August",
+            "Data": [
+                {
+                    "event_text": "3-7 August - Nigerian Editors conference took place in Port Harcourt.",
+                    "links": [],
+                    "start_date": "07/08/2016",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "October",
+            "Data": [
+                {
+                    "event_text": "29 October - Suspected Boko Haram suicide bombers kill at least nine people in Maiduguri.",
+                    "links": [
+                        {
+                            "link": "http://hosted.ap.org/dynamic/stories/A/AF_NIGERIA_BOKO_HARAM_SUICIDE_BOMBS?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT",
+                            "text": "-\"WITNESSES: BOMB BLASTS KILL 9 IN NORTHEASTERN NIGERIAN CITY\". 29 October 2016. Retrieved 29 October 2016.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2016-10-29",
+                                "Created": "2016-10-29"
+                            }
+                        }
+                    ],
+                    "start_date": "29/10/2016",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "December",
+            "Data": [
+                {
+                    "event_text": "July - A commission of inquiry established by the state government suggested that soldiers responsible for the deaths of 347 members of the Shiite Islamic Movement of Nigeria in Zaria, Kaduna state, during -14, 2015, should face prosecution.",
+                    "links": [
+                        {
+                            "link": "https://www.state.gov/reports/2016-country-reports-on-human-rights-practices/nigeria/",
+                            "text": "-\"2016 Country Reports on Human Rights Practices: Nigeria\".-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "12/12/2016",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

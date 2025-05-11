@@ -1,0 +1,177 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "10 January  Reinado Internacional del Café 2015.",
+                    "links": [],
+                    "start_date": "10/01/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "25 January  Miss Colombia 2013 Paulina Vega is crowned Miss Universe 2014.",
+                    "links": [
+                        {
+                            "link": "https://thecitypaperbogota.com/news/paulina-vega-crowned-miss-universe/",
+                            "text": "-Staff, The City Paper (2015-01-26). \"Paulina Vega crowned Miss Universe\". The City Paper Bogotá. Retrieved 2024-09-21.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-09-21",
+                                "Created": "2015-01-26"
+                            }
+                        }
+                    ],
+                    "start_date": "25/01/2015",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": []
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "10 March   2015 Santander earthquake.",
+                    "links": [],
+                    "start_date": "10/03/2015",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "12 April  The Attorney General announces that there are 22 open investigations against Army generals concerning false positive killings during an event honoring its victims.",
+                    "links": [
+                        {
+                            "link": "https://2009-2017.state.gov/documents/organization/253213.pdf",
+                            "text": "-\"COLOMBIA 2015 HUMAN RIGHTS REPORT\". Country Reports on Human Rights Practices for 2015 (PDF). United States Department of State Bureau of Democracy, Human Rights and Labor. p. 2.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "12/04/2015",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "May",
+            "Data": [
+                {
+                    "event_text": "18 May  2015 Colombian landslide.",
+                    "links": [],
+                    "start_date": "18/05/2015",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "June",
+            "Data": [
+                {
+                    "event_text": "18-22 June  The 2015 South American Artistic Gymnastics Championships are held in Cali.",
+                    "links": [],
+                    "start_date": "22/06/2015",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "July",
+            "Data": [
+                {
+                    "event_text": "15-19 July  The 2015 World Youth Championships in Athletics are held in Cali.",
+                    "links": [],
+                    "start_date": "19/07/2015",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "August",
+            "Data": [
+                {
+                    "event_text": "4 August  2015 Colombia helicopter crash.",
+                    "links": [],
+                    "start_date": "04/08/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "19 August  2015 ColombiaVenezuela migrant crisis 3 Venezuelan soldiers are injured from gunfire on the border with Venezuela.",
+                    "links": [],
+                    "start_date": "19/08/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "20 August  2015 ColombiaVenezuela migrant crisis Venezuelan President Nicholas Maduro declares a state of emergency.",
+                    "links": [],
+                    "start_date": "20/08/2015",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "September",
+            "Data": [
+                {
+                    "event_text": "12 September 2015 ColombiaVenezuela migrant crisis Both Colombia and Venezuela send moving troops and armored vehicles to their shared border.",
+                    "links": [],
+                    "start_date": "12/09/2015",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "October",
+            "Data": [
+                {
+                    "event_text": "25 October  2015 Colombian regional and municipal elections",
+                    "links": [],
+                    "start_date": "25/10/2015",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "November",
+            "Data": [
+                {
+                    "event_text": "16 November  Miss Colombia 2015.",
+                    "links": [],
+                    "start_date": "16/11/2015",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "December",
+            "Data": [
+                {
+                    "event_text": "22 December  Medical marijuana is legalized.",
+                    "links": [
+                        {
+                            "link": "https://thecitypaperbogota.com/news/colombia-moves-medical-marijuana-out-of-legal-gray-area/",
+                            "text": "-Buckley, Ed (2015-12-23). \"New regulations make medical marijuana fully legal in Colombia\". The City Paper Bogotá. Retrieved 2024-09-21.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-09-21",
+                                "Created": "2015-12-23"
+                            }
+                        }
+                    ],
+                    "start_date": "22/12/2015",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,262 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "2 January   AIDAnova, a cruise ship operated by German cruise line AIDA Cruises and carrying 4,197 people, docked in Lisbon, Portugal, after 52 crew members tested positive for COVID-19 and isolated at various hotels.",
+                    "links": [
+                        {
+                            "link": "https://www.nytimes.com/2022/01/01/world/a-crew-outbreak-halts-a-german-new-years-cruise-in-lisbon.html",
+                            "text": "-Minder, Raphael (2022-01-01). \"A crew outbreak halts a German New Year's cruise in Lisbon\". The New York Times. ISSN 0362-4331. Retrieved 2022-08-29.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-08-29",
+                                "Created": "2022-01-01"
+                            }
+                        },
+                        {
+                            "link": "https://search.worldcat.org/issn/0362-4331",
+                            "text": "-Minder, Raphael (2022-01-01). \"A crew outbreak halts a German New Year's cruise in Lisbon\". The New York Times. ISSN 0362-4331. Retrieved 2022-08-29.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-08-29",
+                                "Created": "2022-01-01"
+                            }
+                        }
+                    ],
+                    "start_date": "02/01/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "30 January - Portuguese people vote in a snap parliamentary election.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/europe/portuguese-go-polls-snap-election-marked-by-covid-uncertainty-2022-01-30/",
+                            "text": "-Goncalves, Sergio; Demony, Catarina; Khalip, Andrei; Demony, Catarina (2022-01-31). \"Portugal's PM Costa stuns with majority win in snap election\". Reuters. Retrieved 2022-08-29.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-08-29",
+                                "Created": "2022-01-31"
+                            }
+                        }
+                    ],
+                    "start_date": "30/01/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "1 February - Portuguese Prime Minister António Costa announces that he has tested positive for COVID-19.",
+                    "links": [
+                        {
+                            "link": "https://www.politico.eu/article/portuguese-prime-minister-antonio-costa-tests-positive-for-covid19-coronavirus/",
+                            "text": "-\"Portuguese PM António Costa tests positive for COVID-19\". POLITICO. 2022-02-01. Retrieved 2022-08-29.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-08-29",
+                                "Created": "2022-02-01"
+                            }
+                        }
+                    ],
+                    "start_date": "01/02/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "11 February - Portuguese police, with help from the FBI, arrest an 18-year-old boy for planning an armed attack on a university in Lisbon.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/europe/police-say-violent-attack-prevented-lisbon-university-suspect-arrested-2022-02-10/",
+                            "text": "-\"Police say violent attack prevented at Lisbon university, suspect arrested\". Reuters. 2022-02-10. Retrieved 2022-08-29.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-08-29",
+                                "Created": "2022-02-10"
+                            }
+                        }
+                    ],
+                    "start_date": "11/02/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "12 March - Portuguese footballer Cristiano Ronaldo surpasses Josef Bican as the sport's official top goalscorer of all time as recorded by FIFA, after scoring his 806th and 807th goals during a Premier League match with Manchester United against Tottenham Hotspur.",
+                    "links": [
+                        {
+                            "link": "https://indianexpress.com/article/sports/football/cristiano-ronaldo-hat-trick-goals-world-record-7817166/",
+                            "text": "-\"Cristiano Ronaldo scores stunning hat-trick, breaks World record in football\". The Indian Express. 2022-03-13. Retrieved 2022-08-29.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-08-29",
+                                "Created": "2022-03-13"
+                            }
+                        }
+                    ],
+                    "start_date": "12/03/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "5 April - Portugal expels Russian diplomats due to the Russian invasion of Ukraine.",
+                    "links": [
+                        {
+                            "link": "https://www.politico.eu/article/italy-denmark-expel-russian-diplomats-over-security-concerns/",
+                            "text": "-\"Six EU countries to expel Russian diplomats\". POLITICO. 2022-04-05. Retrieved 2022-08-29.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-08-29",
+                                "Created": "2022-04-05"
+                            }
+                        }
+                    ],
+                    "start_date": "05/04/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "May",
+            "Data": [
+                {
+                    "event_text": "18 May - Portugal confirms its first five cases of monkeypox.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/health-africa-spain-portugal-db38eb683180531f0589c347bfc85358",
+                            "text": "-\"Portugal finds 5 monkeypox cases in men as outbreak spreads\". AP NEWS. 2022-05-18. Retrieved 2022-08-29.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-08-29",
+                                "Created": "2022-05-18"
+                            }
+                        }
+                    ],
+                    "start_date": "18/05/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "21 May - Three people are killed and more than 30 are injured in a bus crash on the motorway near Mealhada.",
+                    "links": [
+                        {
+                            "link": "https://www.today90.com/at-least-three-dead-and-four-seriously-injured-in-a-bus-accident-in-portugal/",
+                            "text": "-Rivera, Nathan (2022-05-22). \"At least three dead and four seriously injured in a bus accident in Portugal\". Today90 News. Retrieved 2022-08-29.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-08-29",
+                                "Created": "2022-05-22"
+                            }
+                        }
+                    ],
+                    "start_date": "21/05/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "June",
+            "Data": [
+                {
+                    "event_text": "28 June - Portugal reports more than ten new cases of monkeypox.",
+                    "links": [
+                        {
+                            "link": "https://www.dgs.pt/em-destaque/365-casos-confirmados-de-infecao-humana-por-virus-monkeypox-em-portugal.aspx",
+                            "text": "-\"365 casos confirmados de infeção humana por vírus Monkeypox em Portugal\". www.dgs.pt. Retrieved 2022-08-29.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-08-29",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "28/06/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "July",
+            "Data": [
+                {
+                    "event_text": "8 July - Portugal issues warnings of temperatures as high as 43 °C (109 °F) amid a drought and wildfires in parts of the country. [citation needed]",
+                    "links": [],
+                    "start_date": "08/07/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "14 July - Pinhão, district of Vila Real, sets the highest July temperature ever in Portugal, reaching 47.0 °C (116.6 °F).",
+                    "links": [
+                        {
+                            "link": "https://www.theage.com.au/world/europe/fires-evacuations-and-health-warnings-as-european-temperatures-hit-47-degrees-20220716-p5b21p.html",
+                            "text": "-MacLellan, Catarina Demony and Kylie (2022-07-15). \"Fires, evacuations and health warnings as European temperatures hit 47 degrees\". The Age. Retrieved 2022-08-29.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-08-29",
+                                "Created": "2022-07-15"
+                            }
+                        }
+                    ],
+                    "start_date": "14/07/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "15 July - Portugal reports 238 deaths related to the ongoing heat wave as it battles more than 30 active wildfires. In France, more than 10,000 people have fled wildfires in Gironde and in Spain, firefighters continue to battle forest fires near the town of Monsagro.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-europe-62175758",
+                            "text": "-\"Europe heatwave: Thousands escape wildfires in France, Spain and Greece\". BBC News. 2022-07-15. Retrieved 2022-08-29.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-08-29",
+                                "Created": "2022-07-15"
+                            }
+                        }
+                    ],
+                    "start_date": "15/07/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "16 July - In Vila Nova de Foz Côa a waterbombing plane crashes while fighting wildfires in the region, killing the pilot, and in Spain, around 2,300 people are evacuated from the Costa del Sol due to wildfires in the Mijas hills.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-europe-62189272",
+                            "text": "-\"Europe heatwave: Deadly wildfires spread in Mediterranean\". BBC News. 2022-07-17. Retrieved 2022-08-29.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-08-29",
+                                "Created": "2022-07-17"
+                            }
+                        }
+                    ],
+                    "start_date": "16/07/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "19 July - The death toll from the wildfires and heat wave in Spain and Portugal increases to more than 1,700 people, with more than 1,063 deaths in Portugal.",
+                    "links": [
+                        {
+                            "link": "https://abcnews.go.com/International/france-spain-portugal-afflicted-heat-wildfires/story?id=86972928",
+                            "text": "-\"Heat-related deaths top 1,100 in Spain, Portugal amid heat wave and wildfires\". ABC News. Retrieved 2022-08-29.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-08-29",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "19/07/2022",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

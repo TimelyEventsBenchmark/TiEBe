@@ -1,0 +1,962 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "Turkey reports a new refugee influx and possible crisis, as 250,000 Syrians flee Syria for Turkey, due to Syrian government attacks on rebel groups around Idlib.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/article/us-syria-security-turkey/erdogan-says-up-to-250000-syrians-flee-toward-turkey-as-crisis-worsens-idUSKBN1Z10J2",
+                            "text": "-Erdogan says up to 250,000 Syrians flee toward Turkey as crisis worsens. January 2, 2020. Reuters.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2020-01-02"
+                            }
+                        }
+                    ],
+                    "start_date": "02/01/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The new building of the National Organization Agency (MİT) opened in Etimesgut, Ankara.",
+                    "links": [
+                        {
+                            "link": "https://web.archive.org/web/20200107170857/https://www.yenisafak.com/gundem/mitin-yeni-hizmet-binasi-kale-acildi-3520781",
+                            "text": "-\"MİT'in yeni hizmet binası 'KALE' açıldı\". Yeni Şafak. January 6, 2020. Archived from the original on January 7, 2020. Retrieved January 18, 2020.-",
+                            "dates": {
+                                "Archieved": "2020-01-07",
+                                "Retrieved": "2020-01-18",
+                                "Created": "2020-01-06"
+                            }
+                        },
+                        {
+                            "link": "https://www.yenisafak.com/gundem/mitin-yeni-hizmet-binasi-kale-acildi-3520781",
+                            "text": "-\"MİT'in yeni hizmet binası 'KALE' açıldı\". Yeni Şafak. January 6, 2020. Archived from the original on January 7, 2020. Retrieved January 18, 2020.-",
+                            "dates": {
+                                "Archieved": "2020-01-07",
+                                "Retrieved": "2020-01-18",
+                                "Created": "2020-01-06"
+                            }
+                        }
+                    ],
+                    "start_date": "06/01/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Turkey signs maritime deal with Libya.",
+                    "links": [
+                        {
+                            "link": "https://www.forbes.com/sites/arielcohen/2020/01/08/turkey-libya-maritime-deal-upsets-mediterranean-energy-plan/#53bcf9886bee",
+                            "text": "-Turkey-Libya Maritime Deal Upsets Mediterranean Energy Plan by Ariel Cohen, forbes.com, January 8, 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2020-01-08"
+                            }
+                        }
+                    ],
+                    "start_date": "07/01/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A 4.9-magnitude earthquake occurred in Silivri.",
+                    "links": [
+                        {
+                            "link": "http://www.milliyet.com.tr/gundem/silivride-ayni-noktada-deprem-6120784",
+                            "text": "-\"Silivri'de aynı noktada deprem! - Son Dakika Haberler\". Milliyet.com.tr. 12 January 2020. Retrieved 2020-04-04.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-01-12",
+                                "Created": "2020-04-04"
+                            }
+                        }
+                    ],
+                    "start_date": "11/01/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Turkey lifts its ban on Wikipedia, due to a ruling by the Turkish High Constitutional Court.",
+                    "links": [
+                        {
+                            "link": "https://www.nytimes.com/aponline/2020/01/15/world/europe/ap-eu-turkey-wikipedia.html",
+                            "text": "-Turkey Lifts More Than 2-Year Block of Wikipedia, By The Associated Press, January 15, 2020-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2020-01-15"
+                            }
+                        }
+                    ],
+                    "start_date": "15/01/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "2020 Elazığ earthquake",
+                    "links": [
+                        {
+                            "link": "https://web.archive.org/web/20200126021213/https://www.haberturk.com/elazig-da-6-8-buyuklugunde-deprem-2562287",
+                            "text": "-\"SON DAKİKA: Elazığ'da 6,8 şiddetinde deprem! 21 kişi hayatını kaybetti, 1030 kişi yaralandı\". Habertürk. January 24, 2020. Archived from the original on January 26, 2020. Retrieved January 26, 2020.-",
+                            "dates": {
+                                "Archieved": "2020-01-26",
+                                "Retrieved": "2020-01-26",
+                                "Created": "2020-01-24"
+                            }
+                        },
+                        {
+                            "link": "https://www.haberturk.com/elazig-da-6-8-buyuklugunde-deprem-2562287",
+                            "text": "-\"SON DAKİKA: Elazığ'da 6,8 şiddetinde deprem! 21 kişi hayatını kaybetti, 1030 kişi yaralandı\". Habertürk. January 24, 2020. Archived from the original on January 26, 2020. Retrieved January 26, 2020.-",
+                            "dates": {
+                                "Archieved": "2020-01-26",
+                                "Retrieved": "2020-01-26",
+                                "Created": "2020-01-24"
+                            }
+                        }
+                    ],
+                    "start_date": "24/01/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "5 2020 Van avalanches two avalanches occurred near Bahçesaray, killing at least 41 people.",
+                    "links": [
+                        {
+                            "link": "https://www.aa.com.tr/tr/turkiye/vanda-cig-altindakileri-arayan-ekiplerin-uzerine-cig-dustu/1724940",
+                            "text": "-\"Van'da çığ altındakileri arayan ekiplerin üzerine çığ düştü\". Aa.com.tr. Retrieved 2020-04-04.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-04-04",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "04/02/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Pegasus Airlines Flight 2193 was a scheduled domestic passenger flight from Izmir to Istanbul. The Boeing 737-800 operating the route skidded off the runway while landing at the Sabiha Gökçen International Airport. Three people were killed, 179 people were injured, and the aircraft was destroyed.",
+                    "links": [
+                        {
+                            "link": "https://www.hurriyet.com.tr/gundem/son-dakika-haberleri-sabiha-gokcende-pistten-cikan-ucak-uce-bolundu-3-kisi-hayatini-kaybetti-41440146",
+                            "text": "-\"Son dakika haberleri: Kaza sonrası Pagasus'tan ilk açıklama: An itibarıyla can kaybı bulunmuyor\". Hurriyet.com.tr. 2020-02-06. Retrieved 2020-04-04.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-04-04",
+                                "Created": "2020-02-06"
+                            }
+                        }
+                    ],
+                    "start_date": "05/02/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "2020 IranTurkey earthquakes the first one occurred on 23 February, near Khoy in north-west Iran, close to the border with Turkey, killing 9 people in Başkale, Van. It hit at 9:23 a.m. local time (05:53 UTC) with a magnitude of 5.8 Mw. About 10 hours later the same area was hit by another major earthquake of 6.0 Mw .",
+                    "links": [
+                        {
+                            "link": "https://www.sozcu.com.tr/2020/gundem/depremin-vurdugu-vandan-bir-aci-haber-daha-5647198/",
+                            "text": "-\"Depremin vurduğu Van'dan bir acı haber daha\". Depremin vurduğu Van'dan bir acı haber daha. 2020-02-26. Retrieved 2020-04-04.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-04-04",
+                                "Created": "2020-02-26"
+                            }
+                        }
+                    ],
+                    "start_date": "23/02/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "During the peak of Operation Dawn of Idlib 2, the Syrian Arab Air Force, and possibly the Russian Air Force, conducted two airstrikes against a Turkish Army convoy in Balyun, Idlib. The strikes resulted in the deaths of 34 Turkish soldiers according to Turkish president Recep Tayyip Erdoğan. (see 2020 Balyun airstrikes)",
+                    "links": [
+                        {
+                            "link": "http://www.mavikocaeli.com.tr/haber-idlib-ten-korkunc-haber-tabur-vuruldu-iddiasi-71106.html",
+                            "text": "-\"İdlib'ten korkunç haber: 9 şehit çok sayıda yaralı\". Mavikocaeli.com.tr. Retrieved 2020-04-04.[permanent dead link]-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-04-04",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "27/02/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "Turkey started conducting Operation Spring Shield.",
+                    "links": [
+                        {
+                            "link": "https://www.haber.com/hulusi-akar-acikladi-bahar-kalkani-harekati-basladi-275860/",
+                            "text": "-İbrahim Yeniyurt (March 2020). \"Hulusi Akar açıkladı: Bahar Kalkanı Harekatı başladı!\". Haber.com. Retrieved 2020-04-04.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-04-04",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "01/03/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Ministry of Health confirms the first COVID-19 case in Turkey. (see COVID-19 pandemic in Turkey)",
+                    "links": [
+                        {
+                            "link": "https://www.birgun.net/haber/saglik-bakani-turkiye-de-ilk-kez-koronavirus-vakasina-rastlandigini-acikladi-291283",
+                            "text": "-\"Sağlık Bakanı Türkiye'de ilk kez koronavirüs vakasına rastlandığını açıkladı\". birgun.net (in Turkish). 2020-03-10. Retrieved 2020-04-04.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-04-04",
+                                "Created": "2020-03-10"
+                            }
+                        }
+                    ],
+                    "start_date": "11/03/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "As part of the governmental measures for controlling the pandemic, primary and secondary schools were closed for 1 week from 16 March. Universities were also closed for 3 weeks.",
+                    "links": [
+                        {
+                            "link": "https://www.hurriyet.com.tr/gundem/tum-okullar-tatil-ediliyor-41467870",
+                            "text": "-ANKARA, Erdinç Çelikkan, Erdinç ÇELİKKAN / (13 March 2020). \"Son dakika haberi: Okullar tatil mi? Milli Eğitim Bakanı Selçuk detayları basın toplantısıyla açıkladı\". www.hurriyet.com.tr.{{cite web}}:  CS1 maint: multiple names: authors list (link)-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2020-03-13"
+                            }
+                        }
+                    ],
+                    "start_date": "16/03/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The first death from COVID-19 occurred in Turkey.",
+                    "links": [
+                        {
+                            "link": "https://www.milliyet.com.tr/gundem/saglik-bakani-acikladi-turkiyede-corona-virusu-vakasi-kaca-yukseldi-corona-virusunden-ilk-olum-gerceklesti-6168050",
+                            "text": "-\"Corona virüsünden ilk ölüm gerçekleşti! Türkiye'de vaka sayısı kaça yükseldi? Sağlık Bakanı açıkladı\". Milliyet. 18 March 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2020-03-18"
+                            }
+                        }
+                    ],
+                    "start_date": "17/03/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A curfew was imposed by the government for people over 65.",
+                    "links": [
+                        {
+                            "link": "https://www.icisleri.gov.tr/65-yas-ve-ustu-ile-kronik-rahatsizligi-olanlara-sokaga-cikma-yasagi-genelgesi",
+                            "text": "-\"65 Yaş ve Üstü ile Kronik Rahatsızlığı Olanlara Sokağa Çıkma Yasağı Genelgesi\". www.icisleri.gov.tr.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "21/03/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "All educational programs were suspended until  as a result of governmental measures for controlling the COVID-19 pandemic.",
+                    "links": [
+                        {
+                            "link": "https://www.meb.gov.tr/uzaktan-egitim-30-nisana-kadar-devam-edecek/haber/20585/tr",
+                            "text": "-\"UZAKTAN EĞİTİM 30 NİSAN'A KADAR DEVAM EDECEK\".-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "27/03/2020",
+                    "end_date": "30/04/2020"
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "A curfew was imposed by the government for people under 20.",
+                    "links": [
+                        {
+                            "link": "https://www.milliyet.com.tr/gundem/sokaga-cikma-yasagi-kac-yasina-kadar-18-yas-altina-sokaga-cikma-yasaga-mi-geliyor-6180434",
+                            "text": "-\"Sokağa çıkma yasağı yaşı kaç? Cumhurbaşkanı açıkladı! 20 yaş altına sokağa çıkma yasağı mı geldi?\". Milliyet. 4 April 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2020-04-04"
+                            }
+                        }
+                    ],
+                    "start_date": "03/04/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "As a result of the coronavirus pandemic, a curfew was declared in 31 provinces.",
+                    "links": [
+                        {
+                            "link": "https://www.trthaber.com/haber/gundem/sokaga-cikma-yasagi-bu-gece-sona-eriyor-475618.html",
+                            "text": "-\"Sokağa çıkma yasağı sona erdi\". TRT Haber. 12 April 2020. Retrieved 13 April 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-04-13",
+                                "Created": "2020-04-12"
+                            }
+                        }
+                    ],
+                    "start_date": "10/04/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "In order to control the spread of COVID-19, a curfew was declared in 31 provinces which was set to last over the weekend.",
+                    "links": [
+                        {
+                            "link": "https://www.milliyet.com.tr/gundem/son-dakika-31-ilde-2-gunluk-sokaga-cikma-yasagi-basladi-6191445",
+                            "text": "-\"Son dakika | 31 ilde 2 günlük sokağa çıkma yasağı başladı\". Milliyet.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "17/04/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Another curfew was announced by the government in 30 metropolitan municipalities and Zonguldak, restricting movement across the cities between  and 27.",
+                    "links": [
+                        {
+                            "link": "https://www.sabah.com.tr/yasam/2020/04/22/son-dakika-haberi-sokaga-cikma-yasaginin-detaylari-aciklandi-hafta-sonu-marketler-ve-bakkallar-acik-mi-23-nisanda",
+                            "text": "-\"23 Nisan sokağa çıkma yasağı ne zaman başlayacak, bitecek? 4 günlük sokağa çıkma yasağı ne zaman, saat kaçta başladı?\". Sabah.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "20/04/2020",
+                    "end_date": "23/04/2020"
+                },
+                {
+                    "event_text": "Another curfew was announced by the government in 30 metropolitan municipalities and Zonguldak, restricting movement across the cities between 13 May.",
+                    "links": [
+                        {
+                            "link": "https://www.milliyet.com.tr/gundem/1-mayis-tatil-mi-kac-gun-tatil-olacak-1-mayis-sokaga-cikma-yasagi-olacak-mi-6199985",
+                            "text": "-\"1 Mayıs tatil mi, kaç gün tatil olacak? 1 Mayıs'da sokağa çıkma yasağı olacak mı?\". Milliyet.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "27/04/2020",
+                    "end_date": "03/05/2020"
+                }
+            ]
+        },
+        {
+            "Month": "June",
+            "Data": [
+                {
+                    "event_text": "Prohibitions and measures introduced to combat the COVID-19 pandemic started to be gradually lifted. The normalization process began.",
+                    "links": [
+                        {
+                            "link": "https://m.sabah.com.tr/yasam/2020/05/26/son-dakika-normallesme-sureci-asama-asama-ortaya-cikiyor-bayramdan-sonra-normallesme-takvimi-ile-tarihleri-nasil-olacak?paging=2",
+                            "text": "-\"Normalleşme süreci ve takvimi\". 25 May 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2020-05-25"
+                            }
+                        }
+                    ],
+                    "start_date": "01/06/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "An earthquake of 5.7 Mw hit Bingöl, Karlıova. One person was killed.",
+                    "links": [
+                        {
+                            "link": "https://www.milliyet.com.tr/amp/gundem/son-dakika-bingolde-5-7-buyuklugunde-deprem-6234928",
+                            "text": "-\"Bingöl'de 5.7 büyüklüğünde deprem oldu\". 14 June 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2020-06-14"
+                            }
+                        }
+                    ],
+                    "start_date": "14/06/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Turkey launched an air attack on the areas used as a base by terrorists in northern Iraq under Operation Claw-Eagle.",
+                    "links": [
+                        {
+                            "link": "https://www.sozcu.com.tr/2020/gundem/pence-kartal-operasyonu-nedir-pence-kartal-operasyonunda-yasananlar-ve-gelismeler-5878986/",
+                            "text": "-\"Pençe-Kartal Operasyonu\". 15 June 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2020-06-15"
+                            }
+                        }
+                    ],
+                    "start_date": "15/06/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Turkey launched Operation Claw-Tiger in Northern Iraq.",
+                    "links": [
+                        {
+                            "link": "https://www.aa.com.tr/tr/turkiye/tskdan-irakin-kuzeyine-pence-kaplan-operasyonu/1879453",
+                            "text": "-\"Pençe-Kaplan Operasyonu\". 17 June 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2020-06-17"
+                            }
+                        }
+                    ],
+                    "start_date": "17/06/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Turkish diplomat Volkan Bozkır is elected President of the 75th United Nations General Assembly. He was the sole candidate.",
+                    "links": [
+                        {
+                            "link": "https://news.un.org/en/story/2020/06/1066562",
+                            "text": "-\"Turkish diplomat elected President of historic 75th UN General Assembly\". UN News. 2020-06-17. Retrieved 2020-06-18.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-06-18",
+                                "Created": "2020-06-17"
+                            }
+                        }
+                    ],
+                    "start_date": "17/06/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "July",
+            "Data": [
+                {
+                    "event_text": "An explosion occurred in the fireworks factory in Hendek. 6 workers died and 114 workers were injured.",
+                    "links": [
+                        {
+                            "link": "https://web.archive.org/web/20200704043456/https://www.bbc.com/turkce/live/haberler-dunya-53275592",
+                            "text": "-\"Sakarya Hendek'teki havai fişek fabrikasında patlama\". BBC. 3 July 2020. Archived from the original on 4 July 2020.-",
+                            "dates": {
+                                "Archieved": "2020-07-04",
+                                "Retrieved": null,
+                                "Created": "2020-07-03"
+                            }
+                        },
+                        {
+                            "link": "https://www.bbc.com/turkce/live/haberler-dunya-53275592",
+                            "text": "-\"Sakarya Hendek'teki havai fişek fabrikasında patlama\". BBC. 3 July 2020. Archived from the original on 4 July 2020.-",
+                            "dates": {
+                                "Archieved": "2020-07-04",
+                                "Retrieved": null,
+                                "Created": "2020-07-03"
+                            }
+                        }
+                    ],
+                    "start_date": "03/07/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "450 hectares of forest were burned in the Ilgardere district of Gelibolu, Çanakkale. Transportation was stopped in the Dardanelles.",
+                    "links": [
+                        {
+                            "link": "https://www.birgun.net/haber/gelibolu-da-orman-yangini-450-hektar-alan-yandi-307409",
+                            "text": "-\"Gelibolu'da Orman Yangını\". BirGün. 6 July 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2020-07-06"
+                            }
+                        }
+                    ],
+                    "start_date": "06/07/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The elections for choosing the Speaker of the Grand National Assembly was held. Mustafa Şentop was re-elected.",
+                    "links": [
+                        {
+                            "link": "https://www.sozcu.com.tr/2020/gundem/son-dakika-tbmm-baskanligi-secimi-basladi-5916871/",
+                            "text": "-\"Mustafa Şentop yeniden Meclis Başkanı seçildi\". Sözcü. 7 July 2020. Retrieved 14 July 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-07-14",
+                                "Created": "2020-07-07"
+                            }
+                        }
+                    ],
+                    "start_date": "07/07/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Turkish President Recep Tayyip Erdogan annuls the Hagia Sophia's museum status, converting the site back into a mosque.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-europe-53366307",
+                            "text": "-\"Turkey turns iconic Istanbul museum into mosque\". BBC News. 2020-07-10. Retrieved 2020-07-13.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-07-13",
+                                "Created": "2020-07-10"
+                            }
+                        }
+                    ],
+                    "start_date": "10/07/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "August",
+            "Data": [
+                {
+                    "event_text": "Turkey has found 320 billion cubic meters of natural gas in the biggest ever discovery in the Black Sea, and hopes to begin production by 2023. The Turkish drilling ship Fatih, had been carrying out exploration operations in the Tuna-1 sector in the western Black Sea for the past month.",
+                    "links": [
+                        {
+                            "link": "https://www.euronews.com/2020/08/21/turkey-s-erdogan-announces-discovery-of-large-natural-gas-reserve-off-its-black-sea-coast",
+                            "text": "-Fielder, Jez (21 August 2020). \"Turkey's Erdogan announces discovery of large natural gas reserve off its Black Sea coast\". Euronews. Retrieved 22 August 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-08-22",
+                                "Created": "2020-08-21"
+                            }
+                        }
+                    ],
+                    "start_date": "21/08/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "President Recep Tayyip Erdoğan signed the decision to transfer the administration of the Chora Church to the Directorate of Religious Affairs and to open it for worship as a mosque, and the decision was published in the T.C. Resmî Gazete.",
+                    "links": [
+                        {
+                            "link": "https://web.archive.org/web/20200821084710/https://www.sozcu.com.tr/2020/gundem/son-dakika-istanbuldaki-kariye-camii-ibadete-aciliyor-5998871/",
+                            "text": "-\"Kariye Camii ibadete açılıyor\". Sözcü. Archived from the original on 21 August 2020.-",
+                            "dates": {
+                                "Archieved": "2020-08-21",
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://www.sozcu.com.tr/2020/gundem/son-dakika-istanbuldaki-kariye-camii-ibadete-aciliyor-5998871/",
+                            "text": "-\"Kariye Camii ibadete açılıyor\". Sözcü. Archived from the original on 21 August 2020.-",
+                            "dates": {
+                                "Archieved": "2020-08-21",
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "21/08/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Flood and landslide disaster occurred in Giresun Province and seven of its districts. 6 people died.",
+                    "links": [
+                        {
+                            "link": "https://www.sozcu.com.tr/2020/gundem/son-dakika-giresunda-yasanan-selde-sehit-sayisi-2ye-vefat-eden-kisi-sayisi-ise-6ye-yukseldi-6002841/",
+                            "text": "-\"Giresun'da yaşanan selde vefat eden kişi sayısı 6\". Sözcü. Retrieved 29 August 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-08-29",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "23/08/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Ahlat Mansion was opened during the 949th anniversary of Manzikert Victory.",
+                    "links": [
+                        {
+                            "link": "https://www.sabah.com.tr/video/haber/cumhurbaskani-erdogan-ahlatta-etkinliklere-katiliyor-kulliyeyi-bahceli-ile-birlikte-acacak-video",
+                            "text": "-\"Cumhurbaşkanı Erdoğan, külliyeyi Bahçeli ile birlikte açacak\". Sabah. Retrieved 29 August 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-08-29",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "25/08/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "September",
+            "Data": [
+                {
+                    "event_text": "Otoyol 21, connecting Ankara and Tarsus, was put into service.",
+                    "links": [
+                        {
+                            "link": "https://www.milliyet.com.tr/ekonomi/ankara-nigde-otoyolu-aciliyor-2-saate-dusecek-6296720",
+                            "text": "-\"Ankara-Niğde otoyolu açıldı\".-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "03/09/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Turkey's first flying car introduced as Cezeri, took off in Teknofest Gaziantep.",
+                    "links": [
+                        {
+                            "link": "https://web.archive.org/web/20200919181613/https://www.baykarsavunma.com/haber-TURKIYENIN-ILK-UCAN-ARABASI-CEZERI-HAVALANDI.html",
+                            "text": "-\"Türkiye'nin ilk uçan arabası Cezeri, havalandı\". Archived from the original on 2020-09-19. Retrieved 2020-10-26.-",
+                            "dates": {
+                                "Archieved": "2020-09-19",
+                                "Retrieved": "2020-10-26",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://www.baykarsavunma.com/haber-TURKIYENIN-ILK-UCAN-ARABASI-CEZERI-HAVALANDI.html",
+                            "text": "-\"Türkiye'nin ilk uçan arabası Cezeri, havalandı\". Archived from the original on 2020-09-19. Retrieved 2020-10-26.-",
+                            "dates": {
+                                "Archieved": "2020-09-19",
+                                "Retrieved": "2020-10-26",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "17/09/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "In-person education following the COVID-19 pandemic started gradually, covering first grade and pre-school students.",
+                    "links": [
+                        {
+                            "link": "https://www.cnnturk.com/amp/turkiye/son-dakika-meb-21-eylul-okullar-acilacak-mi-21-eylulde-okullar-nasil-olacak-hangi-siniflar-aciliyor",
+                            "text": "-\"21 Eylül'de okullar açılıyor\". CNN Türk.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "21/09/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "An earthquake of 4.2 magnitude occurred off Tekirdağ and Marmaraereğlisi.",
+                    "links": [
+                        {
+                            "link": "https://m.haberturk.com/son-dakika-istanbul-da-deprem-24-eylul-kandilli-rasathanesi-ve-afad-son-depremler-2813994-amp",
+                            "text": "-\"24 Eylül Tekirdağ deprem\".-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "24/09/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Turkish President Recep Tayyip Erdoğan announced that Turkey would support Azerbaijan during the 2020 Nagorno-Karabakh conflict.",
+                    "links": [
+                        {
+                            "link": "https://m.bloomberght.com/erdogan-turk-milleti-her-zaman-oldugu-gibi-azerbaycanli-kardeslerinin-yanindadir-2265289",
+                            "text": "-\"Türk Milleti Her Zaman Azerbaycan'ın Yanındadır\". bloomberght. 27 September 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2020-09-27"
+                            }
+                        }
+                    ],
+                    "start_date": "27/09/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "October",
+            "Data": [
+                {
+                    "event_text": "Forest fires that started in Belen, Hatay, spread to other districts. 400 hectares of forest burned.",
+                    "links": [
+                        {
+                            "link": "https://www.dw.com/tr/hataydaki-yang%C4%B1nla-ilgili-g%C3%B6zalt%C4%B1lar/a-55233413",
+                            "text": "-\"Hatay'da orman yangınları\". Deutsch Welle.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "11/10/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "In-person education was enforced for students in the 2nd, 3rd, 4th, 8th and 12th grades.",
+                    "links": [
+                        {
+                            "link": "https://www.sozcu.com.tr/2020/gundem/12-ekimde-hangi-siniflar-acilacak-9-10-ve-11-siniflar-da-okula-gidecek-mi-6076080/",
+                            "text": "-\"12 Ekim'de açılan sınıflar\". Sözcü.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "12/10/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Erdoğan announced that 85 billion cubic meters of natural gas was discovered in the Black Sea.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/turkce/haberler-turkiye-54585247",
+                            "text": "-\"Karadeniz'de bulunan doğal gaz rezervi 405 milyar metreküpe yükseldi\". BBC News Türkçe.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "17/10/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A suicide bombing perpetrated by the PKK occurred on Fener Street in İskenderun, injuring several people and killing the perpetrator.",
+                    "links": [
+                        {
+                            "link": "https://web.archive.org/web/20201026184903/https://www.aa.com.tr/en/turkey/explosion-hits-iskenderun-town-in-southern-turkey/2019979",
+                            "text": "-Karagoz, Lale Koklu; Milli, Burak (October 26, 2020). \"Explosion hits Iskenderun town in southern Turkey\". Anadolu Agency. Archived from the original on October 26, 2020.-",
+                            "dates": {
+                                "Archieved": "2020-10-26",
+                                "Retrieved": null,
+                                "Created": "2020-10-26"
+                            }
+                        },
+                        {
+                            "link": "https://www.aa.com.tr/en/turkey/explosion-hits-iskenderun-town-in-southern-turkey/2019979",
+                            "text": "-Karagoz, Lale Koklu; Milli, Burak (October 26, 2020). \"Explosion hits Iskenderun town in southern Turkey\". Anadolu Agency. Archived from the original on October 26, 2020.-",
+                            "dates": {
+                                "Archieved": "2020-10-26",
+                                "Retrieved": null,
+                                "Created": "2020-10-26"
+                            }
+                        }
+                    ],
+                    "start_date": "26/10/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The 2020 Aegean Sea earthquake with an epicenter close to the Gulf of Kuşadası caused building damages and tsunami on the Turkish west coast. More than 110 people were killed and over 1100 were injured.",
+                    "links": [
+                        {
+                            "link": "https://www.haberturk.com/izmir-deprem-son-dakika-izmir-de-6-6-buyuklugunde-deprem-2853597",
+                            "text": "-\"İzmir'de deprem\". Habertürk. 2 November 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2020-11-02"
+                            }
+                        }
+                    ],
+                    "start_date": "30/10/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "November",
+            "Data": [
+                {
+                    "event_text": "In person education started gradually for students, including 5th and 12th grades.",
+                    "links": [
+                        {
+                            "link": "https://web.archive.org/web/20201113082456/https://www.cnnturk.com/turkiye/son-dakika-haberi-ortaokul-5-lise-9-sinif-okullar-ne-zaman-aciliyor-2-kasim-hangi-siniflar-aciliyor",
+                            "text": "-\"Ortaokul 5 ve lise 9. sınıflar açıldı\". Archived from the original on 13 November 2020.-",
+                            "dates": {
+                                "Archieved": "2020-11-13",
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://www.cnnturk.com/turkiye/son-dakika-haberi-ortaokul-5-lise-9-sinif-okullar-ne-zaman-aciliyor-2-kasim-hangi-siniflar-aciliyor",
+                            "text": "-\"Ortaokul 5 ve lise 9. sınıflar açıldı\". Archived from the original on 13 November 2020.-",
+                            "dates": {
+                                "Archieved": "2020-11-13",
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "02/11/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "With the circular issued by the Ministry of Interior, new measures were announced to combat the COVID-19 pandemic.",
+                    "links": [
+                        {
+                            "link": "https://www.sabah.com.tr/gundem/2020/11/05/son-dakika-haberi-icisleri-bakanligindan-81-ile-yeni-corona-virus-genelgesi-gonderildi-iste-yeni-corona-tedbirleri-nikah-ve-dugun-saatleri",
+                            "text": "-\"81 ile yeni koronavirüs tedbirleri\".-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "05/11/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Treasury and Finance Minister Berat Albayrak's request for resignation was accepted by President Recep Tayyip Erdoğan and Lütfi Elvan was appointed as the new Minister of Treasury and Finance.",
+                    "links": [
+                        {
+                            "link": "https://www.trthaber.com/m/?news=hazine-ve-maliye-bakanligi-gorevine-lutfi-elvan-atandi&news_id=529579&category_id=7",
+                            "text": "-\"Hazine ve Maliye Bakanlığı görevine Lütfi Elvan atandı\". TRT Haber.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "09/11/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Turkish Grand Prix was held for the first time after nine years.",
+                    "links": [
+                        {
+                            "link": "https://web.archive.org/web/20201115153517/https://www.aa.com.tr/tr/dunyadan-spor/lewis-hamilton-turkiye-grand-prixsinde-7-sampiyonlugunu-ilan-etti/2044340",
+                            "text": "-\"Türkiye Grand Prix'inde Lewis Hamilton şampiyon oldu\". Anadolu Ajansı. Archived from the original on 15 November 2020.-",
+                            "dates": {
+                                "Archieved": "2020-11-15",
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://www.aa.com.tr/tr/dunyadan-spor/lewis-hamilton-turkiye-grand-prixsinde-7-sampiyonlugunu-ilan-etti/2044340",
+                            "text": "-\"Türkiye Grand Prix'inde Lewis Hamilton şampiyon oldu\". Anadolu Ajansı. Archived from the original on 15 November 2020.-",
+                            "dates": {
+                                "Archieved": "2020-11-15",
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "15/11/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "With the circular issued by the Ministry of Internal Affairs, curfews and many new measures were introduced to be enforced on weekends, excluding activities occurring between 1000 am  08:00 pm.",
+                    "links": [],
+                    "start_date": "18/11/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "December",
+            "Data": [
+                {
+                    "event_text": "The ministry of health announced the total number of coronavirus cases in Turkey as 1,748,567.",
+                    "links": [
+                        {
+                            "link": "https://halktv.com.tr/bakan-kocanin-yarin-aciklanacak-dedi-toplam-vaka-sayisi-aciklanmadi-441595",
+                            "text": "-\"Toplam vaka sayısı açıklandı\".-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "10/12/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The United States Department of the Treasury issued sanctions against the Presidency of Defense Industries.",
+                    "links": [
+                        {
+                            "link": "https://web.archive.org/web/20201214190533/https://www.aa.com.tr/tr/dunya/abdden-turkiyeye-s-400-yaptirim-karari-/2076666",
+                            "text": "-\"ABD'den Türkiye'ye S-400 yaptırımı kararı\". Anadolu Ajansı. Archived from the original on 14 December 2020.-",
+                            "dates": {
+                                "Archieved": "2020-12-14",
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://www.aa.com.tr/tr/dunya/abdden-turkiyeye-s-400-yaptirim-karari-/2076666",
+                            "text": "-\"ABD'den Türkiye'ye S-400 yaptırımı kararı\". Anadolu Ajansı. Archived from the original on 14 December 2020.-",
+                            "dates": {
+                                "Archieved": "2020-12-14",
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "14/12/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "3 million units of CoronaVac were delivered to Turkey.",
+                    "links": [
+                        {
+                            "link": "https://www.haberturk.com/son-dakika-cin-asisi-turkiye-de-2920441",
+                            "text": "-\"Çin Aşısı Türkiye'de\". HaberTürk. 30 December 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2020-12-30"
+                            }
+                        }
+                    ],
+                    "start_date": "30/12/2020",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

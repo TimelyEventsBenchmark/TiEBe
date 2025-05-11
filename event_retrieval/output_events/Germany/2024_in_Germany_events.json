@@ -1,0 +1,2170 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "5 January  Four people are killed and others are injured during a fire at a hospital in Uelzen.",
+                    "links": [],
+                    "start_date": "05/01/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "8 January  Farmers block highway access roads in parts of Germany, launching a week of protests against a government plan to remove tax breaks on diesel used in agriculture.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/germany-hospital-fire-uelzen-98980d17291761080fb9215fb400df4b",
+                            "text": "-\"4 patients die after a fire breaks out at a hospital in northern Germany\". AP News. 5 January 2024. Retrieved 5 January 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-01-05",
+                                "Created": "2024-01-05"
+                            }
+                        }
+                    ],
+                    "start_date": "08/01/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "10 January  Protests are held across Germany calling for a ban of Alternative for Germany in the wake of the Meeting of right-wing extremists at Potsdam in 2023.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-europe-67911739",
+                            "text": "-\"German farmers blockade Berlin with tractors in subsidy row\". 8 January 2024. Retrieved 9 January 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-01-09",
+                                "Created": "2024-01-08"
+                            }
+                        },
+                        {
+                            "link": "https://www.aljazeera.com/news/2024/1/20/tens-of-thousands-protest-in-germany-against-far-right-party",
+                            "text": "-\"Tens of thousands protest in Germany against the far-right\". Al Jazeera. 20 January 2024. Archived from the original on 20 January 2024. Retrieved 21 January 2024.-",
+                            "dates": {
+                                "Archieved": "2024-01-20",
+                                "Retrieved": "2024-01-21",
+                                "Created": "2024-01-20"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20240120183504/https://www.aljazeera.com/news/2024/1/20/tens-of-thousands-protest-in-germany-against-far-right-party",
+                            "text": "-\"Tens of thousands protest in Germany against the far-right\". Al Jazeera. 20 January 2024. Archived from the original on 20 January 2024. Retrieved 21 January 2024.-",
+                            "dates": {
+                                "Archieved": "2024-01-20",
+                                "Retrieved": "2024-01-21",
+                                "Created": "2024-01-20"
+                            }
+                        }
+                    ],
+                    "start_date": "10/01/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "10 to 28 January  2024 European Men's Handball Championship",
+                    "links": [
+                        {
+                            "link": "https://www.cnn.com/2024/01/20/europe/germany-protests-far-right-afd-migrant-deportation-plan-intl/index.html",
+                            "text": "-Tanno, Sophie (20 January 2024). \"Germany's far-right AfD face mounting protests over plan to deport migrants\". CNN. Archived from the original on 20 January 2024. Retrieved 21 January 2024.-",
+                            "dates": {
+                                "Archieved": "2024-01-20",
+                                "Retrieved": "2024-01-21",
+                                "Created": "2024-01-20"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20240120192349/https://www.cnn.com/2024/01/20/europe/germany-protests-far-right-afd-migrant-deportation-plan-intl/index.html",
+                            "text": "-Tanno, Sophie (20 January 2024). \"Germany's far-right AfD face mounting protests over plan to deport migrants\". CNN. Archived from the original on 20 January 2024. Retrieved 21 January 2024.-",
+                            "dates": {
+                                "Archieved": "2024-01-20",
+                                "Retrieved": "2024-01-21",
+                                "Created": "2024-01-20"
+                            }
+                        }
+                    ],
+                    "start_date": "28/01/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Federal Constitutional Court rules that the far-right minor party Die Heimat (The Homeland), formerly the National Democratic Party of Germany (NPD), should not get state funding.",
+                    "links": [
+                        {
+                            "link": "https://ehfeuro.eurohandball.com/men/2024/news/en/enjoy-more-than-handball-at-men-s-ehf-euro-2024-in-berlin/",
+                            "text": "-\"Enjoy More Than Handball at Men's EHF Euro 2024 in Berlin\". European Handball Federation. 2 November 2023. Retrieved 6 November 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-11-06",
+                                "Created": "2023-11-02"
+                            }
+                        },
+                        {
+                            "link": "https://www.dw.com/en/top-german-court-strips-financing-of-extreme-right-party/a-68060445",
+                            "text": "-\"Top German court strips financing of extreme-right party\". Deutsche Welle.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://www.aljazeera.com/news/2024/1/23/german-court-cuts-funding-to-radical-far-right-party",
+                            "text": "-\"German court cuts funding to hardline far-right party\".-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://www.theguardian.com/world/2024/jan/23/german-court-ruling-sparks-calls-to-stop-state-funding-for-far-right-afd",
+                            "text": "-Connolly, Kate (23 January 2024). \"German court ruling sparks calls to stop state funding for far-right AfD\". The Guardian.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-01-23"
+                            }
+                        }
+                    ],
+                    "start_date": "23/01/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Germany announces that it will donate six SH-3 Sea King helicopters to the Ukrainian Air Force to help it patrol the Black Sea.",
+                    "links": [
+                        {
+                            "link": "https://www.politico.eu/article/germany-afd-protest-top-court-bans-state-funding-for-right-wing-extremist-party/",
+                            "text": "-\"German court bans funding for extreme-right party, fueling debate on AfD\". 23 January 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-01-23"
+                            }
+                        }
+                    ],
+                    "start_date": "23/01/2024",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "2 February  In the Bundestag, left wing MPs reorganise into the new BSW group and The Left group.",
+                    "links": [
+                        {
+                            "link": "https://www.newsweek.com/ukraine-sea-king-helicopter-russia-black-sea-germany-military-aid-1863454",
+                            "text": "-Security, Ellie Cook; Reporter, Defense (24 January 2024). \"Ukraine gets helicopter boost in battle against Russia's Black Sea fleet\". Newsweek. Retrieved 24 January 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-01-24",
+                                "Created": "2024-01-24"
+                            }
+                        }
+                    ],
+                    "start_date": "02/02/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "8 to 11 February  2024 Women's EuroHockey Indoor Championship in Berlin",
+                    "links": [
+                        {
+                            "link": "https://www.mitmischen.de/parlament/innenpolitik/gruppenstatus-fuer-die-linke-und-bsw",
+                            "text": "-\"Die Linke und BSW vom Plenum als Gruppen anerkannt\". mitmischen.de (in German). 5 February 2024. Retrieved 21 November 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-11-21",
+                                "Created": "2024-02-05"
+                            }
+                        }
+                    ],
+                    "start_date": "11/02/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "14 February - Following protests and blockades by farmers, Alliance 90/The Greens cancels their annual event for Ash Wednesday due to security concerns.",
+                    "links": [
+                        {
+                            "link": "https://eurohockey.org/venues-for-2024-confirmed",
+                            "text": "-\"EuroHockey Indoor Championship venues for 2024 confirmed – Updated\". EuroHockey. European Hockey Federation. 4 October 2023. Retrieved 6 November 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-11-06",
+                                "Created": "2023-10-04"
+                            }
+                        }
+                    ],
+                    "start_date": "14/02/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "23 February  The Bundestag legalises recreational usage of cannabis for adults, making Germany the third European country to do so after Luxembourg and Malta.",
+                    "links": [
+                        {
+                            "link": "https://www.tagesschau.de/inland/gruene-aschermittwoch-biberach-abgesagt-100.html",
+                            "text": "-\"Wegen Blockaden von Landwirten: Grüne müssen Politischen Aschermittwoch absagen\". Tagesschau. 14 February 2024. Retrieved 9 July 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-07-09",
+                                "Created": "2024-02-14"
+                            }
+                        }
+                    ],
+                    "start_date": "23/02/2024",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "1 March  A soldier kills four people during a spree shooting in Scheeßel and Bothel in Lower Saxony before being detained.",
+                    "links": [
+                        {
+                            "link": "https://www.cnn.com/2024/02/23/europe/germany-cannabis-legal-parliament-intl/index.html",
+                            "text": "-Schmidt, Nadine (23 February 2024). \"Germany legalizes recreational cannabis use\". CNN. Retrieved 23 February 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-02-23",
+                                "Created": "2024-02-23"
+                            }
+                        }
+                    ],
+                    "start_date": "01/03/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Four people are killed and 21 others are injured in a fire at a nursing home in Bedburg-Hau, North Rhine-Westphalia.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/germany-shooting-soldier-suspect-bd86b32ed349291cd37517cbb8c15b57",
+                            "text": "-\"A soldier turns himself in shortly after 4 people are killed in shootings in Germany\". AP News. 1 March 2024. Retrieved 1 March 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-03-01",
+                                "Created": "2024-03-01"
+                            }
+                        }
+                    ],
+                    "start_date": "04/03/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "German police surround Luisenhospital in Aachen after an armed woman barricades herself inside a room. The woman is later arrested.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/germany-nursing-home-fire-deaths-01f5da7db6fc8a835f1e667d23faa197",
+                            "text": "-\"4 people are dead and at least 21 injured in a nursing home fire in western Germany\". AP News. 4 March 2024. Retrieved 4 March 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-03-04",
+                                "Created": "2024-03-04"
+                            }
+                        }
+                    ],
+                    "start_date": "04/03/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "19 March  Austrian far-right political activist, and leader of the Identitarian Movement of Austria Martin Sellner is banned from entering Germany for three years.",
+                    "links": [
+                        {
+                            "link": "https://www.express.co.uk/news/world/1873587/aachen-siege-live-hostages-taken-germany",
+                            "text": "-Scarsi, Alice; Chessum, Victoria (4 March 2024). \"'Hostage' incident at German hospital sparks major evacuation\". Express.co.uk. Retrieved 4 March 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-03-04",
+                                "Created": "2024-03-04"
+                            }
+                        },
+                        {
+                            "link": "https://www.dw.com/en/martin-sellner-far-right-austrian-banned-from-germany/a-68616710",
+                            "text": "-\"Martin Sellner: Far-right Austrian banned from Germany\". DW. 19 March 2024. Retrieved 19 March 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-03-19",
+                                "Created": "2024-03-19"
+                            }
+                        }
+                    ],
+                    "start_date": "19/03/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "22 March  The Bundesrat approves a partial legalization of cannabis in Germany, set to come into effect on 1 April.",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/world/2024/mar/19/far-right-austrian-nationalist-banned-from-germany-after-addressing-neo-nazi-meeting",
+                            "text": "-Henley, Jon (19 March 2024). \"Far-right Austrian nationalist banned from Germany after neo-Nazi meeting\". The Guardian. Retrieved 19 March 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-03-19",
+                                "Created": "2024-03-19"
+                            }
+                        }
+                    ],
+                    "start_date": "22/03/2024",
+                    "end_date": "01/04/2024"
+                },
+                {
+                    "event_text": "27 March  At least five people are killed and 20 more injured after a double-decker FlixBus overturns and falls near Leipzig.",
+                    "links": [
+                        {
+                            "link": "https://www.dw.com/en/germany-approves-partial-legalization-of-cannabis-from-april/a-68641043",
+                            "text": "-\"Germany approves partial legalization of cannabis from April\". dw.com. Retrieved 22 March 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-03-22",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "27/03/2024",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "14 April  In association football, Bayer 04 Leverkusen win their first Bundesliga title.",
+                    "links": [
+                        {
+                            "link": "https://nos.nl/artikel/2514397-doden-en-gewonden-bij-ongeluk-flixbus-bij-leipzig",
+                            "text": "-\"Doden en gewonden bij ongeluk Flixbus bij Leipzig\". nos.nl (in Dutch). 27 March 2024. Retrieved 27 March 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-03-27",
+                                "Created": "2024-03-27"
+                            }
+                        }
+                    ],
+                    "start_date": "14/04/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "18 April  Two German-Russian nationals are arrested for an alleged military sabotage plot on behalf of Russia in an effort to undermine military support for Ukraine.",
+                    "links": [
+                        {
+                            "link": "https://abcnews.go.com/Sports/wireStory/bayer-leverkusen-wins-bundesliga-title-ending-bayern-munichs-109220381",
+                            "text": "-\"Bayer Leverkusen wins first Bundesliga title, ending Bayern Munich's 11-year reign\". ABC News. Retrieved 14 April 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-04-14",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "18/04/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "27 April  More than 1,000 Islamists protest in Hamburg for a Caliphate and Sharia law in Germany.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/europe/germany-arrests-two-alleged-military-sabotage-plot-behalf-russia-2024-04-18/",
+                            "text": "-\"Germany arrests two for alleged military sabotage plot on behalf of Russia\". Reuters. 18 April 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-04-18"
+                            }
+                        },
+                        {
+                            "link": "https://www.politico.eu/article/germany-olaf-scholz-calls-consequences-following-islamist-rally/",
+                            "text": "-\"Germany's Scholz calls for 'consequences' following Islamist rally\". 29 April 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-04-29"
+                            }
+                        },
+                        {
+                            "link": "https://www.euronews.com/my-europe/2024/04/30/german-chancellor-scholz-says-islamist-rally-will-be-met-with-consequences",
+                            "text": "-\"German chancellor says Islamist rally will be met with 'consequences'\". 30 April 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-04-30"
+                            }
+                        }
+                    ],
+                    "start_date": "27/04/2024",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "May",
+            "Data": [
+                {
+                    "event_text": "4 May  Member of the European Parliament Matthias Ecke is \"seriously injured\" following what is suspected to be a politically motivated attack in Dresden.",
+                    "links": [
+                        {
+                            "link": "https://www.jpost.com/international/article-798989",
+                            "text": "-\"Islamist group slams democratic values, rallies thousands in Germany\". 28 April 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-04-28"
+                            }
+                        }
+                    ],
+                    "start_date": "04/05/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "7 May  Deputy mayor of Berlin Franziska Giffey is injured after being bludgeoned with a bag containing a heavy item.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/europe/germany-denounces-rising-political-violence-after-mep-seriously-hurt-2024-05-04/",
+                            "text": "-\"Germany denounces rising political violence after MEP seriously hurt\". Reuters. 4 May 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-05-04"
+                            }
+                        }
+                    ],
+                    "start_date": "07/05/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "10 May  800 protesters storm the Tesla plant in Grünheide in protest of the company's expansion's impact on the environment.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/germany-election-violence-eu-4d09d90a6cc380aacf62ca4a69af1a64",
+                            "text": "-Grieshaber, Kirsten (8 May 2024). \"Another German politician is attacked as concerns rise over violence ahead of EU elections in June\". Associated Press. Retrieved 6 June 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-06-06",
+                                "Created": "2024-05-08"
+                            }
+                        }
+                    ],
+                    "start_date": "10/05/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "13 May  A high court in Münster upholds the designation and surveillance of the Alternative for Germany (AfD) as a \"suspected\" far-right extremist organization.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/europe/protesters-attempt-storm-tesla-german-plant-clash-with-police-2024-05-10/",
+                            "text": "-\"Protesters attempt to storm Tesla German plant, clash with police\". Reuters. 10 May 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-05-10"
+                            }
+                        }
+                    ],
+                    "start_date": "13/05/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "14 May  Björn Höcke, the leader of the AfD in Thuringia is fined by a court for using the Nazi slogan \"Everything for Germany\".",
+                    "links": [
+                        {
+                            "link": "https://www.dw.com/en/german-court-upholds-afd-suspected-extremist-status/a-69060959",
+                            "text": "-\"German court upholds AfD 'suspected' extremist status\". DW. 13 May 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-05-13"
+                            }
+                        },
+                        {
+                            "link": "https://www.politico.eu/article/german-far-right-leader-found-guilty-of-using-banned-nazi-slogan-bjorn-hocke-afd-alternative-for-germany-thuringia/",
+                            "text": "-\"German far-right leader intentionally used banned Nazi slogan, court rules\". 14 May 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-05-14"
+                            }
+                        },
+                        {
+                            "link": "https://www.bbc.com/news/world-europe-69012813",
+                            "text": "-\"German far-right politician Björn Höcke guilty of using Nazi slogan\". 14 May 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-05-14"
+                            }
+                        }
+                    ],
+                    "start_date": "14/05/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "16 May  Three people are killed in a fire at a residential building in Düsseldorf.",
+                    "links": [
+                        {
+                            "link": "https://www.aljazeera.com/news/2024/5/14/court-convicts-german-far-right-figure-bjorn-hocke-for-using-nazi-slogan",
+                            "text": "-\"German court fines far-right figure Bjorn Hocke for using Nazi slogan\".-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "16/05/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The trial for members of the Reichsbürger movement involved in the 2022 German coup d'état plot begins in Frankfurt.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/germany-fire-duesseldorf-3f1c13a430919ca469ae4287bd7fe2ec",
+                            "text": "-\"Fire at a residential building in Germany leaves 3 people dead and 2 with grave injuries\". Associated Press. 16 May 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-05-16"
+                            }
+                        }
+                    ],
+                    "start_date": "21/05/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Jenny Erpenbeck wins the International Booker Prize for her novel Kairos, translated from the German by Michael Hofmann.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/articles/c6pp5g7n866o",
+                            "text": "-\"'Slightly crazy' German group on trial for coup plot\". BBC. 21 May 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-05-21"
+                            }
+                        }
+                    ],
+                    "start_date": "21/05/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "22 May  The AfD bans Maximilian Krah, its leading candidate in the European parliament elections, from further activities due to his comments defending members of the Schutzstaffel.",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/books/article/2024/may/21/jenny-erpenbeck-michael-hofmann-win-2024-international-booker-prize-kairos",
+                            "text": "-Creamer, Ella (21 May 2024). \"Kairos by Jenny Erpenbeck wins International Booker prize\". The Guardian. ISSN 0261-3077. Retrieved 21 May 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-05-21",
+                                "Created": "2024-05-21"
+                            }
+                        },
+                        {
+                            "link": "https://search.worldcat.org/issn/0261-3077",
+                            "text": "-Creamer, Ella (21 May 2024). \"Kairos by Jenny Erpenbeck wins International Booker prize\". The Guardian. ISSN 0261-3077. Retrieved 21 May 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-05-21",
+                                "Created": "2024-05-21"
+                            }
+                        }
+                    ],
+                    "start_date": "22/05/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "23 May  The AfD is expelled from the Identity and Democracy grouping in the European Parliament in response to Maximilian Krah's comments on the Schutzstaffel.",
+                    "links": [
+                        {
+                            "link": "https://www.aljazeera.com/news/2024/5/22/germanys-afd-bans-top-candidate-from-eu-poll-events-over-nazi-comments",
+                            "text": "-\"Germany's AfD bans top candidate from EU poll events over Nazi comments\". Al Jazeera. Retrieved 22 May 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-05-22",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "23/05/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "23 May  Two people are arrested on suspicion of plotting a knife attack on a synagogue in Heidelberg.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/europe-germany-farright-maximilan-krah-aff50d1657ef6a079ba88a2e83db1fc4",
+                            "text": "-\"Far-right grouping in European Parliament expels high-flying Alternative for Germany party\". Associated Press. 23 May 2024. Retrieved 23 May 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-05-23",
+                                "Created": "2024-05-23"
+                            }
+                        }
+                    ],
+                    "start_date": "23/05/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "27 May  A court in Düsseldorf convicts and sentences a Bundeswehr captain to 3.5 years imprisonment for spying for Russia.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/germany-men-arrested-synagogue-attack-heidelberg-961895120bb1b4b5e8263e6a95d46829",
+                            "text": "-\"German authorities arrest 2 men suspected of plotting a knife attack at a synagogue\". Associated Press. 24 May 2024. Retrieved 24 May 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-05-24",
+                                "Created": "2024-05-24"
+                            }
+                        }
+                    ],
+                    "start_date": "27/05/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "31 May  2024 Mannheim stabbing A police officer is killed while five people, including far-right activist Michael Stürzenberger, are injured in a knife attack in Mannheim. The suspected attacker, identified as a 25-year-old Afghan refugee named Sulaiman A., is shot and injured by police.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/germany-russia-spying-military-officer-305ee23eb4677f3215c9e3560945a0d9",
+                            "text": "-\"German military officer convicted of spying for Russia, sentenced to 3 1/2 years in prison\". Associated Press. 27 May 2024. Retrieved 27 May 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-05-27",
+                                "Created": "2024-05-27"
+                            }
+                        },
+                        {
+                            "link": "https://apnews.com/article/germany-mannheim-stabbing-police-officer-death-a66c14970a53464aff0c1c77a7196481",
+                            "text": "-\"German police officer dies of wounds suffered in knife attack\". Associated Press. 2 June 2024. Retrieved 3 June 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-06-03",
+                                "Created": "2024-06-02"
+                            }
+                        },
+                        {
+                            "link": "https://www.bbc.com/news/articles/ckmm4lgm0l4o",
+                            "text": "-\"German anti-Islam activist injured in knife attack\". BBC. 31 May 2024. Retrieved 31 May 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-05-31",
+                                "Created": "2024-05-31"
+                            }
+                        }
+                    ],
+                    "start_date": "31/05/2024",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "June",
+            "Data": [
+                {
+                    "event_text": "15 June  At least six people are killed during floods in Bavaria and Baden-Württemberg.",
+                    "links": [
+                        {
+                            "link": "https://www.spiegel.de/panorama/justiz/mannheim-ermittler-halten-islamistisches-motiv-fuer-wahrscheinlich-a-025a18eb-e1a5-4313-8f19-bed4538f2d52",
+                            "text": "-\"Ermittler halten islamistisches Motiv für wahrscheinlich\" [Investigators believe Islamist motive is likely]. Der Spiegel (in German). 31 May 2024. ISSN 2195-1349. Archived from the original on 31 May 2024. Retrieved 31 May 2024.-",
+                            "dates": {
+                                "Archieved": "2024-05-31",
+                                "Retrieved": "2024-05-31",
+                                "Created": "2024-05-31"
+                            }
+                        },
+                        {
+                            "link": "https://search.worldcat.org/issn/2195-1349",
+                            "text": "-\"Ermittler halten islamistisches Motiv für wahrscheinlich\" [Investigators believe Islamist motive is likely]. Der Spiegel (in German). 31 May 2024. ISSN 2195-1349. Archived from the original on 31 May 2024. Retrieved 31 May 2024.-",
+                            "dates": {
+                                "Archieved": "2024-05-31",
+                                "Retrieved": "2024-05-31",
+                                "Created": "2024-05-31"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20240531172053/https://www.spiegel.de/panorama/justiz/mannheim-ermittler-halten-islamistisches-motiv-fuer-wahrscheinlich-a-025a18eb-e1a5-4313-8f19-bed4538f2d52",
+                            "text": "-\"Ermittler halten islamistisches Motiv für wahrscheinlich\" [Investigators believe Islamist motive is likely]. Der Spiegel (in German). 31 May 2024. ISSN 2195-1349. Archived from the original on 31 May 2024. Retrieved 31 May 2024.-",
+                            "dates": {
+                                "Archieved": "2024-05-31",
+                                "Retrieved": "2024-05-31",
+                                "Created": "2024-05-31"
+                            }
+                        },
+                        {
+                            "link": "https://www.bbc.com/news/articles/c9wwdzwj93mo",
+                            "text": "-\"Germany's deadly floods spread along Danube\". BBC. Retrieved 3 June 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-06-03",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "05/06/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "1 June  A long-distance train carrying 185 passengers derails after the ground under a section of railway gives way near Schwäbisch Gmünd, Baden-Württemberg. No injuries are reported.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/germany-flooding-victims-bavaria-f945b8f07838e717032a5a5f7d4a2e55",
+                            "text": "-\"Death toll from floods across southern Germany rises to 6\". Associated Press. 5 June 2024. Retrieved 6 June 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-06-06",
+                                "Created": "2024-06-05"
+                            }
+                        }
+                    ],
+                    "start_date": "01/06/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "4 June  An AfD candidate for state elections in Baden-Württemberg is injured in a stabbing attack in Mannheim.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/germany-flooding-bavaria-fa24d1e1539154aef59de12de64f42e4",
+                            "text": "-\"A firefighter dies and a long-distance train derails amid heavy rains and flooding in Germany\". Associated Press. 2 June 2024. Retrieved 2 June 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-06-02",
+                                "Created": "2024-06-02"
+                            }
+                        }
+                    ],
+                    "start_date": "04/06/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "6 June  A group of protesters on their way to an antifascist demonstration are attacked by a group of 15-20 alleged neo-Nazis at Berlin Ostkreuz. Two people are hospitalised due to head injuries.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/germany-stabbing-afd-candidate-f47351d3a3d092c61ebe51206d425eea",
+                            "text": "-\"A member of a German far-right party stabbed and wounded in another attack on a politician\". Associated Press. 5 June 2024. Retrieved 5 June 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-06-05",
+                                "Created": "2024-06-05"
+                            }
+                        },
+                        {
+                            "link": "https://taz.de/Neonazi-Attacke-auf-Antifas/!6019369/",
+                            "text": "-Peter, Erik (8 July 2024). \"Neonazi-Attacke auf Antifas: Weg der Gewalt\". taz. Retrieved 9 July 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-07-09",
+                                "Created": "2024-07-08"
+                            }
+                        }
+                    ],
+                    "start_date": "06/06/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "2024 European Parliament election in Germany Conservative parties retain their plurality in the German contingent of the European Parliament. The AfD prevails in all five former East German states.",
+                    "links": [
+                        {
+                            "link": "https://www.morgenpost.de/berlin/article406754487/mutmasslicher-neonazi-angriff-mit-mehreren-verletzten.html",
+                            "text": "-Rothe, Alexander (8 July 2024). \"Mutmaßlicher Neonazi-Angriff mit mehreren Verletzten\". Berliner Morgenpost. Retrieved 9 July 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-07-09",
+                                "Created": "2024-07-08"
+                            }
+                        },
+                        {
+                            "link": "https://apnews.com/article/european-election-key-countries-parliament-ee8e32f69bb8842ad365f54a2491e8a5",
+                            "text": "-\"Here's what happened in some key countries in the EU Parliament elections\". Associated Press. 9 June 2024. Retrieved 10 June 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-06-10",
+                                "Created": "2024-06-09"
+                            }
+                        }
+                    ],
+                    "start_date": "09/06/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "2024 Hamburg borough elections",
+                    "links": [],
+                    "start_date": "09/06/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "One person is killed and three others are injured in a stabbing attack in Wolmirstedt, Saxony-Anhalt. The attacker is shot dead by police.",
+                    "links": [
+                        {
+                            "link": "https://www.dw.com/en/eu-elections-2024-afd-gains-ground-among-germanys-youth/video-69320840",
+                            "text": "-\"Far-right AfD strong in eastern Germany, among young voters\". Deutsche Welle. 10 June 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-06-10"
+                            }
+                        }
+                    ],
+                    "start_date": "14/06/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Germany vetoes a European Union sanction package that would prevent EU members from re-exporting Russian liquefied natural gas from EU ports and prevent EU companies from selling sanctioned products to Russia.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/germany-police-shot-afghan-man-wolmirstedt-657e090abaa251c345cbf4412225aa7a",
+                            "text": "-\"German police shoot to death an Afghan man who killed a compatriot, then attacked soccer fans\". Associated Press. 15 June 2024. Retrieved 15 June 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-06-15",
+                                "Created": "2024-06-15"
+                            }
+                        }
+                    ],
+                    "start_date": "14/06/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "16 June  One person is injured after being shot by police on suspicion of threatening them with a pickaxe and an incendiary device in Hamburg.",
+                    "links": [
+                        {
+                            "link": "https://kyivindependent.com/germany-blocks-sanctions-on-russian-gas/",
+                            "text": "-\"Germany blocks sanctions on Russian gas\". The Kyiv Independent. 14 June 2024. Retrieved 15 June 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-06-15",
+                                "Created": "2024-06-14"
+                            }
+                        }
+                    ],
+                    "start_date": "16/06/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "17 June  Authorities announce the largest seizure of cocaine in Germany following raids in Düsseldorf and Hamburg in 2023 that yield 60.5 metric tons of the substance valued at 2.6 billion euros ($2.78 billion).",
+                    "links": [
+                        {
+                            "link": "https://www.aljazeera.com/sports/2024/6/16/hamburg-police-fire-shots-at-axe-wielding-person-at-euro-2024-fan-parade",
+                            "text": "-\"Euro 2024: Hamburg police fire shots at axe-wielding person at fan parade\". Al Jazeera. Retrieved 16 June 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-06-16",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "17/06/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "19 June  An Iraqi national is arrested in Esslingen am Neckar on suspicion of plotting to carry out attacks for Islamic State.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/germany-cocaine-arrest-investigation-25dbc718f12ccdd52a5eb5c5b9e2408b",
+                            "text": "-\"German investigators seize cocaine worth 2.6 billion euros, calling it their biggest find ever\". Associated Press. 17 June 2024. Retrieved 18 June 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-06-18",
+                                "Created": "2024-06-17"
+                            }
+                        }
+                    ],
+                    "start_date": "19/06/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "23 June  A police officer is killed in a collision involving a car and a motorcycle escort of visiting Hungarian Prime Minister Viktor Orban in Stuttgart.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/germany-esslingen-islamic-state-extremist-arrest-dcc59f3cf9d21e391cfa94ea5326d1f0",
+                            "text": "-\"Germany arrests a man accused of standing by to carry out attacks for the Islamic State group\". Associated Press. 20 June 2024. Retrieved 20 June 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-06-20",
+                                "Created": "2024-06-20"
+                            }
+                        }
+                    ],
+                    "start_date": "23/06/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "24 June - The AFD announces a local coalition with neofascist party Die Heimat in Lauchhammer, Brandenburg.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/germany-hungary-orban-accident-police-officer-1ca3a68e860ea845ce09d665334298e0",
+                            "text": "-\"Police officer dies when driver collides with Hungarian leader's motorcade in Germany\". Associated Press. 24 June 2024. Retrieved 25 June 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-06-25",
+                                "Created": "2024-06-24"
+                            }
+                        }
+                    ],
+                    "start_date": "24/06/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "26 June  Government ministers agree on legislation to expedite deportation for individuals who post or \"like\" social media content that celebrates or promotes terrorist acts.",
+                    "links": [
+                        {
+                            "link": "https://www.spiegel.de/politik/deutschland/afd-gruendet-in-brandenburg-erste-fraktion-mit-die-heimat-ex-npd-a-f48d35cc-4113-4709-bc8c-081aae4de979",
+                            "text": "-Müller, Ann-Kathrin (24 June 2024). \"AfD gründet erste Fraktionen mit Neonazipartei\". Der Spiegel. Retrieved 9 July 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-07-09",
+                                "Created": "2024-06-24"
+                            }
+                        }
+                    ],
+                    "start_date": "26/06/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "28 June  The Higher Regional Court of Cologne convicts a 15-year old boy of plotting to attack a Christmas market in Leverkusen with Islamic extremist motivations and sentences him to four years' imprisonment.",
+                    "links": [
+                        {
+                            "link": "https://www.dw.com/en/german-cabinet-backs-deportations-for-praise-of-terrorism/a-69480819",
+                            "text": "-\"Germany's new law backs deportations for terrorism praise\". dw.com. Retrieved 27 June 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-06-27",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "28/06/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "28. June  23 year old antifascist activist Maja T. is ordered extradited to Hungary to face trial on charges of membership in a criminal organisation that wanted to attack right-wing extremist by a court in Berlin despite concerns over her safety as a genderqueer person in Hungary and despite an ongoing expedited procedure by the Federal Constitutional Court.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/germany-attack-plot-leverkusen-trial-b180b00aa651259a24d652dc604c1153",
+                            "text": "-\"German court convicts a 15-year-old of planning an extremist attack on a Christmas market\". Associated Press. 28 June 2024. Retrieved 28 June 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-06-28",
+                                "Created": "2024-06-28"
+                            }
+                        }
+                    ],
+                    "start_date": "28/06/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "29 June  Over 100,000 protesters and 1,000 police officers clash at an AfD party conference in Essen.",
+                    "links": [
+                        {
+                            "link": "https://www.tagesschau.de/inland/regional/berlin/rbb-fall-maja-t--generalstaatsanwaltschaft-verteidigt-auslieferung-von-mutmasslicher-linksextremistin-nach-ungarn-100.html",
+                            "text": "-\"Fall Maja T.: Generalstaatsanwaltschaft verteidigt Auslieferung von mutmaßlicher Linksextremistin nach Ungarn\". Tagesschau. 3 July 2024. Retrieved 9 July 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-07-09",
+                                "Created": "2024-07-03"
+                            }
+                        }
+                    ],
+                    "start_date": "29/06/2024",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "July",
+            "Data": [
+                {
+                    "event_text": "1 July  Björn Höcke, the leader of the AfD in Thuringia is fined by a court in Halle for again using the Nazi slogan \"Everything for Germany\". This is the second time fine on Höcke for the slogan.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/articles/cyx5yq7wy55o",
+                            "text": "-\"Germany: AfD conference in Essen triggers violent protest clashes\". BBC. 29 June 2024. Retrieved 30 June 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-06-30",
+                                "Created": "2024-06-29"
+                            }
+                        }
+                    ],
+                    "start_date": "01/07/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "3 July  Investigators in Germany and Sweden arrest eight suspects allied with Syrian President Bashar al-Assad's government over alleged participation in crimes against humanity in Syria.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/germany-far-right-politician-conviction-nazi-slogan-ccda2b9beef36efd124c2ae610681bf8",
+                            "text": "-\"German court convicts a prominent far-right politician for using a Nazi slogan again\". Associated Press. 1 July 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-07-01"
+                            }
+                        }
+                    ],
+                    "start_date": "03/07/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "4 July  Germany summons Turkey's ambassador in Berlin in a tit-for-tat move over footballer Merih Demiral's wolf salute gesture while celebrating a goal at the UEFA Euro 2024.",
+                    "links": [
+                        {
+                            "link": "https://www.france24.com/en/live-news/20240703-germany-sweden-arrest-eight-over-syria-crimes-against-humanity",
+                            "text": "-\"Germany, Sweden arrest eight over Syria crimes against humanity\". France 24. 3 July 2024. Retrieved 3 July 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-07-03",
+                                "Created": "2024-07-03"
+                            }
+                        }
+                    ],
+                    "start_date": "04/07/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "5 July  The Cabinet of Germany agrees on a 2025 budget plan, averting collapse of the current cabinet following party disagreements and pressure from The Greens to forego its \"debt brake\" to increase emergency borrowing for military aid to Ukraine.",
+                    "links": [
+                        {
+                            "link": "https://www.cnn.com/2024/07/04/sport/merih-demiral-celebration-controversy-turkey-euro-2024-spt-intl/index.html",
+                            "text": "-Schmidt, Nadine (4 July 2024). \"Germany summons Turkish ambassador as row erupts over alleged right-wing salute goal celebration at Euro 2024\". CNN. Retrieved 4 July 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-07-04",
+                                "Created": "2024-07-04"
+                            }
+                        }
+                    ],
+                    "start_date": "05/07/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "11 July  CNN reports that American and German intelligence foiled a Russian plot to assassinate Armin Papperger, the CEO of defence company Rheinmetall.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/germany-budget-agreement-stimulus-coalition-a95dbc1d92c70ee2c10e921b8a5e0762",
+                            "text": "-\"German government averts crisis with budget agreement for Europe's largest economy\". AP News. 5 July 2024. Retrieved 6 July 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-07-06",
+                                "Created": "2024-07-05"
+                            }
+                        }
+                    ],
+                    "start_date": "11/07/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Two people are killed and two others injured during a mass shooting believed to be connected to a domestic dispute at a home in Lautlingen, Baden-Württemberg. The gunman commits suicide.",
+                    "links": [
+                        {
+                            "link": "https://www.cnn.com/2024/07/11/politics/us-germany-foiled-russian-assassination-plot/index.html",
+                            "text": "-Pleitgen, Katie Bo Lillis, Natasha Bertrand, Frederik (11 July 2024). \"Exclusive: US and Germany foiled Russian plot to assassinate CEO of arms manufacturer sending weapons to Ukraine\". CNN. Retrieved 12 July 2024.{{cite web}}:  CS1 maint: multiple names: authors list (link)-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-07-12",
+                                "Created": "2024-07-11"
+                            }
+                        }
+                    ],
+                    "start_date": "14/07/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The UEFA Euro 2024 final takes place in Berlin, with Spain winning 2-1 over England.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/family-shooting-germany-5bb01d3c1571a7a37132a476db57a34e",
+                            "text": "-\"A shooting in Germany linked to a domestic dispute leaves 3 dead, 2 wounded\". Associated Press. 14 July 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-07-14"
+                            }
+                        }
+                    ],
+                    "start_date": "14/07/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A Lebanese national is arrested in Salzgitter on suspicion of procuring drone components for Hezbollah.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/sport/football/articles/cv2gvreml2ko",
+                            "text": "-\"'A good thing for football' - Spain's victory caps off perfect campaign\". BBC. 14 July 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-07-14"
+                            }
+                        }
+                    ],
+                    "start_date": "14/07/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "15 July  NATO establishes a new command centre in Wiesbaden to plan and coordinate support for the Ukrainian military as part of the NATO Security Assistance and Training for Ukraine.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/germany-lebanese-arrest-hezbollah-drones-israel-eb6b4a02b29a95d2a57213e8e6b1e4c6",
+                            "text": "-\"German authorities arrest a Lebanese man accused of procuring drone components for Hezbollah\". Associated Press. 15 July 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-07-15"
+                            }
+                        }
+                    ],
+                    "start_date": "15/07/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "16 July  Interior minister Nancy Faeser orders the banning of the magazine Compact, its publisher Compact-Magazin GmbH, and the film production company Conspect Film for promoting extremist right-wing views and inciting violence against Jews and migrants.",
+                    "links": [
+                        {
+                            "link": "https://www.euronews.com/2024/07/15/nato-launches-command-centre-for-ukraine-in-germany",
+                            "text": "-\"NATO launches Ukraine command centre in Germany\". euronews. 15 July 2024. Retrieved 16 July 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-07-16",
+                                "Created": "2024-07-15"
+                            }
+                        }
+                    ],
+                    "start_date": "16/07/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A court in Stuttgart convicts a dual Russian-German national of violating export laws by delivering electronic components to Russian firms involved in the production of military equipment from 2020 to 2023 and sentences him to six years and nine months' imprisonment.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/germany-far-right-magazine-compact-banned-c284d76eb1a83f7c651299606d31337a",
+                            "text": "-\"Germany's top security official bans a far-right magazine, accusing it of spreading hatred\". Associated Press. 16 July 2024. Retrieved 16 July 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-07-16",
+                                "Created": "2024-07-16"
+                            }
+                        }
+                    ],
+                    "start_date": "17/07/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Germany issues plans to halve its military aid to Ukraine in 2025.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/germany-russia-electronic-components-military-107e2e56d7a4cff607c1c4862a5359ba",
+                            "text": "-\"A German court convicts a businessman of delivering components with military use to Russia\". Associated Press. 17 July 2024. Retrieved 17 July 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-07-17",
+                                "Created": "2024-07-17"
+                            }
+                        }
+                    ],
+                    "start_date": "17/07/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "19 July  The Minsk Regional Court in Belarus, in a secretive trial, sentences German national Rico Krieger to death over alleged crimes including terrorism and mercenary activity. He is pardoned on 30 July by President Alexander Lukashenko.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/europe/germany-halve-military-aid-ukraine-despite-possible-trump-white-house-2024-07-17/",
+                            "text": "-\"Germany to halve military aid for Ukraine despite possible Trump White House\". Reuters. 17 July 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-07-17"
+                            }
+                        },
+                        {
+                            "link": "https://www.dw.com/en/belarus-sentences-german-man-to-death-for-terrorism-rights-group/a-69716052",
+                            "text": "-\"Belarus sentences German man to death for 'terrorism'\". dw.com. Retrieved 20 July 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-07-20",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "19/07/2024",
+                    "end_date": "30/07/2024"
+                },
+                {
+                    "event_text": "20 July  Demonstrators carrying Afghan flags storm the Pakistani consulate in Frankfurt.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/belarus-german-sentenced-krieger-lukashenko-krasikov-f7d3d4c18245487557623c27664aedaf",
+                            "text": "-\"Belarus' authoritarian president pardons German man sentenced to death on terrorism charges\". Associated Press. 31 July 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-07-31"
+                            }
+                        }
+                    ],
+                    "start_date": "20/07/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "21 July  A climber is killed after being struck by lightning on the Zugspitze.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/pakistan-protest-germany-frankfurt-consulate-239da1b58616ba8ba7c3f4f123ad2d99",
+                            "text": "-\"Pakistan protests to Germany after protesters get into the grounds of its Frankfurt consulate\". Associated Press. 22 July 2024. Retrieved 22 July 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-07-22",
+                                "Created": "2024-07-22"
+                            }
+                        }
+                    ],
+                    "start_date": "21/07/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "22 July  The Constitutional Court of North Rhine-Westphalia rules that there is no longer a general danger to civilians fleeing from the Syrian Civil War in its rejection of an asylum application.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/germany-zugspitze-peak-lightning-death-95a39b356eaef0d0b63563ce79255c90",
+                            "text": "-\"Man dies after being struck by lightning on Germany's highest peak\". Associated Press. 22 July 2024. Retrieved 22 July 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-07-22",
+                                "Created": "2024-07-22"
+                            }
+                        }
+                    ],
+                    "start_date": "22/07/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "24 July  The Federal Interior Ministry orders the banning of the Islamic Centre Hamburg for being an \"Islamist extremist organisation\" with links to Hezbollah and Iran.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/germany-syria-migration-court-civil-war-d2746da0a7f302c7e256a6af162accee",
+                            "text": "-\"German court rules in migration case that there's no general danger now to all civilians in Syria\". Associated Press. 23 July 2024. Retrieved 24 July 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-07-24",
+                                "Created": "2024-07-23"
+                            }
+                        }
+                    ],
+                    "start_date": "24/07/2024",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "August",
+            "Data": [
+                {
+                    "event_text": "2 August  Twenty-two people are injured in an explosion believed to have been caused by a compressed air canister at the Nürburgring race track.",
+                    "links": [
+                        {
+                            "link": "https://www.france24.com/en/live-news/20240724-germany-bans-islamist-group-over-alleged-hezbollah-iran-links",
+                            "text": "-\"Germany bans Islamist group over alleged Hezbollah, Iran links\". France 24. 24 July 2024. Retrieved 24 July 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-07-24",
+                                "Created": "2024-07-24"
+                            }
+                        }
+                    ],
+                    "start_date": "02/08/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "At least two people are killed after a hotel collapses in Kröv.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/nuerburgring-germany-accident-auto-racing-c6a87ffa1cb73f3e101e979dee8faa53",
+                            "text": "-\"22 injured during explosion in paddock area at Germany's Nuerburgring auto racing track\". Associated Press. 3 August 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-08-03"
+                            }
+                        }
+                    ],
+                    "start_date": "06/08/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A court in Berlin convicts a woman and fines her for \"condoning a crime\" by leading a chant using the phrase \"From the river to the sea, Palestine will be free\" during a protest in October 2023.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/articles/cj4xd89yev0o",
+                            "text": "-\"At least two people killed in German hotel collapse\". BBC. 7 August 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-08-07"
+                            }
+                        }
+                    ],
+                    "start_date": "06/08/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "7 August  A doctor in Berlin is arrested on suspicion of killing four of his elderly patients and setting fire to their residences.",
+                    "links": [
+                        {
+                            "link": "https://www.aljazeera.com/news/2024/8/6/german-court-fines-woman-for-from-the-river-to-the-sea-chant",
+                            "text": "-\"German court fines woman for 'from the river to the sea' chant\". Al Jazeera. Retrieved 7 August 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-08-07",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "07/08/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A court in Germany orders the arrest of a Ukrainian diving instructor on suspicion of involvement in the 2022 Nord Stream pipeline sabotage.",
+                    "links": [
+                        {
+                            "link": "https://www.dw.com/en/german-police-arrest-doctor-for-allegedly-killing-4-patients/a-69878099",
+                            "text": "-\"German police arrest doctor for allegedly killing 4 patients\". dw.com. Retrieved 7 August 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-08-07",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "14/08/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A suspected sabotage attack is reported at the Wahn barracks of the German Air Force adjacent to Cologne Bonn Airport.",
+                    "links": [
+                        {
+                            "link": "https://www.aljazeera.com/news/2024/8/14/germany-arrest-warrant-for-ukrainian-diver-in-nord-stream-probe",
+                            "text": "-\"Germany seeks arrest of Ukrainian diver for Nord Stream sabotage\". Al Jazeera. Retrieved 14 August 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-08-14",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "14/08/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Ukraine denies its involvement in explosions that damaged the Nord Stream 2 pipeline and accuses Russia of causing the explosions, following Germany issuing its first arrest warrant on the case towards a Ukrainian man.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/germany-military-barracks-cologne-investigation-f82490feb81a44d41909b0367012af35",
+                            "text": "-\"Germany investigates possible unauthorized entry and sabotage at a military barracks\". Associated Press. 14 August 2024. Retrieved 14 August 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-08-14",
+                                "Created": "2024-08-14"
+                            }
+                        }
+                    ],
+                    "start_date": "15/08/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The United States approves the sale of 600 MIM-104 Patriot air defense missile systems to Germany worth US$5 billion (€4.6 billion) to improve German national defense and the overall security of NATO.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/europe/ukraine-presidential-adviser-denies-ukraines-involvement-nord-stream-explosions-2024-08-15/",
+                            "text": "-\"Ukraine presidential adviser denies Ukraine's involvement in Nord Stream explosions\". Reuters. 15 August 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-08-15"
+                            }
+                        }
+                    ],
+                    "start_date": "15/08/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "New Zealand extradites German hacker and Megaupload founder Kim Dotcom to the United States to face charges for computer fraud, cyber espionage, and embezzlement.",
+                    "links": [
+                        {
+                            "link": "https://www.dw.com/en/us-approves-5-billion-patriot-missile-sale-to-germany/a-69956458",
+                            "text": "-\"US approves $5 billion Patriot missile sale to Germany\". dw.com. Retrieved 16 August 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-08-16",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "15/08/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Germany issues an indefinite ban on requesting or providing new military aid to Ukraine that has not already been approved in order to reduce federal budget spending. The moratorium results in a \"tangible dispute\" within the Scholz coalition government.",
+                    "links": [
+                        {
+                            "link": "https://www.dw.com/en/megauploads-kim-dotcom-to-be-extradited-to-united-states/a-69951276",
+                            "text": "-\"Megaupload's Kim Dotcom to be extradited to United States – DW – 08/15/2024\". dw.com. Retrieved 16 August 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-08-16",
+                                "Created": "2024-08-15"
+                            }
+                        }
+                    ],
+                    "start_date": "17/08/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Four convicts escape in a prison break at a psychiatric hospital in Straubing, Bavaria.",
+                    "links": [
+                        {
+                            "link": "https://www.politico.eu/article/germany-halt-new-ukraine-military-aid-report-war-russia/",
+                            "text": "-\"Germany to halt new Ukraine military aid: Report\". POLITICO. 17 August 2024. Retrieved 18 August 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-08-18",
+                                "Created": "2024-08-17"
+                            }
+                        }
+                    ],
+                    "start_date": "17/08/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "17 August  Twenty-three people are injured in a fire on a Ferris wheel installed during the Highfield Festival in Leipzig.",
+                    "links": [
+                        {
+                            "link": "https://www.dw.com/en/germany-4-escape-criminal-pyschiatric-facility-in-bavaria/a-69970390",
+                            "text": "-\"Germany: 4 escape criminal pyschiatric facility in Bavaria\". dw.com. Retrieved 18 August 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-08-18",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "17/08/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "20 August  Following the ordered closure of the Islamic Centre Hamburg in Hamburg, Iran orders the closure of two branches of a German language school in Tehran for \"breaching Iranian law, committing various illegal actions and extensive financial violations.\" In response, Germany summons the Iranian ambassador.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/germany-ferris-wheel-fire-injuries-fb54a0879f6f2236650c0f0219e721d3",
+                            "text": "-\"At least 23 injured when fire breaks out on a Ferris wheel in eastern Germany\". Associated Press. 18 August 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-08-18"
+                            }
+                        }
+                    ],
+                    "start_date": "20/08/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "23 August  2024 Solingen stabbing Three people are killed and eight others are wounded after a mass stabbing at a festival in Solingen marking the 650th anniversary of the city. A 26-year old man confesses to the killings after surrendering on 25 August.",
+                    "links": [
+                        {
+                            "link": "https://www.dw.com/en/iran-orders-closure-of-german-language-institute-in-tehran/a-69994587",
+                            "text": "-\"Iran orders closure of German language institute in Tehran\". dw.com. Retrieved 21 August 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-08-21",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "23/08/2024",
+                    "end_date": "25/08/2024"
+                },
+                {
+                    "event_text": "26 August  Germany announces that it will donate 100,000 doses of mpox vaccines to the Democratic Republic of the Congo and other African nations, as well as provide funding to the GAVI Vaccine Alliance through the World Health Organization.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/articles/crlr2z23ykno",
+                            "text": "-\"Man surrenders and confesses to Germany stabbing attack\". BBC. 25 August 2024. Retrieved 25 August 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-08-25",
+                                "Created": "2024-08-25"
+                            }
+                        }
+                    ],
+                    "start_date": "26/08/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "27 August  A 26-year old man armed with two knives is shot dead by police after threatening civilians in Moers.",
+                    "links": [
+                        {
+                            "link": "https://www.dw.com/en/mpox-germany-to-give-africa-100000-doses-of-vaccine/a-70055504",
+                            "text": "-\"Germany to donate Africa 100,000 mpox vaccine doses\". dw.com. Retrieved 27 August 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-08-27",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "27/08/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "29 August  The government of Hamburg expels the Iranian leader of the Islamic Centre Hamburg Mohammad Hadi Mofatteh, giving him an 11 September deadline to leave the country or face deportation.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/germany-moers-police-shoot-suspect-knives-fc468fc99be40c5011518444f6303692",
+                            "text": "-\"Police fatally shoot a man armed with knives in a western German city\". Associated Press. 27 August 2024. Retrieved 28 August 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-08-28",
+                                "Created": "2024-08-27"
+                            }
+                        }
+                    ],
+                    "start_date": "29/08/2024",
+                    "end_date": "11/09/2024"
+                },
+                {
+                    "event_text": "Germany carries out its first deportation of Afghan nationals convicted of crimes since the Taliban takeover in 2021.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/europe/germany-expels-head-banned-muslim-association-2024-08-29/",
+                            "text": "-\"Germany expels head of banned Muslim association\". Reuters. 29 August 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-08-29"
+                            }
+                        }
+                    ],
+                    "start_date": "30/08/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Six people are wounded in a stabbing attack on a bus in Siegen, North Rhine-Westphalia.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/articles/cewlzkq5x74o",
+                            "text": "-\"Germany resumes Afghan deportations after mass stabbing\". BBC. 30 August 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-08-30"
+                            }
+                        }
+                    ],
+                    "start_date": "30/08/2024",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "September",
+            "Data": [
+                {
+                    "event_text": "2024 Saxony state election The CDU wins a plurality in elections for the Landtag of Saxony. The AfD finishes a close second.",
+                    "links": [
+                        {
+                            "link": "https://www.dw.com/en/germany-knife-attack-on-bus-injures-6/a-70098249",
+                            "text": "-\"Germany: Knife attack on bus injures 6\". dw.com. Retrieved 31 August 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-08-31",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "01/09/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "2024 Thuringian state election The AfD wins a plurality (32%) in elections for the Landtag of Thuringia, marking the first time that a far-right party won a state election in Germany since World War II.",
+                    "links": [
+                        {
+                            "link": "https://www.dw.com/en/germany-knife-attack-on-bus-injures-6/a-70098249",
+                            "text": "-\"Germany: Knife attack on bus injures 6\". dw.com. Retrieved 31 August 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-08-31",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "01/09/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "5 September  2024 Munich shooting An armed person is shot dead by police in Munich near the Munich Documentation Centre for the History of National Socialism and the Israeli consulate.",
+                    "links": [],
+                    "start_date": "05/09/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "9 September  The German government announces border restrictions on all its national land borders, including those with other European Union members, for at least six months to combat irregular migration from asylum seekers.",
+                    "links": [
+                        {
+                            "link": "https://time.com/7018025/police-shooting-nazi-museum-israel-consulate-munich/",
+                            "text": "-MATTHIAS SCHRADER; GEIR MOULSON (5 September 2024). \"German Police Shoot Suspicious Person Near Israeli Consulate\". TIME. Retrieved 5 September 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-09-05",
+                                "Created": "2024-09-05"
+                            }
+                        }
+                    ],
+                    "start_date": "09/09/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "12 September  A suspected Islamic extremist is arrested in Munich on suspicion of plotting attacks against German soldiers.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/europe/germany-put-temporary-controls-all-land-borders-source-says-2024-09-09/",
+                            "text": "-\"Germany tightens controls at all borders in immigration crackdown\". Reuters. 9 September 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-09-09"
+                            }
+                        }
+                    ],
+                    "start_date": "12/09/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "13 September  Germany and Kenya agree on a labour migration deal which will see 250,000 skilled and semi-skilled Kenyan workers go work in Germany amid a shortage of skilled labour in the German economy. The agreement will also simplify the return of illegal migrants to Kenya.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/germany-munich-extremism-arrest-8d5da6a7095b1986a9d4836fa2e6a102",
+                            "text": "-\"Islamic extremist plotted to attack German soldiers during their lunch break, prosecutors say\". Associated Press. 13 September 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-09-13"
+                            }
+                        }
+                    ],
+                    "start_date": "13/09/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "21 September  A previously unknown piece composed by Wolfgang Amadeus Mozart, Ganz kleine Nachtmusik, is discovered at a library in Leipzig. The seven miniature movements for a string trio were probably composed in the 1760s, when Mozart was in his early teens.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/articles/c4gegkkg14ko",
+                            "text": "-\"German opens door to Kenyan workers in labour deal\". BBC News. 13 September 2024. Retrieved 14 September 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-09-14",
+                                "Created": "2024-09-13"
+                            }
+                        }
+                    ],
+                    "start_date": "21/09/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "22 September  2024 Brandenburg state election The SPD remains the largest party in the Landtag of Brandenburg, while the AfD finishes a close second with 29.2%.",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/music/2024/sep/19/previously-unknown-mozart-music-discovered-in-german-library",
+                            "text": "-\"Previously unknown Mozart music discovered in German library\". The Guardian. Agence France-Presse. 19 September 2024. ISSN 0261-3077. Retrieved 23 September 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-09-23",
+                                "Created": "2024-09-19"
+                            }
+                        },
+                        {
+                            "link": "https://search.worldcat.org/issn/0261-3077",
+                            "text": "-\"Previously unknown Mozart music discovered in German library\". The Guardian. Agence France-Presse. 19 September 2024. ISSN 0261-3077. Retrieved 23 September 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-09-23",
+                                "Created": "2024-09-19"
+                            }
+                        }
+                    ],
+                    "start_date": "22/09/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "23 September  Police announce that they found 95 kg (209 lb) of cocaine worth €7 million ($7.8 million) hidden inside banana crates in supermarkets across North Rhine-Westphalia.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/germany-state-election-brandenburg-810a84f9c74c6f86aa6b52c2aff57f9b",
+                            "text": "-\"Scholz's Social Democrats hold back the far right in German state vote\". Associated Press. 23 September 2024. Retrieved 24 September 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-09-24",
+                                "Created": "2024-09-23"
+                            }
+                        }
+                    ],
+                    "start_date": "23/09/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "24 September Jörg Dornau, a lawmaker for the AfD in Saxony, is revealed to be using Belarusian political prisoners as labour by independent Belarusian news outlet Reform.news.",
+                    "links": [
+                        {
+                            "link": "https://www.dw.com/en/german-supermarket-finds-7m-of-cocaine-in-crates-of-bananas/a-70303810",
+                            "text": "-\"German supermarket finds €7M of cocaine in crates of bananas\". dw.com. Retrieved 24 September 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-09-24",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "24/09/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "25 September  The joint leaders of Alliance 90/The Greens, Omid Nouripour and Ricarda Lang, state that they will step down following significant election defeats.",
+                    "links": [
+                        {
+                            "link": "https://www.politico.eu/article/far-right-german-lawmaker-alexander-lukashenko-prisoner-work-belarus-onion-farm-jorg-dornau-afd/",
+                            "text": "-\"Lukashenko's prisoners used as cheap labor by far-right German onion tycoon\". POLITICO. 24 September 2024. Retrieved 24 September 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-09-24",
+                                "Created": "2024-09-24"
+                            }
+                        }
+                    ],
+                    "start_date": "25/09/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "28 September  Thirty people are injured in a series of arson and vehicle-ramming attacks in Essen. The suspect, a Syrian national, is arrested.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/europe/german-greens-leadership-quits-after-series-election-blows-2024-09-25/",
+                            "text": "-\"German Greens leadership quits after series of election blows\". Reuters. 25 September 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-09-25"
+                            }
+                        }
+                    ],
+                    "start_date": "28/09/2024",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "October",
+            "Data": [
+                {
+                    "event_text": "IBM's first quantum data centre in Europe is opened in Ehningen.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/germany-essen-fires-arrest-51ef0e8e8a29c27130608054f1bf41d5",
+                            "text": "-\"Suspect arrested after allegedly setting fires and driving into shops in Germany\". Associated Press. 29 September 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-09-29"
+                            }
+                        }
+                    ],
+                    "start_date": "01/10/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A Chinese national is arrested in Leipzig on suspicion of spying on Leipzig/Halle Airport for Chinese intelligence and passing information to an aide of AfD lawmaker Maximilian Krah.",
+                    "links": [
+                        {
+                            "link": "https://www.france24.com/en/live-news/20241001-germany-inaugurates-ibm-s-first-european-quantum-data-centre",
+                            "text": "-\"Germany inaugurates IBM's first European quantum data centre\". France 24. 1 October 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-10-01"
+                            }
+                        }
+                    ],
+                    "start_date": "01/10/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "11 October  The oil tanker Annika catches fire in the Baltic Sea while sailing in an area between Kühlungsborn and Warnemünde. All seven crew on board are rescued, while the ship is towed to Rostock.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/germany-china-spying-airport-lawmaker-former-assistant-abd38fe18d7f38e0dc4f759720cb5e3d",
+                            "text": "-\"Germany arrests woman who allegedly passed airport details to suspected spy for China\". Associated Press. 1 October 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-10-01"
+                            }
+                        }
+                    ],
+                    "start_date": "11/10/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "14 October  A court in Berlin sentences a former Stasi officer identified as 80-year old Martin Manfred N to ten years' imprisonment for shooting Polish Cold War defector Czesław Kukuczka along the Berlin Wall in 1974.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/germany-baltic-sea-tanker-fire-ba785f0734262c18562aa26cfdd133c9",
+                            "text": "-\"Fire breaks out on an oil tanker off Germany's Baltic Sea coast. All 7 crew members are rescued\". Associated Press. 11 October 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-10-11"
+                            }
+                        }
+                    ],
+                    "start_date": "14/10/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "19 October  A Libyan national is arrested in Bernau bei Berlin on suspicion of plotting a gun attack on the Israeli embassy on behalf of Islamic State.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/articles/c2kdyl90dewo",
+                            "text": "-\"Ex-Stasi officer jailed for 1974 Berlin border killing\". BBC. 13 October 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-10-13"
+                            }
+                        }
+                    ],
+                    "start_date": "19/10/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "22 October  The first case of clade 1b mpox in Germany is discovered in a patient who had travelled abroad.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/germany-extremism-arrest-633b63aed3a28d74381279a970a9c7d9",
+                            "text": "-\"German authorities arrest Libyan man suspected of planning attack on Israeli Embassy\". Associated Press. 20 October 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-10-20"
+                            }
+                        }
+                    ],
+                    "start_date": "22/10/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "27 October  Jamshid Sharmahd, a dissident carrying dual Iranian and German citizenship, is executed by Iran for allegedly leading a US-based pro-monarchist group and terrorism, prompting the German government to recall its ambassador to Tehran on 29 October and close all three consulates of Iran in Germany on 31 October.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/germany-mpox-variant-19e6d60b50a987cca9447547173191f6",
+                            "text": "-\"Germany's disease control center reports 1st case of new mpox variant\". Associated Press. 22 October 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-10-22"
+                            }
+                        },
+                        {
+                            "link": "https://www.bbc.com/news/articles/cx2yv8327g9o",
+                            "text": "-\"Iran executes German-Iranian dissident\". BBC. 29 October 2024. Retrieved 29 October 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-10-29",
+                                "Created": "2024-10-29"
+                            }
+                        },
+                        {
+                            "link": "https://apnews.com/article/germany-iran-sharmahd-execution-protest-ambassador-ac9afe1d2b1a5949f0b578c69763a6b8",
+                            "text": "-\"Germany recalls ambassador from Iran as it protests the execution of an Iranian German prisoner\". Associated Press. 30 October 2024. Retrieved 30 October 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-10-30",
+                                "Created": "2024-10-30"
+                            }
+                        }
+                    ],
+                    "start_date": "27/10/2024",
+                    "end_date": "29/10/2024"
+                }
+            ]
+        },
+        {
+            "Month": "November",
+            "Data": [
+                {
+                    "event_text": "1 November  The Self-Determination Act, allowing people aged 18 and older to change official records to alter their names and genders or have the gender marker removed altogether, comes into effect.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/germany-iran-consulates-closed-execution-jamshid-sharmahd-b724c4915cd620a33b5bd00b26387200",
+                            "text": "-\"All 3 Iranian Consulates in Germany ordered shut after execution of Iranian German prisoner\". Associated Press. 31 October 2024. Retrieved 31 October 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-10-31",
+                                "Created": "2024-10-31"
+                            }
+                        }
+                    ],
+                    "start_date": "01/11/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "5 November  Eight people are arrested on suspicion of plotting an illegal seizure of power in Saxony as part of the far-right militant group Sächsische Separatisten.",
+                    "links": [
+                        {
+                            "link": "https://www.dw.com/en/germany-new-trans-law-gender-debate-lgbtq-intersex-nonbinary-v3/a-70604185",
+                            "text": "-\"Germany's transgender rights law takes effect\". DW. 1 November 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-11-01"
+                            }
+                        }
+                    ],
+                    "start_date": "05/11/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Chancellor Scholz dismisses FDP leader Christian Lindner from his position as finance minister, leading to two other FDP ministers resigning and the collapse of the governing coalition.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/germany-far-right-arrest-saxony-4eebee8fbd6f539cf758f9388b69584f",
+                            "text": "-\"German police arrest 8 suspected members of a far-right militant group\". Associated Press. 5 November 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-11-05"
+                            }
+                        }
+                    ],
+                    "start_date": "07/11/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "An American resident of Frankfurt and former employee of the US Armed Forces in Germany is arrested on suspicion of spying for China.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/articles/c7v3r046pzzo",
+                            "text": "-\"German coalition collapses after Scholz fires key minister\". BBC. 7 November 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-11-07"
+                            }
+                        }
+                    ],
+                    "start_date": "07/11/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "18 November  A section of the C-Lion1 submarine communications cable running under the Baltic Sea between Finland and Germany is severed off the Swedish coast in what German authorities suspect as an act of sabotage.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/germany-arrest-american-spying-china-b4923db9576a90e2dc4ff52365bdf1a4",
+                            "text": "-\"Germany arrests a US citizen over accusations of spying for China\". Associated Press. 7 November 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-11-07"
+                            }
+                        }
+                    ],
+                    "start_date": "18/11/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "26 November  A person is arrested in Koblenz on suspicion of plotting pipe bomb attacks on behalf of Islamic State.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/articles/c9dl4vxw501o",
+                            "text": "-\"Germany suspects sabotage behind severed undersea cables\". BBC. 19 November 2024. Retrieved 19 November 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-11-19",
+                                "Created": "2024-11-19"
+                            }
+                        }
+                    ],
+                    "start_date": "26/11/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "29 November  Bijan Djir-Sarai resigns as general secretary of the FDP amid controversy over the party's departure from the governing coalition.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/germany-extremism-suspect-pipe-bombs-arrest-9298a146f1d3ac550c2e7aa1af77ff64",
+                            "text": "-\"Youth arrested in Germany on suspicion of planning an attack with pipe bombs\". Associated Press. 28 November 2024. Retrieved 28 November 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-11-28",
+                                "Created": "2024-11-28"
+                            }
+                        }
+                    ],
+                    "start_date": "29/11/2024",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "December",
+            "Data": [
+                {
+                    "event_text": "4 December  One person is killed in a crossbow attack inside a hospital in Bad Zwesten. The suspect is arrested.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/germany-election-free-democrats-resignation-dday-djirsarai-b85630b66301ba75b1017e11a777e848",
+                            "text": "-\"Senior figure with Scholz's ex-allies quits over 'D-Day' paper on German government collapse\". Associated Press. 30 November 2024. Retrieved 30 November 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-11-30",
+                                "Created": "2024-11-30"
+                            }
+                        }
+                    ],
+                    "start_date": "04/12/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "8 December  Three people from Mannheim and Hesse are arrested on suspicion of plotting a terrorist attack on behalf of Islamic State.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/germany-hospital-crossbow-killing-8efb365fbdc6e47ca4ce8860ecba2f4e",
+                            "text": "-\"German police arrest a man after a hospital worker is killed with a crossbow\". Associated Press. 5 December 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-12-05"
+                            }
+                        }
+                    ],
+                    "start_date": "08/12/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "9 December  The Federal Office for Migration and Refugees suspends the processing of asylum requests from 47,770 Syrian nationals in response to the fall of the Assad regime in Syria.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/germany-islamic-extremism-attack-plan-arrest-38ce3300bd7992a3253164d717579aad",
+                            "text": "-\"3 men arrested in Germany over suspected preparations for an Islamic extremist attack\". Associated Press. 10 December 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-12-10"
+                            }
+                        }
+                    ],
+                    "start_date": "09/12/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "16 December  Chancellor Olaf Scholz loses a no-confidence vote in the Bundestag.",
+                    "links": [
+                        {
+                            "link": "https://www.aljazeera.com/news/2024/12/9/germany-pauses-asylum-applications-for-syrians-after-al-assads-fall",
+                            "text": "-\"Germany pauses asylum applications for Syrians after al-Assad's fall\". Al Jazeera. 9 December 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-12-09"
+                            }
+                        }
+                    ],
+                    "start_date": "16/12/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "19 December  The Bundestag votes to require a two-thirds majority from its members to approve measures regarding the operations of the Federal Constitutional Court as  part of efforts to safeguard the judiciary against possible authoritarian interventions.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/articles/ckg36pp6dpyo",
+                            "text": "-\"German Chancellor Olaf Scholz loses confidence vote\". BBC. 16 December 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-12-16"
+                            }
+                        }
+                    ],
+                    "start_date": "19/12/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "20 December  2024 Magdeburg car attack A car drives into a crowd at a Christmas market in Magdeburg, killing six people and injuring at least 205. The suspected perpetrator, a 50-year-old doctor from Saudi Arabia, is arrested.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/germany-constitutional-court-protection-vote-parliament-3b9a3c3966f6ac5e52d87f57c4f2b05f",
+                            "text": "-\"German lawmakers back plan to protect supreme court against meddling by authoritarians, extremists\". Associated Press. 20 December 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-12-20"
+                            }
+                        },
+                        {
+                            "link": "https://apnews.com/article/germany-magdeburg-christmas-market-attack-d38137b515767325281b7f40f01ed7ab",
+                            "text": "-\"Death toll from the German Christmas market attack rises to 6\". Associated Press. 6 January 2025. Retrieved 6 January 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-01-06",
+                                "Created": "2025-01-06"
+                            }
+                        }
+                    ],
+                    "start_date": "20/12/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "27 December  President Frank-Walter Steinmeier dissolves the 20th Bundestag.",
+                    "links": [
+                        {
+                            "link": "https://www.nytimes.com/2024/12/20/world/europe/germany-christmas-market-crash.html",
+                            "text": "-Schuetze, Christopher (20 December 2024). \"Driver Rams Christmas Market in Germany, Injuring Dozens\". The New York Times. Retrieved 20 December 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-12-20",
+                                "Created": "2024-12-20"
+                            }
+                        }
+                    ],
+                    "start_date": "27/12/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "28 December  Elon Musk published an opinion piece supporting the Alternative for Germany (AfD) in the German newspaper Welt am Sonntag.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/germany-election-steinmeier-32a9c393067faac264fae7bb29b3e4ef",
+                            "text": "-\"Germany's president dissolves parliament, sets national election for Feb. 23\". Associated Press. 27 December 2024. Retrieved 27 December 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-12-27",
+                                "Created": "2024-12-27"
+                            }
+                        }
+                    ],
+                    "start_date": "28/12/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "31 December  Two people are injured in a knife attack in Charlottenburg, Berlin. A Syrian national carrying Swedish residency is arrested.",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/world/2024/dec/28/elon-musk-germany-afd-party",
+                            "text": "-\"Elon Musk pens German newspaper opinion piece supporting far-right AfD party\". The Guardian. 28 December 2024. Retrieved 29 December 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-12-29",
+                                "Created": "2024-12-28"
+                            }
+                        }
+                    ],
+                    "start_date": "31/12/2024",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

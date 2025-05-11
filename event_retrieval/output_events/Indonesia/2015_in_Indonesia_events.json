@@ -1,0 +1,633 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "11 January  Divers retrieve the flight data recorder from the crashed Indonesia AirAsia Flight 8501.",
+                    "links": [
+                        {
+                            "link": "https://web.archive.org/web/20150115074502/http://bigstory.ap.org/article/1c3baebff8d44a41abce8e6778f2d766/focus-finding-airasias-black-boxes-intensifies",
+                            "text": "-\"Divers retrieve 1 of 2 black boxes from crashed AirAsia jet\". 11 January 2015. Archived from the original on 15 January 2015. Retrieved 13 January 2015.-",
+                            "dates": {
+                                "Archieved": "2015-01-15",
+                                "Retrieved": "2015-01-13",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "http://bigstory.ap.org/article/1c3baebff8d44a41abce8e6778f2d766/focus-finding-airasias-black-boxes-intensifies",
+                            "text": "-\"Divers retrieve 1 of 2 black boxes from crashed AirAsia jet\". 11 January 2015. Archived from the original on 15 January 2015. Retrieved 13 January 2015.-",
+                            "dates": {
+                                "Archieved": "2015-01-15",
+                                "Retrieved": "2015-01-13",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "11/01/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "13 January  Divers recover the cockpit voice recorder from the crashed Indonesia AirAsia Flight 8501.",
+                    "links": [
+                        {
+                            "link": "http://www.abc.net.au/news/2015-01-13/divers-retrieve-airasia-cockpit-voice-recorder/6014360?WT.mc_id=newsmail",
+                            "text": "-\"AirAsia QZ8501: Reports divers have retrieved cockpit voice recorder from plane wreck in Java Sea\". ABC News. 13 January 2015. Archived from the original on 9 September 2019. Retrieved 13 January 2015.-",
+                            "dates": {
+                                "Archieved": "2019-09-09",
+                                "Retrieved": "2015-01-13",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20190909123428/https://www.abc.net.au/news/2015-01-13/divers-retrieve-airasia-cockpit-voice-recorder/6014360?WT.mc_id=newsmail",
+                            "text": "-\"AirAsia QZ8501: Reports divers have retrieved cockpit voice recorder from plane wreck in Java Sea\". ABC News. 13 January 2015. Archived from the original on 9 September 2019. Retrieved 13 January 2015.-",
+                            "dates": {
+                                "Archieved": "2019-09-09",
+                                "Retrieved": "2015-01-13",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "13/01/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "23 January  Second Chief of Corruption Eradication Commission Bambang Widjajanto was arrested by the police in response to a corruption scandal.",
+                    "links": [
+                        {
+                            "link": "https://m.tempo.co/read/news/2015/01/23/063636965/wakil-ketua-kpk-bambang-w-ditangkap-polisi",
+                            "text": "-\"Wakil Ketua KPK Bambang W. Ditangkap Polisi\". Tempo. 23 January 2015. Retrieved 24 January 2015.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2015-01-24",
+                                "Created": "2015-01-23"
+                            }
+                        }
+                    ],
+                    "start_date": "23/01/2015",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "14 February  The Prime Minister of Australia Tony Abbott issues a last-minute plea for Bali Nine drug smugglers Andrew Chan and Myuran Sukumaran facing the death penalty in Indonesia.",
+                    "links": [
+                        {
+                            "link": "http://www.theaustralian.com.au/national-affairs/foreign-affairs/tony-abbott-issues-plea-for-bali-nine-pair-andrew-chan-and-myuran-sukumaran/story-fn59nm2j-1227219525312",
+                            "text": "-\"Tony Abbott issues plea for Bali Nine pair Andrew Chan and Myuran Sukumaran\". The Australian. 14 February 2015. Archived from the original on 25 April 2015. Retrieved 16 February 2015.-",
+                            "dates": {
+                                "Archieved": "2015-04-25",
+                                "Retrieved": "2015-02-16",
+                                "Created": "2015-02-14"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20150425161932/http://www.theaustralian.com.au/national-affairs/foreign-affairs/tony-abbott-issues-plea-for-bali-nine-pair-andrew-chan-and-myuran-sukumaran/story-fn59nm2j-1227219525312",
+                            "text": "-\"Tony Abbott issues plea for Bali Nine pair Andrew Chan and Myuran Sukumaran\". The Australian. 14 February 2015. Archived from the original on 25 April 2015. Retrieved 16 February 2015.-",
+                            "dates": {
+                                "Archieved": "2015-04-25",
+                                "Retrieved": "2015-02-16",
+                                "Created": "2015-02-14"
+                            }
+                        }
+                    ],
+                    "start_date": "14/02/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "17 February  The President of Indonesia Joko Widodo drops his nomination of Budi Gunawan as national police chief following allegations that Gunawan was involved in a bribery scandal.",
+                    "links": [
+                        {
+                            "link": "https://www.straitstimes.com/news/asia/south-east-asia/story/indonesias-president-jokowi-drops-budi-gunawan-police-chief-nominee-",
+                            "text": "-\"Indonesia's President Jokowi drops Budi Gunawan as police chief nominee\". 18 February 2015. Archived from the original on 18 February 2015.-",
+                            "dates": {
+                                "Archieved": "2015-02-18",
+                                "Retrieved": null,
+                                "Created": "2015-02-18"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20150218142000/http://www.straitstimes.com/news/asia/south-east-asia/story/indonesias-president-jokowi-drops-budi-gunawan-police-chief-nominee-",
+                            "text": "-\"Indonesia's President Jokowi drops Budi Gunawan as police chief nominee\". 18 February 2015. Archived from the original on 18 February 2015.-",
+                            "dates": {
+                                "Archieved": "2015-02-18",
+                                "Retrieved": null,
+                                "Created": "2015-02-18"
+                            }
+                        }
+                    ],
+                    "start_date": "17/02/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "27 February   Salvage workers recovered a large piece of fuselage, including the wings, of QZ8501. Lifting balloons were used to lift the fuselage, but the first attempt failed as the balloons deflated.",
+                    "links": [],
+                    "start_date": "27/02/2015",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "17 March  The official search for bodies of QZ8501 ended, after 106 bodies had been recovered. Fifty-six bodies remained unaccounted for.",
+                    "links": [],
+                    "start_date": "17/03/2015",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "8 April   A bomb exploded in a residential area in Tanah Abang district, Jakarta, killing one person and wounded several others. Police have stated that terrorists were behind the attack, even though they have claimed that they didn't know who was responsible for the attack.",
+                    "links": [
+                        {
+                            "link": "https://m.tempo.co/read/news/2015/04/08/064656303/ledakan-di-tanah-abang-perakit-bom-ikut-jadi-korban",
+                            "text": "-\"Ledakan di Tanah Abang, Perakit Bom Ikut Jadi Korban\". Tempo. 8 April 2015. Archived from the original on 4 March 2016. Retrieved 9 April 2015.-",
+                            "dates": {
+                                "Archieved": "2016-03-04",
+                                "Retrieved": "2015-04-09",
+                                "Created": "2015-04-08"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20160304142445/http://m.tempo.co/read/news/2015/04/08/064656303/ledakan-di-tanah-abang-perakit-bom-ikut-jadi-korban",
+                            "text": "-\"Ledakan di Tanah Abang, Perakit Bom Ikut Jadi Korban\". Tempo. 8 April 2015. Archived from the original on 4 March 2016. Retrieved 9 April 2015.-",
+                            "dates": {
+                                "Archieved": "2016-03-04",
+                                "Retrieved": "2015-04-09",
+                                "Created": "2015-04-08"
+                            }
+                        }
+                    ],
+                    "start_date": "08/04/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "14 April  The Indonesian National Armed Forces has arrived in Yemen to evacuate the remaining Indonesian due to the ongoing conflict.",
+                    "links": [
+                        {
+                            "link": "http://internasional.kompas.com/read/2015/04/04/15000091/Tim.Evakuasi.WNI.Masuk.Yaman",
+                            "text": "-\"Tim Evakuasi WNI Masuk Yaman\" (in Indonesian). KOMPAS. 4 April 2015. Archived from the original on 8 April 2015. Retrieved 15 April 2015.-",
+                            "dates": {
+                                "Archieved": "2015-04-08",
+                                "Retrieved": "2015-04-15",
+                                "Created": "2015-04-04"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20150408105109/http://internasional.kompas.com/read/2015/04/04/15000091/Tim.Evakuasi.WNI.Masuk.Yaman",
+                            "text": "-\"Tim Evakuasi WNI Masuk Yaman\" (in Indonesian). KOMPAS. 4 April 2015. Archived from the original on 8 April 2015. Retrieved 15 April 2015.-",
+                            "dates": {
+                                "Archieved": "2015-04-08",
+                                "Retrieved": "2015-04-15",
+                                "Created": "2015-04-04"
+                            }
+                        }
+                    ],
+                    "start_date": "14/04/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "17 April   Inspector General Badrodin Haiti officially inaugurated by Joko Widodo, becomes the 22nd Chief of National Police.",
+                    "links": [
+                        {
+                            "link": "http://nasional.kompas.com/read/2015/04/17/09274001/Dilantik.Jokowi.Badrodin.Haiti.Resmi.Jadi.Kapolri",
+                            "text": "-\"Dilantik Jokowi, Badrodin Haiti Resmi Jadi Kapolri\". KOMPAS. 17 April 2015. Archived from the original on 13 July 2015. Retrieved 18 April 2015.-",
+                            "dates": {
+                                "Archieved": "2015-07-13",
+                                "Retrieved": "2015-04-18",
+                                "Created": "2015-04-17"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20150713055311/http://nasional.kompas.com/read/2015/04/17/09274001/Dilantik.Jokowi.Badrodin.Haiti.Resmi.Jadi.Kapolri",
+                            "text": "-\"Dilantik Jokowi, Badrodin Haiti Resmi Jadi Kapolri\". KOMPAS. 17 April 2015. Archived from the original on 13 July 2015. Retrieved 18 April 2015.-",
+                            "dates": {
+                                "Archieved": "2015-07-13",
+                                "Retrieved": "2015-04-18",
+                                "Created": "2015-04-17"
+                            }
+                        }
+                    ],
+                    "start_date": "17/04/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "29 April  Bali Nine duo, Andrew Chan and Myuran Sukumaran were executed in the Nusakambangan Island in Indonesia along with several others with the exception of Mary Jane Veloso, who was spared in the last minutes. The execution prompted a widespread protest in few countries, including Australia.",
+                    "links": [
+                        {
+                            "link": "http://mobile.news.com.au/world/asia/what-the-world-and-media-is-saying-about-the-executions-of-andrew-chan-and-myuran-sukumaran/story-fnh81fz8-1227326355421",
+                            "text": "-\"What the world and media is saying about the executions of Andrew Chan and Myuran Sukumaran\". news.com.au. Retrieved 30 April 2015.[permanent dead link]-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2015-04-30",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "29/04/2015",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "May",
+            "Data": [
+                {
+                    "event_text": "4 May  In response to the massive earthquake in Nepal, President Joko Widodo ordered to evacuate all of the remaining Indonesian in Nepal.",
+                    "links": [
+                        {
+                            "link": "http://m.tribunnews.com/nasional/2015/05/04/tim-indonesia-mulai-pulangkan-wni-dari-nepal",
+                            "text": "-\"Tim Indonesia Mulai Pulangkan WNI dari Nepal\". Tribunnews. Archived from the original on 6 March 2016. Retrieved 4 May 2015.-",
+                            "dates": {
+                                "Archieved": "2016-03-06",
+                                "Retrieved": "2015-05-04",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20160306022429/http://m.tribunnews.com/nasional/2015/05/04/tim-indonesia-mulai-pulangkan-wni-dari-nepal",
+                            "text": "-\"Tim Indonesia Mulai Pulangkan WNI dari Nepal\". Tribunnews. Archived from the original on 6 March 2016. Retrieved 4 May 2015.-",
+                            "dates": {
+                                "Archieved": "2016-03-06",
+                                "Retrieved": "2015-05-04",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "04/05/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "16 May  Angeline, an 8-year-old girl, went missing from her home in Bali.",
+                    "links": [],
+                    "start_date": "16/05/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "23 May  President Joko Widodo announced the start of the construction of Indonesia's tallest skyscraper which resembles the twin tower in Kuala Lumpur. It was named 'Indonesia Satu Tower'.",
+                    "links": [],
+                    "start_date": "23/05/2015",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "June",
+            "Data": [
+                {
+                    "event_text": "2 June  7 June  The 2015 Indonesia Super Series Premier is held in Jakarta.",
+                    "links": [],
+                    "start_date": "02/06/2015",
+                    "end_date": "07/06/2015"
+                },
+                {
+                    "event_text": "10 June  After went missing from nearly a month, Angeline was found dead in her backyard, prompting widespread condemnation from the Indonesian media and speculations on whether someone behind the murder.",
+                    "links": [
+                        {
+                            "link": "http://m.merdeka.com/tag/a/angeline-ditemukan-tewas/",
+                            "text": "-\"Angeline Ditemukan Tewas\". merdeka.com. Retrieved 16 June 2015.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2015-06-16",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "10/06/2015",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "July",
+            "Data": [
+                {
+                    "event_text": "9 July  A bomb exploded in a toilet at the Alam Sutera Mall in Tangerang, Banten. No one was killed or injured in the blast.",
+                    "links": [
+                        {
+                            "link": "http://m.tribunnews.com/metropolitan/2015/07/09/benda-diduga-bom-meledak-di-mal-alam-sutera",
+                            "text": "-\"Benda Diduga Bom Meledak di Mal Alam Sutera\". Tribunnews. Retrieved 10 July 2015.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2015-07-10",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "09/07/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "10 July  A massive explosion struck PT. Mandom, a perfume factory in Bekasi, West Java. At least 28 people were killed and 31 people were injured. Authorities suspected that a broken gas pipe caused a gas leak in the worker area, which subsequently caused the blast.",
+                    "links": [],
+                    "start_date": "10/07/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "14 July  Twelve people were killed when a bus carrying dozens of passengers while celebrating the Eid Al-Fitr holiday on the Palimanan-Kanci toll flipped over and hit a bridge.",
+                    "links": [
+                        {
+                            "link": "http://m.antaranews.com/berita/506990/bus-rukun-sayur-kecelakaan-di-tol-palikanci",
+                            "text": "-\"Bus Rukun Sayur kecelakaan di Tol Palikanci\". Antara news. 14 July 2015. Retrieved 15 July 2015.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2015-07-15",
+                                "Created": "2015-07-14"
+                            }
+                        }
+                    ],
+                    "start_date": "14/07/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "16 July  22 July  A strombolian volcano in East Java, Mount Raung, erupted for the first time since the 1900s. The eruption later caused a massive delay and cancellation on flights, especially on the resort island of Bali.",
+                    "links": [],
+                    "start_date": "16/07/2015",
+                    "end_date": "22/07/2015"
+                },
+                {
+                    "event_text": "28 July  The 7.0 Mw  Papua earthquake affected Mamberamo Raya Regency with a maximum Mercalli intensity of VII (Very strong). One person was killed and some buildings were damaged or destroyed.",
+                    "links": [],
+                    "start_date": "28/07/2015",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "August",
+            "Data": [
+                {
+                    "event_text": "2 August  A student in Bekasi, West Java has died during the student orientation programme. The incident caused some controversies in the Indonesian government, whether to prohibit the programme or not.",
+                    "links": [],
+                    "start_date": "02/08/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "3 August  A large explosion occurred in a housing complex in Makassar, killing two women and critically injured the other three. Three houses were also heavily damaged by the blast. Even though the police haven't officially announced the cause of such event, it was suspected that a fish bomb was planted in the area.",
+                    "links": [
+                        {
+                            "link": "https://web.archive.org/web/20160304083003/http://m.jpnn.com/news.php?id=318477",
+                            "text": "-\"Mabes Polri: Ledakan Makassar Diduga dari Bom Ikan\". JPNN. Archived from the original on 4 March 2016. Retrieved 3 August 2015.-",
+                            "dates": {
+                                "Archieved": "2016-03-04",
+                                "Retrieved": "2015-08-03",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "http://m.jpnn.com/news.php?id=318477",
+                            "text": "-\"Mabes Polri: Ledakan Makassar Diduga dari Bom Ikan\". JPNN. Archived from the original on 4 March 2016. Retrieved 3 August 2015.-",
+                            "dates": {
+                                "Archieved": "2016-03-04",
+                                "Retrieved": "2015-08-03",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "03/08/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "12 August  A Komala Air PAC 750 carrying six people crashed before landing at Ninia Airport, killing one onboard and injuring five others.",
+                    "links": [],
+                    "start_date": "12/08/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "An ATR-42 carrying 54 people, operated by Trigana Air Service loses contact with air traffic controller in Indonesia's Papua region.",
+                    "links": [],
+                    "start_date": "16/08/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Six foreigners were reported missing while diving in Sangalaki Island in East Kalimantan.",
+                    "links": [],
+                    "start_date": "16/08/2015",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "September",
+            "Data": [
+                {
+                    "event_text": "5 September  A ship carrying around 80 Indonesian workers sank off the coast of Malaysia. Around 20 people were found survived the incident. The rest were announced dead.",
+                    "links": [],
+                    "start_date": "05/09/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "10 September  Haze in Sumatra and Borneo are getting worse. Most flights were cancelled in Dumai, Pekanbaru, Batam and Palembang.",
+                    "links": [],
+                    "start_date": "10/09/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "17 September  Gabriella Sheryl Howard, also an 8-year-old girl, was founded sink at Global Sevilla Puri Indah School, Jakarta.",
+                    "links": [],
+                    "start_date": "17/09/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "23 September  Two commuter train collided head on in Juanda Train Station, Surabaya. As the result forty-two people were injured in the incident. Miraculously, no one was killed.",
+                    "links": [],
+                    "start_date": "23/09/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "25 September  An earthquake with a moment magnitude of 6.8 and depth of 10 km struck Sorong, Papua. The shaking was felt as far away as Manokwari. Around 62 people were injured and 57 houses were damaged. Reconstruction would cost billions of rupiah.",
+                    "links": [],
+                    "start_date": "25/09/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "28 September  An anti illegal mining activist was murdered in Lumajang, Indonesia.  It was the first killing of an activist since the killing of Munir in 2004.",
+                    "links": [],
+                    "start_date": "28/09/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "30 September  An image of a dead baby killed due to haze with her mother has gone viral in social media.",
+                    "links": [],
+                    "start_date": "30/09/2015",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "October",
+            "Data": [
+                {
+                    "event_text": "2 October  a Twin Otter DHC-6, registered as PK-BRM, operated by Aviastar, disappeared above the Island of Sulawesi with 10 people on board.",
+                    "links": [],
+                    "start_date": "02/10/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "5 October  Aviastar Flight 7503 was found crashed into the mountainside of Latimojong, all aboard were perished. It became the 4th Indonesian air tragedy in just 10 months.",
+                    "links": [],
+                    "start_date": "05/10/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "7 October  After a series of downturn, finally the rupiah has strengthening in the wake of the weakening of U.S Dollars.",
+                    "links": [],
+                    "start_date": "07/10/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "11 October  A Eurocopter EC130 flying from Samosir Island to Kualanamu International Airport with five people on board went missing. It was suspected that the plane had crashed into Lake Toba.",
+                    "links": [],
+                    "start_date": "11/10/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "13 October  After two days of fighting for survival, Fransiskus Susbihardayan, the only sole survivor of the crash was found alive from the missing Eurocopter. The others were still missing",
+                    "links": [],
+                    "start_date": "13/10/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "18 October  Persib Bandung claimed victory in the final of 2015 President Cup.",
+                    "links": [],
+                    "start_date": "18/10/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "19 October  A raging forest fire in Mount Lawu, Central Java caused by bonfire trapped several hikers. Seven hikers were burned to death.",
+                    "links": [],
+                    "start_date": "19/10/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "25 October  Twelve people were killed due to suspected smoke inhalation and seventy one were injured after a fire occurred in a karaoke club in Manado, North Sulawesi. Most of them were trapped on the third floor and in karaoke rooms as the fire broke out on the second floor.",
+                    "links": [],
+                    "start_date": "25/10/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "28 October  A bomb exploded in a canteen toilet in Alam Sutera mall, causing injury to one person. It was the second terror attack in the mall. The bomb was suspected to be smuggled in the paper holder inside the toilet.",
+                    "links": [],
+                    "start_date": "28/10/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "29 October  The perpetrator of the bombing of Alam Sutera mall has been caught by the Indonesian National Police.",
+                    "links": [],
+                    "start_date": "29/10/2015",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "November",
+            "Data": [
+                {
+                    "event_text": "4 November  A strong 6.2 magnitude earthquake struck the island of Alor. Around 214 houses were damaged, one person was reported to had broken bones.",
+                    "links": [],
+                    "start_date": "04/11/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A Boeing 737 operated by Batik Air overran the runway in Adisucipto International Airport in Yogyakarta. No injuries were reported among 161 passengers.",
+                    "links": [],
+                    "start_date": "06/11/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A large criminal group, wanted for many years by the police, called 'Mama Minta Pulsa', had been caught in Cianjur, West Java.",
+                    "links": [],
+                    "start_date": "06/11/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "7 November  Four people were killed after being struck by lightning in a camping grounds. Few others were injured.",
+                    "links": [],
+                    "start_date": "07/11/2015",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "December",
+            "Data": [
+                {
+                    "event_text": "3 December  11 people were killed when an Isuzu Elf crashed into a truck in Cikopo-Palimanan toll.",
+                    "links": [],
+                    "start_date": "03/12/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "In Muara Angke, Jakarta, a metromini bus crosses a rail track in a rail intersection when a train were going to pass 50 meters from them. The train hit them, and the bus split into two. The force of the impact was so massive that some of the bodies were mutilated. The train goes into a stop 200 meters from the point of impact. None of the passengers in the train were injured, but 18 people were killed in the bus. Thirteen of them died instantly, five others while in hospital. The six remaining survivors still in serious injuries.",
+                    "links": [],
+                    "start_date": "06/12/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A truck slammed another truck in Cikopo-Palimanan toll, killing two. Less than an hour later, a car, Daihatsu Luxio, carrying eleven people slammed into another car in the same toll. Six people were killed. The toll later nicknamed as the \"Death Toll\"",
+                    "links": [],
+                    "start_date": "06/12/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "In Jakarta, another bus, suddenly flipped and crushed a pedestrian, killing him instantly.",
+                    "links": [],
+                    "start_date": "06/12/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "In West Java, a military bus had a brake failure and accidentally run over two motorcycles. It came into a stop after hitting a car. Three people were killed due to the accident.",
+                    "links": [],
+                    "start_date": "06/12/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "10 December  Indonesian Aerospace rolled out their first Indonesian aircraft since 1997's IPTN N-250, the Indonesian Aerospace N-219",
+                    "links": [],
+                    "start_date": "10/12/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "19 December  MV Marina lost contact in the Gulf of Boni in South Sulawesi while carrying 122 people.",
+                    "links": [],
+                    "start_date": "19/12/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Video of the Yogyakarta Air Show Crash",
+                    "links": [],
+                    "start_date": "19/12/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "MV Marina was found listing and sinking in the Gulf of Boni. At this point everybody were still alive. However, bad weather hampers evacuation process.",
+                    "links": [],
+                    "start_date": "20/12/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A T-50 Golden Eagle operated by Indonesian Air Force crashes in Adisucipto International Airport in Yogyakarta, Indonesia. Both pilots killed after the plane swirling, spiraling and exploded.",
+                    "links": [],
+                    "start_date": "20/12/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "23 December  A total of 55 people were drowned due to late evacuation process of MV Marina which was fatal as a result .",
+                    "links": [],
+                    "start_date": "23/12/2015",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

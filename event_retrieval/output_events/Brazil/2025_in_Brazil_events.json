@@ -1,0 +1,422 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "At the 82nd Golden Globe Awards, Fernanda Torres becomes the first Brazilian actress to win the award for Best Actress in a Motion Picture - Drama.",
+                    "links": [
+                        {
+                            "link": "https://variety.com/2025/film/news/fernanda-torres-golden-globes-best-actress-drama-film-1236262309/",
+                            "text": "-Rubin, Rebecca (5 January 2025). \"'I'm Still Here' Star Fernanda Torres Wins Golden Globe 26 Years After Her Mom Was Nominated in Same Category\". Variety. Retrieved 6 January 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-01-06",
+                                "Created": "2025-01-05"
+                            }
+                        }
+                    ],
+                    "start_date": "06/01/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Two members of the Landless Workers Movement are killed in an attack in Tremembé, São Paulo State.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/brazil-landless-workers-movement-settlement-attack-cd59dcf8f49f27e081cab62fbe2ebb4e",
+                            "text": "-\"Brazilian police investigate attack on workers' settlement that killed 2\". AP News. 12 January 2025. Retrieved 12 January 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-01-12",
+                                "Created": "2025-01-12"
+                            }
+                        }
+                    ],
+                    "start_date": "10/01/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Ten people are reported killed in landslides caused by heavy rains across Minas Gerais, including nine in Ipatinga.",
+                    "links": [
+                        {
+                            "link": "https://www.france24.com/en/live-news/20250113-at-least-10-dead-in-brazil-landslides",
+                            "text": "-\"At least 10 dead in Brazil landslides\". France 24. 13 January 2025. Retrieved 13 January 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-01-13",
+                                "Created": "2025-01-13"
+                            }
+                        }
+                    ],
+                    "start_date": "12/01/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A law restricting the usage of smartphones in schools nationwide comes into effect.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/smartphones-brazil-restrictions-children-bab6fd0ac6a277441bbaab235f9bbad2",
+                            "text": "-\"New Brazil law restricts use of smartphones in elementary and high schools\". AP News. 14 January 2025. Retrieved 14 January 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-01-14",
+                                "Created": "2025-01-14"
+                            }
+                        }
+                    ],
+                    "start_date": "13/01/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Six suspected bank robbers are killed in a police raid on a ranch in Ponta Grossa, Parana State.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/brazil-parana-bank-robbery-gangs-police-53d75f51e0bc35b3036f91a10a8ab97a",
+                            "text": "-\"Brazilian police kill 6 suspects in operation to dismantle bank heist gang\". AP News. 18 January 2025. Retrieved 18 January 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-01-18",
+                                "Created": "2025-01-18"
+                            }
+                        }
+                    ],
+                    "start_date": "17/01/2025",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "A Beechcraft King Air aircraft crashes into a bus in the Barra Funda district of São Paulo, killing two people.",
+                    "links": [
+                        {
+                            "link": "https://edition.cnn.com/2025/02/07/americas/brazil-sao-paulo-plane-crash-intl/index.html",
+                            "text": "-\"Two killed as small plane crashes into bus on busy road in Brazilian city of São Paulo\". CNN. 7 February 2025. Retrieved 7 February 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-07",
+                                "Created": "2025-02-07"
+                            }
+                        }
+                    ],
+                    "start_date": "07/02/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A fire guts a factory in Rio de Janeiro producing costumes for the Rio Carnival, injuring 21 people.",
+                    "links": [
+                        {
+                            "link": "https://www.france24.com/en/live-news/20250212-fire-at-rio-de-janeiro-carnival-costume-factory-injures-21",
+                            "text": "-\"Fire at Rio de Janeiro Carnival costume factory injures 21\". France 24. 12 February 2025. Retrieved 13 February 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-13",
+                                "Created": "2025-02-12"
+                            }
+                        }
+                    ],
+                    "start_date": "12/02/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A light aircraft crashes in Quadra, São Paulo, killing two people.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/brazil-sao-paulo-plane-crash-1114211f2a09415a81110ec71e384a2d",
+                            "text": "-\"Small plane crashes in Brazil's Sao Paulo state, killing two\". AP News. 15 February 2025. Retrieved 16 February 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-16",
+                                "Created": "2025-02-15"
+                            }
+                        }
+                    ],
+                    "start_date": "15/02/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Brazilian investigation into Elon Musk Supreme Federal Court justice Alexandre de Moraes imposes a fine of 8.1 million Brazilian reais ($1.4 million) on X for refusing to provide registration data for a profile attributed to an ally of former President Jair Bolsonaro accused of spreading disinformation.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/brazil-supreme-court-x-social-media-alexandre-de-moraes-free-speech-3df6deba4d34a6bbddfde77cbf5719b9",
+                            "text": "-\"Brazil's top court justice orders X to pay $1.4 million fine for non-compliance\". AP News. 21 February 2025. Retrieved 21 February 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-21",
+                                "Created": "2025-02-21"
+                            }
+                        }
+                    ],
+                    "start_date": "19/02/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A bus carrying students of the University of Franca collides with a truck near Nuporanga, São Paulo, killing 12 people and injuring 21 others.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/brazil-sao-paulo-bus-crash-0aa742559826a6768211dbce968c239c",
+                            "text": "-\"12 university students killed when their bus and a truck collide in Brazil\". AP News. 21 February 2025. Retrieved 21 February 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-21",
+                                "Created": "2025-02-21"
+                            }
+                        }
+                    ],
+                    "start_date": "20/02/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Supreme Federal Court justice Alexandre de Moraes orders the suspension of Rumble for refusing to remove the account of an ally of former President Jair Bolsonaro accused of spreading disinformation and failing to name a legal representative in Brazil.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/brazil-supreme-court-rumble-blocked-c45ab801d5bb23e6d9b2271bdcf7426e",
+                            "text": "-\"Brazil Supreme Court justice orders Rumble suspension nationwide for alleged non-compliance\". AP News. 22 February 2025. Retrieved 22 February 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-22",
+                                "Created": "2025-02-22"
+                            }
+                        }
+                    ],
+                    "start_date": "21/02/2025",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "I'm Still Here, directed by Walter Salles, becomes the first Brazilian film to win at the Academy Awards after being recognized as Best International Feature Film.",
+                    "links": [
+                        {
+                            "link": "https://www.france24.com/en/live-news/20250303-first-oscar-for-brazil-adds-zest-to-rio-carnival-extravaganza",
+                            "text": "-\"First Oscar for Brazil adds zest to Rio Carnival extravaganza\". France 24. 3 March 2025. Retrieved 3 March 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-03-03",
+                                "Created": "2025-03-03"
+                            }
+                        }
+                    ],
+                    "start_date": "02/03/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "School closures are implemented in parts of Rio Grande do Sul due to a heatwave.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/brazil-heat-wave-extreme-weather-climate-change-c9cc186e203c8ad00e49159ba1af390c",
+                            "text": "-\"Heat wave in southern Brazil prompts five cities to suspend classes\". AP News. 7 March 2025. Retrieved 12 March 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-03-12",
+                                "Created": "2025-03-07"
+                            }
+                        }
+                    ],
+                    "start_date": "06/03/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Four people are killed in a fire at a homeless shelter in Sao Jose dos Campos.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/brazil-fire-sao-paulo-homeless-shelter-d286f9d23f4a7b26a8ff2dc9a4f91319",
+                            "text": "-\"A fire at a homeless shelter in Brazil kills 4 people\". AP News. 12 March 2025. Retrieved 12 March 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-03-12",
+                                "Created": "2025-03-12"
+                            }
+                        }
+                    ],
+                    "start_date": "10/03/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The National Civil Aviation Agency of Brazil suspends the operating license of Voepass over the crash of Voepass Flight 2283 in 2024.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/brazil-airliner-voepass-license-suspension-5b2029de7b3b5ffcdf59449de3e4599d",
+                            "text": "-\"Brazilian authorities suspend the airline involved in last year's crash that killed 62\". AP News. 12 March 2025. Retrieved 12 March 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-03-12",
+                                "Created": "2025-03-12"
+                            }
+                        }
+                    ],
+                    "start_date": "11/03/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Aleson Cristiano de Oliveira Fonseca and Fabio Pirineus da Silva are sentenced to up to 23 years' imprisonment over the murder of Moïse Mugenyi Kabagambe in 2022.",
+                    "links": [
+                        {
+                            "link": "https://www.france24.com/en/live-news/20250315-brazilians-sentenced-in-beating-death-of-congolese-migrant",
+                            "text": "-\"Brazilians sentenced in beating death of Congolese migrant\". France 24. 16 March 2025. Retrieved 16 March 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-03-16",
+                                "Created": "2025-03-16"
+                            }
+                        }
+                    ],
+                    "start_date": "15/03/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "30  2025 Copa América de Futsal Femenina",
+                    "links": [
+                        {
+                            "link": "https://ge.globo.com/futsal/noticia/2024/09/17/brasil-sediara-copa-america-de-futsal-feminino-em-2025.ghtml",
+                            "text": "-\"Brasil sediará Copa América de Futsal Feminino em 2025\" [Brazil will host the Women's Futsal Copa América in 2025.]. ge.globo.com (in Portuguese). 17 September 2024. Retrieved 18 September 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-09-18",
+                                "Created": "2024-09-17"
+                            }
+                        },
+                        {
+                            "link": "https://fcf.com.co/2024/09/17/la-conmebol-confirma-el-calendario-de-competencia-para-el-2025/",
+                            "text": "-\"La CONMEBOL confirma el calendario de competencia para el 2025\" [CONMEBOL confirms the competition schedule for 2025.]. fcf.com.co (in Spanish). Colombian Football Federation. 17 September 2024. Retrieved 18 September 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-09-18",
+                                "Created": "2024-09-17"
+                            }
+                        }
+                    ],
+                    "start_date": "22/03/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The federal government issues an apology over the discovery in 1990 of a mass grave in the Cemitério de Perus in which people killed during the Brazilian military dictatorship were secretly buried.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/brazil-apology-families-victims-military-dictatorship-fbffe1982708904fc45d3c40fcd03d06",
+                            "text": "-\"Brazil apologizes to families of victims of military dictatorship's mass grave\". AP News. 25 March 2025. Retrieved 25 March 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-03-25",
+                                "Created": "2025-03-25"
+                            }
+                        }
+                    ],
+                    "start_date": "24/03/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Supreme Federal Court orders former President Jair Bolsonaro and seven of his associates to stand trial over the 2022 Brazilian coup plot.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/brazil-jair-bolsonaro-supreme-court-trial-80e98eba0b7868580f78916850200c8d",
+                            "text": "-\"Brazil ex-President Bolsonaro will stand trial over an alleged coup plan. Here's what happens next\". AP News. 27 March 2025. Retrieved 28 March 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-03-28",
+                                "Created": "2025-03-27"
+                            }
+                        }
+                    ],
+                    "start_date": "26/03/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Brazilian government admits that the Brazilian Intelligence Agency had conducted espionage on Paraguayan officials during the presidency of Jair Bolsonaro.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/brazil-paraguay-lula-bolsonaro-spying-38a1e180518c6bb8dea17132b09a071d",
+                            "text": "-\"Brazil's government admits to spying on Paraguay during Bolsonaro's presidency\". AP News. 31 March 2025. Retrieved 1 April 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-04-01",
+                                "Created": "2025-03-31"
+                            }
+                        }
+                    ],
+                    "start_date": "31/03/2025",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "A bus carrying students and faculty of the Federal University of Santa Maria crashes in Imigrante, Rio Grande do Sul, killing seven people.",
+                    "links": [
+                        {
+                            "link": "https://english.news.cn/20250405/63cc0c9559c048c2b37a31e9827db03c/c.html",
+                            "text": "-Hughes, Eléonore (4 April 2025). \"Bus crash in southeastern Brazil kills at least 11, including 2 children\". Xinhua. Retrieved 9 April 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-04-09",
+                                "Created": "2025-04-04"
+                            }
+                        }
+                    ],
+                    "start_date": "04/04/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A bus overturns in Araguari, Minas Gerais, killing 11 people.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/brazil-bus-crash-ribeirao-preto-4dbe13532a45e1377679f95b17eea672",
+                            "text": "-Hughes, Eléonore (8 April 2025). \"Bus crash in southeastern Brazil kills at least 11, including 2 children\". AP News. Retrieved 8 April 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-04-08",
+                                "Created": "2025-04-08"
+                            }
+                        }
+                    ],
+                    "start_date": "08/04/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Juscelino Filho resigns as communications minister after charges of corruption are filed against him over the misuse of public funds in a road paving project when he was a federal deputy for Maranhão.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/brazil-lula-minister-corruption-21c2215edad2e940c5b4e84fa027a1db",
+                            "text": "-\"Brazilian government minister resigns after being charged with corruption\". AP News. 9 April 2025. Retrieved 9 April 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-04-09",
+                                "Created": "2025-04-09"
+                            }
+                        }
+                    ],
+                    "start_date": "08/04/2025",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "July",
+            "Data": [
+                {
+                    "event_text": "67 July  17th BRICS summit in Rio de Janeiro.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/brazil-brics-summit-rio-ea1ad30cd114143d91840a37f96725ee",
+                            "text": "-\"Brazil to host next BRICS summit in Rio de Janeiro in July\". AP News. 16 February 2025. Retrieved 16 February 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-16",
+                                "Created": "2025-02-16"
+                            }
+                        }
+                    ],
+                    "start_date": "07/07/2025",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

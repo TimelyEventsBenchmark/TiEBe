@@ -1,0 +1,776 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "Special Secretary for Culture under the auspices of the Ministry of Tourism, Roberto Alvim, is fired after appearing to quote a speech by Nazi propagandist Joseph Goebbels in a government-sanctioned video.",
+                    "links": [
+                        {
+                            "link": "http://www.turismo.gov.br/%C3%BAltimas-not%C3%ADcias/13141-nota-%C3%A0-imprensa-integra%C3%A7%C3%A3o-turismo-e-cultura.html",
+                            "text": "-\"NOTA À IMPRENSA - Integração Turismo e Cultura - Ministério do Turismo\" [NOTE TO THE PRESS - Tourism and Culture Integration - Ministry of Tourism] (in Brazilian Portuguese). Archived from the original on 2019-11-14. Retrieved 2019-11-22.-",
+                            "dates": {
+                                "Archieved": "2019-11-14",
+                                "Retrieved": "2019-11-22",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20191114013327/http://www.turismo.gov.br/%C3%BAltimas-not%C3%ADcias/13141-nota-%C3%A0-imprensa-integra%C3%A7%C3%A3o-turismo-e-cultura.html",
+                            "text": "-\"NOTA À IMPRENSA - Integração Turismo e Cultura - Ministério do Turismo\" [NOTE TO THE PRESS - Tourism and Culture Integration - Ministry of Tourism] (in Brazilian Portuguese). Archived from the original on 2019-11-14. Retrieved 2019-11-22.-",
+                            "dates": {
+                                "Archieved": "2019-11-14",
+                                "Retrieved": "2019-11-22",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://www.cnn.com/2020/01/17/americas/brazil-culture-minister-goebbels-intl-scli/index.html",
+                            "text": "-Vasco Cotovio; Jack Guy (17 January 2020). \"Brazil's culture secretary fired after appearing to quote Nazi leader Joseph Goebbels in a video\". CNN. Retrieved 2020-01-18.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-01-17",
+                                "Created": "2020-01-18"
+                            }
+                        }
+                    ],
+                    "start_date": "17/01/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Journalist Glenn Greenwald (The Intercept) is charged with cybercrimes in connection to leaking telephone calls, audio, and text messages of prosecutors and other public officials in 2019.",
+                    "links": [
+                        {
+                            "link": "https://www.commondreams.org/news/2020/01/21/beyond-disturbing-right-wing-bolsonaro-government-charges-journalist-glenn-greenwald",
+                            "text": "-'Beyond Disturbing': Right-Wing Bolsonaro Government Charges Journalist Glenn Greenwald With Cybercrimes byEoin Higgins, Common Dreams, 21 Jan 2020-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "21/01/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Subtropical Storm Kurumí forms.",
+                    "links": [
+                        {
+                            "link": "https://www.climatempo.com.br/noticia/2020/01/24/tempestade-subtropical-kurumi-se-forma-no-atlantico-sul-1492",
+                            "text": "-\"Tempestade subtropical Kurumí se forma no Atlântico Sul\". Climatempo.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "23/01/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Heavy rains in Belo Horizonte and the metropolitan region leave at least 30 dead, 17 missing, and at least 2,500 evacuated from their homes.",
+                    "links": [
+                        {
+                            "link": "https://g1.globo.com/mg/minas-gerais/ao-vivo/chuva-forte-provoca-transtornos-e-alagamentos-na-grande-bh.ghtml",
+                            "text": "-\"Defesa Civil confirma 44 mortes por causa da chuva em MG\". G1 (in Portuguese). 27 January 2020. Retrieved 27 January 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-01-27",
+                                "Created": "2020-01-27"
+                            }
+                        },
+                        {
+                            "link": "https://www.bbc.com/news/world-latin-america-51254669",
+                            "text": "-Brazil floods: Dozens dead in severe Minas Gerais rainstorms BBC, 26 Jan 2020-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "24/01/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The United States Department of Homeland Security (DHS) says that it has started sending Brazilians back into Mexico as increasing numbers seek asylum in the U.S.",
+                    "links": [
+                        {
+                            "link": "https://www.aljazeera.com/news/2020/01/forcing-asylum-seekers-brazil-wait-mexico-200129233512595.html",
+                            "text": "-US now forcing asylum seekers from Brazil to wait in Mexico Archived 2020-02-04 at the Wayback Machine Al Jazeera, 29 Jan 2020-",
+                            "dates": {
+                                "Archieved": "2020-02-04",
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20200204160348/https://www.aljazeera.com/news/2020/01/forcing-asylum-seekers-brazil-wait-mexico-200129233512595.html",
+                            "text": "-US now forcing asylum seekers from Brazil to wait in Mexico Archived 2020-02-04 at the Wayback Machine Al Jazeera, 29 Jan 2020-",
+                            "dates": {
+                                "Archieved": "2020-02-04",
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "29/01/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "Floods cause the main roads in São Paulo and the metropolitan region to close, resulting in interruptions in public transport and the cancellation of schools.",
+                    "links": [
+                        {
+                            "link": "https://www1.folha.uol.com.br/cotidiano/2020/02/chuva-leva-escolas-de-sp-a-cancelarem-aulas.shtml",
+                            "text": "-\"Chuva leva escolas de SP a cancelarem aulas\". Folha de S. Paulo. 10 February 2020. Retrieved 19 February 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-02-19",
+                                "Created": "2020-02-10"
+                            }
+                        }
+                    ],
+                    "start_date": "10/02/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Ministry of Health warns of a possible dengue epidemic, after 57,485 cases were reported between January and February.",
+                    "links": [
+                        {
+                            "link": "https://brasil.elpais.com/brasil/2020-02-13/dengue-coloca-o-brasil-na-mira-de-um-novo-surto-em-meio-a-preocupacao-com-o-coronavirus.html",
+                            "text": "-\"Dengue coloca o Brasil na mira de um novo surto em meio a preocupação com o coronavírus\". El País. 13 February 2020. Retrieved 19 February 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-02-19",
+                                "Created": "2020-02-13"
+                            }
+                        }
+                    ],
+                    "start_date": "13/02/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "-24 147 homicides are recorded in Ceará, while military police carry out riots.",
+                    "links": [
+                        {
+                            "link": "https://g1.globo.com/ce/ceara/noticia/2020/02/21/ceara-tem-51-homicidios-em-48-horas-durante-motim-da-policia-militar-media-e-de-6-casos.ghtml",
+                            "text": "-\"Ceará tem 51 assassinatos em 48 horas de motim da Polícia Militar\". G1. February 21, 2020. Retrieved February 21, 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-02-21",
+                                "Created": "2020-02-21"
+                            }
+                        }
+                    ],
+                    "start_date": "18/02/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Senator Cid Gomes is shot in Sobral, Ceará during a riot carried out by the Military Police.",
+                    "links": [
+                        {
+                            "link": "https://g1.globo.com/ce/ceara/noticia/2020/02/19/senador-cid-gomes-tenta-entrar-em-batalhao-da-policia-com-retroescavadeira-e-e-baleado-com-tiro-de-bala-de-borracha.ghtml",
+                            "text": "-\"Senador Cid Gomes tenta entrar em batalhão da polícia com retroescavadeira e é baleado\". G1. 19 February 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2020-02-19"
+                            }
+                        }
+                    ],
+                    "start_date": "19/02/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The United States of America resumes importing fresh beef from Brazil after a 3 year suspension due to problems with the application of the foot-and-mouth disease vaccine.",
+                    "links": [
+                        {
+                            "link": "https://g1.globo.com/economia/agronegocios/noticia/2020/02/21/estados-unidos-reabrem-mercado-para-a-carne-bovina-in-natura-do-brasil-diz-governo.ghtml",
+                            "text": "-\"Estados Unidos reabrem mercado para a carne bovina in natura do Brasil\". G1. 21 February 2020. Retrieved 21 February 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-02-21",
+                                "Created": "2020-02-21"
+                            }
+                        }
+                    ],
+                    "start_date": "21/02/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "After 20 days on strike, oil workers suspend the act after an agreement with the Superior Labor Court.",
+                    "links": [
+                        {
+                            "link": "https://g1.globo.com/economia/noticia/2020/02/21/ministro-do-tst-diz-que-petrobras-e-trabalhadores-chegaram-a-acordo-para-por-fim-a-greve.ghtml",
+                            "text": "-\"Ministro do TST anuncia acordo entre Petrobras e trabalhadores para pôr fim à greve\". G1. 21 February 2020. Retrieved 21 February 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-02-21",
+                                "Created": "2020-02-21"
+                            }
+                        }
+                    ],
+                    "start_date": "21/02/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Ministry of Health confirms the first case of coronavirus in Brazil. A 61-year-old man from São Paulo, became infected during a trip to Italy between  and 21.",
+                    "links": [
+                        {
+                            "link": "http://conselho.saude.gov.br/ultimas-noticias-cns/1042-brasil-confirma-primeiro-caso-do-novo-coronavirus-porem-nao-ha-motivo-para-panico",
+                            "text": "-\"Brasil confirma primeiro caso do novo coronavírus, porém não há motivo para pânico\". Conselho Nacional de Saúde. 27 February 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2020-02-27"
+                            }
+                        }
+                    ],
+                    "start_date": "26/02/2020",
+                    "end_date": "09/02/2020"
+                },
+                {
+                    "event_text": "The ship Anna Karoline III sinks in the south of Amapá, leaving 42 dead.",
+                    "links": [
+                        {
+                            "link": "https://noticias.r7.com/cidades/mpf-amapa-denuncia-seis-pessoas-pelo-naufragio-do-anna-karoline-3-09062021",
+                            "text": "-\"MPF-Amapá denuncia seis pessoas pelo naufrágio do Anna Karoline 3\". R7. 8 June 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2021-06-08"
+                            }
+                        }
+                    ],
+                    "start_date": "29/02/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "Rain and landslides in Baixada Santista leave at least 27 people dead and 22 missing.",
+                    "links": [
+                        {
+                            "link": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2020/03/04/numero-de-mortes-por-chuva-na-baixada-santista.htm",
+                            "text": "-\"Sobe o número de mortos por chuva na Baixada Santista\". UOL. 4 March 2020. Retrieved 4 March 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-03-04",
+                                "Created": "2020-03-04"
+                            }
+                        }
+                    ],
+                    "start_date": "02/03/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Ronaldinho Gaúcho and his brother Assis are detained in Asunción, Paraguay for using fake passports.",
+                    "links": [
+                        {
+                            "link": "https://www.opovo.com.br/esportes/futebol/2020/03/07/ronaldinho-gaucho-e-assis-sao-presos-apos-ordem-da-justica-do-paraguai.html",
+                            "text": "-\"Ronaldinho Gaúcho e Assis são presos após ordem da Justiça do Paraguai\" (in Portuguese). O Povo. 7 March 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2020-03-07"
+                            }
+                        }
+                    ],
+                    "start_date": "04/03/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A Paraguayan court issues an arrest order against Ronaldinho and his brother Assis.",
+                    "links": [
+                        {
+                            "link": "https://www.opovo.com.br/esportes/futebol/2020/03/07/ronaldinho-gaucho-e-assis-sao-presos-apos-ordem-da-justica-do-paraguai.html",
+                            "text": "-\"Ronaldinho Gaúcho e Assis são presos após ordem da Justiça do Paraguai\" (in Portuguese). O Povo. 7 March 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2020-03-07"
+                            }
+                        }
+                    ],
+                    "start_date": "06/03/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "For the first time, the US Dollar reaches 5.00 Brazilian Reals, due to the COVID-19 pandemic.",
+                    "links": [
+                        {
+                            "link": "https://www.em.com.br/app/noticia/economia/2020/03/12/internas_economia,1128167/dolar-bate-r-5-pela-primeira-vez-na-historia-do-plano-real.shtml",
+                            "text": "-Iracema Amaral. \"Dólar bate R$ 5 pela primeira vez na história do Plano Real\". Estado de Minas. Retrieved 10 April 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-04-10",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "12/03/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The São Paulo Health Department confirms the first death from the new coronavirus in Brazil. A 62-year-old man, who lived in the state capital and had diabetes, hypertension, and prostatic hyperplasia.",
+                    "links": [
+                        {
+                            "link": "https://www.em.com.br/app/noticia/nacional/2020/03/17/interna_nacional,1129628/brasil-tem-primeira-morte-por-coronavirus.shtml",
+                            "text": "-\"Brasil tem primeira morte por coronavírus\". Estado de Minas. 17 March 2020. Retrieved 10 April 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-04-10",
+                                "Created": "2020-03-17"
+                            }
+                        }
+                    ],
+                    "start_date": "17/03/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The CBF orders the suspension of the Copa do Brasil, Copa do Nordeste, Brazilian Women's Football Championship, the Brazilian U-17 Championship, and the Brazilian U-20 Cup, due to the new coronavirus pandemic. The State Championships are also suspended.",
+                    "links": [
+                        {
+                            "link": "https://www.mg.superesportes.com.br/app/noticias/futebol/futebol-nacional/2020/03/17/noticia_futebol_nacional,3841122/pandemia-do-novo-coronavirus-afeta-25-dos-27-estaduais-no-brasil.shtml",
+                            "text": "-\"Pandemia do novo coronavírus afeta 25 dos 27 campeonatos estaduais no Brasil\". Superesportes. 17 March 2020. Retrieved 28 April 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-04-28",
+                                "Created": "2020-03-17"
+                            }
+                        }
+                    ],
+                    "start_date": "17/03/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "Luiz Henrique Mandetta is fired as Minister of Health and oncologist Nelson Teich is appointed to the position.",
+                    "links": [
+                        {
+                            "link": "https://g1.globo.com/politica/noticia/2020/04/16/mandetta-anuncia-em-rede-social-que-foi-demitido-do-ministerio-da-saude.ghtml",
+                            "text": "-\"Mandetta anuncia em rede social que foi demitido por Bolsonaro do Ministério da Saúde\". G1 (in Brazilian Portuguese). Retrieved 2020-12-20.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-12-20",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "16/04/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Sergio Moro resigns from the Ministry of Justice and Public Security and criticizes President Jair Bolsonaro, accusing him of political interference within the Federal Police. Hours later, Bolsonaro refutes the former minister by stating that he asked him to change command of the PF after Moro was nominated to the Supreme Federal Court. After the speech, Moro discusses the personal conversations he had with the President.",
+                    "links": [
+                        {
+                            "link": "https://g1.globo.com/politica/noticia/2020/04/24/moro-anuncia-demissao-do-ministerio-da-justica-e-deixa-o-governo-bolsonaro.ghtml",
+                            "text": "-\"Ex-juiz Sergio Moro anuncia demissão do Ministério da Justiça e deixa o governo Bolsonaro\". G1. Globo. Retrieved 24 April 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-04-24",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://www.correiobraziliense.com.br/app/noticia/politica/2020/04/24/interna_politica,847906/bolsonaro-faz-pronunciamento-e-diz-que-restabelecera-a-verdade-ve.shtml",
+                            "text": "-\"Bolsonaro faz pronunciamento e diz que restabelecerá a verdade; veja\". Correio Braziliense. Retrieved 24 April 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-04-24",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://g1.globo.com/politica/noticia/2020/04/24/moro-exibe-troca-de-mensagens-em-que-bolsonaro-cobra-mudanca-no-comando-da-pf.ghtml",
+                            "text": "-\"Moro exibe troca de mensagens em que Bolsonaro cobra mudança no comando da PF\" (in Brazilian Portuguese). G1.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://br.reuters.com/article/topNews/idBRKCN2270O9-OBRTP",
+                            "text": "-\"Bolsonaro e Moro trocam farpas no Twitter depois de ex-ministro expor conversa com presidente\". Reuters (in Portuguese). 2020-04-25.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2020-04-25"
+                            }
+                        }
+                    ],
+                    "start_date": "24/04/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "May",
+            "Data": [
+                {
+                    "event_text": "Brazil reaches the 100,000 mark of confirmed COVID-19 cases.",
+                    "links": [
+                        {
+                            "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2020-05/brasil-ultrapassa-100-mil-casos-confirmados-de-covid-19",
+                            "text": "-\"Brasil ultrapassa 100 mil casos confirmados de covid-19\". Agência Brasil (in Brazilian Portuguese). 2020-05-03. Retrieved 2020-06-16.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-06-16",
+                                "Created": "2020-05-03"
+                            }
+                        }
+                    ],
+                    "start_date": "03/05/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Nelson Teich resigns as the Minister of Health.",
+                    "links": [
+                        {
+                            "link": "https://brasil.elpais.com/brasil/2020-05-15/brasil-perde-segundo-ministro-da-saude-sob-pressao-de-bolsonaro-para-abrir-economia-e-por-uso-da-cloroquina.html",
+                            "text": "-Beatriz Jucá (2020-05-15). \"Brasil perde segundo ministro da Saúde sob pressão de Bolsonaro para abrir economia e por uso da cloroquina\" (in Brazilian Portuguese). El País Brasil. Retrieved 2023-01-27.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-01-27",
+                                "Created": "2020-05-15"
+                            }
+                        }
+                    ],
+                    "start_date": "15/05/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "General Eduardo Pazuello assumes the position of Health Minister.",
+                    "links": [
+                        {
+                            "link": "https://www.poder360.com.br/governo/eduardo-pazuello-assume-como-titular-no-ministerio-da-saude/",
+                            "text": "-\"Eduardo Pazuello assume como titular no Ministério da Saúde\" (in Brazilian Portuguese). Poder360. 2020-09-14. Retrieved 2023-01-27.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-01-27",
+                                "Created": "2020-09-14"
+                            }
+                        }
+                    ],
+                    "start_date": "16/05/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "With over 330,000 infections, Brazil overtakes Russia to become the second country with the highest confirmed number of COVID-19 cases.",
+                    "links": [
+                        {
+                            "link": "https://edition.cnn.com/2020/05/22/americas/brazil-coronavirus-cases/index.html",
+                            "text": "-\"Brazil now has the second-highest number of coronavirus cases in the world after US\". CNN. 23 May 2020. Retrieved May 23, 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-05-23",
+                                "Created": "2020-05-23"
+                            }
+                        }
+                    ],
+                    "start_date": "22/05/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "June",
+            "Data": [
+                {
+                    "event_text": "A man armed with a knife and a Bible invaded Rede Globo's headquarters in Rio de Janeiro and briefly took reporter Marina Araújo hostage. His main target was Renata Vasconcellos, the anchor of Jornal Nacional, having even demanded to speak to her, as well as shouting slogans against the broadcaster. Military police would later arrest the individual and in a later statement, Rede Globo denied that the invasion was politically motivated.",
+                    "links": [
+                        {
+                            "link": "https://veja.abril.com.br/blog/veja-gente/homem-segurando-faca-e-biblia-invade-globo-e-faz-reporter-de-refem/",
+                            "text": "-João Batista Jr. \"Homem que invadiu Globo com faca tinha Renata Vasconcellos como alvo\". Veja.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://cpj.org/2020/06/knife-wielding-man-briefly-holds-tv-globo-reporter-hostage-in-brazil/",
+                            "text": "-\"Knife-wielding man briefly holds TV Globo reporter hostage in Brazil\". CPJ. 11 June 2020. Retrieved 23 September 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-09-23",
+                                "Created": "2020-06-11"
+                            }
+                        }
+                    ],
+                    "start_date": "10/06/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Brazil reaches 1 million confirmed cases of COVID-19.",
+                    "links": [
+                        {
+                            "link": "https://www1.folha.uol.com.br/cotidiano/2020/06/brasil-tem-mais-de-1-milhao-de-casos-confirmados-de-covid-19-aponta-consorcio-de-veiculos-de-imprensa.shtml",
+                            "text": "-\"Brasil tem mais de 1 milhão de casos confirmados de Covid-19\". Folha de S.Paulo (in Portuguese). 19 June 2020. Retrieved 3 July 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-07-03",
+                                "Created": "2020-06-19"
+                            }
+                        }
+                    ],
+                    "start_date": "19/06/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A \"bomb cyclone\" leaves at least ten dead in the southern region.",
+                    "links": [
+                        {
+                            "link": "https://g1.globo.com/sc/santa-catarina/noticia/2020/07/01/ciclone-bomba-mortes-sao-registradas-em-santa-catarina.ghtml",
+                            "text": "-\"Ciclone bomba: sobe para 10 o número de mortes no Sul do país; 686,6 mil imóveis estão sem energia em SC\". G1. 1 July 2020. Retrieved 1 July 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-07-01",
+                                "Created": "2020-07-01"
+                            }
+                        }
+                    ],
+                    "start_date": "30/06/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "July",
+            "Data": [
+                {
+                    "event_text": "A constitutional amendment is promulgated to postpone municipal elections, previously scheduled for the first and last Sunday of October; to November 15 and 29 (first and second rounds), due to the COVID-19 pandemic.",
+                    "links": [
+                        {
+                            "link": "https://www12.senado.leg.br/noticias/materias/2020/07/02/congresso-oficializa-adiamento-das-eleicoes-municipais-para-novembro",
+                            "text": "-\"Congresso oficializa adiamento das eleições municipais para novembro\". Agência Senado. Senado Federal do Brasil. 2 July 2020. Retrieved 16 September 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-09-16",
+                                "Created": "2020-07-02"
+                            }
+                        }
+                    ],
+                    "start_date": "02/07/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "August",
+            "Data": [
+                {
+                    "event_text": "Governor of Rio de Janeiro, Wilson Witzel, is removed by minister of the Superior Court of Justice, Benedito Gonçalves, on charges of deviations in the health sector during the COVID-19 pandemic in Rio de Janeiro. Vice-governor Cláudio Castro, also under investigation, assumes the role of interim governor.",
+                    "links": [
+                        {
+                            "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2020/08/28/pf-cumpre-mandados-no-rj-nesta-sexta-feira.ghtml",
+                            "text": "-Arthur Guimarães; Guilherme Boisson; Leslie Leitão; Márcia Brasil; Marco Antônio Martins (28 August 2020). \"STJ afasta Witzel do cargo por suspeitas de irregularidades na saúde; vice é alvo de buscas\". G1. Retrieved 28 August 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-08-28",
+                                "Created": "2020-08-28"
+                            }
+                        }
+                    ],
+                    "start_date": "28/08/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "An earthquake with a  4.6 magnitude, hits the Recôncavo Baiano region, with an epicenter at Amargosa and Mutuípe.",
+                    "links": [
+                        {
+                            "link": "https://g1.globo.com/ba/bahia/noticia/2020/08/30/moradores-relatam-tremor-de-terra-em-varias-cidades-da-bahia.ghtml",
+                            "text": "-\"Terremoto de 4,6 de magnitude é registrado na Bahia\". g1. 30 August 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2020-08-30"
+                            }
+                        }
+                    ],
+                    "start_date": "30/08/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "September",
+            "Data": [
+                {
+                    "event_text": "Record fires occur in the Pantanal.",
+                    "links": [
+                        {
+                            "link": "https://www1.folha.uol.com.br/ambiente/2020/09/setembro-tem-recorde-historico-de-queimadas-no-pantanal.shtml",
+                            "text": "-\"Setembro tem recorde histórico de queimadas no Pantanal\". Folha de S.Paulo. 24 September 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2020-09-24"
+                            }
+                        }
+                    ],
+                    "start_date": "01/09/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "October",
+            "Data": [
+                {
+                    "event_text": "Confirmed COVID-19 cases in Brazil reach 5,000,000 and 148,300 deaths.",
+                    "links": [
+                        {
+                            "link": "https://www.cnnbrasil.com.br/saude/brasil-ultrapassa-5-milhoes-de-casos-de-covid-19/",
+                            "text": "-\"Brasil ultrapassa 5 milhões de casos de Covid-19\". CNN Brasil. 7 October 2020. Retrieved 1 January 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-01-01",
+                                "Created": "2020-10-07"
+                            }
+                        }
+                    ],
+                    "start_date": "07/10/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Subtropical Storm Mani forms.",
+                    "links": [
+                        {
+                            "link": "https://www.climatempo.com.br/noticia/2020/10/26/tempestade-subtropical-mani-se-formou-na-costa-do-sudeste-6306",
+                            "text": "-\"Tempestade subtropical Mani se formou na costa do Sudeste\". Climatempo. 2020-10-26. Retrieved 2020-10-29.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-10-29",
+                                "Created": "2020-10-26"
+                            }
+                        }
+                    ],
+                    "start_date": "26/10/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "November",
+            "Data": [
+                {
+                    "event_text": "A major blackout hits the entire state of Amapá.",
+                    "links": [
+                        {
+                            "link": "https://www.dw.com/pt-br/apag%C3%A3o-no-amap%C3%A1-uma-trag%C3%A9dia-anunciada/a-55758977",
+                            "text": "-Basso, Gustavo (30 November 2020). \"Apagão no Amapá, uma tragédia anunciada\". Deutsche Welle.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2020-11-30"
+                            }
+                        }
+                    ],
+                    "start_date": "03/11/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The first round of municipal elections take place in Brazil.",
+                    "links": [
+                        {
+                            "link": "https://www.tse.jus.br/comunicacao/noticias/2020/Novembro/eleitores-vao-as-urnas-neste-domingo-15-para-a-maior-eleicao-municipal-ja-realizada-no-brasil",
+                            "text": "-\"Eleitores vão às urnas neste domingo (15) para a maior eleição municipal já realizada no Brasil\". Tribunal Superior Eleitoral. 15 November 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2020-11-15"
+                            }
+                        }
+                    ],
+                    "start_date": "15/11/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A man named João Alberto Freitas is beaten and murdered by security guards at a Carrefour establishment in Porto Alegre.",
+                    "links": [
+                        {
+                            "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2020/11/20/homem-negro-e-espancado-ate-a-morte-em-supermercado-do-grupo-carrefour-em-porto-alegre.ghtml",
+                            "text": "-\"Homem negro é espancado até a morte em supermercado do grupo Carrefour em Porto Alegre\". g1. 20 November 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2020-11-20"
+                            }
+                        }
+                    ],
+                    "start_date": "19/11/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Several protests against the killing of João Alberto Freitas take place on Black Awareness Day.",
+                    "links": [
+                        {
+                            "link": "https://g1.globo.com/jornal-nacional/noticia/2020/11/20/morte-de-joao-alberto-provoca-protestos-em-varias-cidades.ghtml",
+                            "text": "-\"Morte de João Alberto provoca protestos em várias cidades\". G1 (in Brazilian Portuguese). 2020-11-21. Retrieved 2023-05-29.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-05-29",
+                                "Created": "2020-11-21"
+                            }
+                        }
+                    ],
+                    "start_date": "20/11/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The second round of municipal elections take place in Brazil.",
+                    "links": [
+                        {
+                            "link": "https://www.tre-se.jus.br/comunicacao/noticias/2020/Dezembro/29-de-novembro-dia-do-segundo-turno-das-eleicoes",
+                            "text": "-\"29 de novembro: dia do segundo turno das eleições\". Tribunal Superior Eleitoral. 2 December 2020. Retrieved 1 January 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-01-01",
+                                "Created": "2020-12-02"
+                            }
+                        }
+                    ],
+                    "start_date": "29/11/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "December",
+            "Data": [
+                {
+                    "event_text": "Subtropical Storm Oquira forms.",
+                    "links": [
+                        {
+                            "link": "https://metsul.com/tempestade-subtropical-oquira-se-forma/",
+                            "text": "-\"Tempestade subtropical Oquira se forma\". MetSul Meteorologia. 2020-12-28. Retrieved 2020-12-28.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-12-28",
+                                "Created": "2020-12-28"
+                            }
+                        }
+                    ],
+                    "start_date": "28/12/2020",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

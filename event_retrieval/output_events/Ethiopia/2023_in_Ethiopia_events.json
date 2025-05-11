@@ -1,0 +1,906 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "15 Amhara IDPs and civilians killed in Haro Kebele by Oromo Special Forces (regional forces).",
+                    "links": [
+                        {
+                            "link": "https://www.amharaamerica.org/post/massacre-of-amhara-idps-and-civilians-in-haro-kebele-by-oromia-special-forces-update-january-11-2023",
+                            "text": "-\"AUpdate January 11,2023 Massacre of Amhara IDPs and civilians in Haro Kebele in the Oromo region by the government Oromo Special Forces\". Amhara Association of America (AAA). 1 February 2023. Retrieved 6 March 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-03-06",
+                                "Created": "2023-02-01"
+                            }
+                        }
+                    ],
+                    "start_date": "11/01/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Ethiopian Security forces arrested and detained members of the Ethiopian Human Rights Council named, Bereket Daniel, Nahom Hussien, Daniel Tesfaye, and Bizuayehu Wendimu,",
+                    "links": [],
+                    "start_date": "12/01/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "98 civilians killed by the Oromo Liberation Army (OLA) along with other ethnic Oromo militants in multiple Amhara villages in North Shewa, Amhara Region. 155 people injured and 1,930 houses damaged (set on fire).",
+                    "links": [
+                        {
+                            "link": "https://reliefweb.int/report/ethiopia/ethiopia-epo-weekly-21-27-january-2023",
+                            "text": "-\"Ethiopia: EPO Weekly: 21–27 January 2023 – Ethiopia | ReliefWeb\". reliefweb.int. February 2023. Retrieved 9 March 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-03-09",
+                                "Created": "2023-01-27"
+                            }
+                        }
+                    ],
+                    "start_date": "20/01/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "25-episcopate was formed in Oromia and Southern Nations, Nationalities, and Peoples' Region, led by Abune Sawiros, which is condemned by the Holy Synod of the Ethiopian Orthodox Church, led by Patriarch Abune Mathias. The incident resulted in crisis in the Ethiopian Orthodox Tewahedo Church.",
+                    "links": [
+                        {
+                            "link": "https://www.aljazeera.com/program/inside-story/2023/2/12/whats-behind-the-crisis-in-ethiopias-orthodox-tewahedo-church",
+                            "text": "-\"What's behind the crisis in Ethiopia's Orthodox Tewahedo Church?\". www.aljazeera.com. Retrieved 7 August 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-08-07",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "23/01/2023",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "Ethiopian prime minister Abiy Ahmed met with officials of the Tigray People's Liberation Front for the first time since the signing of a peace treaty in November.",
+                    "links": [
+                        {
+                            "link": "https://www.rfi.fr/en/international-news/20230203-ethiopia-pm-holds-first-meeting-with-tigray-leaders-since-peace-deal",
+                            "text": "-\"Ethiopia PM holds first meeting with Tigray leaders since peace deal\". RFI. 3 February 2023. Retrieved 4 February 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-02-04",
+                                "Created": "2023-02-03"
+                            }
+                        }
+                    ],
+                    "start_date": "03/02/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Early February  3 to 8 people killed when police attacked the Ethiopian Orthodox Church in Addis Ababa.",
+                    "links": [
+                        {
+                            "link": "https://www.voanews.com/a/three-killed-in-attacks-on-ethiopian-orthodox-church-report-/6948447.html",
+                            "text": "-\"Three Killed in Attacks on Ethiopian Orthodox Church, According to Report\". VOA. 4 February 2023. Retrieved 6 March 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-03-06",
+                                "Created": "2023-02-04"
+                            }
+                        },
+                        {
+                            "link": "https://www.persecution.org/2023/02/06/three-christians-killed-by-government-forces-in-ethiopia/",
+                            "text": "-Africa, R. M. (6 February 2023). \"Three Christians Killed by Government Forces in Ethiopia\". International Christian Concern. Retrieved 9 March 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-03-09",
+                                "Created": "2023-02-06"
+                            }
+                        },
+                        {
+                            "link": "https://www.thedefensepost.com/2023/02/13/ethiopia-church-attacks/",
+                            "text": "-AFP, Staff Writer With (13 February 2023). \"Eight Killed in Ethiopia Church Attacks: Rights Body\". The Defense Post. Retrieved 9 March 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-03-09",
+                                "Created": "2023-02-13"
+                            }
+                        }
+                    ],
+                    "start_date": "03/02/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "50 ethnic Amharas killed by Oromo militants in the Oromia region.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/africa/ethiopia-commission-accuses-oromiya-rebels-killing-50-people-2023-02-15/",
+                            "text": "-\"Ethiopia commission accuses Oromiya rebels of killing 50 people\". Reuters. 21 February 2023. Retrieved 6 March 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-03-06",
+                                "Created": "2023-02-21"
+                            }
+                        }
+                    ],
+                    "start_date": "15/02/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Murle ethnic militiamen from South Sudan crossed in to Ethiopia and  killed and injured civilians in Boy kebele of the Agnewak zone in Gambela. The Murle militiamen also killed and guns were seized.",
+                    "links": [],
+                    "start_date": "25/02/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Police attacked civilians during the 127th Adwa Victory Celebrations and inside the religious congregation at the Saint George Church. At least one person shot by a security force. ReliefWeb reported that the victim is an Amhara and a civics teacher at a high school,.",
+                    "links": [
+                        {
+                            "link": "https://ehrc.org/regarding-2023-adwa-victory-day-celebration-related-incidents-ehrc-calls-for-implicated-law-enforcement-officials-to-be-subject-to-accountability/",
+                            "text": "-\"Regarding 2023 Adwa Victory Day celebration related incidents EHRC calls for implicated law enforcement officials to be subject to accountability\". Ethiopian Human Rights Commission – EHRC. 3 March 2023. Retrieved 6 March 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-03-06",
+                                "Created": "2023-03-03"
+                            }
+                        }
+                    ],
+                    "start_date": "28/02/2023",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "UN's High Commissioner stated that there needs to be tangible progress on accountability for the ongoing conflict-related violations and abuses in the country. He also calls on the implementation of the report by his Office and the Ethiopian Human Rights Commission.",
+                    "links": [
+                        {
+                            "link": "https://www.ohchr.org/en/statements-and-speeches/2023/03/global-update-high-commissioner-outlines-concerns-over-40-countries",
+                            "text": "-\"Global update: High Commissioner outlines concerns in over 40 countries\". OHCHR. Retrieved 18 March 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-03-18",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "07/03/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Human rights activist and journalist Meaza Mohammed received the 2023 International Women of Courage Award which was hosted by Department of State in Washington DC.",
+                    "links": [],
+                    "start_date": "08/03/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Secretary of State Antony Blinken visited Ethiopia and announced new U.S. Aid to \"advance\" vital steps for building peace and stability in the country.",
+                    "links": [
+                        {
+                            "link": "https://web.archive.org/web/20230317152428/https://www.usip.org/publications/2023/03/peace-ethiopia-what-should-follow-blinkens-visit",
+                            "text": "-\"Peace for Ethiopia: What Should Follow Blinken's Visit?\". United States Institute of Peace. Archived from the original on 17 March 2023. Retrieved 18 March 2023.-",
+                            "dates": {
+                                "Archieved": "2023-03-17",
+                                "Retrieved": "2023-03-18",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://www.usip.org/publications/2023/03/peace-ethiopia-what-should-follow-blinkens-visit",
+                            "text": "-\"Peace for Ethiopia: What Should Follow Blinken's Visit?\". United States Institute of Peace. Archived from the original on 17 March 2023. Retrieved 18 March 2023.-",
+                            "dates": {
+                                "Archieved": "2023-03-17",
+                                "Retrieved": "2023-03-18",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://www.pbs.org/newshour/world/watch-live-secretary-of-state-blinken-gives-remarks-during-visit-to-ethiopia",
+                            "text": "-\"Secretary of State Blinken says Ethiopia must do more on Tigray peace deal\". PBS NewsHour. 15 March 2023. Retrieved 18 March 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-03-18",
+                                "Created": "2023-03-15"
+                            }
+                        },
+                        {
+                            "link": "https://ehrc.org/encouraged-by-recognition-of-the-context-and-the-efforts-of-ehrc-chief-commissioner-on-meeting-with-us-secretary-of-state/",
+                            "text": "-\"\"Encouraged by recognition of the context and the efforts of EHRC\": Chief Commissioner on Meeting with US Secretary of State\". Ethiopian Human Rights Commission – EHRC. 16 March 2023. Retrieved 23 March 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-03-23",
+                                "Created": "2023-03-16"
+                            }
+                        }
+                    ],
+                    "start_date": "10/03/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Addis Ababa City Administration banned about 10,000 tuk-tuk (″Bajaj\") taxis. The Ethiopian Human Rights Commission published a statement explaining the rights violations and calling on the administration to lift the restrictions.",
+                    "links": [
+                        {
+                            "link": "https://ehrc.org/አዲስ-አበባ፡-የከተማ-አስተዳደሩ-ባለሦስ/",
+                            "text": "-\"አዲስ አበባ፡ የከተማ አስተዳደሩ ባለሦስት እና አራት እግር (ባጃጅ) አነስተኛ የሕዝብ ትራንስፖርት አገልግሎት ተሽከርካሪዎች ላይ ያስቀመጠውን ሙሉ እገዳ በማንሳት ለችግሮች ዘላቂ መፍትሔ ሊያመቻች ይገባል\". Ethiopian Human Rights Commission – EHRC. 16 March 2023. Retrieved 23 March 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-03-23",
+                                "Created": "2023-03-16"
+                            }
+                        },
+                        {
+                            "link": "https://addisfortune.news/addis-abeba-bans-three-wheeled-vehicles/",
+                            "text": "-Fortune, (Addis). \"Addis Abeba Bans Three-Wheeled Vehicles\". Retrieved 23 March 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-03-23",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "16/03/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Finance minister stated that minimum of USD20 billion is needed to rebuild the devastated northern part of Ethiopia which includes the Afar, Amhara and Tigray regions.",
+                    "links": [
+                        {
+                            "link": "https://www.thereporterethiopia.com/32229/",
+                            "text": "-\"Finance Minister Reveals USD 20 Billion Required For War Recovery | The Reporter | Latest Ethiopian News Today\". www.thereporterethiopia.com. 18 March 2023. Retrieved 19 March 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-03-19",
+                                "Created": "2023-03-18"
+                            }
+                        }
+                    ],
+                    "start_date": "18/03/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "ReliefWeb reported the critical needs of tens of thousands of Amhara IDPs in North Shewa and other parts of the Amhara Region. It also highlighted the widespread malaria cases in Afar— the highest in the past five years. The resumption of services in Tigray was also covered in the report.",
+                    "links": [
+                        {
+                            "link": "https://reliefweb.int/report/ethiopia/ethiopia-situation-report-20-mar-2023",
+                            "text": "-\"Ethiopia – Situation Report, 20 Mar 2023 – Ethiopia | ReliefWeb\". reliefweb.int. 20 March 2023. Retrieved 23 March 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2023-03-20"
+                            }
+                        }
+                    ],
+                    "start_date": "18/03/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "OCHA classified locations (woredas) occupied by 600,000 Amhara IDPs as hotspots.",
+                    "links": [
+                        {
+                            "link": "https://reliefweb.int/country/eth",
+                            "text": "-\"Ethiopia | ReliefWeb\". reliefweb.int. Retrieved 30 March 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-03-30",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "20/03/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Daniel Bekele, Chief Commissioner of the Ethiopian Human Rights Commission briefed UN member states at the 36th Meeting  52nd Regular Session of the Human Rights Council. He made calls to the international community to support and coordinate Transitional justice efforts in Ethiopia.",
+                    "links": [
+                        {
+                            "link": "https://ehrc.org/statement-by-chief-commissioner-daniel-bekele-36th-meeting-52nd-regular-session-of-human-rights-council/",
+                            "text": "-\"Statement by Chief Commissioner, Daniel Bekele – 36th Meeting – 52nd Regular Session of Human Rights Council\". Ethiopian Human Rights Commission – EHRC. 22 March 2023. Retrieved 23 March 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-03-23",
+                                "Created": "2023-03-22"
+                            }
+                        }
+                    ],
+                    "start_date": "22/03/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "UNHCR reported that about 100,000 new Somali refugees arrived in Ethiopia in February 2023 alone and called for urgent funding. Erupted hostilities in Laascaanood town reported as the main cause for this displacement.",
+                    "links": [
+                        {
+                            "link": "https://www.unhcr.org/en-us/news/press/2023/3/641abee34/100000-new-somali-refugees-arrive-in-ethiopia-past-month-un-partners-calling.html",
+                            "text": "-\"100,000 new Somali refugees arrive in Ethiopia in the past month, UN and partners are calling for urgent funding\". United Nations High Commissioner for Refugees. 22 March 2023. Retrieved 28 March 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-03-28",
+                                "Created": "2023-03-22"
+                            }
+                        }
+                    ],
+                    "start_date": "22/03/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "In May 2021, the Council of ministers designated the TPLF as a terrorist group. Following the peace agreement, the Parliament voted in  to remove TPLF from the list of terrorist organisations.",
+                    "links": [
+                        {
+                            "link": "https://ethiopianembassy.org/council-of-ministers-approves-resolution-designating-tplf-and-shene-as-terrorist-organizations-may-1-2021/",
+                            "text": "-\"Council Of Ministers Approves Resolution Designating TPLF And Shene As Terrorist Organizations (May 1, 2021) – Embassy of Ethiopia\". 1 May 2021. Retrieved 30 March 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-05-01",
+                                "Created": "2021-05-01"
+                            }
+                        },
+                        {
+                            "link": "https://www.bloomberg.com/news/articles/2021-05-06/ethiopia-declares-tigray-oromia-groups-terrorist-organizations",
+                            "text": "-\"Ethiopia Declares Tigray, Oromia Groups Terrorist Organizations\". Bloomberg.com. 6 May 2021. Retrieved 30 March 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-03-30",
+                                "Created": "2021-05-06"
+                            }
+                        },
+                        {
+                            "link": "https://www.reuters.com/world/africa/ethiopia-removes-terrorist-designation-dominant-tigray-party-2023-03-22/",
+                            "text": "-\"Ethiopia takes Tigray's TPLF party off terrorism list\". Reuters. 22 March 2023. Retrieved 30 March 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-03-30",
+                                "Created": "2023-03-22"
+                            }
+                        }
+                    ],
+                    "start_date": "22/03/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "OCHA reported  2,276 cholera cases in East Bale, Guji and Borena zones of Oromia and Daawa Zone of Somali regions.",
+                    "links": [
+                        {
+                            "link": "https://reliefweb.int/report/ethiopia/ethiopia-cholera-outbreak-flash-update-6-23-march-2023",
+                            "text": "-\"Ethiopia: Cholera Outbreak – Flash Update #6 (as of 23 March 2023) – Ethiopia | ReliefWeb\". reliefweb.int. 28 March 2023. Retrieved 11 May 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-05-11",
+                                "Created": "2023-03-23"
+                            }
+                        }
+                    ],
+                    "start_date": "23/03/2023",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "From   New wave of crackdown and arbitrary arrests primarily against ethnic Amhara journalists and activists by the government.",
+                    "links": [
+                        {
+                            "link": "https://cpj.org/2023/04/at-least-8-journalists-detained-amid-renewed-unrest-in-ethiopia/",
+                            "text": "-Spicer, Sarah (14 April 2023). \"At least 8 journalists detained amid renewed unrest in Ethiopia\". Committee to Protect Journalists. Retrieved 17 April 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-04-17",
+                                "Created": "2023-04-14"
+                            }
+                        },
+                        {
+                            "link": "https://ehrc.org/በሚዲያ-ጥፋት-የተጠረጠሩ-ታሳሪዎች-በሙሉ/",
+                            "text": "-\"በሚዲያ ጥፋት የተጠረጠሩ ታሳሪዎች በሙሉ ያለምንም ቅድመ ሁኔታ ከእስር ሊለቀቁ ይገባል\". Ethiopian Human Rights Commission – EHRC. 15 April 2023. Retrieved 17 April 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-04-17",
+                                "Created": "2023-04-15"
+                            }
+                        }
+                    ],
+                    "start_date": "03/04/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "From   Protests across the Amhara Region erupted following governments' announcement to disband the Amhara Regional forces. Prosperity Party has been accused of enforcing measures to disband the Amhara forces while the controversial disarmament of Tigray forces remained unresolved, and the Oromia regional forces still heavily armed. Both have been taken as major threat for the Amhara.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-africa-65194146",
+                            "text": "-\"Ethiopia's Amhara region hit by protests over move to dissolve regional forces\". BBC News. 10 April 2023. Retrieved 18 April 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-04-18",
+                                "Created": "2023-04-10"
+                            }
+                        }
+                    ],
+                    "start_date": "02/04/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "VOA reported that at least 21 fatalities, 10 severe injuries and over 5800 displacement due to flood in Gofa Zone, in the Uba Debretsehay of the SNNPR.",
+                    "links": [],
+                    "start_date": "02/04/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Based on ReliefWeb, about 24 million Ethiopians live in drought affected areas and about 11 million of them need food assistance. About 2.05 billion USD is required for the response.",
+                    "links": [
+                        {
+                            "link": "https://reliefweb.int/report/ethiopia/ethiopia-drought-snapshot-4-april-2023",
+                            "text": "-\"Ethiopia: Drought Snapshot – 4 April 2023 – Ethiopia | ReliefWeb\". reliefweb.int. 6 April 2023. Retrieved 18 April 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-04-18",
+                                "Created": "2023-04-04"
+                            }
+                        }
+                    ],
+                    "start_date": "06/04/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "ReliefWeb reported that there was at least 2624 targeted civilian fatalities from  to 2023.",
+                    "links": [
+                        {
+                            "link": "https://reliefweb.int/report/ethiopia/ethiopia-epo-weekly-1-7-april-2023",
+                            "text": "-\"Ethiopia: EPO Weekly: 1–7 April 2023 – Ethiopia | ReliefWeb\". reliefweb.int. 12 April 2023. Retrieved 18 April 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-04-18",
+                                "Created": "2023-04-07"
+                            }
+                        }
+                    ],
+                    "start_date": "07/04/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Questions re-surfaced on the legitimacy of Abiy Ahmed doctoral thesis.",
+                    "links": [
+                        {
+                            "link": "https://somalilandchronicle.com/2018/08/26/dr-plagiarizer-ethiopian-prime-minister-plagiarizes-henry-kissinger/",
+                            "text": "-Staff (26 August 2018). \"Dr Plagiarizer: Ethiopian Prime Minister Plagiarizes Henry Kissinger\". Somaliland Chronicle. Retrieved 18 April 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-04-18",
+                                "Created": "2018-08-26"
+                            }
+                        },
+                        {
+                            "link": "https://sites.tufts.edu/reinventingpeace/2023/04/12/plagiarism-in-abiy-ahmeds-phd-thesis-how-will-addis-ababa-university-handle-this",
+                            "text": "-Alex de Waal; Jan Nyssen; Gebrekirstos G. Gebremeskel; Boudewijn François Roukema; Rundassa Eshete (12 April 2023), Plagiarism in Abiy Ahmed’s PhD Thesis: How will Addis Ababa University handle this?, World Peace Foundation, Wikidata Q117600374, archived from the original on 12 April 2023-",
+                            "dates": {
+                                "Archieved": "2023-04-12",
+                                "Retrieved": null,
+                                "Created": "2023-04-12"
+                            }
+                        },
+                        {
+                            "link": "https://www.wikidata.org/wiki/Q117600374",
+                            "text": "-Alex de Waal; Jan Nyssen; Gebrekirstos G. Gebremeskel; Boudewijn François Roukema; Rundassa Eshete (12 April 2023), Plagiarism in Abiy Ahmed’s PhD Thesis: How will Addis Ababa University handle this?, World Peace Foundation, Wikidata Q117600374, archived from the original on 12 April 2023-",
+                            "dates": {
+                                "Archieved": "2023-04-12",
+                                "Retrieved": null,
+                                "Created": "2023-04-12"
+                            }
+                        },
+                        {
+                            "link": "https://archive.today/2023.04.12-131413/https://sites.tufts.edu/reinventingpeace/2023/04/12/plagiarism-in-abiy-ahmeds-phd-thesis-how-will-addis-ababa-university-handle-this",
+                            "text": "-Alex de Waal; Jan Nyssen; Gebrekirstos G. Gebremeskel; Boudewijn François Roukema; Rundassa Eshete (12 April 2023), Plagiarism in Abiy Ahmed’s PhD Thesis: How will Addis Ababa University handle this?, World Peace Foundation, Wikidata Q117600374, archived from the original on 12 April 2023-",
+                            "dates": {
+                                "Archieved": "2023-04-12",
+                                "Retrieved": null,
+                                "Created": "2023-04-12"
+                            }
+                        }
+                    ],
+                    "start_date": "12/04/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Cholera outbreak continued in the Gamo-Gofa of SNNPR region.",
+                    "links": [
+                        {
+                            "link": "https://amharic.voanews.com/a/south-Ethiopia-cholera/7069156.html",
+                            "text": "-\"በጋሞ እና በጎፋ ዞኖች በተዛመተው ኮሌራ ሰዎች እየሞቱና በብዛት እየታመሙ ናቸው\". ቪኦኤ (in Amharic). 27 April 2023. Retrieved 11 May 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-05-11",
+                                "Created": "2023-04-27"
+                            }
+                        }
+                    ],
+                    "start_date": "27/04/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Girma Yeshitila, head of Abiy's Prosperity Party was assassinated during work related travel. The Amhara blamed Abiy Ahmed for plots and assassination.",
+                    "links": [],
+                    "start_date": "27/04/2023",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "May",
+            "Data": [
+                {
+                    "event_text": "Umer Lema of the Afar Prosperity Party official was assassinated while traveling for work in the Oromia Region. VOA reported that additional 6 people including Umer's brother were also shot dead.",
+                    "links": [],
+                    "start_date": "06/05/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Ethiopian Peace Observatory (ACLD) reported on volatilities in the Amhara Region.  The region had the highest number of recorded events and fatalities due to political violence in April, with 26 events and 47 reported fatalities. Over 68% of all reported fatalities in the country were recorded in the Amhara region.",
+                    "links": [],
+                    "start_date": "06/05/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "ReliefWeb reported that close to 750 people crossed to Metema from Sudan on 9 May alone. Until , more than 17,500 people have crossed through the Metema border point since April 21.",
+                    "links": [
+                        {
+                            "link": "https://reliefweb.int/report/ethiopia/flash-update-5-impact-situation-sudan-ethiopia-10-may-2023",
+                            "text": "-\"Flash Update #5: The Impact of the Situation in Sudan on Ethiopia (As of 10 May 2023) – Ethiopia | ReliefWeb\". reliefweb.int. 10 May 2023. Retrieved 10 May 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-05-10",
+                                "Created": "2023-05-10"
+                            }
+                        }
+                    ],
+                    "start_date": "09/05/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Daniel Bekele of the EHRC provided update to the Parliament on the continued volatile situations and concerns in the Amhara Region related to the increase in human rights violations following governments' military actions.",
+                    "links": [],
+                    "start_date": "09/05/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The National Election Board of Ethiopia presented its concern to the Parliament on the issues of government authorities arresting, and abusing opposition parties and preventing them from holding meetings. The opposition parties persecuted by include Balderas for True Democracy Party, Enat Party, and Gogot or Gurage Unity and Justice Party.",
+                    "links": [
+                        {
+                            "link": "https://amharic.voanews.com/a/parliament-neb-report/7087397.html",
+                            "text": "-\"ምርጫ ቦርድ በተቃዋሚዎች ላይ የሚፈጸመው ወከባ እያወከኝ ነው ሲል መንግሥትን አማረረ\". ቪኦኤ (in Amharic). 10 May 2023. Retrieved 11 May 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-05-11",
+                                "Created": "2023-05-10"
+                            }
+                        },
+                        {
+                            "link": "https://amharic.voanews.com/a/7051979.html",
+                            "text": "-\"በሚዲያ ጥፋት የተጠረጠሩ ታሳሪዎች ያለ ቅድመ ኹኔታ እንዲለቀቁ ኢሰመኮ ጠየቀ\". ቪኦኤ (in Amharic). 15 April 2023. Retrieved 11 May 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-05-11",
+                                "Created": "2023-04-15"
+                            }
+                        },
+                        {
+                            "link": "https://amharic.voanews.com/a/6992132.html",
+                            "text": "-\"እናት ፓርቲ በጉባዔው መስተጓጎል ምክኒያት ኪሳራ እንደደረሰበት አስታወቀ\". ቪኦኤ (in Amharic). 6 March 2023. Retrieved 11 May 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-05-11",
+                                "Created": "2023-03-06"
+                            }
+                        },
+                        {
+                            "link": "https://gogot.org/",
+                            "text": "-\"Gogot: undefined\". Gogot. Retrieved 11 May 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-05-11",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://amharic.voanews.com/a/7020497.html",
+                            "text": "-\"ጎጎት ለጉራጌ አንድነት እና ፍትሕ ፓርቲ በእስር ላይ የሚገኙ አባሎቹ እንዲፈቱ ጠየቀ\". ቪኦኤ (in Amharic). 24 March 2023. Retrieved 11 May 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-05-11",
+                                "Created": "2023-03-24"
+                            }
+                        },
+                        {
+                            "link": "https://amharic.voanews.com/a/7021410.html",
+                            "text": "-\"ወልቂጤ ውስጥ ከቤት ያለመውጣት አድማ መደረጉን ነዋሪዎች ተናገሩ\". ቪኦኤ (in Amharic). 25 March 2023. Retrieved 11 May 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-05-11",
+                                "Created": "2023-03-25"
+                            }
+                        }
+                    ],
+                    "start_date": "10/05/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Four fatalities and five injuries reported in Kasagita, Awsi Rasu, Afar Region due to mortar explosion. OCHA reported the need for land marking and clearance of explosive remnant of war remain from the TPLF attacking of Afar is high. In addition over 1000 Dengue fever cases were also reported in the region.",
+                    "links": [
+                        {
+                            "link": "https://amharic.voanews.com/a/afar-abandoned-explosive-ordnance/7090995.html",
+                            "text": "-\"በአፋር ክልል የፈነዳ የሞርታር ጥይት አራት ሰዎችን ገደለ\". ቪኦኤ (in Amharic). 12 May 2023. Retrieved 13 May 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-05-13",
+                                "Created": "2023-05-12"
+                            }
+                        }
+                    ],
+                    "start_date": "12/05/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "OCHA reported that at least 18,500 have crossed the Metema, Amhara border from Sudan since 21 April, with close to 500 new arrivals on 11 May.",
+                    "links": [],
+                    "start_date": "11/05/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Over 71,000 displaced due to excessive rains between March and May mainly in Sidama, SNNP , Oromia and Somali.",
+                    "links": [],
+                    "start_date": "12/05/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "U.S. Embassy in Addis Ababa published travel restrictions to Gambela and Benishangul Gumuz Regions due to crime, kidnapping, ethnically motivated violence, and sporadic violent conflict.[citation needed]",
+                    "links": [],
+                    "start_date": "19/05/2023",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "June",
+            "Data": [
+                {
+                    "event_text": "Authorities continued demolishing Mosques in Addis Ababa. At least 3 worshippers killed by police.",
+                    "links": [],
+                    "start_date": "02/06/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Ethiopian Human Rights Commission reported imprisonment of hundreds of refugees and asylum seekers from Eritrea imprisoned.",
+                    "links": [
+                        {
+                            "link": "https://ehrc.org/በስደተኞች-እና-ጥገኝነት-ጠያቂዎች-ላይ-የ/",
+                            "text": "-Dejene, Liya (2 June 2023). \"በስደተኞች እና ጥገኝነት ጠያቂዎች ላይ የዘፈቀደ እስር ሊቆም ይገባል\". Ethiopian Human Rights Commission – EHRC. Retrieved 20 June 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-06-20",
+                                "Created": "2023-06-02"
+                            }
+                        }
+                    ],
+                    "start_date": "02/06/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "USAID said, in coordination with the Ethiopian government, that a \"widespread and coordinated campaign is diverting food assistance from the people of Ethiopia.\"",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/africa/us-suspends-food-aid-ethiopia-because-diversions-2023-06-08/",
+                            "text": "-Paravicini, Giulia (8 June 2023). \"U.S. suspends food aid to Ethiopia, says it is not reaching needy\". Reuters. Retrieved 9 June 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-06-09",
+                                "Created": "2023-06-08"
+                            }
+                        },
+                        {
+                            "link": "https://www.aljazeera.com/news/2023/6/9/like-us-un-suspends-ethiopia-food-aid-over-diversion-of-supplies",
+                            "text": "-\"Like US, UN suspends Ethiopia food aid over diversion of supplies\". www.aljazeera.com. Retrieved 30 June 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-06-30",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "08/06/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Birtukan Mideksa, chairwoman of the National Election Board of Ethiopia since 2018  announced her resignation.",
+                    "links": [
+                        {
+                            "link": "https://www.dw.com/am/%E1%8B%A8%E1%8D%96%E1%88%88%E1%89%B2%E1%8A%A8%E1%8A%9E%E1%89%BD-%E1%8A%A0%E1%88%B5%E1%89%B0%E1%8B%AB%E1%8B%A8%E1%89%B5-%E1%88%A5%E1%88%88-%E1%89%A5%E1%88%AD%E1%89%B1%E1%8A%AB%E1%8A%95-%E1%88%9A%E1%8B%B4%E1%89%85%E1%88%B3/a-66047820",
+                            "text": "-Welle (www.dw.com), Deutsche. \"የፖለቲከኞች አስተያየት ሥለ ብርቱካን ሚዴቅሳ | DW | 27.06.2023\". DW.COM (in Amharic). Retrieved 30 June 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-06-30",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "25/06/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "ReliefWeb reported that the security in situation in the Amhara Region remains volatile and there are about 583.5K IDPs across the region, including 245K school-age (318) children. At least 4086 schools are damaged and unable to resume the education process. As of , 902K children remain out of school, from both IDPs and host community.",
+                    "links": [
+                        {
+                            "link": "https://reliefweb.int/report/ethiopia/ethiopia-education-cluster-quarterly-newsletter-april-june-2023",
+                            "text": "-\"Ethiopia Education Cluster Quarterly Newsletter April – June 2023 – Ethiopia | ReliefWeb\". reliefweb.int. 17 July 2023. Retrieved 21 July 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-07-21",
+                                "Created": "2023-07-17"
+                            }
+                        }
+                    ],
+                    "start_date": "30/06/2023",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "July",
+            "Data": [
+                {
+                    "event_text": "OCHA reported that Cholera outbreak continues spreading across 74 woredas in Oromia, Somali, Sidama and SNNPR for almost a year.",
+                    "links": [
+                        {
+                            "link": "https://reliefweb.int/country/eth",
+                            "text": "-\"Ethiopia | ReliefWeb\". reliefweb.int. 14 July 2023. Retrieved 21 July 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-07-21",
+                                "Created": "2023-07-14"
+                            }
+                        }
+                    ],
+                    "start_date": "14/07/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Abiy Ahmed's regime continued deporting Eritrean refugees from Ethiopia. UN urged the government to stop detaining, and deporting asylum seekers and migrants.",
+                    "links": [
+                        {
+                            "link": "https://www.aljazeera.com/news/2023/7/13/un-experts-urge-ethiopia-to-stop-deporting-detaining-eritreans",
+                            "text": "-\"UN experts urge Ethiopia to stop deporting, detaining Eritreans\". www.aljazeera.com. Retrieved 21 July 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-07-21",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "15/07/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "VOA Amharic published that curfew is imposed in Gambela due to the renewed ethnic violence that led to killing of unspecified number of people, property destruction and civilians displacements.",
+                    "links": [],
+                    "start_date": "20/07/2023",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "August",
+            "Data": [
+                {
+                    "event_text": "Fano and ENDF began intense clashes in Debre Tabor and Kobo.",
+                    "links": [
+                        {
+                            "link": "https://borkena.com/2023/08/01/fano-defense-force-media-those-who-are-profiteering-in-the-name-of-fano/",
+                            "text": "-Account (2 August 2023). \"Defense Force warns media, those who are profiteering in the name of FANO\". Borkena Ethiopian News. Retrieved 7 August 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-08-07",
+                                "Created": "2023-08-02"
+                            }
+                        },
+                        {
+                            "link": "https://crisis24.garda.com/alerts/2023/08/ethiopia-increased-tensions-likely-in-amhara-region-through-late-august-amid-ongoing-military-operations",
+                            "text": "-\"Ethiopia: Increased tensions likely in Amhara Region through late August amid ongoing military operations\". Ethiopia: Increased tensions likely in Amhara Region through late August amid ongoing military operations | Crisis24. Retrieved 7 August 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-08-07",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "01/08/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Sudanese state of El Gedaref closes its border with Ethiopia after heavy fighting break out between Fano militia men and the Ethiopian army in the Amhara region.",
+                    "links": [
+                        {
+                            "link": "https://sudantribune.net/article275734/",
+                            "text": "-mozdapress (3 August 2023). \"السودان يعلق السفر إلى إثيوبيا براً بعد نشوب معارك في \"بحر دار\"\". سودان تربيون (in Arabic). Retrieved 4 August 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-08-04",
+                                "Created": "2023-08-03"
+                            }
+                        }
+                    ],
+                    "start_date": "04/08/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Due to the clashes between Fano and ENDF, the Ethiopian government declared a six-month state of emergency in the Amhara Region. The war was waged by Abiy Ahmed in April 2023 with measures to consolidate power by dissolving the Fano militia and Amhara Special Forces in the Amhara region. Series of peaceful protests were held following this announcement that led to war between Fano and the Ethiopian government.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/africa/ethiopia-declares-state-emergency-following-militia-clashes-2023-08-04/",
+                            "text": "-Endeshaw, Dawit (4 August 2023). \"Ethiopia declares six-month state of emergency in Amhara after clashes\". Reuters. Retrieved 4 August 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-08-04",
+                                "Created": "2023-08-04"
+                            }
+                        }
+                    ],
+                    "start_date": "04/08/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Four people are killed and twenty are injured in a grenade attack by a former TDF combatant in Mekelle, Tigray.",
+                    "links": [
+                        {
+                            "link": "https://borkena.com/2023/08/26/tigray-four-reportedly-killed-in-grenade-attack/",
+                            "text": "-Account (27 August 2023). \"Tigray : Four reportedly killed in grenade attack\". Borkena Ethiopian News. Retrieved 30 August 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-08-30",
+                                "Created": "2023-08-27"
+                            }
+                        }
+                    ],
+                    "start_date": "26/08/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The United Nations reports that at least 183 people have been killed during recent clashes between Fano militiamen and security forces in Amhara Region.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/africa/fighting-ethiopias-amhara-kills-least-183-un-says-2023-08-29/",
+                            "text": "-\"Fighting in Ethiopia's Amhara kills at least 183, UN says\". Reuters. 29 August 2023. Retrieved 30 August 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-08-30",
+                                "Created": "2023-08-29"
+                            }
+                        }
+                    ],
+                    "start_date": "29/08/2023",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "November",
+            "Data": [
+                {
+                    "event_text": "USAID announces the resumption of food aid distribution to Ethiopia following an agreement with the Ethiopian government on enhanced monitoring measures. USAID suspended aid delivery in June due to allegations of diversion.",
+                    "links": [
+                        {
+                            "link": "https://tribune.net.ph/2023/11/us-says-to-resume-food-aid-across-ethiopia-after-monitoring-agreement/",
+                            "text": "-\"US says to resume food aid across Ethiopia after monitoring agreement\". Daily Tribune. Agence France-Presse. 15 November 2023. Retrieved 15 November 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-11-15",
+                                "Created": "2023-11-15"
+                            }
+                        }
+                    ],
+                    "start_date": "14/11/2023",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

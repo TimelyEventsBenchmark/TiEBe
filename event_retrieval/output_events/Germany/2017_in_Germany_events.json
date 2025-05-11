@@ -1,0 +1,282 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "11 January  Elbphilharmonie in Hamburg opened.",
+                    "links": [],
+                    "start_date": "11/01/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "20 January  Museum Barberini in Potsdam opened.",
+                    "links": [],
+                    "start_date": "20/01/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "15 February  2017 German Masters",
+                    "links": [],
+                    "start_date": "05/02/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "918 February  67th Berlin International Film Festival",
+                    "links": [],
+                    "start_date": "18/02/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "9 February  Germany in the Eurovision Song Contest 2017",
+                    "links": [],
+                    "start_date": "09/02/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "12 February  2017 German presidential election",
+                    "links": [],
+                    "start_date": "12/02/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "9 March  2017 Düsseldorf axe attack",
+                    "links": [],
+                    "start_date": "09/03/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "26 March  2017 Saarland state election",
+                    "links": [],
+                    "start_date": "26/03/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "7 April  Opening of Internationale Gartenausstellung 2017",
+                    "links": [],
+                    "start_date": "07/04/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "May",
+            "Data": [
+                {
+                    "event_text": "7 May  2017 Schleswig-Holstein state election",
+                    "links": [],
+                    "start_date": "07/05/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "14 May  2017 Nordrhein-Westfalen state election",
+                    "links": [],
+                    "start_date": "14/05/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "29 May  5 June  2017 World Table Tennis Championships",
+                    "links": [],
+                    "start_date": "29/05/2017",
+                    "end_date": "05/06/2017"
+                }
+            ]
+        },
+        {
+            "Month": "June",
+            "Data": [
+                {
+                    "event_text": "10 June  September Documenta 14",
+                    "links": [],
+                    "start_date": "10/06/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Merger of German company The Linde Group and Praxair.",
+                    "links": [],
+                    "start_date": "10/06/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "27 June  Armin Laschet become Minister-president of North Rhine-Westphalia.",
+                    "links": [],
+                    "start_date": "27/06/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "28 June  Daniel Günther become Minister-president of Schleswig-Holstein.",
+                    "links": [],
+                    "start_date": "28/06/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "30 June  The Bundestag voted to make same-sex marriage legal.",
+                    "links": [],
+                    "start_date": "30/06/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "July",
+            "Data": [
+                {
+                    "event_text": "4 July  Manuela Schwesig become Minister-president of Mecklenburg-Vorpommern.",
+                    "links": [],
+                    "start_date": "04/07/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "6 July - The Transparency in Wage Structures Act goes into effect.",
+                    "links": [],
+                    "start_date": "06/07/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "78 July  2017 G20 Hamburg summit",
+                    "links": [],
+                    "start_date": "08/07/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "28 July  2017 Hamburg attack",
+                    "links": [],
+                    "start_date": "28/07/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "30 July  Konstanz shooting",
+                    "links": [],
+                    "start_date": "30/07/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "August",
+            "Data": [
+                {
+                    "event_text": "15 August  Air Berlin files for bankruptcy.",
+                    "links": [],
+                    "start_date": "15/08/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "18 August  Bain Capital and Cinven acquired German company Stada Arzneimittel.",
+                    "links": [
+                        {
+                            "link": "http://www.manager-magazin.de/unternehmen/artikel/stada-bain-capital-und-cinven-gelingt-kauf-a-1163470.html",
+                            "text": "-\"Manager-Magazin.de: Bain Capital und Cinven gelingt Kauf von Stada (German)\". Archived from the original on 21 December 2019. Retrieved 18 August 2017.-",
+                            "dates": {
+                                "Archieved": "2019-12-21",
+                                "Retrieved": "2017-08-18",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20191221220055/https://www.manager-magazin.de/unternehmen/artikel/stada-bain-capital-und-cinven-gelingt-kauf-a-1163470.html",
+                            "text": "-\"Manager-Magazin.de: Bain Capital und Cinven gelingt Kauf von Stada (German)\". Archived from the original on 21 December 2019. Retrieved 18 August 2017.-",
+                            "dates": {
+                                "Archieved": "2019-12-21",
+                                "Retrieved": "2017-08-18",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "18/08/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "September",
+            "Data": [
+                {
+                    "event_text": "The (CDU/CSU), led by incumbent chancellor Angela Merkel, wins the highest percentage of the vote with 33%, though it suffered a large swing against it of more than 8%.",
+                    "links": [],
+                    "start_date": "24/09/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Social Democratic Party of Germany (SPD) achieved its worst result since post-war Germany at 21%.",
+                    "links": [],
+                    "start_date": "24/09/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Alternative for Germany (AfD), which was previously unrepresented in the Bundestag, became the third largest party in the Bundestag with 12.6% of the vote. It was the first time since 1957 that a party to the political right of the CDU/CSU gained seats in the Bundestag.",
+                    "links": [],
+                    "start_date": "24/09/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "ILA Berlin Air Show in Berlin",
+                    "links": [],
+                    "start_date": "24/09/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Gamescom in Cologne",
+                    "links": [],
+                    "start_date": "24/09/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Frankfurt Motor Show in Frankfurt",
+                    "links": [],
+                    "start_date": "24/09/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "September  October  Oktoberfest in Munich",
+                    "links": [],
+                    "start_date": "24/09/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "October",
+            "Data": [
+                {
+                    "event_text": "15 October  2017 Lower Saxony state election",
+                    "links": [],
+                    "start_date": "15/10/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "December",
+            "Data": [
+                {
+                    "event_text": "1 December  2017 World Women's Handball Championship",
+                    "links": [],
+                    "start_date": "01/12/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "December  German company Hamburg Süd is sold to Danish company Maersk.",
+                    "links": [],
+                    "start_date": "01/12/2017",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

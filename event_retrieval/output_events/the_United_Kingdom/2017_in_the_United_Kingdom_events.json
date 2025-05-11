@@ -1,0 +1,2468 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "1 January  Kingston upon Hull begins its City of Culture programme.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/uk-england-humber-38483517",
+                            "text": "-\"UK City of Culture: Fireworks and projections start Hull 2017\". BBC News. 1 January 2017. Retrieved 1 January 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-01-01",
+                                "Created": "2017-01-01"
+                            }
+                        }
+                    ],
+                    "start_date": "01/01/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Rail fares increase by an average of 2.3%, higher than inflation and continuing the trend in rising ticket prices.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/business-38486011",
+                            "text": "-\"Train fares rise by an average of 2.3%\". BBC News. 2 January 2017. Retrieved 2 January 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-01-02",
+                                "Created": "2017-01-02"
+                            }
+                        }
+                    ],
+                    "start_date": "02/01/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The government announces proposals to build seventeen new towns and villages across the English countryside.",
+                    "links": [
+                        {
+                            "link": "https://web.archive.org/web/20170102124904/http://uk.reuters.com/article/uk-britain-housing-idUKKBN14M0HG",
+                            "text": "-\"Britain to build 17 towns and villages to ease housing squeeze\". Reuters UK. Archived from the original on 2 January 2017. Retrieved 2 January 2017.-",
+                            "dates": {
+                                "Archieved": "2017-01-02",
+                                "Retrieved": "2017-01-02",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "http://uk.reuters.com/article/uk-britain-housing-idUKKBN14M0HG",
+                            "text": "-\"Britain to build 17 towns and villages to ease housing squeeze\". Reuters UK. Archived from the original on 2 January 2017. Retrieved 2 January 2017.-",
+                            "dates": {
+                                "Archieved": "2017-01-02",
+                                "Retrieved": "2017-01-02",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "02/01/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "3 January  Sir Ivan Rogers resigns as UK's ambassador to the European Union.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/uk-politics-38498839",
+                            "text": "-\"UK ambassador to the EU Sir Ivan Rogers resigns\". BBC News. 3 January 2017. Retrieved 3 January 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-01-03",
+                                "Created": "2017-01-03"
+                            }
+                        }
+                    ],
+                    "start_date": "03/01/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "4 January  Sir Tim Barrow is appointed as the UK's new ambassador to the European Union.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/uk-politics-38512901",
+                            "text": "-\"Sir Tim Barrow appointed as UK's new ambassador to EU\". BBC News. 4 January 2017. Retrieved 4 January 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-01-04",
+                                "Created": "2017-01-04"
+                            }
+                        }
+                    ],
+                    "start_date": "04/01/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "UK car sales are at a record high in 2016 according to the Society of Motor Manufacturers and Traders (SMMT), which says that 2,690,000 new cars were registered last year, 2% higher than in 2015.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/business-38516247",
+                            "text": "-\"UK car sales at record high in 2016\". BBC News. 5 January 2017. Retrieved 5 January 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-01-05",
+                                "Created": "2017-01-05"
+                            }
+                        }
+                    ],
+                    "start_date": "05/01/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Royal Parks announces that the Changing of the Guard ceremony will be held on fixed days of the week (Mondays, Wednesdays, Fridays and Sundays) instead of alternate days for a three-month trial period owing to tightened security.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/uk-38519932",
+                            "text": "-\"Changing the Guard switches to fixed days amid tightened security\". BBC News. 5 January 2017. Retrieved 5 January 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-01-05",
+                                "Created": "2017-01-05"
+                            }
+                        }
+                    ],
+                    "start_date": "05/01/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "7 January  The British Red Cross describes the current situation in England's NHS hospitals as a \"humanitarian crisis\".",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/health-38538637",
+                            "text": "-\"'Humanitarian crisis' in NHS hospitals, warns Red Cross\". BBC News. 7 January 2017. Retrieved 7 January 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-01-07",
+                                "Created": "2017-01-07"
+                            }
+                        }
+                    ],
+                    "start_date": "07/01/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "8 January  The Trades Union Congress announces that the average UK household owes £12,887 in debt.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/business-38534238",
+                            "text": "-Milligan, Brian (8 January 2017). \"UK household debt now a record £13,000, says TUC\". BBC News. Retrieved 9 January 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-01-09",
+                                "Created": "2017-01-08"
+                            }
+                        }
+                    ],
+                    "start_date": "08/01/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A strike by workers on London Underground causes travel chaos and crowding in London, with much of the Tube network shut down.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/uk-england-london-38551542",
+                            "text": "-\"Tube strike: London travellers hit by crowding\". BBC News. 9 January 2017. Retrieved 9 January 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-01-09",
+                                "Created": "2017-01-09"
+                            }
+                        }
+                    ],
+                    "start_date": "09/01/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Seven-year-old Katie Rough is fatally asphyxiated and stabbed in the neck near her home in York. A fifteen-year-old female hands herself in to the police immediately after the killing.",
+                    "links": [
+                        {
+                            "link": "https://www.yorkpress.co.uk/news/15387425.teenage-girl-to-be-sentenced-later-this-month-for-killing-katie-rough-7-updated-with-full-details/",
+                            "text": "-\"Teenage girl to be sentenced later this month for killing Katie Rough, 7 – UPDATED WITH FULL DETAILS\". York Press. 3 July 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2017-07-03"
+                            }
+                        }
+                    ],
+                    "start_date": "09/01/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Northern Ireland's Deputy First Minister Martin McGuinness resigns.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/uk-northern-ireland-38561507",
+                            "text": "-\"Martin McGuinness resigns as NI deputy first minister\". BBC News. 9 January 2017. Retrieved 9 January 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-01-09",
+                                "Created": "2017-01-09"
+                            }
+                        }
+                    ],
+                    "start_date": "09/01/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "11 January  The Royal College of Nursing describes conditions in the NHS as the worst they have ever experienced. In a separate move, fifty leading doctors write to the Prime Minister, warning that lives are being put at risk due to mounting pressures on the health service.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/health-38570177",
+                            "text": "-\"NHS conditions worst ever, say leading nurses\". BBC News. 11 January 2017. Retrieved 11 January 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-01-11",
+                                "Created": "2017-01-11"
+                            }
+                        }
+                    ],
+                    "start_date": "11/01/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Plans for a 1.8-mile road tunnel on the A303 near Stonehenge in Wiltshire are finalised by the UK Government.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/uk-england-wiltshire-38589118",
+                            "text": "-\"Stonehenge tunnel plan finalised by government\". BBC News. 12 January 2017. Retrieved 12 January 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-01-12",
+                                "Created": "2017-01-12"
+                            }
+                        }
+                    ],
+                    "start_date": "12/01/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A government-commissioned review gives backing to a tidal lagoon planned for Swansea Bay in Wales. The £1,300,000,000 project could have a lifetime of 120 years and supply 8% of UK energy.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/uk-wales-38571240",
+                            "text": "-\"Tidal lagoon: £1.3bn Swansea Bay project backed by review\". BBC News. 12 January 2017. Retrieved 12 January 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-01-12",
+                                "Created": "2017-01-12"
+                            }
+                        }
+                    ],
+                    "start_date": "12/01/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "16 January  The power-sharing government of Northern Ireland collapses following the resignation of Martin McGuinness.",
+                    "links": [
+                        {
+                            "link": "https://www.independent.co.uk/news/uk/politics/northern-ireland-power-sharing-latest-collapse-end-sinn-fein-refuse-stormont-dup-martin-mcguinness-a7529111.html",
+                            "text": "-\"Power-sharing collapses in Northern Ireland, after Sinn Fein refuse to return to Stormont executive\". The Independent. 16 January 2017. Archived from the original on 1 May 2022. Retrieved 16 January 2017.-",
+                            "dates": {
+                                "Archieved": "2022-05-01",
+                                "Retrieved": "2017-01-16",
+                                "Created": "2017-01-16"
+                            }
+                        },
+                        {
+                            "link": "https://ghostarchive.org/archive/20220501/https://www.independent.co.uk/news/uk/politics/northern-ireland-power-sharing-latest-collapse-end-sinn-fein-refuse-stormont-dup-martin-mcguinness-a7529111.html",
+                            "text": "-\"Power-sharing collapses in Northern Ireland, after Sinn Fein refuse to return to Stormont executive\". The Independent. 16 January 2017. Archived from the original on 1 May 2022. Retrieved 16 January 2017.-",
+                            "dates": {
+                                "Archieved": "2022-05-01",
+                                "Retrieved": "2017-01-16",
+                                "Created": "2017-01-16"
+                            }
+                        }
+                    ],
+                    "start_date": "16/01/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Crowds at the Women's march in Liverpool21 January  2017 Women's March thousands of people march in London, Belfast, Cardiff, Lancaster, Leeds, Liverpool, Manchester, Shipley, Edinburgh and Bristol  as well as millions more in countries around the world – in protest at Donald Trump's inauguration as 45th President of the United States.",
+                    "links": [
+                        {
+                            "link": "https://www.independent.co.uk/news/uk/home-news/womens-march-london-donald-trump-protest-trafalgar-square-inauguration-washington-dc-a7539636.html",
+                            "text": "-\"Thousands protest in London at Women's March against Donald Trump\". The Independent. 21 January 2017. Archived from the original on 1 May 2022. Retrieved 22 January 2017.-",
+                            "dates": {
+                                "Archieved": "2022-05-01",
+                                "Retrieved": "2017-01-22",
+                                "Created": "2017-01-21"
+                            }
+                        },
+                        {
+                            "link": "https://ghostarchive.org/archive/20220501/https://www.independent.co.uk/news/uk/home-news/womens-march-london-donald-trump-protest-trafalgar-square-inauguration-washington-dc-a7539636.html",
+                            "text": "-\"Thousands protest in London at Women's March against Donald Trump\". The Independent. 21 January 2017. Archived from the original on 1 May 2022. Retrieved 22 January 2017.-",
+                            "dates": {
+                                "Archieved": "2022-05-01",
+                                "Retrieved": "2017-01-22",
+                                "Created": "2017-01-21"
+                            }
+                        }
+                    ],
+                    "start_date": "16/01/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "24 January  The UK Supreme Court rules against the Government's Brexit appeal case by an 8 to 3 decision, stating that Parliament must vote to trigger Article 50.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/live/uk-politics-38723261",
+                            "text": "-\"Government loses Brexit vote appeal\". BBC News. 24 January 2017. Retrieved 24 January 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-01-24",
+                                "Created": "2017-01-24"
+                            }
+                        }
+                    ],
+                    "start_date": "24/01/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "30 January  A petition to stop US President Donald Trump's UK state visit gathers more than 1.8 million signatures.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/uk-38795998",
+                            "text": "-\"Trump executive order: Million sign petition to stop UK visit\". BBC News. 30 January 2017. Retrieved 30 January 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-01-30",
+                                "Created": "2017-01-30"
+                            }
+                        }
+                    ],
+                    "start_date": "30/01/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "1 February  MPs back the European Union Bill by 498 votes to 114, with 47 Labour rebels voting against.",
+                    "links": [],
+                    "start_date": "01/02/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "3 February  The government publishes a white paper setting out its Brexit plans.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/uk-politics-38836906",
+                            "text": "-\"Brexit plan published in government White Paper\". BBC News. 1 February 2017. Retrieved 1 February 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-02-01",
+                                "Created": "2017-02-01"
+                            }
+                        }
+                    ],
+                    "start_date": "03/02/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "6 February  The Queen commemorates her Sapphire Jubilee.",
+                    "links": [],
+                    "start_date": "06/02/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "7 February  Plans for building more homes in England are revealed by the government, after ministers say that the housing market is \"broken\".",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/uk-politics-38884601",
+                            "text": "-\"Housing market broken, ministers say ahead of White Paper\". BBC News. 7 February 2017. Retrieved 7 February 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-02-07",
+                                "Created": "2017-02-07"
+                            }
+                        }
+                    ],
+                    "start_date": "07/02/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A political controversy involving Diane Abbott and David Davis emerges following the Article 50 vote.",
+                    "links": [
+                        {
+                            "link": "https://www.telegraph.co.uk/news/2017/02/12/david-davis-accused-sexism-denying-tried-kiss-diane-abbott-not/",
+                            "text": "-Hughes, Laura (12 February 2017). \"David Davis in sexism storm after denying he tried to kiss Diane Abbott following Brexit vote\". The Telegraph. ISSN 0307-1235. Retrieved 5 January 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-01-05",
+                                "Created": "2017-02-12"
+                            }
+                        },
+                        {
+                            "link": "https://search.worldcat.org/issn/0307-1235",
+                            "text": "-Hughes, Laura (12 February 2017). \"David Davis in sexism storm after denying he tried to kiss Diane Abbott following Brexit vote\". The Telegraph. ISSN 0307-1235. Retrieved 5 January 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-01-05",
+                                "Created": "2017-02-12"
+                            }
+                        }
+                    ],
+                    "start_date": "08/02/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Labour MP Clive Lewis resigns from the Shadow Cabinet in protest over his party's decision to whip its MPs into voting to trigger Article 50.",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/politics/2017/feb/08/clive-lewis-quits-shadow-cabinet-over-brexit-bill",
+                            "text": "-Heather Stewart; Anushka Asthana (8 February 2017). \"Clive Lewis quits shadow cabinet over Brexit bill\". The Guardian. London. Retrieved 10 February 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-02-10",
+                                "Created": "2017-02-08"
+                            }
+                        }
+                    ],
+                    "start_date": "08/02/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "15 February  The European Commission issues a \"final warning\" to the United Kingdom over the breaching of air pollution limits.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/uk-politics-38980510",
+                            "text": "-\"Air pollution 'final warning' from European Commission to UK\". BBC News. 15 February 2017. Retrieved 15 February 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-02-15",
+                                "Created": "2017-02-15"
+                            }
+                        }
+                    ],
+                    "start_date": "15/02/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "18 February  Lincoln City F.C. become the first non-league team to reach the FA Cup quarter-finals for 103 years with a 10 victory over Burnley.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/sport/football/38940052",
+                            "text": "-\"Burnley 0–1 Lincoln City\". BBC News. 18 February 2017. Retrieved 18 February 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-02-18",
+                                "Created": "2017-02-18"
+                            }
+                        }
+                    ],
+                    "start_date": "18/02/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "21 February  A heterosexual couple, Rebecca Steinfeld and Charles Keidan, lose their Court of Appeal case in which they sought to be granted civil partnership instead of a traditional marriage.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/uk-39039146",
+                            "text": "-\"Heterosexual couple lose civil partnership challenge\". BBC News. 21 February 2017. Retrieved 21 February 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-02-21",
+                                "Created": "2017-02-21"
+                            }
+                        }
+                    ],
+                    "start_date": "21/02/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "22 February  Cressida Dick is appointed Commissioner of the Metropolitan Police, becoming the first woman to hold the position in the force's 188-year history.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/uk-39055696",
+                            "text": "-\"Cressida Dick appointed as first female Metropolitan Police chief\". BBC News. 22 February 2017. Retrieved 22 February 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-02-22",
+                                "Created": "2017-02-22"
+                            }
+                        }
+                    ],
+                    "start_date": "22/02/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "By-elections are held in Copeland and Stoke-on-Trent Central to fill vacancies arising from the resignation of sitting Labour MPs. Trudy Harrison wins the Copeland seat for the Conservative Party and Gareth Snell retains the Stoke-on-Trent Central seat for the Labour Party. Labour had held the Copeland seat since its creation, and the Conservative win is the first gain by a serving government in a by-election for 35 years.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/uk-politics-39064149",
+                            "text": "-\"Tories win Copeland by-election as Labour holds Stoke\". BBC News. 23 February 2017. Retrieved 24 February 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-02-24",
+                                "Created": "2017-02-23"
+                            }
+                        }
+                    ],
+                    "start_date": "23/02/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Britain is hit by winds of up to 94 mph from Storm Doris, causing travel disruption and a number of casualties.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/uk-39060095",
+                            "text": "-\"Storm Doris: Woman killed as UK hit by winds reaching 94mph\". BBC News. 23 February 2017. Retrieved 23 February 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-02-23",
+                                "Created": "2017-02-23"
+                            }
+                        }
+                    ],
+                    "start_date": "23/02/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "2 March  New elections to the Northern Ireland Assembly are held. The Democratic Unionist Party loses ten seats, while Sinn Féin loses one seat.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/election-northern-ireland-2017-39159423",
+                            "text": "-\"Assembly election: Sinn Féin hails 'watershed' result\". BBC News. 4 March 2017. Retrieved 5 March 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-03-05",
+                                "Created": "2017-03-04"
+                            }
+                        }
+                    ],
+                    "start_date": "02/03/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "5 March  Tens of thousands of people including NHS employees, campaigners and union representatives march in London to protest against \"yet more austerity\" in the health service.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/uk-39167350",
+                            "text": "-\"NHS protest: Tens of thousands march against 'hospital cuts'\". BBC News. 4 March 2017. Retrieved 6 March 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-03-06",
+                                "Created": "2017-03-04"
+                            }
+                        }
+                    ],
+                    "start_date": "05/03/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "6 March  The British car manufacturer Vauxhall, along with its German sister firm, Opel, is sold by General Motors to Peugeot-Citroën of France as Groupe PSA agrees to a €2,200,000,000 (£1.9bn) deal to buy General Motors' European operations.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/business-39175740",
+                            "text": "-\"Vauxhall-Opel sold by GM to Peugeot-Citroen\". BBC News. 6 March 2017. Retrieved 6 March 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-03-06",
+                                "Created": "2017-03-06"
+                            }
+                        }
+                    ],
+                    "start_date": "06/03/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Philip Hammond delivers the  United Kingdom budget, his first as Chancellor of the Exchequer.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/uk-politics-39196579",
+                            "text": "-\"Budget 2017: £2 billion for social care and tax rise for self-employed\". BBC News. 7 March 2017. Retrieved 8 March 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-03-08",
+                                "Created": "2017-03-07"
+                            }
+                        }
+                    ],
+                    "start_date": "08/03/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Lord Michael Heseltine is sacked from his role as a government adviser following his rebellion against the government on the Brexit Bill in the House of Lords the previous day.",
+                    "links": [],
+                    "start_date": "08/03/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The think tank Resolution Foundation assesses that the UK is in its worst decade for pay growth for 210 years.",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/business/2017/mar/09/uk-pay-growth-budget-resolution-foundation",
+                            "text": "-Monaghan, Angela (9 March 2017). \"UK in worst decade for pay growth for 210 years, says thinktank | Business\". The Guardian. Retrieved 9 March 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-03-09",
+                                "Created": "2017-03-09"
+                            }
+                        }
+                    ],
+                    "start_date": "09/03/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Bishop of Burnley, Philip North, turns down a promotion to the position of Bishop of Sheffield after objections to his views on ordaining women as priests.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/uk-39223112",
+                            "text": "-\"Bishop Philip North steps down over women priests row\". BBC News. 9 March 2017. Retrieved 9 March 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-03-09",
+                                "Created": "2017-03-09"
+                            }
+                        }
+                    ],
+                    "start_date": "09/03/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "10 March BT bows to demands by the telecoms regulator Ofcom to legally separate Openreach, which runs the UK's broadband infrastructure.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/business-39228115",
+                            "text": "-\"BT Openreach deal aims to shake up UK broadband\". BBC News. 10 March 2017. Retrieved 14 March 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-03-14",
+                                "Created": "2017-03-10"
+                            }
+                        }
+                    ],
+                    "start_date": "10/03/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The British Parliament passes the Brexit bill, paving the way for the UK Government to trigger Article 50; so that the UK can formally withdraw from the European Union.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/uk-politics-39262081",
+                            "text": "-\"Brexit bill: Parliament clears way for talks with EU\". BBC News. 14 March 2017. Retrieved 14 March 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-03-14",
+                                "Created": "2017-03-14"
+                            }
+                        }
+                    ],
+                    "start_date": "14/03/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Transgender fell-runner Lauren Jeska is sentenced to 18 years imprisonment for the attempted murder of UK Athletics official Ralph Knibbs. Jeska had feared her records and ability to compete in women's events would be investigated due to the unfair advantage she had from being born male.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/uk-england-birmingham-39266777",
+                            "text": "-\"Lauren Jeska jailed for Alexander Stadium stabbings\". BBC News. 14 March 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2017-03-14"
+                            }
+                        },
+                        {
+                            "link": "https://www.telegraph.co.uk/news/2016/09/22/fell-runner-lauren-jeska-admits-attempted-knife-murder-of-britis/",
+                            "text": "-Willgress, Lydia (22 September 2016). \"Fell-runner Lauren Jeska tried to kill British athletics official because she feared the body would revoke her titles over transgender status\". The Telegraph – via www.telegraph.co.uk.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2016-09-22"
+                            }
+                        }
+                    ],
+                    "start_date": "14/03/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "15 March  Chancellor of the Exchequer Philip Hammond is forced to make a U-turn on his commitment to raising National Insurance contributions for the self-employed after vast opposition from Conservative backbenchers.",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/politics/2017/mar/15/philip-hammond-digs-deep-as-he-explains-his-nics-u-turn",
+                            "text": "-Crace, John (15 March 2017). \"Philip Hammond digs deep as he explains his NICS U-turn\". The Guardian. Retrieved 20 March 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-03-20",
+                                "Created": "2017-03-15"
+                            }
+                        }
+                    ],
+                    "start_date": "15/03/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The European Union (Notification of Withdrawal) Bill is given Royal Assent by HM The Queen, making it an Act of Parliament.",
+                    "links": [],
+                    "start_date": "16/03/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Theresa May formally rejects Scottish First Minister Nicola Sturgeon's second Scottish Independence Referendum timetable for Autumn 2018, or at least before Brexit negotiations are concluded.",
+                    "links": [],
+                    "start_date": "16/03/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "17 March  It is announced that the previous Chancellor of the Exchequer George Osborne, is to become the editor of the London Evening Standard; prompting extensive criticism.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/uk-39304944",
+                            "text": "-\"George Osborne to become editor of London Evening Standard\". BBC News. 17 March 2017. Retrieved 20 March 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-03-20",
+                                "Created": "2017-03-17"
+                            }
+                        }
+                    ],
+                    "start_date": "17/03/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "22 March  Four people die and at least forty others are injured in what is treated as a terrorist attack in London, when a car driver, later identified as Khalid Masood, ploughs through pedestrians on Westminster Bridge before stabbing PC Keith Palmer to death at the Palace of Westminster. Police later shoot Masood dead. In response, the Houses of Parliament are placed in lockdown for four hours, as is the London Eye and Whitehall, and the devolved Scottish Parliament suspends a debate on a second Scottish independence referendum.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/live/uk-39355505",
+                            "text": "-\"Westminster attack – latest updates\". BBC News. 22 March 2017. Retrieved 22 March 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-03-22",
+                                "Created": "2017-03-22"
+                            }
+                        },
+                        {
+                            "link": "https://www.bbc.co.uk/news/uk-39373766",
+                            "text": "-\"London attack: Khalid Masood – what we know about the attacker\". BBC News. 23 March 2017. Retrieved 24 March 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-03-24",
+                                "Created": "2017-03-23"
+                            }
+                        }
+                    ],
+                    "start_date": "22/03/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "28 March  The new twelve-sided £1 coin is released.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/business-39409313",
+                            "text": "-\"New £1 coin's 'hidden' security feature\". BBC News. 28 March 2017. Retrieved 28 March 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-03-28",
+                                "Created": "2017-03-28"
+                            }
+                        }
+                    ],
+                    "start_date": "28/03/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "29 March  The United Kingdom invokes Article 50 of the Treaty on European Union, beginning the formal EU withdrawal process.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/uk-politics-39431428",
+                            "text": "-\"'No turning back' on Brexit as Article 50 triggered\". BBC News. 29 March 2017. Retrieved 29 March 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-03-29",
+                                "Created": "2017-03-29"
+                            }
+                        },
+                        {
+                            "link": "http://edition.cnn.com/2017/03/29/europe/article-50-brexit-theresa-may-eu/index.html",
+                            "text": "-\"Brexit begins: UK triggers Article 50 to begin EU divorce\". CNN. 29 March 2017. Retrieved 29 March 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-03-29",
+                                "Created": "2017-03-29"
+                            }
+                        }
+                    ],
+                    "start_date": "29/03/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "6 April  The number of fatalities in the Westminster attack increases to six as a Romanian woman, rescued after falling into the Thames but with serious injuries, dies in hospital.",
+                    "links": [
+                        {
+                            "link": "https://www.telegraph.co.uk/news/2017/04/07/andreea-cristea-woman-fell-thames-westminster-attack-dies-hospital/",
+                            "text": "-\"Andreea Cristea: woman who fell in the Thames during the Westminster attack dies in hospital\". The Daily Telegraph. 7 April 2017. Retrieved 10 April 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-04-10",
+                                "Created": "2017-04-07"
+                            }
+                        }
+                    ],
+                    "start_date": "06/04/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "18 April  Prime Minister Theresa May calls a snap general election for 8 June.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/uk-politics-39629603",
+                            "text": "-\"May to seek snap election for 8 June\". BBC News. 18 April 2017. Retrieved 18 April 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-04-18",
+                                "Created": "2017-04-18"
+                            }
+                        }
+                    ],
+                    "start_date": "18/04/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "19 April  The House of Commons formally approves the calling of an early general election with the necessary two-thirds majority in a 522 to 13 vote.",
+                    "links": [],
+                    "start_date": "19/04/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "21 April  Britain goes a full day without using coal power to generate electricity for the first time since the Industrial Revolution, according to the National Grid.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/uk-39675418",
+                            "text": "-\"First coal-free day in Britain since Industrial Revolution\". BBC News. 22 April 2017. Retrieved 22 April 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-04-22",
+                                "Created": "2017-04-22"
+                            }
+                        }
+                    ],
+                    "start_date": "21/04/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "29 April  The UK's Anthony Joshua becomes WBA World Heavyweight Champion after beating Ukraine's Wladimir Klitschko at Wembley Stadium.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/sport/boxing/39748791",
+                            "text": "-Reddy, Luke (29 April 2017). \"Anthony Joshua stops Wladimir Klitschko in the 11th round at Wembley\". BBC Sport. Retrieved 30 April 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-04-30",
+                                "Created": "2017-04-29"
+                            }
+                        }
+                    ],
+                    "start_date": "29/04/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "May",
+            "Data": [
+                {
+                    "event_text": "Buckingham Palace announces that the Duke of Edinburgh is to step down from carrying out royal engagements in the autumn.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/uk-39802636",
+                            "text": "-\"Prince Philip to step down from carrying out royal engagements\". BBC News. 4 May 2017. Retrieved 4 May 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-05-04",
+                                "Created": "2017-05-04"
+                            }
+                        }
+                    ],
+                    "start_date": "04/05/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Local government elections are held across England, Scotland and Wales. The Conservative Party makes significant gains at the expense of the Labour Party, gaining 500 seats and seizing control of 11 councils. UKIP loses all 145 seats they were defending. The Liberal Democrats lose 41 seats, despite their share of the vote increasing. Labour is pushed into third place by the Conservatives in Scotland, where the SNP is comfortably the largest party despite failing to take control of target councils. The Conservatives win four out of six metro-mayoral areas, including in the traditionally Labour-voting Tees Valley and West Midlands.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/election-2017-39827097",
+                            "text": "-\"General election 2017: Theresa May 'not taking victory for granted'\". BBC News. 6 May 2017. Retrieved 6 May 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-05-06",
+                                "Created": "2017-05-06"
+                            }
+                        }
+                    ],
+                    "start_date": "04/05/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "5 May  Paper £5 notes featuring Elizabeth Fry cease to be legal tender in the UK.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/business-39792170",
+                            "text": "-Peachey, Kevin (4 May 2017). \"£5 note: Deadline looms for digging out old paper fivers\". BBC News. Retrieved 6 May 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-05-06",
+                                "Created": "2017-05-04"
+                            }
+                        }
+                    ],
+                    "start_date": "05/05/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "12 May  Computers across the United Kingdom are hit by a large-scale ransomware cyber-attack, causing major disruption.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/health-39899646",
+                            "text": "-\"NHS cyber-attack: GPs and hospitals hit by ransomware\". BBC News. 12 May 2017. Retrieved 15 May 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-05-15",
+                                "Created": "2017-05-12"
+                            }
+                        }
+                    ],
+                    "start_date": "12/05/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Tributes to victims of the Manchester Arena Attack22 May  Manchester Arena is attacked by a suicide bomber following a music concert by American singer Ariana Grande, resulting in multiple casualties. It is the most deadly attack in the UK since the 7 July 2005 London bombings and the first in the North of England since the IRA bombing of Manchester in .",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/uk-england-manchester-40007886",
+                            "text": "-\"Manchester Arena blast: 19 dead and more than 50 hurt\". BBC News. 23 May 2017. Retrieved 7 June 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-06-07",
+                                "Created": "2017-05-23"
+                            }
+                        }
+                    ],
+                    "start_date": "12/05/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "23 May  general election campaigning from all major political parties is temporarily suspended after the attack in Manchester.",
+                    "links": [],
+                    "start_date": "23/05/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The UK's terror threat level is raised from \"severe\" to \"critical\", its highest possible level, for the first time in ten years; meaning not only is an attack being highly likely, it is \"expected imminently\".",
+                    "links": [
+                        {
+                            "link": "https://www.telegraph.co.uk/news/2017/05/23/theresa-may-increases-uk-terrorist-alert-critical-manchester/",
+                            "text": "-\"Soldiers deployed on streets in race to foil second terror attack after threat level raised to 'critical'\". The Telegraph. 24 May 2017. Retrieved 26 May 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-05-26",
+                                "Created": "2017-05-24"
+                            }
+                        }
+                    ],
+                    "start_date": "24/05/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "As police investigate a \"network\" relating to the Manchester Arena attack, up to 5,000 military personnel are deployed onto the streets of Britain. Seven people are arrested, including the bomber's 23-year-old brother. The suicide bomber is confirmed to have been 22-year-old Salman Abedi, who lived in the city and was the son of Libyan immigrants.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/uk-40032504",
+                            "text": "-\"Manchester attack: Police hunt 'network' behind bomber\". BBC News. 24 May 2017. Retrieved 24 May 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-05-24",
+                                "Created": "2017-05-24"
+                            }
+                        }
+                    ],
+                    "start_date": "24/05/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "25 May  Police investigating the Manchester bombing reveal they have stopped sharing information with the US, following leaks to the media.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/uk-politics-40040210",
+                            "text": "-\"Manchester attack: Police 'not sharing information with US'\". BBC News. 25 May 2017. Retrieved 25 May 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-05-25",
+                                "Created": "2017-05-25"
+                            }
+                        }
+                    ],
+                    "start_date": "25/05/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "British Airways experiences a global IT system failure, causing severe disruption to flights worldwide.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/uk-40069865",
+                            "text": "-\"British Airways: All flights cancelled amid IT crash\". BBC News. 27 May 2017. Retrieved 27 May 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-05-27",
+                                "Created": "2017-05-27"
+                            }
+                        }
+                    ],
+                    "start_date": "27/05/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "In football, Arsenal beat Chelsea 2-1 to win the FA Cup for a record thirteenth time.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/sport/football/39984089",
+                            "text": "-\"Arsenal 2-1 Chelsea\". BBC Sport. 27 May 2017. Retrieved 25 May 2019.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2019-05-25",
+                                "Created": "2017-05-27"
+                            }
+                        }
+                    ],
+                    "start_date": "27/05/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "June",
+            "Data": [
+                {
+                    "event_text": "Seven people are reported killed and 48 injured in an attack by three Islamist extremists at London Bridge. A hit-and-run vehicle on the bridge is followed by knife attacks at Borough Market. All three perpetrators are shot dead by police within eight minutes.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/uk-40146916",
+                            "text": "-\"'Van hits pedestrians' on London Bridge in 'major incident'\". BBC. 3 June 2017. Retrieved 3 June 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-06-03",
+                                "Created": "2017-06-03"
+                            }
+                        },
+                        {
+                            "link": "https://www.bbc.co.uk/news/uk-40148737",
+                            "text": "-\"London attack: Theresa May says enough is enough after seven die\". BBC. 4 June 2017. Retrieved 4 June 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-06-04",
+                                "Created": "2017-06-04"
+                            }
+                        }
+                    ],
+                    "start_date": "03/06/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Reynhard Sinaga, an Indonesian student living in Manchester is arrested on one count of rape. Later investigations reveal him to be a prolific rapist in British legal history, having poisoned and raped up to 200 men.",
+                    "links": [
+                        {
+                            "link": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/reynhard-sinaga-evil-double-life-17518266",
+                            "text": "-Abbit, Beth (6 January 2020). \"The double life of the churchgoing Manchester student who raped up to 200 men\". Manchester Evening News.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2020-01-06"
+                            }
+                        }
+                    ],
+                    "start_date": "03/06/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "4 June  General election campaigning is suspended by most major political parties for a day following the previous evening's attack in London. Prime Minister Theresa May confirms the general election will go ahead as scheduled on 8 June.",
+                    "links": [],
+                    "start_date": "04/06/2017",
+                    "end_date": "08/06/2017"
+                },
+                {
+                    "event_text": "7 June  Solar, wind and nuclear power each provide more electricity than gas and coal combined for the first time in the UK.",
+                    "links": [
+                        {
+                            "link": "https://www.independent.co.uk/environment/nuclear-power-solar-wind-provide-more-electricity-gas-coal-combined-first-time-renewable-energy-a7778541.html",
+                            "text": "-\"Solar, wind and nuclear power each provide more electricity than gas and coal combined for first time\". The Independent. 8 June 2017. Archived from the original on 1 May 2022. Retrieved 8 June 2017.-",
+                            "dates": {
+                                "Archieved": "2022-05-01",
+                                "Retrieved": "2017-06-08",
+                                "Created": "2017-06-08"
+                            }
+                        },
+                        {
+                            "link": "https://ghostarchive.org/archive/20220501/https://www.independent.co.uk/environment/nuclear-power-solar-wind-provide-more-electricity-gas-coal-combined-first-time-renewable-energy-a7778541.html",
+                            "text": "-\"Solar, wind and nuclear power each provide more electricity than gas and coal combined for first time\". The Independent. 8 June 2017. Archived from the original on 1 May 2022. Retrieved 8 June 2017.-",
+                            "dates": {
+                                "Archieved": "2022-05-01",
+                                "Retrieved": "2017-06-08",
+                                "Created": "2017-06-08"
+                            }
+                        }
+                    ],
+                    "start_date": "07/06/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "8 June  general election 2017 The Conservatives remain the largest party, but fail to get enough seats for a majority, leading to a hung parliament. In a surprise result, they are reduced from 330 to 318 seats. PM Theresa May rejects calls for her to resign and attempts to form a coalition with the DUP, which would give her 10 additional seats. Labour gain 32 seats, with particular success in London; the SNP suffers heavy losses with 21 fewer seats; the Liberal Democrats gain four seats for a total of 12; UKIP lose their sole seat and Paul Nuttall resigns as party leader.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/election/2017/results",
+                            "text": "-\"Results of the 2017 General Election\". BBC News. 9 June 2017. Retrieved 9 June 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-06-09",
+                                "Created": "2017-06-09"
+                            }
+                        }
+                    ],
+                    "start_date": "08/06/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "10 June  10 Downing Street issues a statement claiming the Democratic Unionist Party have agreed a confidence-and-supply deal to support a Conservative minority government. However, both parties subsequently confirm that talks about an agreement are still ongoing.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/election-2017-40236152",
+                            "text": "-\"General election 2017: Tories and DUP 'still in discussions'\". BBC News. 11 June 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2017-06-11"
+                            }
+                        }
+                    ],
+                    "start_date": "10/06/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "11 June  The England national under-20 football team win the FIFA U-20 World Cup for the first time beating Venezuela by 1 goal to nil in the final.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/sport/england/40244854",
+                            "text": "-\"England Under-20 World Cup win: What next for the players?\". BBC Sport. 12 June 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2017-06-12"
+                            }
+                        }
+                    ],
+                    "start_date": "11/06/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A major fire engulfs Grenfell Tower in West London, with 71 fatalities eventually officially confirmed (16 November) and more than 70 people taken to hospital.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/uk-england-london-40269625",
+                            "text": "-\"London fire: Flames engulf tower block\". BBC News. 14 June 2017. Retrieved 14 June 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-06-14",
+                                "Created": "2017-06-14"
+                            }
+                        }
+                    ],
+                    "start_date": "11/06/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Tim Farron resigns as leader of the Liberal Democrats.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/uk-politics-40281300",
+                            "text": "-\"Tim Farron quits as Lib Dem leader\". BBC. 14 June 2017. Retrieved 14 June 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-06-14",
+                                "Created": "2017-06-14"
+                            }
+                        }
+                    ],
+                    "start_date": "11/06/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "18 June  The Government announces that there will be no Queen's Speech in 2018, to give MPs more time to deal with Brexit laws.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/uk-40317814",
+                            "text": "-\"Brexit: 2018 Queen's Speech cancelled by government\". BBC News. 18 June 2017. Retrieved 18 June 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-06-18",
+                                "Created": "2017-06-18"
+                            }
+                        }
+                    ],
+                    "start_date": "18/06/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "2017 Finsbury Park attack One person is killed and ten others are injured after a van is deliberately rammed into pedestrians near Finsbury Park Mosque. 47-year-old Darren Osborne, who shouted that he wanted to \"kill all Muslims\", is arrested after members of the public subdue him.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/uk-england-london-40322960",
+                            "text": "-\"Finsbury Park attack: Man dies as van hits worshippers\". BBC News. 19 June 2017. Retrieved 19 June 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-06-19",
+                                "Created": "2017-06-19"
+                            }
+                        }
+                    ],
+                    "start_date": "19/06/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Brexit Secretary David Davis heads to Brussels as formal negotiations with the EU get underway.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/uk-politics-40321271",
+                            "text": "-\"Brexit negotiations begin: David Davis targets 'historic' deal\". BBC News. 19 June 2017. Retrieved 19 June 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-06-19",
+                                "Created": "2017-06-19"
+                            }
+                        }
+                    ],
+                    "start_date": "19/06/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "21 June  As the heatwave continues, the UK experiences its hottest June day since 1976, with a temperature of 34.4C (94F) recorded at Heathrow Airport.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/uk-40353118",
+                            "text": "-\"Hottest June day since summer of 1976 in heatwave\". BBC News. 21 June 2017. Retrieved 21 June 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-06-21",
+                                "Created": "2017-06-21"
+                            }
+                        }
+                    ],
+                    "start_date": "21/06/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "24 June  Police investigate a cyberattack on the Houses of Parliament after an attempt was made to gain unauthorised access to politicians' email accounts.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/uk-40394074",
+                            "text": "-\"Parliament hit by 'sustained' cyber-attack – BBC News\". BBC News. 24 June 2017. Retrieved 26 June 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-06-26",
+                                "Created": "2017-06-24"
+                            }
+                        }
+                    ],
+                    "start_date": "24/06/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "26 June  The Conservatives agree a £1 billion deal with Northern Ireland's Democratic Unionist Party to support Theresa May's Conservative minority government.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/uk-politics-40403434",
+                            "text": "-\"Conservatives agree pact with DUP to support May government\". BBC News. 26 June 2017. Retrieved 26 June 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-06-26",
+                                "Created": "2017-06-26"
+                            }
+                        }
+                    ],
+                    "start_date": "26/06/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "27 June  Nicola Sturgeon announces that she will delay plans for a proposed second Scottish independence referendum.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/uk-scotland-40415457",
+                            "text": "-\"Nicola Sturgeon to 'reset' independence referendum plan\". BBC News. 27 June 2017. Retrieved 27 June 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-06-27",
+                                "Created": "2017-06-27"
+                            }
+                        }
+                    ],
+                    "start_date": "27/06/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "30 June  The leader of Kensington and Chelsea council, Nick Paget-Brown, resigns following criticism over the Grenfell Tower fire enquiry.",
+                    "links": [
+                        {
+                            "link": "https://www.standard.co.uk/news/london/kensington-and-chelsea-council-leader-nicholas-pagetbrown-steps-down-amid-grenfell-fire-criticism-a3577361.html",
+                            "text": "-\"Kensington and Chelsea council leader Nicholas Paget-Brown steps down amid Grenfell fire criticism\". London Evening Standard. 30 June 2017. Retrieved 1 July 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-07-01",
+                                "Created": "2017-06-30"
+                            }
+                        }
+                    ],
+                    "start_date": "30/06/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "July",
+            "Data": [
+                {
+                    "event_text": "1 July  Thousands of people march in London in the \"Not One Day More\" protest against the government's economic policies.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/uk-40468881",
+                            "text": "-\"Thousands march on Parliament in anti-government protest\". BBC News. 1 July 2017. Retrieved 1 July 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-07-01",
+                                "Created": "2017-07-01"
+                            }
+                        }
+                    ],
+                    "start_date": "01/07/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "3 July  French energy supplier EDF raises the estimated cost of completing the new Hinkley Point C nuclear plant from £18 billion to £19.6 billion.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/business-40479053",
+                            "text": "-\"Hinkley Point: EDF raises cost estimate for nuclear plant\". BBC News. 3 July 2017. Retrieved 3 July 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-07-03",
+                                "Created": "2017-07-03"
+                            }
+                        }
+                    ],
+                    "start_date": "03/07/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "9 July  The Lake District becomes an officially recognised UNESCO World Heritage Site.",
+                    "links": [
+                        {
+                            "link": "https://web.archive.org/web/20170729004631/https://www.unesco.org.uk/news/english-lake-district-welcomed-into-uk-unesco-family-as-31st-uk-world-heritage-site/",
+                            "text": "-\"English Lake District welcomed into UK UNESCO family as 31st UK World Heritage Site\". unesco.org.uk. 9 July 2017. Archived from the original on 29 July 2017. Retrieved 9 July 2017.-",
+                            "dates": {
+                                "Archieved": "2017-07-29",
+                                "Retrieved": "2017-07-09",
+                                "Created": "2017-07-09"
+                            }
+                        },
+                        {
+                            "link": "https://www.unesco.org.uk/news/english-lake-district-welcomed-into-uk-unesco-family-as-31st-uk-world-heritage-site/",
+                            "text": "-\"English Lake District welcomed into UK UNESCO family as 31st UK World Heritage Site\". unesco.org.uk. 9 July 2017. Archived from the original on 29 July 2017. Retrieved 9 July 2017.-",
+                            "dates": {
+                                "Archieved": "2017-07-29",
+                                "Retrieved": "2017-07-09",
+                                "Created": "2017-07-09"
+                            }
+                        },
+                        {
+                            "link": "http://www.cumbriacrack.com/2017/07/09/lake-district-becomes-world-heritage-site/",
+                            "text": "-\"Lake District becomes a World Heritage Site\". Cumbria Crack. 9 July 2017. Retrieved 9 July 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-07-09",
+                                "Created": "2017-07-09"
+                            }
+                        }
+                    ],
+                    "start_date": "09/07/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "11 July  The government announces more than £100 million of investment in the UK's space sector.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/science-environment-40573519",
+                            "text": "-\"Big cash boost for UK satellite sector\". BBC News. 11 July 2017. Retrieved 12 July 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-07-12",
+                                "Created": "2017-07-11"
+                            }
+                        }
+                    ],
+                    "start_date": "11/07/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "12 July  A gay man, John Walker, wins a landmark ruling at the Supreme Court, giving his husband the same pension rights as a wife would receive.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/uk-40580596",
+                            "text": "-\"Gay man wins Supreme Court case on equal pension rights\". BBC News. 12 July 2017. Retrieved 12 July 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-07-12",
+                                "Created": "2017-07-12"
+                            }
+                        }
+                    ],
+                    "start_date": "12/07/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "16 July  Lewis Hamilton wins a fifth British Grand Prix, and fifth career grand slam. His fourth back-to-back win at his home race. Additionally, equaling Alain Prost and Jim Clark with 5 British Grand Prix wins.",
+                    "links": [],
+                    "start_date": "16/07/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "18 July  Gains in life expectancy in England are reported to have slowed to a halt, after more than 100 years of continuous progress.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/health-40608256",
+                            "text": "-\"Life expectancy rises 'grinding to halt' in England\". BBC News. 18 July 2017. Retrieved 20 July 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-07-20",
+                                "Created": "2017-07-18"
+                            }
+                        }
+                    ],
+                    "start_date": "18/07/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "19 July  The government announces that a rise in the State Pension age to 68 will be phased in between 2037 and 2039, rather than from 2044 as was originally planned. This will affect 6 million men and women currently aged between 39 and 47 years old.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/business-40658774",
+                            "text": "-\"State pension age rise brought forward\". BBC News. 19 July 2017. Retrieved 19 July 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-07-19",
+                                "Created": "2017-07-19"
+                            }
+                        }
+                    ],
+                    "start_date": "19/07/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Sir Vince Cable becomes the new leader of the Liberal Democrats after nominations close without any challengers.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/uk-politics-40662737",
+                            "text": "-\"Vince Cable is new Lib Dem leader\". BBC News. 20 July 2017. Retrieved 20 July 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-07-20",
+                                "Created": "2017-07-20"
+                            }
+                        }
+                    ],
+                    "start_date": "20/07/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Office for National Statistics reports that crime in England and Wales has seen its largest annual rise in a decade, increasing by 10% overall between April 2016 and March 2017, with violent crime up by 18%.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/uk-40665733",
+                            "text": "-\"Largest crime rise in England and Wales for 10 years\". BBC News. 20 July 2017. Retrieved 20 July 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-07-20",
+                                "Created": "2017-07-20"
+                            }
+                        }
+                    ],
+                    "start_date": "20/07/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Government announces plans to introduce drone registration and safety awareness courses for owners of the small unmanned aircraft.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/technology-40684581",
+                            "text": "-\"UK to bring in drone registration\". BBC News. 22 July 2017. Retrieved 22 July 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-07-22",
+                                "Created": "2017-07-22"
+                            }
+                        }
+                    ],
+                    "start_date": "22/07/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The UK Independence Party loses overall control of Thanet District Council, the only local authority it runs, after one of its councillors defects to the Conservative Party.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/uk-england-kent-40691149",
+                            "text": "-\"Beverly Martin defection: UKIP loses control of its only council\". BBC News. 22 July 2017. Retrieved 28 July 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-07-28",
+                                "Created": "2017-07-22"
+                            }
+                        }
+                    ],
+                    "start_date": "22/07/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The government announces that all new diesel and petrol cars and vans will be banned in the UK from 2040.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/uk-40723581",
+                            "text": "-\"New diesel and petrol vehicles to be banned from 2040 in UK\". BBC News. 26 July 2017. Retrieved 26 July 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-07-26",
+                                "Created": "2017-07-26"
+                            }
+                        }
+                    ],
+                    "start_date": "26/07/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Supreme Court rules that employment tribunal fees are unlawful, meaning the government will have to repay up to £32m to claimants.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/uk-40727400",
+                            "text": "-\"Employment tribunal fees unlawful, Supreme Court rules\". BBC News. 26 July 2017. Retrieved 26 July 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-07-26",
+                                "Created": "2017-07-26"
+                            }
+                        }
+                    ],
+                    "start_date": "26/07/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "August",
+            "Data": [
+                {
+                    "event_text": "2 August  The Duke of Edinburgh carries out his final official engagement before retiring from public duties at age 96.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/uk-40798469",
+                            "text": "-\"Prince Philip carries out final official engagement\". BBC News. 2 August 2017. Retrieved 2 August 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-08-02",
+                                "Created": "2017-08-02"
+                            }
+                        }
+                    ],
+                    "start_date": "02/08/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "4 August  The World Athletic Championships start at the Queen Elizabeth Olympic Park in London.",
+                    "links": [
+                        {
+                            "link": "https://web.archive.org/web/20170221170847/http://www.iaafworldchampionships.com/events",
+                            "text": "-\"IAAF World Championships – Official website\". iaafworldchampionships.com. Archived from the original on 21 February 2017. Retrieved 22 October 2017.-",
+                            "dates": {
+                                "Archieved": "2017-02-21",
+                                "Retrieved": "2017-10-22",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "http://www.iaafworldchampionships.com/events",
+                            "text": "-\"IAAF World Championships – Official website\". iaafworldchampionships.com. Archived from the original on 21 February 2017. Retrieved 22 October 2017.-",
+                            "dates": {
+                                "Archieved": "2017-02-21",
+                                "Retrieved": "2017-10-22",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "04/08/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "6 August  In a repeat of the FA Cup Final in May, Arsenal beat Chelsea on penalties following a 11 draw to win the 2017 FA Community Shield. All proceeds are donated to victims of the Grenfell Tower fire.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/sport/football/40766983",
+                            "text": "-\"Arsenal 1-1 Chelsea (Arsenal won 4–1 on pens)\". BBC Sport. 6 August 2017. Retrieved 25 May 2019.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2019-05-25",
+                                "Created": "2017-08-06"
+                            }
+                        }
+                    ],
+                    "start_date": "06/08/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "10 August  A trade analysis by the Environmental Investigations Agency shows that the UK is the world's largest legal ivory exporter.",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/environment/2017/aug/10/uk-named-as-worlds-largest-legal-ivory-exporter",
+                            "text": "-\"UK named as world's largest legal ivory exporter\". The Guardian. 10 August 2017. Retrieved 10 August 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-08-10",
+                                "Created": "2017-08-10"
+                            }
+                        }
+                    ],
+                    "start_date": "10/08/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "16 August  The Royal Navy's new £3bn aircraft carrier, HMS Queen Elizabeth, arrives in her home port of Portsmouth for the first time.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/live/uk-england-hampshire-40937149",
+                            "text": "-\"New aircraft carrier arrives in home port\". BBC News. 16 August 2017. Retrieved 16 August 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-08-16",
+                                "Created": "2017-08-16"
+                            }
+                        }
+                    ],
+                    "start_date": "16/08/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "21 August  The chimes of Big Ben fall silent as a four-year renovation of the building begins.",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/uk-news/2017/aug/21/big-ben-bongs-to-sound-final-time-for-four-years",
+                            "text": "-\"Big Ben bongs sound for final time for four years\". The Guardian. 21 August 2017. Retrieved 21 August 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-08-21",
+                                "Created": "2017-08-21"
+                            }
+                        }
+                    ],
+                    "start_date": "21/08/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "September",
+            "Data": [
+                {
+                    "event_text": "1 September  Women are eligible to join the RAF Regiment, making the Royal Air Force the first of the British armed services to accept both genders in all roles.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/uk-41119863",
+                            "text": "-\"RAF's close combat unit opens to women for the first time\". BBC News. 1 September 2017. Retrieved 1 September 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-09-01",
+                                "Created": "2017-09-01"
+                            }
+                        }
+                    ],
+                    "start_date": "01/09/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "4 September  A survey by the National Centre for Social Research finds that, for the first time, a majority (53%) of adults in the UK describe themselves as non-religious.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/uk-41150792",
+                            "text": "-\"More than half in UK are non-religious, suggests survey\". BBC News. 4 September 2017. Retrieved 4 September 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-09-04",
+                                "Created": "2017-09-04"
+                            }
+                        }
+                    ],
+                    "start_date": "04/09/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "11 September  In a Commons vote, MPs back the EU Withdrawal Bill by 326 to 290, as critics warn it represents a \"power grab\" by ministers.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/uk-politics-41235522",
+                            "text": "-\"Brexit: EU repeal bill wins first Commons vote\". BBC News. 12 September 2017. Retrieved 12 September 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-09-12",
+                                "Created": "2017-09-12"
+                            }
+                        }
+                    ],
+                    "start_date": "11/09/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "14 September  A new £10 polymer banknote is released, featuring Jane Austen.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/business-41255976",
+                            "text": "-\"Jane Austen polymer £10 note enters circulation\". BBC News. 14 September 2017. Retrieved 15 September 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-09-15",
+                                "Created": "2017-09-14"
+                            }
+                        }
+                    ],
+                    "start_date": "14/09/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "15 September  Parsons Green train bombing A blast and fire on a District line train at Parsons Green station in London is treated as a terrorist attack. A number of people suffer burn injuries, while others are injured during the trample to escape. There are 29 injures in total, but no deaths and no reports of any life-threatening injuries. The UK terror threat is raised to its highest level as police hunt the perpetrator, who is arrested the following day at the Port of Dover.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/uk-41278545",
+                            "text": "-\"Parsons Green: London Tube blast treated as terror incident\". BBC News. 15 September 2017. Retrieved 15 September 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-09-15",
+                                "Created": "2017-09-15"
+                            }
+                        },
+                        {
+                            "link": "https://www.bbc.co.uk/news/uk-41290951",
+                            "text": "-\"Parsons Green: Police hunt bomber behind Tube attack\". BBC News. 16 September 2017. Retrieved 16 September 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-09-16",
+                                "Created": "2017-09-16"
+                            }
+                        }
+                    ],
+                    "start_date": "15/09/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "20 September  UK scientists edit the DNA of human embryos for the first time.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/health-41269200",
+                            "text": "-\"UK scientists edit DNA of human embryos\". BBC News. 20 September 2017. Retrieved 21 September 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-09-21",
+                                "Created": "2017-09-20"
+                            }
+                        },
+                        {
+                            "link": "https://www.crick.ac.uk/news/science-news/2017/09/20/genome-editing-reveals-role-of-gene-important-for-human-embryo-development/",
+                            "text": "-\"Genome editing reveals role of gene important for human embryo development\". Francis Crick Institute. 20 September 2017. Retrieved 21 September 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-09-21",
+                                "Created": "2017-09-20"
+                            }
+                        }
+                    ],
+                    "start_date": "20/09/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Transport for London (TfL) announces that Uber is \"not fit and proper\" to operate in London and will not have its licence renewed.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/uk-england-41358640",
+                            "text": "-\"Uber London licence not renewed\". BBC News. 22 September 2017. Retrieved 22 September 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-09-22",
+                                "Created": "2017-09-22"
+                            }
+                        },
+                        {
+                            "link": "https://tfl.gov.uk/info-for/media/press-releases/2017/september/licensing-decision-on-uber-london-limited?intcmp=50167",
+                            "text": "-\"Licensing decision on Uber London Limited\". Transport for London. 22 September 2017. Retrieved 22 September 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-09-22",
+                                "Created": "2017-09-22"
+                            }
+                        }
+                    ],
+                    "start_date": "22/09/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The UK's credit rating is downgraded by Moody's, from Aa1 to Aa2.",
+                    "links": [
+                        {
+                            "link": "https://www.ft.com/content/3ecfa8f2-9fdc-11e7-8cd4-932067fbf946",
+                            "text": "-\"UK credit rating downgraded over Brexit uncertainty\". Financial Times. 22 September 2017. Retrieved 28 September 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-09-28",
+                                "Created": "2017-09-22"
+                            }
+                        },
+                        {
+                            "link": "https://www.bbc.co.uk/news/business-41369239",
+                            "text": "-\"UK credit rating downgraded by Moody's\". BBC News. 23 September 2017. Retrieved 28 September 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-09-28",
+                                "Created": "2017-09-23"
+                            }
+                        }
+                    ],
+                    "start_date": "22/09/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "27 September  Measles is declared eradicated in the UK.",
+                    "links": [
+                        {
+                            "link": "https://www.telegraph.co.uk/news/2017/09/27/measles-eliminated-uk-first-time/",
+                            "text": "-\"Measles eliminated in the UK for the first time\". The Telegraph. 27 September 2017. Retrieved 27 September 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-09-27",
+                                "Created": "2017-09-27"
+                            }
+                        }
+                    ],
+                    "start_date": "27/09/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "October",
+            "Data": [
+                {
+                    "event_text": "2 October  Monarch Airlines, the UK's fifth biggest airline, is placed into administration.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/business-41464934",
+                            "text": "-\"Monarch flights cancelled as airline ceases trading\". BBC News. 2 October 2017. Retrieved 2 October 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-10-02",
+                                "Created": "2017-10-02"
+                            }
+                        }
+                    ],
+                    "start_date": "02/10/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "3 October  Following a spate of acid attacks, the government announces that sales of acids to under 18s will be banned.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/uk-41484909",
+                            "text": "-\"Sale of acids to under-18s to be banned, Amber Rudd says\". BBC News. 3 October 2017. Retrieved 3 October 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-10-03",
+                                "Created": "2017-10-03"
+                            }
+                        }
+                    ],
+                    "start_date": "03/10/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "15 October  Round £1 coins cease to be legal tender in the UK.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/uk-38480180",
+                            "text": "-\"New 12-sided pound coin to enter circulation in March\". BBC News. 1 January 2017. Retrieved 1 January 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-01-01",
+                                "Created": "2017-01-01"
+                            }
+                        }
+                    ],
+                    "start_date": "15/10/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "5 October  The England national football team qualifies for the 2018 FIFA World Cup after defeating Slovenia 10 at Wembley Stadium.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/sport/football/41423558",
+                            "text": "-\"England 1-0 Slovenia\". BBC Sport. 5 October 2017. Retrieved 5 October 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-10-05",
+                                "Created": "2017-10-05"
+                            }
+                        }
+                    ],
+                    "start_date": "05/10/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Revised figures from the ONS indicate that Britain is £490 billion poorer than previously thought, and that the country no longer has a net reserve of foreign assets.",
+                    "links": [
+                        {
+                            "link": "https://www.independent.co.uk/news/business/news/britain-490-billion-pounds-poorer-ons-figures-uk-brexit-talks-position-revision-gdp-a8002871.html",
+                            "text": "-\"Britain is £490bn poorer than thought, reveals ONS\". The Independent. 16 October 2017. Archived from the original on 1 May 2022. Retrieved 16 October 2017.-",
+                            "dates": {
+                                "Archieved": "2022-05-01",
+                                "Retrieved": "2017-10-16",
+                                "Created": "2017-10-16"
+                            }
+                        },
+                        {
+                            "link": "https://ghostarchive.org/archive/20220501/https://www.independent.co.uk/news/business/news/britain-490-billion-pounds-poorer-ons-figures-uk-brexit-talks-position-revision-gdp-a8002871.html",
+                            "text": "-\"Britain is £490bn poorer than thought, reveals ONS\". The Independent. 16 October 2017. Archived from the original on 1 May 2022. Retrieved 16 October 2017.-",
+                            "dates": {
+                                "Archieved": "2022-05-01",
+                                "Retrieved": "2017-10-16",
+                                "Created": "2017-10-16"
+                            }
+                        }
+                    ],
+                    "start_date": "16/10/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Hurricane Ophelia hits the British Isles.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/uk-41627442",
+                            "text": "-\"Hurricane Ophelia: Two people die as storm hits Ireland\". BBC News. 16 October 2017. Retrieved 16 October 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-10-16",
+                                "Created": "2017-10-16"
+                            }
+                        }
+                    ],
+                    "start_date": "16/10/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "17 October  The Consumer Price Index (CPI), the UK's key inflation rate, increases from 2.9 to 3%, its highest for more than five years, driven by a rise in transport and food prices.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/business-41649498",
+                            "text": "-\"UK inflation at highest since April 2012\". BBC News. 17 October 2017. Retrieved 17 October 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-10-17",
+                                "Created": "2017-10-17"
+                            }
+                        }
+                    ],
+                    "start_date": "17/10/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "26 October  Women in Scotland are to be allowed to take abortion pills at home, bringing the country into line with others such as Sweden and France.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/uk-scotland-41760959",
+                            "text": "-\"Women in Scotland allowed abortion pill at home\". BBC News. 26 October 2017. Retrieved 31 December 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-12-31",
+                                "Created": "2017-10-26"
+                            }
+                        }
+                    ],
+                    "start_date": "26/10/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "28 October  The England national under-17 football team win the FIFA U-17 World Cup for the first time after beating Spain by 5 goals to 2 in the final.",
+                    "links": [
+                        {
+                            "link": "https://www.mirror.co.uk/sport/football/news/england-u17-5-2-spain-11425967",
+                            "text": "-Edwards, Richard (28 October 2017). \"England U17 5-2 Spain U17: Young Lions win Under 17 World Cup after thrilling fightback in India\". Mirror.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2017-10-28"
+                            }
+                        }
+                    ],
+                    "start_date": "28/10/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "November",
+            "Data": [
+                {
+                    "event_text": "Defence Secretary Sir Michael Fallon resigns following allegations of inappropriate past behaviour.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/uk-politics-41838682",
+                            "text": "-\"Sir Michael Fallon resigns over behaviour claims\". BBC News. 1 November 2017. Retrieved 1 November 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-11-01",
+                                "Created": "2017-11-01"
+                            }
+                        }
+                    ],
+                    "start_date": "01/11/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Government loses an opposition vote calling on it to publish impact assessments of Brexit on more than 50 key industries.",
+                    "links": [
+                        {
+                            "link": "https://news.sky.com/story/government-loses-vote-on-publishing-brexit-impact-assessments-11108917",
+                            "text": "-\"Government loses vote on publishing Brexit impact assessments\". Sky News. 1 November 2017. Retrieved 1 November 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-11-01",
+                                "Created": "2017-11-01"
+                            }
+                        }
+                    ],
+                    "start_date": "01/11/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Gavin Williamson replaces Michael Fallon as defence secretary.",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/politics/2017/nov/02/gavin-williamson-replaces-michael-fallon-as-defence-secretary",
+                            "text": "-Stewart, Heather (2 November 2017). \"Gavin Williamson replaces Michael Fallon as defence secretary\". The Guardian.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2017-11-02"
+                            }
+                        }
+                    ],
+                    "start_date": "02/11/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Bank of England raises interest rates for the first time in 10 years, from 0.25 to 0.5%.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/business-41846330",
+                            "text": "-\"First UK interest rate rise in 10 years\". BBC News. 2 November 2017. Retrieved 2 November 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-11-02",
+                                "Created": "2017-11-02"
+                            }
+                        }
+                    ],
+                    "start_date": "02/11/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "5 November  A huge new leak of documents known as the Paradise Papers is reported by the BBC's Panorama programme, revealing how the wealthy and powerful, including the Queen's private estate, invest offshore.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/uk-41876942",
+                            "text": "-\"Paradise Papers: Tax haven secrets of ultra-rich exposed\". BBC News. 5 November 2017. Retrieved 5 November 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-11-05",
+                                "Created": "2017-11-05"
+                            }
+                        }
+                    ],
+                    "start_date": "05/11/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "7 November  Nicola Sturgeon, Scotland's First Minister, apologises to gay men convicted of sexual offences that are no longer illegal as new legislation is introduced that will automatically pardon gay and bisexual men convicted under historical laws.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/uk-scotland-41891397",
+                            "text": "-\"Nicola Sturgeon makes gay convictions apology\". BBC News. 7 November 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2017-11-07"
+                            }
+                        }
+                    ],
+                    "start_date": "07/11/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "13 November  David Davis announces that Parliament will be given a vote on the final Brexit deal before the United Kingdom leaves the European Union in 2019.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/uk-politics-41975277",
+                            "text": "-\"Parliament to get binding vote on final Brexit deal\". BBC News. 13 November 2017. Retrieved 13 November 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-11-13",
+                                "Created": "2017-11-13"
+                            }
+                        }
+                    ],
+                    "start_date": "13/11/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "15 November  A report by the British Medical Journal shows that NHS and social care austerity has been responsible for 120,000 excess deaths since 2010 under the Tories.",
+                    "links": [
+                        {
+                            "link": "http://blogs.bmj.com/bmjopen/2017/11/15/health-and-social-care-spending-cuts-linked-to-120000-excess-deaths-in-england/",
+                            "text": "-\"Health and social care spending cuts linked to 120,000 excess deaths in England\". BMJ. 15 November 2017. Retrieved 16 November 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-11-16",
+                                "Created": "2017-11-15"
+                            }
+                        }
+                    ],
+                    "start_date": "15/11/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "16 November  The Metropolitan Police announces that 71 victims of the Grenfell Tower fire have been formally identified and that all those who died have been recovered.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/uk-42008279",
+                            "text": "-\"Grenfell Tower final death toll stands at 71\". BBC News. 16 November 2017. Retrieved 16 November 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-11-16",
+                                "Created": "2017-11-16"
+                            }
+                        }
+                    ],
+                    "start_date": "16/11/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Sarah Clarke, current championship director of the All England Lawn Tennis Club, is appointed as the first female Black Rod. She will take up the position in January 2018, and have the title \"The Lady Usher of the Black Rod\".",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/uk-politics-42025131",
+                            "text": "-\"Sarah Clarke is first female Black Rod in 650 years\". BBC News. 17 November 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2017-11-17"
+                            }
+                        }
+                    ],
+                    "start_date": "17/11/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Richard Leonard is elected as the new Scottish Labour leader after Kezia Dugdale resigned from the role in August.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/uk-scotland-scotland-politics-42024155",
+                            "text": "-\"Richard Leonard to lead Scottish Labour\". BBC News. 18 November 2017. Retrieved 18 November 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-11-18",
+                                "Created": "2017-11-18"
+                            }
+                        }
+                    ],
+                    "start_date": "18/11/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Gerry Adams announces his intention to stand down as Sinn Féin president in 2018.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/uk-northern-ireland-42039618",
+                            "text": "-\"Adams to stand down as Sinn Féin leader\". BBC News. 18 November 2017. Retrieved 18 November 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-11-18",
+                                "Created": "2017-11-18"
+                            }
+                        }
+                    ],
+                    "start_date": "18/11/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Queen and Prince Philip celebrate their 70th wedding anniversary.",
+                    "links": [
+                        {
+                            "link": "https://news.sky.com/story/the-queen-and-prince-philip-70-years-of-royal-marriage-11135529",
+                            "text": "-Culbertson, Alix. \"The Queen and Prince Philip: 70 years of Royal marriage\". Sky News.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "20/11/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "In the wake of Britain's decision to leave the EU, it is announced that the European Banking Authority will be moved from London to Paris, while the European Medicines Agency will be moved from London to Amsterdam.",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/politics/2017/nov/20/london-loses-european-medicines-agency-amsterdam-brexit-relocation",
+                            "text": "-\"London loses EU agencies to Paris and Amsterdam in Brexit relocation\". The Guardian. 20 November 2017. Retrieved 21 November 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-11-21",
+                                "Created": "2017-11-20"
+                            }
+                        }
+                    ],
+                    "start_date": "20/11/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "21 November  The UK loses its seat on the International Court of Justice for the first time since the UN's principal legal body began in 1946.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/uk-politics-42063664",
+                            "text": "-\"How UK lost International Court of Justice place to India\". BBC News. 21 November 2017. Retrieved 21 November 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-11-21",
+                                "Created": "2017-11-21"
+                            }
+                        }
+                    ],
+                    "start_date": "21/11/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "22 November  Chancellor Phillip Hammond delivers the  budget.",
+                    "links": [],
+                    "start_date": "22/11/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The European Commission states that UK participation in the European Capital of Culture will no longer be possible.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/uk-scotland-tayside-central-42095477#",
+                            "text": "-\"Brexit scuppers UK's 2023 European Capital of Culture bids\". BBC News. 23 November 2017. Retrieved 23 November 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-11-23",
+                                "Created": "2017-11-23"
+                            }
+                        }
+                    ],
+                    "start_date": "23/11/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Closure of last iron foundry in Coalbrookdale, Shropshire.",
+                    "links": [],
+                    "start_date": "23/11/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "24 November  A sixteen-year-old girl who admitted killing seven-year-old Katie Rough in York is detained for life and ordered to serve a minimum term of five years.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/uk-england-york-north-yorkshire-42112979",
+                            "text": "-\"Teen detained for life for killing girl\". BBC News. 24 November 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2017-11-24"
+                            }
+                        }
+                    ],
+                    "start_date": "24/11/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "26 November  Sailors of the Royal Navy perform the Changing of the Guard ceremony in London for the first time in its history.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/uk-42126693",
+                            "text": "-\"Sailors perform Changing of the Guard in historic first\". BBC News. 26 November 2017. Retrieved 26 November 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-11-26",
+                                "Created": "2017-11-26"
+                            }
+                        }
+                    ],
+                    "start_date": "26/11/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "December",
+            "Data": [
+                {
+                    "event_text": "3 December  Alan Milburn and the entire Social Mobility Commission quit their roles, citing ‘lack of political leadership’, a repeated refusal to properly resource and staff the commission, an obsession with Brexit and an ‘absence’ of policy.",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/politics/2017/dec/02/theresa-may-crisis-mass-walkout-social-policy-alan-milburn",
+                            "text": "-\"Theresa May faces new crisis after mass walkout over social policy\". The Guardian. 3 December 2017. Retrieved 3 December 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-12-03",
+                                "Created": "2017-12-03"
+                            }
+                        },
+                        {
+                            "link": "https://www.bbc.co.uk/news/uk-politics-42212270",
+                            "text": "-\"Social mobility board quits over lack of progress\". BBC News. 3 December 2017. Retrieved 3 December 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-12-03",
+                                "Created": "2017-12-03"
+                            }
+                        }
+                    ],
+                    "start_date": "03/12/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "7 December  Coventry is named the UK City of Culture 2021.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/entertainment-arts-42272675",
+                            "text": "-\"Coventry named UK City of Culture 2021\". BBC News. 7 December 2017. Retrieved 7 December 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-12-07",
+                                "Created": "2017-12-07"
+                            }
+                        }
+                    ],
+                    "start_date": "07/12/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "8 December  The United Kingdom and European Union reach agreement on the first stage of Brexit.",
+                    "links": [
+                        {
+                            "link": "http://edition.cnn.com/2017/12/08/europe/brexit-theresa-may-britain/index.html",
+                            "text": "-\"Brexit breakthrough in Brussels comes after week of drama\". CNN. 8 December 2017. Retrieved 8 December 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-12-08",
+                                "Created": "2017-12-08"
+                            }
+                        }
+                    ],
+                    "start_date": "08/12/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "11 December  Mount Hope in the British Antarctic Territory is found to be the highest mountain in British territory.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/science-environment-42238262",
+                            "text": "-Amos, Jonathan (11 December 2017). \"Mt Hope installed as 'UK's highest peak'\". BBC News. Retrieved 11 December 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-12-11",
+                                "Created": "2017-12-11"
+                            }
+                        }
+                    ],
+                    "start_date": "11/12/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "12 December  The UK's key inflation rate  the consumer prices index – rises to 3.1%, the highest level in nearly six years.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/business-42320052",
+                            "text": "-\"UK inflation rate rises to 3.1%\". BBC News. 12 December 2017. Retrieved 12 December 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-12-12",
+                                "Created": "2017-12-12"
+                            }
+                        }
+                    ],
+                    "start_date": "12/12/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "13 December  After a rebellion by Tory MPs, the government is defeated in a key vote on Brexit, with MPs voting in favour of giving Parliament a say on the final deal struck with the EU.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/uk-politics-42346192",
+                            "text": "-\"Government loses key Brexit bill vote after Tory rebellion\". BBC News. 13 December 2017. Retrieved 13 December 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-12-13",
+                                "Created": "2017-12-13"
+                            }
+                        }
+                    ],
+                    "start_date": "13/12/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "14 December  The Scottish government's budget proposes splitting the 20% income tax band into three with a new lower band of 19%, a 20% band, and a 21% band for those earning over £24,000.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/uk-scotland-42356953",
+                            "text": "-\"Scottish income tax changes unveiled\". BBC News. BBC. 14 December 2017. Retrieved 14 December 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-12-14",
+                                "Created": "2017-12-14"
+                            }
+                        }
+                    ],
+                    "start_date": "14/12/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "20 December  The EU announces that the UK's Brexit transition period will end no later than 31 .",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/uk-politics-42426542",
+                            "text": "-\"EU says Brexit transition to end by 31 December 2020\". BBC News. BBC. 20 December 2017. Retrieved 20 December 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-12-20",
+                                "Created": "2017-12-20"
+                            }
+                        }
+                    ],
+                    "start_date": "20/12/2017",
+                    "end_date": "31/12/2017"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,229 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "Shaanxi, Henan, Hubei, Anhui, Jiangsu and other places have been affected by heavy snow or blizzard, which has damaged housing, agriculture and power infrastructure in some areas, and traffic has been blocked.",
+                    "links": [],
+                    "start_date": "02/01/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "As of 1100, Blizzard snow caused 10 deaths in 5 provinces in Central China and East China, more than 567,000 people were affected.",
+                    "links": [],
+                    "start_date": "05/01/2018",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "The CCTV Spring Festival Gala, which airs to millions around the country, sparks widespread criticism and faces accusations of racism after featuring a comedy sketch that featured an Asian actress in blackface and with exaggerated buttocks.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-asia-china-43081218",
+                            "text": "-\"China's biggest show in 'racist blackface'\". BBC News. 2018-02-16. Retrieved 2018-02-17.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-02-17",
+                                "Created": "2018-02-16"
+                            }
+                        }
+                    ],
+                    "start_date": "15/02/2018",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "13th National People's Congress was opened.",
+                    "links": [],
+                    "start_date": "05/03/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "National People's Congress approves a constitutional change that removes term limits for its leaders, granting General Secretary Xi Jinping the status of \"President for life\".",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/world-asia-china-43361276",
+                            "text": "-\"China's Xi allowed to remain 'president for life' as term limits removed\". BBC News. 11 March 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2018-03-11"
+                            }
+                        }
+                    ],
+                    "start_date": "11/03/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "North Korea's supreme leader Kim Jong-un met with China's paramount leader Xi Jinping in Beijing on Kim's first reported trip outside the country since taking power.",
+                    "links": [
+                        {
+                            "link": "https://www.nbcnews.com/news/north-korea/north-korea-s-kim-jong-un-visited-china-state-media-n860596",
+                            "text": "-\"North Korea's Kim Jong Un visited China for secret summit\". NBC News. NBC News. Retrieved 28 March 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-03-28",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "28/03/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "March  scheduled date for the first plenary session to be held by the 13th National People's Congress",
+                    "links": [],
+                    "start_date": "28/03/2018",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "May",
+            "Data": [
+                {
+                    "event_text": "Censorship in China Chinese authorities have blocked the popular British children's cartoon, Peppa Pig on its Douyin (TikTok) social media service for \"subversive\" content. The service had over 30,000 viral videos of Peppa Pig on its platform.",
+                    "links": [
+                        {
+                            "link": "https://www.cnbc.com/2018/05/02/peppa-pig-videos-removed-by-chinese-social-media-app-douyin.html",
+                            "text": "-Peppa Pig got big in China. Then she got censored Archived 2018-05-04 at the Wayback Machine, CNBC-",
+                            "dates": {
+                                "Archieved": "2018-05-04",
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20180504225604/https://www.cnbc.com/2018/05/02/peppa-pig-videos-removed-by-chinese-social-media-app-douyin.html",
+                            "text": "-Peppa Pig got big in China. Then she got censored Archived 2018-05-04 at the Wayback Machine, CNBC-",
+                            "dates": {
+                                "Archieved": "2018-05-04",
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "02/05/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "former Chinese Communist Party official Sun Zhengcai sentenced to life imprisonment for corruption.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/article/us-china-corruption-idUSKBN1I907L",
+                            "text": "-\"Former party boss in China's Chongqing city jailed for life for graft\". Reuters. 8 May 2018 – via www.reuters.com.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2018-05-08"
+                            }
+                        }
+                    ],
+                    "start_date": "08/05/2018",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "June",
+            "Data": []
+        },
+        {
+            "Month": "August",
+            "Data": [
+                {
+                    "event_text": "to 19 - Tropical Storm Rumbia caused heavy rain in several province, causing 53 fatalities, including 2 policeman who were washed away by the flood.",
+                    "links": [],
+                    "start_date": "18/08/2018",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "September",
+            "Data": [
+                {
+                    "event_text": "— the annual routine Air Defense Alert originally scheduled for Guangzhou was cancelled.",
+                    "links": [
+                        {
+                            "link": "https://web.archive.org/web/20180915121836/https://www.gz.gov.cn/gzgov/gsgg/201809/a05c12cc7d79433dbc77eebccd48b2d3.shtml",
+                            "text": "-\"关于取消2018年9月15日防空警报试鸣的紧急通知\". 广州市民防办公室. 2018-09-15. Archived from the original on 2018-09-15. Retrieved 2018-09-15.-",
+                            "dates": {
+                                "Archieved": "2018-09-15",
+                                "Retrieved": "2018-09-15",
+                                "Created": "2018-09-15"
+                            }
+                        },
+                        {
+                            "link": "https://www.gz.gov.cn/gzgov/gsgg/201809/a05c12cc7d79433dbc77eebccd48b2d3.shtml",
+                            "text": "-\"关于取消2018年9月15日防空警报试鸣的紧急通知\". 广州市民防办公室. 2018-09-15. Archived from the original on 2018-09-15. Retrieved 2018-09-15.-",
+                            "dates": {
+                                "Archieved": "2018-09-15",
+                                "Retrieved": "2018-09-15",
+                                "Created": "2018-09-15"
+                            }
+                        }
+                    ],
+                    "start_date": "15/09/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "— Typhoon Mangkhut gradually approached Guangdong. Urban public transportation in Guangzhou and Shenzhen is also affected, in which part of the Guangzhou Metro is out of service; in Shenzhen, buses, subways, and taxis are all out of service, and pure electric taxi charging stations are also closed.",
+                    "links": [
+                        {
+                            "link": "http://www.bjnews.com.cn/news/2018/09/16/505414.html",
+                            "text": "-\"台风\"山竹\"将临：广深多处地铁、公交停运\". 新京报新媒体. 2018-09-16.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2018-09-16"
+                            }
+                        },
+                        {
+                            "link": "http://sz.people.com.cn/n2/2018/0916/c202846-32060918.html",
+                            "text": "-\"深圳全市出租车已全部停运\". 人民网-深圳频道. 2018-09-16.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2018-09-16"
+                            }
+                        }
+                    ],
+                    "start_date": "16/09/2018",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "October",
+            "Data": [
+                {
+                    "event_text": "The PRC authorities ordered Fan Bingbing and the companies she controls to pay around 883 million yuan (around US$129 million) in taxes, fines, and penalties. She also broke silence on her Weibo account by apologizing for what she had done.",
+                    "links": [],
+                    "start_date": "03/10/2018",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "November",
+            "Data": [
+                {
+                    "event_text": "— “Great Change  A Large-Scale Exhibition Celebrating the 40th Anniversary of Reform and Opening-up” was grandly opened at the National Museum of the People’s Republic of China. On the afternoon of the same day, Xi Jinping came here to visit the exhibition, reviewing the glorious course of the 40 years of reform and opening up, and proclaiming the firm determination to carry out reform and opening up.",
+                    "links": [],
+                    "start_date": "13/11/2018",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

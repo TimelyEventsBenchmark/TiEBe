@@ -1,0 +1,975 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "3 January  One man is killed and another is injured following a double stabbing at the Asia-Pacific headquarters of the Church of Scientology in the Sydney suburb of Chatswood.",
+                    "links": [
+                        {
+                            "link": "https://www.smh.com.au/national/nsw/man-dies-after-alleged-stabbing-at-church-of-scientology-headquarters-20190103-p50pek.html",
+                            "text": "-Rawsthorne, Sally; Weir, Ben (3 January 2019). \"Man dies after alleged stabbing at Church of Scientology headquarters\". Sydney Morning Herald. Fairfax. Retrieved 3 January 2019.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2019-01-03",
+                                "Created": "2019-01-03"
+                            }
+                        },
+                        {
+                            "link": "https://www.smh.com.au/education/church-of-scientology-defends-use-of-sydney-school-children-in-advertising-20161006-grvzrk.html",
+                            "text": "-Bagshaw, Eryk (30 October 2016). \"Church of Scientology defends use of Sydney school children in advertising\". Sydney Morning Herald. Fairfax. Archived from the original on 3 January 2019. Retrieved 3 January 2019.-",
+                            "dates": {
+                                "Archieved": "2019-01-03",
+                                "Retrieved": "2019-01-03",
+                                "Created": "2016-10-30"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20190103161225/https://www.smh.com.au/education/church-of-scientology-defends-use-of-sydney-school-children-in-advertising-20161006-grvzrk.html",
+                            "text": "-Bagshaw, Eryk (30 October 2016). \"Church of Scientology defends use of Sydney school children in advertising\". Sydney Morning Herald. Fairfax. Archived from the original on 3 January 2019. Retrieved 3 January 2019.-",
+                            "dates": {
+                                "Archieved": "2019-01-03",
+                                "Retrieved": "2019-01-03",
+                                "Created": "2016-10-30"
+                            }
+                        }
+                    ],
+                    "start_date": "03/01/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "5 January  A far-right political rally held in Melbourne, marked by scuffles with police and counter-protesters, is attended by Independent Senator Fraser Anning, who admits to using tax-payer funded travel to attend the event.",
+                    "links": [
+                        {
+                            "link": "https://thenewdaily.com.au/news/national/2019/01/06/fraser-anning-nazis/",
+                            "text": "-Maiden, Samantha (6 January 2019). \"Fraser Anning: Nazis, what Nazis? I didn't see any in St Kilda\". The New Daily. Archived from the original on 6 January 2019. Retrieved 3 January 2019.-",
+                            "dates": {
+                                "Archieved": "2019-01-06",
+                                "Retrieved": "2019-01-03",
+                                "Created": "2019-01-06"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20190106103840/https://thenewdaily.com.au/news/national/2019/01/06/fraser-anning-nazis/",
+                            "text": "-Maiden, Samantha (6 January 2019). \"Fraser Anning: Nazis, what Nazis? I didn't see any in St Kilda\". The New Daily. Archived from the original on 6 January 2019. Retrieved 3 January 2019.-",
+                            "dates": {
+                                "Archieved": "2019-01-06",
+                                "Retrieved": "2019-01-03",
+                                "Created": "2019-01-06"
+                            }
+                        }
+                    ],
+                    "start_date": "05/01/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "7 January  A mass fish die-off occurs on the Lower Darling River at Menindee Lakes. Up to 1 million fish, including endangered species, ultimately die in what is described as possibly the largest fish die-off in Australian history.",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/australia-news/2019/jan/07/hundreds-of-thousands-of-native-fish-dead-in-second-murray-darling-incident",
+                            "text": "-Davies, Anne (7 January 2019). \"Hundreds of thousands of native fish dead in second Murray-Darling incident\". The Guardian. ISSN 0261-3077. Archived from the original on 10 May 2024. Retrieved 20 January 2019.-",
+                            "dates": {
+                                "Archieved": "2024-05-10",
+                                "Retrieved": "2019-01-20",
+                                "Created": "2019-01-07"
+                            }
+                        },
+                        {
+                            "link": "https://search.worldcat.org/issn/0261-3077",
+                            "text": "-Davies, Anne (7 January 2019). \"Hundreds of thousands of native fish dead in second Murray-Darling incident\". The Guardian. ISSN 0261-3077. Archived from the original on 10 May 2024. Retrieved 20 January 2019.-",
+                            "dates": {
+                                "Archieved": "2024-05-10",
+                                "Retrieved": "2019-01-20",
+                                "Created": "2019-01-07"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20240510065327/https://www.theguardian.com/australia-news/2019/jan/07/hundreds-of-thousands-of-native-fish-dead-in-second-murray-darling-incident",
+                            "text": "-Davies, Anne (7 January 2019). \"Hundreds of thousands of native fish dead in second Murray-Darling incident\". The Guardian. ISSN 0261-3077. Archived from the original on 10 May 2024. Retrieved 20 January 2019.-",
+                            "dates": {
+                                "Archieved": "2024-05-10",
+                                "Retrieved": "2019-01-20",
+                                "Created": "2019-01-07"
+                            }
+                        },
+                        {
+                            "link": "https://www.abc.net.au/news/2019-01-08/second-fish-kill-in-darling-river-at-menindee/10696632",
+                            "text": "-Carman, Rhys; Tomevska, Sara (8 January 2019). \"A million fish dead in 'distressing' outback algal bloom\". ABC News. Archived from the original on 16 July 2024. Retrieved 20 January 2019.-",
+                            "dates": {
+                                "Archieved": "2024-07-16",
+                                "Retrieved": "2019-01-20",
+                                "Created": "2019-01-08"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20240716061152/https://www.abc.net.au/news/2019-01-08/second-fish-kill-in-darling-river-at-menindee/10696632",
+                            "text": "-Carman, Rhys; Tomevska, Sara (8 January 2019). \"A million fish dead in 'distressing' outback algal bloom\". ABC News. Archived from the original on 16 July 2024. Retrieved 20 January 2019.-",
+                            "dates": {
+                                "Archieved": "2024-07-16",
+                                "Retrieved": "2019-01-20",
+                                "Created": "2019-01-08"
+                            }
+                        }
+                    ],
+                    "start_date": "07/01/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "24 January  Professor Tanya Monro is appointed Australia's next Chief Defence Scientist, the first woman in the position.",
+                    "links": [
+                        {
+                            "link": "https://www.dst.defence.gov.au/news/2019/01/24/new-chief-defence-scientist-announced",
+                            "text": "-\"New Chief Defence Scientist announced\". www.dst.defence.gov.au. 24 January 2019. Archived from the original on 25 January 2019. Retrieved 25 January 2019.-",
+                            "dates": {
+                                "Archieved": "2019-01-25",
+                                "Retrieved": "2019-01-25",
+                                "Created": "2019-01-24"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20190125020518/https://www.dst.defence.gov.au/news/2019/01/24/new-chief-defence-scientist-announced",
+                            "text": "-\"New Chief Defence Scientist announced\". www.dst.defence.gov.au. 24 January 2019. Archived from the original on 25 January 2019. Retrieved 25 January 2019.-",
+                            "dates": {
+                                "Archieved": "2019-01-25",
+                                "Retrieved": "2019-01-25",
+                                "Created": "2019-01-24"
+                            }
+                        },
+                        {
+                            "link": "https://www.science.org.au/news-and-events/news-and-media-releases/academy-fellow-appointed-chief-defence-scientist",
+                            "text": "-\"Academy Fellow appointed Chief Defence Scientist | Australian Academy of Science\". www.science.org.au. Archived from the original on 25 January 2019. Retrieved 25 January 2019.-",
+                            "dates": {
+                                "Archieved": "2019-01-25",
+                                "Retrieved": "2019-01-25",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20190125073400/https://www.science.org.au/news-and-events/news-and-media-releases/academy-fellow-appointed-chief-defence-scientist",
+                            "text": "-\"Academy Fellow appointed Chief Defence Scientist | Australian Academy of Science\". www.science.org.au. Archived from the original on 25 January 2019. Retrieved 25 January 2019.-",
+                            "dates": {
+                                "Archieved": "2019-01-25",
+                                "Retrieved": "2019-01-25",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "24/01/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "29 January  The South Australian Murray Darling Basin Royal Commission report is released. The commission, which commenced in 2018, was critical of the Murray Darling Basin Plan and the Commonwealth Murray Darling Basin Authority.",
+                    "links": [
+                        {
+                            "link": "https://www.abc.net.au/news/2019-01-31/murray-darling-basin-plan-ignored-potentially-catastrophic-risks/10766106",
+                            "text": "-McCarthy, Marty; Sullivan, Kath; Scopelianos, Sarah; Fedorowytsch, Tom (31 January 2019). \"Murray-Darling Basin Royal Commission slams authority for 'maladministration'\". ABC News. Archived from the original on 7 February 2019. Retrieved 7 February 2019.-",
+                            "dates": {
+                                "Archieved": "2019-02-07",
+                                "Retrieved": "2019-02-07",
+                                "Created": "2019-01-31"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20190207064545/https://www.abc.net.au/news/2019-01-31/murray-darling-basin-plan-ignored-potentially-catastrophic-risks/10766106",
+                            "text": "-McCarthy, Marty; Sullivan, Kath; Scopelianos, Sarah; Fedorowytsch, Tom (31 January 2019). \"Murray-Darling Basin Royal Commission slams authority for 'maladministration'\". ABC News. Archived from the original on 7 February 2019. Retrieved 7 February 2019.-",
+                            "dates": {
+                                "Archieved": "2019-02-07",
+                                "Retrieved": "2019-02-07",
+                                "Created": "2019-01-31"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20190131024654/https://www.mdbrc.sa.gov.au/sites/default/files/murray-darling-basin-royal-commission-report.pdf?v=1548898371",
+                            "text": "-\"Murray Darling Basin Royal Commission Report\" (PDF). Murray Darling Basin Royal Commission. Archived from the original (PDF) on 31 January 2019. Retrieved 7 February 2019.-",
+                            "dates": {
+                                "Archieved": "2019-01-31",
+                                "Retrieved": "2019-02-07",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://www.mdbrc.sa.gov.au/sites/default/files/murray-darling-basin-royal-commission-report.pdf?v=1548898371",
+                            "text": "-\"Murray Darling Basin Royal Commission Report\" (PDF). Murray Darling Basin Royal Commission. Archived from the original (PDF) on 31 January 2019. Retrieved 7 February 2019.-",
+                            "dates": {
+                                "Archieved": "2019-01-31",
+                                "Retrieved": "2019-02-07",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "29/01/2019",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "Four people are killed and over a thousand people remain evacuated from homes in Townsville as flooding peaks in the city, following a metre of rainfall in the first week of the month. Among the dead were two men on 4 February, and two young boys on 25 February, all from drowning.",
+                    "links": [
+                        {
+                            "link": "https://www.couriermail.com.au/news/queensland/cops-search-for-men-in-townsville-floodwaters-as-locals-plead-for-relief/news-story/f0e2d7e8a826e87c709e4a0e8692747b",
+                            "text": "-\"Two bodies found in Townsville drain as locals beg for relief\". The Courier Mail. 5 February 2019. Archived from the original on 6 February 2019. Retrieved 5 February 2019.-",
+                            "dates": {
+                                "Archieved": "2019-02-06",
+                                "Retrieved": "2019-02-05",
+                                "Created": "2019-02-05"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20190206002034/https://www.couriermail.com.au/news/queensland/cops-search-for-men-in-townsville-floodwaters-as-locals-plead-for-relief/news-story/f0e2d7e8a826e87c709e4a0e8692747b",
+                            "text": "-\"Two bodies found in Townsville drain as locals beg for relief\". The Courier Mail. 5 February 2019. Archived from the original on 6 February 2019. Retrieved 5 February 2019.-",
+                            "dates": {
+                                "Archieved": "2019-02-06",
+                                "Retrieved": "2019-02-05",
+                                "Created": "2019-02-05"
+                            }
+                        },
+                        {
+                            "link": "https://www.abc.net.au/news/2019-02-05/townsville-flood-continues-as-bluewater-locals-sent-alert/10778958",
+                            "text": "-\"Townsville flooding continues as hundreds wait for waters to recede\". ABC News. 5 February 2019. Archived from the original on 5 February 2019. Retrieved 5 February 2019.-",
+                            "dates": {
+                                "Archieved": "2019-02-05",
+                                "Retrieved": "2019-02-05",
+                                "Created": "2019-02-05"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20190205094758/https://www.abc.net.au/news/2019-02-05/townsville-flood-continues-as-bluewater-locals-sent-alert/10778958",
+                            "text": "-\"Townsville flooding continues as hundreds wait for waters to recede\". ABC News. 5 February 2019. Archived from the original on 5 February 2019. Retrieved 5 February 2019.-",
+                            "dates": {
+                                "Archieved": "2019-02-05",
+                                "Retrieved": "2019-02-05",
+                                "Created": "2019-02-05"
+                            }
+                        },
+                        {
+                            "link": "https://www.news.com.au/national/queensland/news/how-tragic-search-for-missing-townsville-brothers-unfolded/news-story/79fbe610699b97d5973205c85fa23150",
+                            "text": "-\"How tragic search for missing Townsville brothers unfolded\". News.com.au. 26 February 2019. Archived from the original on 26 February 2019. Retrieved 26 February 2019.-",
+                            "dates": {
+                                "Archieved": "2019-02-26",
+                                "Retrieved": "2019-02-26",
+                                "Created": "2019-02-26"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20190226110619/https://www.news.com.au/national/queensland/news/how-tragic-search-for-missing-townsville-brothers-unfolded/news-story/79fbe610699b97d5973205c85fa23150",
+                            "text": "-\"How tragic search for missing Townsville brothers unfolded\". News.com.au. 26 February 2019. Archived from the original on 26 February 2019. Retrieved 26 February 2019.-",
+                            "dates": {
+                                "Archieved": "2019-02-26",
+                                "Retrieved": "2019-02-26",
+                                "Created": "2019-02-26"
+                            }
+                        }
+                    ],
+                    "start_date": "04/02/2019",
+                    "end_date": "25/02/2019"
+                },
+                {
+                    "event_text": "4 February  The Royal Commission into Misconduct in the Banking, Superannuation and Financial Services Industry final report is tabled in Parliament. The report makes 76 recommendations.",
+                    "links": [
+                        {
+                            "link": "https://web.archive.org/web/20190205170924/https://financialservices.royalcommission.gov.au/Pages/default.aspx",
+                            "text": "-\"Royal Commission into Misconduct in the Banking, Superannuation and Financial Services Industry\". Royal Commission into Misconduct in the Banking, Superannuation and Financial Services Industry. Archived from the original on 5 February 2019. Retrieved 7 February 2019.-",
+                            "dates": {
+                                "Archieved": "2019-02-05",
+                                "Retrieved": "2019-02-07",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://financialservices.royalcommission.gov.au/Pages/default.aspx",
+                            "text": "-\"Royal Commission into Misconduct in the Banking, Superannuation and Financial Services Industry\". Royal Commission into Misconduct in the Banking, Superannuation and Financial Services Industry. Archived from the original on 5 February 2019. Retrieved 7 February 2019.-",
+                            "dates": {
+                                "Archieved": "2019-02-05",
+                                "Retrieved": "2019-02-07",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "04/02/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "12 February  The Liberal-National Coalition government becomes the first Australian federal government to lose a vote on its own legislation in 78 years, after a defeat on the floor of the House of Representatives.",
+                    "links": [
+                        {
+                            "link": "https://www.abc.net.au/news/2019-02-12/federal-government-loses-a-historic-parliamentary-vote/10804770",
+                            "text": "-\"Prime Minister Scott Morrison talks down threat to Coalition after loss in Parliament vote\". ABC News. 12 February 2019. Archived from the original on 15 February 2019. Retrieved 15 February 2019.-",
+                            "dates": {
+                                "Archieved": "2019-02-15",
+                                "Retrieved": "2019-02-15",
+                                "Created": "2019-02-12"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20190215134240/https://www.abc.net.au/news/2019-02-12/federal-government-loses-a-historic-parliamentary-vote/10804770",
+                            "text": "-\"Prime Minister Scott Morrison talks down threat to Coalition after loss in Parliament vote\". ABC News. 12 February 2019. Archived from the original on 15 February 2019. Retrieved 15 February 2019.-",
+                            "dates": {
+                                "Archieved": "2019-02-15",
+                                "Retrieved": "2019-02-15",
+                                "Created": "2019-02-12"
+                            }
+                        }
+                    ],
+                    "start_date": "12/02/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "13 February  Nineteen homes are destroyed by bushfires in the New England and Northern Rivers regions of New South Wales.",
+                    "links": [
+                        {
+                            "link": "https://www.abc.net.au/news/2019-02-14/tingha-fire-emergency-continues-as-homes-lost/10809170",
+                            "text": "-\"Tingha homes destroyed but firefighters reducing threat to properties\". ABC News. 14 February 2019. Archived from the original on 15 February 2019. Retrieved 15 February 2019.-",
+                            "dates": {
+                                "Archieved": "2019-02-15",
+                                "Retrieved": "2019-02-15",
+                                "Created": "2019-02-14"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20190215082853/https://www.abc.net.au/news/2019-02-14/tingha-fire-emergency-continues-as-homes-lost/10809170",
+                            "text": "-\"Tingha homes destroyed but firefighters reducing threat to properties\". ABC News. 14 February 2019. Archived from the original on 15 February 2019. Retrieved 15 February 2019.-",
+                            "dates": {
+                                "Archieved": "2019-02-15",
+                                "Retrieved": "2019-02-15",
+                                "Created": "2019-02-14"
+                            }
+                        }
+                    ],
+                    "start_date": "13/02/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "26 February  Following the lifting of a suppression order, it is revealed that Cardinal George Pell had been convicted in December 2018 of sexually abusing two choirboys in 1996.",
+                    "links": [],
+                    "start_date": "26/02/2019",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "13 March  Cardinal George Pell is sentenced to six years in prison following his conviction over the sexual abuse of two choirboys.",
+                    "links": [
+                        {
+                            "link": "https://www.abc.net.au/news/2019-03-13/george-pell-sentenced-for-sexually-abusing-choirboys/10876012",
+                            "text": "-\"George Pell sentenced to six years' jail for sexually abusing two choirboys\". ABC News. 13 March 2019. Archived from the original on 16 July 2024. Retrieved 15 March 2019.-",
+                            "dates": {
+                                "Archieved": "2024-07-16",
+                                "Retrieved": "2019-03-15",
+                                "Created": "2019-03-13"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20240716061158/https://www.abc.net.au/news/2019-03-13/george-pell-sentenced-for-sexually-abusing-choirboys/10876012",
+                            "text": "-\"George Pell sentenced to six years' jail for sexually abusing two choirboys\". ABC News. 13 March 2019. Archived from the original on 16 July 2024. Retrieved 15 March 2019.-",
+                            "dates": {
+                                "Archieved": "2024-07-16",
+                                "Retrieved": "2019-03-15",
+                                "Created": "2019-03-13"
+                            }
+                        }
+                    ],
+                    "start_date": "13/03/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "19 March  a few days prior to the state election, a video from September 2018 surfaced in which NSW Labor leader Michael Daley made comments about Asian immigration in Sydney. Daley said \"Our young children will flee and who are they being replaced with? They are being replaced by young people from typically Asia with PhDs,\" and \"So there's a transformation happening in Sydney now where our kids are moving out and foreigners are moving in and taking their jobs\".",
+                    "links": [
+                        {
+                            "link": "https://www.sbs.com.au/news/nsw-labor-leader-michael-daley-apologises-for-foreign-workers-comment",
+                            "text": "-\"NSW Labor leader Michael Daley apologises for foreign workers comment\". SBS News. Archived from the original on 19 March 2019. Retrieved 25 March 2019.-",
+                            "dates": {
+                                "Archieved": "2019-03-19",
+                                "Retrieved": "2019-03-25",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20190319100802/https://www.sbs.com.au/news/nsw-labor-leader-michael-daley-apologises-for-foreign-workers-comment",
+                            "text": "-\"NSW Labor leader Michael Daley apologises for foreign workers comment\". SBS News. Archived from the original on 19 March 2019. Retrieved 25 March 2019.-",
+                            "dates": {
+                                "Archieved": "2019-03-19",
+                                "Retrieved": "2019-03-25",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://www.theguardian.com/australia-news/2019/mar/19/michael-daley-claims-asian-workers-taking-young-peoples-jobs-in-sydney",
+                            "text": "-\"Michael Daley claims Asian workers taking young people's jobs in Sydney\". Australian Associated Press. 18 March 2019. Archived from the original on 19 March 2019. Retrieved 25 March 2019 – via www.theguardian.com.-",
+                            "dates": {
+                                "Archieved": "2019-03-19",
+                                "Retrieved": "2019-03-25",
+                                "Created": "2019-03-18"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20190319110016/https://www.theguardian.com/australia-news/2019/mar/19/michael-daley-claims-asian-workers-taking-young-peoples-jobs-in-sydney",
+                            "text": "-\"Michael Daley claims Asian workers taking young people's jobs in Sydney\". Australian Associated Press. 18 March 2019. Archived from the original on 19 March 2019. Retrieved 25 March 2019 – via www.theguardian.com.-",
+                            "dates": {
+                                "Archieved": "2019-03-19",
+                                "Retrieved": "2019-03-25",
+                                "Created": "2019-03-18"
+                            }
+                        }
+                    ],
+                    "start_date": "19/03/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Liberal-National Coalition government led by Gladys Berejiklian wins the 2019 New South Wales state election and returns to office with a reduced majority.",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/australia-news/2019/mar/25/exit-of-nsw-water-minister-niall-blair-offers-coalition-chance-for-murray-darling-reset",
+                            "text": "-\"NSW state election 2019: Coalition wins majority government\". The Guardian. 25 March 2019. Retrieved 11 April 2019.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2019-04-11",
+                                "Created": "2019-03-25"
+                            }
+                        }
+                    ],
+                    "start_date": "23/03/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Tropical Cyclone Trevor makes landfall in the Northern Territory.",
+                    "links": [],
+                    "start_date": "23/03/2019",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "11 April  Actor Geoffrey Rush is awarded $850,000 in damages after winning a defamation case against The Daily Telegraph.",
+                    "links": [
+                        {
+                            "link": "https://www.smh.com.au/national/geoffrey-rush-wins-defamation-case-against-the-daily-telegraph-20190329-p518ze.html",
+                            "text": "-\"Rush set to receive millions in defamation victory against The Daily Telegraph\". The Sydney Morning Herald. 11 April 2019. Archived from the original on 16 July 2024. Retrieved 11 April 2019.-",
+                            "dates": {
+                                "Archieved": "2024-07-16",
+                                "Retrieved": "2019-04-11",
+                                "Created": "2019-04-11"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20240716061152/https://www.smh.com.au/national/geoffrey-rush-wins-defamation-case-against-the-daily-telegraph-20190329-p518ze.html",
+                            "text": "-\"Rush set to receive millions in defamation victory against The Daily Telegraph\". The Sydney Morning Herald. 11 April 2019. Archived from the original on 16 July 2024. Retrieved 11 April 2019.-",
+                            "dates": {
+                                "Archieved": "2024-07-16",
+                                "Retrieved": "2019-04-11",
+                                "Created": "2019-04-11"
+                            }
+                        }
+                    ],
+                    "start_date": "11/04/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "1214 April  After 25 years, Australia's Dirt n Dust Festival is held for the final time at Julia Creek, Queensland. Although scheduled for 2020 and 2021, those events were cancelled due to the COVID-19 pandemic. It was announced in 2021 that the festival had been permanently cancelled due to a lack of volunteers.",
+                    "links": [
+                        {
+                            "link": "https://www.northqueenslandregister.com.au/story/6043783/julia-creek-turns-it-on-for-dirt-and-dust-festival",
+                            "text": "-\"Dirt and Dust Festival 2019 brings thousands to Julia Creek\". North Queensland Register. Australian Community Media. 14 April 2019. Archived from the original on 11 July 2021. Retrieved 3 July 2021.-",
+                            "dates": {
+                                "Archieved": "2021-07-11",
+                                "Retrieved": "2021-07-03",
+                                "Created": "2019-04-14"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20210711002638/https://www.northqueenslandregister.com.au/story/6043783/julia-creek-turns-it-on-for-dirt-and-dust-festival/",
+                            "text": "-\"Dirt and Dust Festival 2019 brings thousands to Julia Creek\". North Queensland Register. Australian Community Media. 14 April 2019. Archived from the original on 11 July 2021. Retrieved 3 July 2021.-",
+                            "dates": {
+                                "Archieved": "2021-07-11",
+                                "Retrieved": "2021-07-03",
+                                "Created": "2019-04-14"
+                            }
+                        },
+                        {
+                            "link": "https://www.northweststar.com.au/story/6679852/julia-creek-dirt-n-dust-festival-cancelled-due-to-covid-19-fears",
+                            "text": "-Campbell, Samantha (16 March 2020). \"Julia Creek Dirt n Dust Festival cancelled due to COVID-19 fears\". The North West Star. Australian Community Media. Archived from the original on 16 July 2024. Retrieved 3 July 2021.-",
+                            "dates": {
+                                "Archieved": "2024-07-16",
+                                "Retrieved": "2021-07-03",
+                                "Created": "2020-03-16"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20240716061157/https://www.northweststar.com.au/story/6679852/julia-creek-dirt-n-dust-festival-cancelled-due-to-covid-19-fears/",
+                            "text": "-Campbell, Samantha (16 March 2020). \"Julia Creek Dirt n Dust Festival cancelled due to COVID-19 fears\". The North West Star. Australian Community Media. Archived from the original on 16 July 2024. Retrieved 3 July 2021.-",
+                            "dates": {
+                                "Archieved": "2024-07-16",
+                                "Retrieved": "2021-07-03",
+                                "Created": "2020-03-16"
+                            }
+                        },
+                        {
+                            "link": "https://www.northweststar.com.au/story/7092622/julia-creek-dirt-n-dust-festival-cancelled-for-2021",
+                            "text": "-Campbell, Samantha (20 January 2021). \"Julia Creek Dirt N Dust Festival cancelled for 2021\". The North West Star. Australian Community Media. Archived from the original on 26 March 2021. Retrieved 3 July 2021.-",
+                            "dates": {
+                                "Archieved": "2021-03-26",
+                                "Retrieved": "2021-07-03",
+                                "Created": "2021-01-20"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20210326143327/https://www.northweststar.com.au/story/7092622/julia-creek-dirt-n-dust-festival-cancelled-for-2021/",
+                            "text": "-Campbell, Samantha (20 January 2021). \"Julia Creek Dirt N Dust Festival cancelled for 2021\". The North West Star. Australian Community Media. Archived from the original on 26 March 2021. Retrieved 3 July 2021.-",
+                            "dates": {
+                                "Archieved": "2021-03-26",
+                                "Retrieved": "2021-07-03",
+                                "Created": "2021-01-20"
+                            }
+                        },
+                        {
+                            "link": "https://www.townsvillebulletin.com.au/news/done-n-dusted-lack-of-committee-ends-popular-festival/news-story/c4c452c3f3b15d1b3037e3bbb8d3bc7c",
+                            "text": "-Brown, Trudy (1 July 2021). \"DONE N DUSTED: Lack of committee ends popular festival\". Townsville Bulletin. News Corp Australia. Archived from the original on 5 August 2022. Retrieved 3 July 2021.-",
+                            "dates": {
+                                "Archieved": "2022-08-05",
+                                "Retrieved": "2021-07-03",
+                                "Created": "2021-07-01"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20220805031517/https://insight.adsrvr.org/track/up?adv=vrges6n&ref=https%3A%2F%2Fwww.townsvillebulletin.com.au%2Fsubscribe%2Fnews%2F1%2F%3FsourceCode%3DTBWEB_WRE170_a%26dest%3Dhttps%253A%252F%252Fwww.townsvillebulletin.com.au%252Fnews%252Fdone-n-dusted-lack-of-committee-ends-popular-festival%252Fnews-story%252Fc4c452c3f3b15d1b3037e3bbb8d3bc7c%26memtype%3Danonymous%26mode%3Dpremium&upid=0lofzfp&upv=1.1.0",
+                            "text": "-Brown, Trudy (1 July 2021). \"DONE N DUSTED: Lack of committee ends popular festival\". Townsville Bulletin. News Corp Australia. Archived from the original on 5 August 2022. Retrieved 3 July 2021.-",
+                            "dates": {
+                                "Archieved": "2022-08-05",
+                                "Retrieved": "2021-07-03",
+                                "Created": "2021-07-01"
+                            }
+                        }
+                    ],
+                    "start_date": "14/04/2019",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "May",
+            "Data": [
+                {
+                    "event_text": "16 May  Bob Hawke, Australia's 23rd Prime Minister, dies at the age of 89.",
+                    "links": [],
+                    "start_date": "16/05/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "18 May  2019 Australian federal election Scott Morrison's Liberal/National Coalition government is narrowly re-elected, defeating the Labor Party led by Bill Shorten.",
+                    "links": [
+                        {
+                            "link": "https://www.abc.net.au/news/2019-05-20/election-coalition-get-77-seats-wentworth-boothby-bass-chisholm/11128652",
+                            "text": "-\"Election 2019: Coalition secures 77 seats as Liberals win Wentworth, Chisholm, Boothby and Bass\". ABC News. 20 May 2019. Archived from the original on 19 May 2019. Retrieved 19 May 2019.-",
+                            "dates": {
+                                "Archieved": "2019-05-19",
+                                "Retrieved": "2019-05-19",
+                                "Created": "2019-05-20"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20190519235400/https://www.abc.net.au/news/2019-05-20/election-coalition-get-77-seats-wentworth-boothby-bass-chisholm/11128652",
+                            "text": "-\"Election 2019: Coalition secures 77 seats as Liberals win Wentworth, Chisholm, Boothby and Bass\". ABC News. 20 May 2019. Archived from the original on 19 May 2019. Retrieved 19 May 2019.-",
+                            "dates": {
+                                "Archieved": "2019-05-19",
+                                "Retrieved": "2019-05-19",
+                                "Created": "2019-05-20"
+                            }
+                        }
+                    ],
+                    "start_date": "18/05/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "26 May  The Sydney Metro is opened from Tallawong to Chatswood.",
+                    "links": [],
+                    "start_date": "26/05/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "30 May  Anthony Albanese is elected unopposed as leader of the Australian Labor Party and Leader of the Opposition, replacing Bill Shorten. Richard Marles is elected deputy unopposed, succeeding Tanya Plibersek",
+                    "links": [
+                        {
+                            "link": "https://www.abc.net.au/news/2019-05-27/anthony-albanese-the-new-labor-leader-following-election-loss/11152036",
+                            "text": "-\"Anthony Albanese to become Labor's new leader unopposed following shock federal election loss\". ABC News. 27 May 2019. Archived from the original on 23 May 2022. Retrieved 27 May 2019.-",
+                            "dates": {
+                                "Archieved": "2022-05-23",
+                                "Retrieved": "2019-05-27",
+                                "Created": "2019-05-27"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20220523011511/https://www.abc.net.au/news/2019-05-27/anthony-albanese-the-new-labor-leader-following-election-loss/11152036",
+                            "text": "-\"Anthony Albanese to become Labor's new leader unopposed following shock federal election loss\". ABC News. 27 May 2019. Archived from the original on 23 May 2022. Retrieved 27 May 2019.-",
+                            "dates": {
+                                "Archieved": "2022-05-23",
+                                "Retrieved": "2019-05-27",
+                                "Created": "2019-05-27"
+                            }
+                        }
+                    ],
+                    "start_date": "30/05/2019",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "June",
+            "Data": [
+                {
+                    "event_text": "4 June  At least four men are killed and a woman is injured after a 45-year-old gunman allegedly goes on a shooting spree in the city centre of Darwin, Northern Territory.",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/australia-news/2019/jun/04/police-say-they-have-reports-of-up-to-four-people-dead-in-darwin-shooting",
+                            "text": "-\"Darwin shooting: four people dead as police reveal suspect was on parole\". The Guardian. 4 June 2019. Archived from the original on 4 June 2019. Retrieved 4 June 2019.-",
+                            "dates": {
+                                "Archieved": "2019-06-04",
+                                "Retrieved": "2019-06-04",
+                                "Created": "2019-06-04"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20190604143535/https://www.theguardian.com/australia-news/2019/jun/04/police-say-they-have-reports-of-up-to-four-people-dead-in-darwin-shooting",
+                            "text": "-\"Darwin shooting: four people dead as police reveal suspect was on parole\". The Guardian. 4 June 2019. Archived from the original on 4 June 2019. Retrieved 4 June 2019.-",
+                            "dates": {
+                                "Archieved": "2019-06-04",
+                                "Retrieved": "2019-06-04",
+                                "Created": "2019-06-04"
+                            }
+                        }
+                    ],
+                    "start_date": "04/06/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "45 June  The Australian Federal Police raid the home of News Corp Australia journalist Annika Smethurst and the headquarters of the ABC over national security and special forces stories.",
+                    "links": [
+                        {
+                            "link": "https://www.abc.net.au/news/2019-06-05/abc-raided-by-australian-federal-police-afghan-files-stories/11181162",
+                            "text": "-\"Police leave ABC headquarters with files after hours-long raid over special forces stories\". ABC News. 5 June 2019. Archived from the original on 13 September 2021. Retrieved 5 June 2019.-",
+                            "dates": {
+                                "Archieved": "2021-09-13",
+                                "Retrieved": "2019-06-05",
+                                "Created": "2019-06-05"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20210913211453/https://www.abc.net.au/news/2019-06-05/abc-raided-by-australian-federal-police-afghan-files-stories/11181162",
+                            "text": "-\"Police leave ABC headquarters with files after hours-long raid over special forces stories\". ABC News. 5 June 2019. Archived from the original on 13 September 2021. Retrieved 5 June 2019.-",
+                            "dates": {
+                                "Archieved": "2021-09-13",
+                                "Retrieved": "2019-06-05",
+                                "Created": "2019-06-05"
+                            }
+                        },
+                        {
+                            "link": "https://www.bbc.com/news/world-australia-48511217",
+                            "text": "-\"Australian journalist's home raided over spying report\". BBC News. 4 June 2019. Archived from the original on 6 June 2019. Retrieved 6 June 2019.-",
+                            "dates": {
+                                "Archieved": "2019-06-06",
+                                "Retrieved": "2019-06-06",
+                                "Created": "2019-06-04"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20190606043855/https://www.bbc.com/news/world-australia-48511217",
+                            "text": "-\"Australian journalist's home raided over spying report\". BBC News. 4 June 2019. Archived from the original on 6 June 2019. Retrieved 6 June 2019.-",
+                            "dates": {
+                                "Archieved": "2019-06-06",
+                                "Retrieved": "2019-06-06",
+                                "Created": "2019-06-04"
+                            }
+                        }
+                    ],
+                    "start_date": "05/06/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "24 June  Parts of the Darwin CBD are evacuated after the city is impacted by a 7.2 magnitude earthquake originating in Indonesia.",
+                    "links": [
+                        {
+                            "link": "https://www.smh.com.au/national/darwin-shaken-by-earthquake-originating-in-indonesia-20190624-p520q4.html",
+                            "text": "-\"Darwin shaken by powerful earthquake originating in Indonesia\". The Sydney Morning Herald. 24 June 2019. Archived from the original on 18 July 2019. Retrieved 18 July 2019.-",
+                            "dates": {
+                                "Archieved": "2019-07-18",
+                                "Retrieved": "2019-07-18",
+                                "Created": "2019-06-24"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20190718073918/https://www.smh.com.au/national/darwin-shaken-by-earthquake-originating-in-indonesia-20190624-p520q4.html",
+                            "text": "-\"Darwin shaken by powerful earthquake originating in Indonesia\". The Sydney Morning Herald. 24 June 2019. Archived from the original on 18 July 2019. Retrieved 18 July 2019.-",
+                            "dates": {
+                                "Archieved": "2019-07-18",
+                                "Retrieved": "2019-07-18",
+                                "Created": "2019-06-24"
+                            }
+                        }
+                    ],
+                    "start_date": "24/06/2019",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "July",
+            "Data": [
+                {
+                    "event_text": "1 July  David Hurley is sworn in as the 27th Governor-General of Australia.",
+                    "links": [],
+                    "start_date": "01/07/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "827 July  A biennial joint Australia-United States military exercise Talisman Saber 2019 is held.",
+                    "links": [],
+                    "start_date": "27/07/2019",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "August",
+            "Data": [
+                {
+                    "event_text": "13 August  2019 Sydney stabbing attack",
+                    "links": [],
+                    "start_date": "13/08/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "16 August  Pro-Hong Kong protesters clash with pro-China supporters in Melbourne, while police are forced to intervene during similar confrontations in Sydney and Adelaide, following the 201920 Hong Kong protests.",
+                    "links": [
+                        {
+                            "link": "http://abc.net.au/news/2019-08-16/pro-hong-kong-rallies-see-tensions-boil-over-melbourne-adelaide/11423332",
+                            "text": "-\"Pro-Hong Kong rallies see tensions boil over in Melbourne and Adelaide\". ABC News. 16 August 2019. Archived from the original on 16 August 2019. Retrieved 17 August 2019.-",
+                            "dates": {
+                                "Archieved": "2019-08-16",
+                                "Retrieved": "2019-08-17",
+                                "Created": "2019-08-16"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20190816122227/https://www.abc.net.au/news/2019-08-16/pro-hong-kong-rallies-see-tensions-boil-over-melbourne-adelaide/11423332",
+                            "text": "-\"Pro-Hong Kong rallies see tensions boil over in Melbourne and Adelaide\". ABC News. 16 August 2019. Archived from the original on 16 August 2019. Retrieved 17 August 2019.-",
+                            "dates": {
+                                "Archieved": "2019-08-16",
+                                "Retrieved": "2019-08-17",
+                                "Created": "2019-08-16"
+                            }
+                        }
+                    ],
+                    "start_date": "16/08/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "21 August  The Victorian Court of Appeal dismisses George Pell's appeal to overturn his conviction for child sex offences.",
+                    "links": [],
+                    "start_date": "21/08/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "29 August  An attempt to deport the Sri Lankan Tamil Nadesalingam family asylum seekers was thwarted by a last-minute injunction, forcing the plane carrying the couple and their children out of Australia to land in Darwin.",
+                    "links": [],
+                    "start_date": "29/08/2019",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "September",
+            "Data": [
+                {
+                    "event_text": "9 September  Homes and buildings, including the historic Binna Burra Lodge, are destroyed by a bushfire in Queensland's Scenic Rim region.",
+                    "links": [
+                        {
+                            "link": "https://www.theaustralian.com.au/nation/fifteen-homes-destroyed-as-bushfires-rage-in-queensland-nsw/news-story/2dd00da0c116b11ada7bec0747770f3f",
+                            "text": "-\"Heritage-listed Binna Burra Lodge destroyed in Queensland bushfires\". The Australian. 9 September 2019. Archived from the original on 8 April 2023. Retrieved 18 November 2019.-",
+                            "dates": {
+                                "Archieved": "2023-04-08",
+                                "Retrieved": "2019-11-18",
+                                "Created": "2019-09-09"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20230408091236/https://www.theaustralian.com.au/nation/fifteen-homes-destroyed-as-bushfires-rage-in-queensland-nsw/news-story/2dd00da0c116b11ada7bec0747770f3f",
+                            "text": "-\"Heritage-listed Binna Burra Lodge destroyed in Queensland bushfires\". The Australian. 9 September 2019. Archived from the original on 8 April 2023. Retrieved 18 November 2019.-",
+                            "dates": {
+                                "Archieved": "2023-04-08",
+                                "Retrieved": "2019-11-18",
+                                "Created": "2019-09-09"
+                            }
+                        }
+                    ],
+                    "start_date": "09/09/2019",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "October",
+            "Data": [
+                {
+                    "event_text": "26 October  Climbing Uluru is banned by authority of the Uluṟu-Kata Tjuṯa National Park board.",
+                    "links": [
+                        {
+                            "link": "https://www.abc.net.au/news/2017-11-01/uluru-climbs-banned-after-unanimous-board-decision/9103512",
+                            "text": "-\"Uluru climbs banned from October 2019 after unanimous board decision to 'close the playground'\". ABC News. 1 November 2017. Archived from the original on 1 March 2019. Retrieved 25 January 2019.-",
+                            "dates": {
+                                "Archieved": "2019-03-01",
+                                "Retrieved": "2019-01-25",
+                                "Created": "2017-11-01"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20190301063612/https://www.abc.net.au/news/2017-11-01/uluru-climbs-banned-after-unanimous-board-decision/9103512",
+                            "text": "-\"Uluru climbs banned from October 2019 after unanimous board decision to 'close the playground'\". ABC News. 1 November 2017. Archived from the original on 1 March 2019. Retrieved 25 January 2019.-",
+                            "dates": {
+                                "Archieved": "2019-03-01",
+                                "Retrieved": "2019-01-25",
+                                "Created": "2017-11-01"
+                            }
+                        }
+                    ],
+                    "start_date": "26/10/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "31 October  The Royal Commission into Aged Care Quality and Safety interim report is published and tabled in Parliament.",
+                    "links": [
+                        {
+                            "link": "https://agedcare.royalcommission.gov.au/publications/Pages/interim-report.aspx",
+                            "text": "-\"Interim Report\". Royal Commission into Aged Care Quality and Safety. Archived from the original on 16 July 2024. Retrieved 3 November 2019.-",
+                            "dates": {
+                                "Archieved": "2024-07-16",
+                                "Retrieved": "2019-11-03",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20240716061209/https://www.royalcommission.gov.au/aged-care",
+                            "text": "-\"Interim Report\". Royal Commission into Aged Care Quality and Safety. Archived from the original on 16 July 2024. Retrieved 3 November 2019.-",
+                            "dates": {
+                                "Archieved": "2024-07-16",
+                                "Retrieved": "2019-11-03",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "31/10/2019",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "November",
+            "Data": [
+                {
+                    "event_text": "8 November  Three people are killed and 150 homes are destroyed by a large number of bushfires burning across New South Wales and South East Queensland.",
+                    "links": [
+                        {
+                            "link": "https://www.abc.net.au/news/2019-11-09/nsw-fires-emergency-day-leads-to-injury-and-damage-assessment/11688620",
+                            "text": "-\"NSW fires destroy at least 150 homes, three people dead\". ABC News. 9 November 2019. Archived from the original on 9 November 2019. Retrieved 11 November 2019.-",
+                            "dates": {
+                                "Archieved": "2019-11-09",
+                                "Retrieved": "2019-11-11",
+                                "Created": "2019-11-09"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20191109230953/https://www.abc.net.au/news/2019-11-09/nsw-fires-emergency-day-leads-to-injury-and-damage-assessment/11688620",
+                            "text": "-\"NSW fires destroy at least 150 homes, three people dead\". ABC News. 9 November 2019. Archived from the original on 9 November 2019. Retrieved 11 November 2019.-",
+                            "dates": {
+                                "Archieved": "2019-11-09",
+                                "Retrieved": "2019-11-11",
+                                "Created": "2019-11-09"
+                            }
+                        }
+                    ],
+                    "start_date": "08/11/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "11 November  A week-long State of Emergency is declared in New South Wales and the Australian Defence Force is put on alert amid mounting bushfire warnings.",
+                    "links": [
+                        {
+                            "link": "https://7news.com.au/news/bushfires/parts-of-nsw-face-catastrophic-fire-risk-c-550103",
+                            "text": "-\"NSW bushfires deemed 'catastrophic' as residents are urged to leave their homes before it's took late\". Seven News. 11 November 2019. Archived from the original on 16 July 2024. Retrieved 11 November 2019.-",
+                            "dates": {
+                                "Archieved": "2024-07-16",
+                                "Retrieved": "2019-11-11",
+                                "Created": "2019-11-11"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20240716061155/https://7news.com.au/news/bushfires/parts-of-nsw-face-catastrophic-fire-risk-c-550103",
+                            "text": "-\"NSW bushfires deemed 'catastrophic' as residents are urged to leave their homes before it's took late\". Seven News. 11 November 2019. Archived from the original on 16 July 2024. Retrieved 11 November 2019.-",
+                            "dates": {
+                                "Archieved": "2024-07-16",
+                                "Retrieved": "2019-11-11",
+                                "Created": "2019-11-11"
+                            }
+                        }
+                    ],
+                    "start_date": "11/11/2019",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "December",
+            "Data": [
+                {
+                    "event_text": "3031 December  Eight people are killed, hundreds of homes are destroyed and the Royal Australian Navy is mobilised to assist evacuation efforts following bushfires on the New South Wales South Coast and in Victoria's East Gippsland",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/australia-news/2020/jan/01/australian-navy-ship-prepares-to-evacuate-residents-from-bushfire-hit-victoria-coast",
+                            "text": "-\"Australian navy ship prepares to evacuate residents from bushfire-hit Victoria coast\". The Guardian. 1 January 2020. Archived from the original on 16 July 2024. Retrieved 2 January 2020.-",
+                            "dates": {
+                                "Archieved": "2024-07-16",
+                                "Retrieved": "2020-01-02",
+                                "Created": "2020-01-01"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20240716063221/https://www.theguardian.com/australia-news/2020/jan/01/australian-navy-ship-prepares-to-evacuate-residents-from-bushfire-hit-victoria-coast",
+                            "text": "-\"Australian navy ship prepares to evacuate residents from bushfire-hit Victoria coast\". The Guardian. 1 January 2020. Archived from the original on 16 July 2024. Retrieved 2 January 2020.-",
+                            "dates": {
+                                "Archieved": "2024-07-16",
+                                "Retrieved": "2020-01-02",
+                                "Created": "2020-01-01"
+                            }
+                        },
+                        {
+                            "link": "https://www.bbc.com/news/world-australia-50962728",
+                            "text": "-\"Australia fires: Death toll rises as blazes destroy 200 homes\". BBC News. 1 January 2020. Archived from the original on 4 January 2020. Retrieved 2 January 2020.-",
+                            "dates": {
+                                "Archieved": "2020-01-04",
+                                "Retrieved": "2020-01-02",
+                                "Created": "2020-01-01"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20200104063830/https://www.bbc.com/news/world-australia-50962728",
+                            "text": "-\"Australia fires: Death toll rises as blazes destroy 200 homes\". BBC News. 1 January 2020. Archived from the original on 4 January 2020. Retrieved 2 January 2020.-",
+                            "dates": {
+                                "Archieved": "2020-01-04",
+                                "Retrieved": "2020-01-02",
+                                "Created": "2020-01-01"
+                            }
+                        }
+                    ],
+                    "start_date": "31/12/2019",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,529 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "1 January  A terrorist attack on the Reina nightclub in Istanbul leaves 39 people dead.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-europe-38481521#",
+                            "text": "-\"Istanbul new year Reina nightclub attack 'leaves 39 dead'\".-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "01/01/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "2 January - The Islamic State of Iraq and the Levant claims responsibility for the attack on the nightclub yesterday.",
+                    "links": [
+                        {
+                            "link": "https://www.washingtonpost.com/world/lslamic-state-group-claims-istanbul-new-years-night-club-attack/2017/01/02/0718cf6e-d076-11e6-9651-54a0154cf5b3_story.html?wpisrc=al_alert-COMBO-world%252Bnation",
+                            "text": "-\"Islamic State claims responsibility for Istanbul nightclub attack\". The Washington Post.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "02/01/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "3 January - The Grand National Assembly of Turkey votes to extend the state of emergency by 3 months after the attempted coup last year.",
+                    "links": [
+                        {
+                            "link": "http://hosted.ap.org/dynamic/stories/E/EU_TURKEY_STATE_OF_EMERGENCY?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT",
+                            "text": "-\"TURKEY TO EXTEND STATE OF EMERGENCY DECLARED AFTER COUP\".-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "03/01/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "5 January  A car bomb explodes in İzmir perpetrated by TAK, killing 2 people.",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/world/2017/jan/05/turkish-police-shoot-dead-two-suspected-attackers-after-explosion",
+                            "text": "-\"Car bomb kills two outside courthouse in Turkish city of İzmir\". TheGuardian.com. 5 January 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2017-01-05"
+                            }
+                        }
+                    ],
+                    "start_date": "05/01/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "13 January - President Erdogan vows that Turkish troops will remain in Cyprus in perpetuity and describes proposed terms of a rotating presidency to be unacceptable.",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/world/2017/jan/13/cyprus-talks-turkish-troops-will-remain-on-island-vows-erdogan",
+                            "text": "-\"Cyprus talks: Turkish troops will remain on island, vows Erdoğan\". TheGuardian.com. 13 January 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2017-01-13"
+                            }
+                        }
+                    ],
+                    "start_date": "13/01/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "14 January - The Parliament of Turkey approves two constitutional amendments to expand the president's power to appoint new legislation and select the cabinet.[citation needed]",
+                    "links": [],
+                    "start_date": "14/01/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "26 January - Greece refuses to extradite eight soldiers accused of playing a role in the coup attempt last year.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-europe-38754821",
+                            "text": "-\"Turkish anger as Greece rejects extradition of eight soldiers\". BBC News. 26 January 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2017-01-26"
+                            }
+                        }
+                    ],
+                    "start_date": "26/01/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "28 January - President Erdogan signs a 100 million pound deal with British Prime Minister Theresa May over the construction of fighter jets.",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/politics/2017/jan/28/theresa-may-signs-100m-fighter-jet-deal-with-turkeys-erdogan",
+                            "text": "-\"Theresa May signs £100m fighter jet deal with Turkey's Erdoğan\". TheGuardian.com. 28 January 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2017-01-28"
+                            }
+                        }
+                    ],
+                    "start_date": "28/01/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "30 January - In the capital of Ankara, 269 people are put on trial after being charged for their roles in the coup attempt last year.",
+                    "links": [
+                        {
+                            "link": "https://www.yahoo.com/news/turkey-puts-gulen-269-others-trial-over-coup-110730149.html",
+                            "text": "-\"Turkey puts Gulen, 269 others on trial over coup bid\".-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "30/01/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "31 January  The Eurasia Tunnel, which combines the Asian and European continents with a black tunnel, has started uninterruptedly.",
+                    "links": [
+                        {
+                            "link": "https://web.archive.org/web/20170130085830/http://www.milliyet.com.tr/avrasya-tuneli-24-saat-acik-oluyor-ekonomi-2387302/",
+                            "text": "-\"Avrasya Tüneli 24 saat açık oluyor\" (in Turkish). Milliyet. 30 January 2017. Archived from the original on 30 January 2017. Retrieved 30 January 2017.-",
+                            "dates": {
+                                "Archieved": "2017-01-30",
+                                "Retrieved": "2017-01-30",
+                                "Created": "2017-01-30"
+                            }
+                        },
+                        {
+                            "link": "http://www.milliyet.com.tr/avrasya-tuneli-24-saat-acik-oluyor-ekonomi-2387302/",
+                            "text": "-\"Avrasya Tüneli 24 saat açık oluyor\" (in Turkish). Milliyet. 30 January 2017. Archived from the original on 30 January 2017. Retrieved 30 January 2017.-",
+                            "dates": {
+                                "Archieved": "2017-01-30",
+                                "Retrieved": "2017-01-30",
+                                "Created": "2017-01-30"
+                            }
+                        }
+                    ],
+                    "start_date": "31/01/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "5 February - Over 800 suspected ISIL members are arrested by the Turkish police.",
+                    "links": [
+                        {
+                            "link": "http://www.aljazeera.com/news/2017/02/turkey-detains-hundreds-major-anti-isil-operation-170205124649016.html",
+                            "text": "-\"Turkey says over 800 detained in anti-ISIL operations\".-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "05/02/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "8 February - 4400 public servants are dismissed in another purge following the attempted coup last year.",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/world/2017/feb/08/turkey-dismisses-4400-public-servants-erdogan-trump-phone-call",
+                            "text": "-\"Turkey dismisses 4,400 public servants in latest post-coup attempt purge\". TheGuardian.com. 8 February 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2017-02-08"
+                            }
+                        }
+                    ],
+                    "start_date": "08/02/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "9 February  A Russian airstrike accidentally killed 3 Turkish troops in al-Bab, Syria.",
+                    "links": [
+                        {
+                            "link": "https://www.rferl.org/a/russia-turkey-air-strike-soldiers-killed/28300387.html",
+                            "text": "-\"Russian Air Strike Kills Turkish Soldiers In Syria\".-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "09/02/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "11 February - Abdulgadir Masharipov is charged with murder in relation to the night club shooting at the start of the year and remains incarcerated.",
+                    "links": [
+                        {
+                            "link": "http://www.abc.net.au/news/2017-02-12/suspected-istanbul-nightclub-attacker-formally-charged/8263154",
+                            "text": "-\"Accused Istanbul nightclub gunman Abdulgadir Masharipov formally charged, reports say\". ABC News. 11 February 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2017-02-11"
+                            }
+                        }
+                    ],
+                    "start_date": "11/02/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "14 February - Over 800 people are detained by police due to allegations of them being members of the banned Kurdistan Workers' Party (PKK).",
+                    "links": [
+                        {
+                            "link": "http://www.aljazeera.com/news/2017/02/turkey-hundreds-detained-alleged-links-pkk-170214162131411.html",
+                            "text": "-\"Turkey: Hundreds detained over alleged links to PKK\".-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "14/02/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "17 February  2017 European Youth Olympic Winter Festival was held in Erzurum.",
+                    "links": [],
+                    "start_date": "17/02/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "22 February - Turkey lifts the ban on female army soldiers wearing the hijab.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-europe-39053064",
+                            "text": "-\"Turkey reverses female army officers' headscarf ban\". BBC News. 22 February 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2017-02-22"
+                            }
+                        }
+                    ],
+                    "start_date": "22/02/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "28 February - A trial of 330 suspects in last year's attempted coup opens as the largest trial to date.",
+                    "links": [
+                        {
+                            "link": "http://www.aljazeera.com/news/2017/02/largest-post-coup-bid-trial-opens-330-suspects-170228140029142.html",
+                            "text": "-\"Largest post-coup bid trial opens with 330 suspects\".-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "28/02/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "4 March - A Syrian fighter jet crashed in Hatay Province near the SyriaTurkey border.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/article/us-mideast-crisis-syria-airplane-idUSKBN16B0KB?il=0",
+                            "text": "-\"Turkey says warplane, probably Syrian, crashed near border\". Reuters. 4 March 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2017-03-04"
+                            }
+                        }
+                    ],
+                    "start_date": "04/03/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "11 March - Dutch authorities withdrew landing permissions for a Turkish minister following his support for the referendum in April. President Erdogan calls the Dutch authorities \"Nazi remnants\". In response, Dutch authorities expel another minister from Rotterdam to the border with Germany.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-europe-39242707",
+                            "text": "-\"Turkey's Erdogan calls Dutch authorities 'Nazi remnants'\". BBC News. 11 March 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2017-03-11"
+                            }
+                        },
+                        {
+                            "link": "https://www.bbc.com/news/world-europe-39246392",
+                            "text": "-\"Turkey referendum: Clashes as Dutch expel minister\". BBC News. 12 March 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2017-03-12"
+                            }
+                        }
+                    ],
+                    "start_date": "11/03/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "13 March - Dutch ambassador to Turkey, Cornelis Van Rij, was expelled from Ankara following a Dutch ban on Turkish ministers speaking at pro-Erdogan rallies.",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/world/2017/mar/13/turkey-summons-dutch-envoy-over-riot-police-tactics-in-rotterdam",
+                            "text": "-\"Turkey threatens to pull out of migrant deal as Dutch row intensifies\". TheGuardian.com. 13 March 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2017-03-13"
+                            }
+                        }
+                    ],
+                    "start_date": "13/03/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "29 March - Prime Minister Yildirim declares an end to Operation Euphrates Shield in Syria but says an operation will follow under a different name.",
+                    "links": [
+                        {
+                            "link": "http://www.aljazeera.com/news/2017/03/turkey-ends-euphrates-shield-operation-syria-170329211428970.html",
+                            "text": "-\"Turkey ends 'Euphrates Shield' operation in Syria\".-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "29/03/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "16 April  The 2017 Turkish constitutional referendum occurred.",
+                    "links": [],
+                    "start_date": "16/04/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "17 April - President Erdoğan makes favorable statements on the reinstatement of capital punishment, announcing he would discuss the possibility with Devlet Bahçeli of the Nationalist Movement Party (MHP) and the then-Turkish prime minister Binali Yıldırım.",
+                    "links": [
+                        {
+                            "link": "https://www.newsweek.com/turkey-referendum-death-penalty-erdogan-eu-membership-585065",
+                            "text": "-Gaffey, Connor (2017-04-17). \"Turkey could hold a referendum on reintroducing the death penalty, Erdogan says\". Newsweek. Archived from the original on 2017-04-18. Retrieved 2021-07-11.-",
+                            "dates": {
+                                "Archieved": "2017-04-18",
+                                "Retrieved": "2021-07-11",
+                                "Created": "2017-04-17"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20170418090601/http://www.newsweek.com/turkey-referendum-death-penalty-erdogan-eu-membership-585065",
+                            "text": "-Gaffey, Connor (2017-04-17). \"Turkey could hold a referendum on reintroducing the death penalty, Erdogan says\". Newsweek. Archived from the original on 2017-04-18. Retrieved 2021-07-11.-",
+                            "dates": {
+                                "Archieved": "2017-04-18",
+                                "Retrieved": "2021-07-11",
+                                "Created": "2017-04-17"
+                            }
+                        }
+                    ],
+                    "start_date": "17/04/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "19 April  The 2017 Turkvision Song Contest was held in Ankara.",
+                    "links": [],
+                    "start_date": "19/04/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "29 April - The 2017 block of Wikipedia in Turkey",
+                    "links": [],
+                    "start_date": "29/04/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "May",
+            "Data": [
+                {
+                    "event_text": "1921 May - 2017 EuroLeague Final Four",
+                    "links": [],
+                    "start_date": "21/05/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "June",
+            "Data": [
+                {
+                    "event_text": "23 June - It is reported that the Turkish education ministry announced the removal of evolution from the secondary school curriculum.",
+                    "links": [
+                        {
+                            "link": "https://www.nytimes.com/2017/06/23/world/europe/turkey-evolution-high-school-curriculum.html",
+                            "text": "-Kingsley, Patrick (23 June 2017). \"Turkey Drops Evolution From Curriculum, Angering Secularists\". The New York Times.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2017-06-23"
+                            }
+                        },
+                        {
+                            "link": "https://www.dw.com/en/evolution-theory-to-be-scrapped-from-turkish-schoolbooks/a-39394731",
+                            "text": "-\"Evolution theory to be scrapped from Turkish schoolbooks | DW | 23.06.2017\". Deutsche Welle.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://www.theguardian.com/world/2017/jun/23/turkish-schools-to-stop-teaching-evolution-official-says",
+                            "text": "-\"Turkish schools to stop teaching evolution, official says\". TheGuardian.com. 23 June 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2017-06-23"
+                            }
+                        },
+                        {
+                            "link": "https://www.reuters.com/article/us-turkey-education-evolution-idUSKBN19E1RA",
+                            "text": "-\"Turkey to stop teaching evolution theory in high schools: Education board\". Reuters. 23 June 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2017-06-23"
+                            }
+                        }
+                    ],
+                    "start_date": "23/06/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "July",
+            "Data": [
+                {
+                    "event_text": "4 July - \"Önce Vatan\" Party was shut down by the Constitutional Court of Turkey.",
+                    "links": [
+                        {
+                            "link": "http://www.hurriyetdailynews.com/turkeys-top-court-shuts-down-once-vatan-party-due-to-missing-leader.aspx?pageID=238&nID=115088&NewsCatID=338",
+                            "text": "-Turkey’s top court shuts down Önce Vatan Party after leader goes missing-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "04/07/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "September",
+            "Data": [
+                {
+                    "event_text": "22 September - Kadir Topbaş resigned from his position as the Mayor of Istanbul",
+                    "links": [
+                        {
+                            "link": "http://www.ntv.com.tr/turkiye/son-dakika-haberi-ibb-baskani-kadir-topbas-istifa-etti,Gn6RtBZbEESfM1mSHUst_A",
+                            "text": "-İBB Başkanı Kadir Topbaş istifa etti-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "22/09/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "October",
+            "Data": [
+                {
+                    "event_text": "1015 October - 2017 Presidential Tour of Turkey",
+                    "links": [],
+                    "start_date": "15/10/2017",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

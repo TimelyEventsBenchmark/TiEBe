@@ -34,6 +34,12 @@ Tiebe covers the following regions:
 - Turkey
 - Ukraine
 
+## Explore the Potential Events Data from TiEBe
+Explore the TiEBe potential events data worldwide acessing:
+- [Worldmap](static/tiebe_potential_events_data.html)
+
+The link provides access to the dataset in an interactive format.
+
 ## Data
 
 Our dataset in this repository is provided in the `data` folder in a collection of json files. You will find two folders:

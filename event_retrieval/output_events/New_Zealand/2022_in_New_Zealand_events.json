@@ -1,0 +1,1308 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "23 January  COVID-19 in New Zealand The whole of New Zealand moves to red under the COVID-19 Protection Framework at 1159 pm, after the confirmation of multiple community cases of the COVID-19 Omicron variant.",
+                    "links": [
+                        {
+                            "link": "https://www.nzherald.co.nz/nz/covid-19-omicron-nz-moves-to-red-light-tonight-pm-jacinda-ardern-confirms-nine-cases-with-variant/FPYXEZCL3IS2R3I5RPGAI4IFOA/",
+                            "text": "-\"Covid 19 Omicron: NZ moves to red light tonight, PM Jacinda Ardern confirms nine cases with variant\". New Zealand Herald. 23 January 2022. Retrieved 24 January 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-01-24",
+                                "Created": "2022-01-23"
+                            }
+                        }
+                    ],
+                    "start_date": "23/01/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "30 January   COVID-19 in New Zealand Governor-General Dame Cindy Kiro and Prime Minister Jacinda Ardern enter isolation after being deemed to be a close contact of a positive COVID-19 case.",
+                    "links": [
+                        {
+                            "link": "https://www.rnz.co.nz/news/national/460503/prime-minister-and-governor-general-in-isolation-after-possible-covid-exposure",
+                            "text": "-\"Prime Minister and Governor-General in isolation after possible Covid exposure\". RNZ. 30 January 2022. Retrieved 7 February 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-02-07",
+                                "Created": "2022-01-30"
+                            }
+                        }
+                    ],
+                    "start_date": "30/01/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "1 February  COVID-19 in New Zealand Pregnant journalist Charlotte Bellis is offered a place in MIQ after initially being denied entry.",
+                    "links": [
+                        {
+                            "link": "https://www.rnz.co.nz/news/national/460660/pregnant-journalist-charlotte-bellis-offered-a-place-in-miq",
+                            "text": "-\"Pregnant journalist Charlotte Bellis offered a place in MIQ\". RNZ. 1 February 2022. Retrieved 7 February 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-02-07",
+                                "Created": "2022-02-01"
+                            }
+                        }
+                    ],
+                    "start_date": "01/02/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "2 February  A state of emergency is issued in the Buller District as heavy rain continues to fall.",
+                    "links": [
+                        {
+                            "link": "https://www.rnz.co.nz/news/national/460749/state-of-emergency-declared-as-heavy-rain-moves-up-west-coast",
+                            "text": "-\"State of emergency declared as heavy rain moves up West Coast\". RNZ. 2 February 2022. Retrieved 7 February 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-02-07",
+                                "Created": "2022-02-02"
+                            }
+                        }
+                    ],
+                    "start_date": "02/02/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "3 February  The West Coast Region receives a record-breaking amount of rainfall. State Highway 6 is closed.",
+                    "links": [
+                        {
+                            "link": "https://www.rnz.co.nz/national/programmes/middayreport/audio/2018829193/record-breaking-west-coast-rainfalls",
+                            "text": "-\"Record breaking West Coast rainfalls\". RNZ. 3 February 2022. Retrieved 7 February 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-02-07",
+                                "Created": "2022-02-03"
+                            }
+                        }
+                    ],
+                    "start_date": "03/02/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "4 February  Civil Defence orders evacuations for low-lying areas of Westport.",
+                    "links": [
+                        {
+                            "link": "https://www.rnz.co.nz/national/programmes/middayreport/audio/2018829333/westport-evacuations-ordered-before-flooding",
+                            "text": "-\"Westport evacuations ordered before flooding\". RNZ. 4 February 2022. Retrieved 7 February 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-02-07",
+                                "Created": "2022-02-04"
+                            }
+                        }
+                    ],
+                    "start_date": "04/02/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Platinum Jubilee of Elizabeth II's accession as Queen of New Zealand",
+                    "links": [
+                        {
+                            "link": "https://www.stuff.co.nz/life-style/royals/127701780/prime-minister-jacinda-ardern-pays-tribute-to-the-queen-ahead-of-platinum-jubilee-celebrations",
+                            "text": "-Forrester, Georgia (6 February 2022). \"Prime Minister Jacinda Ardern pays tribute to the Queen ahead of Platinum Jubilee celebrations\". Stuff. Retrieved 6 February 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-02-06",
+                                "Created": "2022-02-06"
+                            }
+                        }
+                    ],
+                    "start_date": "06/02/2022",
+                    "end_date": "02/03/2022"
+                },
+                {
+                    "event_text": "Protests in Wellington start outside Parliament, and develop into an \"occupation\", which lasts until 2 March when police moved in.",
+                    "links": [],
+                    "start_date": "02/03/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Waitangi Day celebrations are cut back as COVID-19 restrictions force the closure of the Treaty Grounds.",
+                    "links": [
+                        {
+                            "link": "https://www.rnz.co.nz/news/national/460973/waitangi-day-commemorations-go-online",
+                            "text": "-\"Waitangi Day commemorations go online\". RNZ. 6 February 2022. Retrieved 7 February 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-02-07",
+                                "Created": "2022-02-06"
+                            }
+                        }
+                    ],
+                    "start_date": "02/03/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "7 February   A 21-gun salute is performed in Wellington for the Platinum Jubilee of Elizabeth II's accession as Queen of New Zealand.",
+                    "links": [
+                        {
+                            "link": "https://www.rnz.co.nz/news/national/461029/platinum-jubilee-21-gun-salute-to-be-held-in-wellington-to-mark-queen-s-accession",
+                            "text": "-\"Platinum Jubilee: 21-gun salute to be held in Wellington to mark Queen's accession\". RNZ. 7 February 2022. Retrieved 7 February 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-02-07",
+                                "Created": "2022-02-07"
+                            }
+                        }
+                    ],
+                    "start_date": "07/02/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "2 March  The protest in Wellington outside Parliament is ended by police.",
+                    "links": [],
+                    "start_date": "02/03/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "23 March  A state of emergency is declared in Tairāwhiti due to severe weather.",
+                    "links": [
+                        {
+                            "link": "https://www.civildefence.govt.nz/resources/previous-emergencies/declared-states-of-emergency",
+                            "text": "-\"Declared States of Emergency\". www.civildefence.govt.nz. Retrieved 24 April 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-04-24",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "23/03/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "14 March  A fuel tax subsidy is introduced to deal with the cost of living crisis.",
+                    "links": [
+                        {
+                            "link": "https://www.rnz.co.nz/news/political/463279/public-transport-fares-to-be-halved-fuel-taxes-and-road-user-charges-reduced",
+                            "text": "-\"Public transport fares to be halved, fuel taxes and road user charges reduced\". RNZ. 14 March 2022. Retrieved 4 November 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-11-04",
+                                "Created": "2022-03-14"
+                            }
+                        }
+                    ],
+                    "start_date": "14/03/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "31 March  The Transmission Gully Motorway opens to traffic, having been officially opened by Jacinda Ardern the previous day.",
+                    "links": [
+                        {
+                            "link": "https://www.nzherald.co.nz/nz/transmission-gully-opens-to-traffic-after-road-was-first-proposed-100-years-ago/7KEDS6O5RW6F5UK633LA7VPXMI/",
+                            "text": "-Campbell, Georgina; Molyneux, Vita (31 March 2022). \"Transmission Gully opens to traffic after road was first proposed 100 years ago\". The New Zealand Herald. Retrieved 31 March 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-03-31",
+                                "Created": "2022-03-31"
+                            }
+                        }
+                    ],
+                    "start_date": "31/03/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "7 April  Te Kāhui o Matariki Public Holiday Bill passes its third reading in Parliament, establishing Matariki as a public holiday in New Zealand.",
+                    "links": [
+                        {
+                            "link": "https://www.1news.co.nz/2022/04/07/not-just-a-holiday-mps-defend-matariki-bill-as-it-passes-into-law/",
+                            "text": "-\"'Not just a holiday' – MPs defend Matariki Bill as it passes into law\". 1News. 7 April 2022. Retrieved 8 April 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-04-08",
+                                "Created": "2022-04-07"
+                            }
+                        }
+                    ],
+                    "start_date": "07/04/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "May",
+            "Data": [
+                {
+                    "event_text": "9 May  New Zealand's first emissions budgets are released by Climate Change Minister, James Shaw.",
+                    "links": [
+                        {
+                            "link": "https://www.stuff.co.nz/national/politics/300583572/climate-change-minister-james-shaw-confirms-sinking-lid-of-emissions-budgets",
+                            "text": "-Cooke, Henry (9 May 2022). \"Climate change Minister James Shaw confirms sinking lid of emissions budgets\". Stuff. Retrieved 15 January 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-01-15",
+                                "Created": "2022-05-09"
+                            }
+                        }
+                    ],
+                    "start_date": "09/05/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "16 May  The first Emissions Reduction Plan is released.",
+                    "links": [
+                        {
+                            "link": "https://www.rnz.co.nz/news/political/467196/first-emissions-reduction-plan-spends-2-point-9b-from-emergency-response-fund",
+                            "text": "-\"First Emissions Reduction Plan spends $2.9b from Emergency Response Fund\". RNZ. 16 May 2022. Retrieved 15 January 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-01-15",
+                                "Created": "2022-05-16"
+                            }
+                        }
+                    ],
+                    "start_date": "16/05/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "19 May  The 2022 budget is delivered.",
+                    "links": [
+                        {
+                            "link": "https://www.rnz.co.nz/news/budget-2022/467456/budget-2022-at-a-glance-what-you-need-to-know",
+                            "text": "-Palmer, Russell (19 May 2022). \"Budget 2022 at a glance: What you need to know\". RNZ News. Retrieved 15 January 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-01-15",
+                                "Created": "2022-05-19"
+                            }
+                        }
+                    ],
+                    "start_date": "19/05/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "June",
+            "Data": [
+                {
+                    "event_text": "6 June  The 2022 Queen's Birthday and Platinum Jubilee Honours are announced.",
+                    "links": [
+                        {
+                            "link": "https://www.nzherald.co.nz/nz/the-queens-birthday-and-platinum-jubilee-honours-list-2022/W53HWSV4TI7DGRF66KXQCTHB34/",
+                            "text": "-\"The Queen's Birthday and Platinum Jubilee Honours List 2022\". The New Zealand Herald. 6 June 2022. Retrieved 26 July 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-07-26",
+                                "Created": "2022-06-06"
+                            }
+                        }
+                    ],
+                    "start_date": "06/06/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "8 June  The Supreme Court overturns the wrongful conviction of Alan Hall.",
+                    "links": [
+                        {
+                            "link": "https://www.stuff.co.nz/national/128914728/arthur-eastons-family-react-to-quashing-of-alan-hall-murder-conviction",
+                            "text": "-White, Mike (9 June 2022). \"Arthur Easton's family react to quashing of Alan Hall murder conviction\". Stuff. Retrieved 21 June 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-06-21",
+                                "Created": "2022-06-09"
+                            }
+                        }
+                    ],
+                    "start_date": "08/06/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "18 June  Sam Uffindell of the National Party wins the Tauranga by-election following the resignation from Parliament of Simon Bridges.",
+                    "links": [
+                        {
+                            "link": "https://www.stuff.co.nz/bay-of-plenty/129007469/nationals-sam-uffindell-wins-tauranga-byelection-will-be-the-citys-next-mp",
+                            "text": "-Quill, Annemarie; Sheridan, Dan; Hope, Sharnae (18 June 2022). \"National's Sam Uffindell wins Tauranga by-election, will be the city's next MP\". Stuff. Retrieved 22 June 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-06-22",
+                                "Created": "2022-06-18"
+                            }
+                        }
+                    ],
+                    "start_date": "18/06/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "24 June  Matariki is observed as an official public holiday for the first time.",
+                    "links": [],
+                    "start_date": "24/06/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "28 June  The Supreme Court rules that Family First does not qualify for charitable status.",
+                    "links": [
+                        {
+                            "link": "https://www.rnz.co.nz/news/national/469924/family-first-does-not-qualify-for-charitable-status-supreme-court-rules",
+                            "text": "-\"Family First does not qualify for charitable status, Supreme Court rules\". RNZ News. 28 June 2022. Archived from the original on 28 June 2022. Retrieved 28 June 2022.-",
+                            "dates": {
+                                "Archieved": "2022-06-28",
+                                "Retrieved": "2022-06-28",
+                                "Created": "2022-06-28"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20220628062918/https://www.rnz.co.nz/news/national/469924/family-first-does-not-qualify-for-charitable-status-supreme-court-rules",
+                            "text": "-\"Family First does not qualify for charitable status, Supreme Court rules\". RNZ News. 28 June 2022. Archived from the original on 28 June 2022. Retrieved 28 June 2022.-",
+                            "dates": {
+                                "Archieved": "2022-06-28",
+                                "Retrieved": "2022-06-28",
+                                "Created": "2022-06-28"
+                            }
+                        },
+                        {
+                            "link": "https://www.stuff.co.nz/national/politics/129099323/traditional-values-advocate-family-first-loses-argument-that-it-should-be-a-registered-charity",
+                            "text": "-\"Traditional values advocate Family First loses argument that it should be a registered charity\". Stuff. 28 June 2022. Archived from the original on 27 June 2022. Retrieved 28 June 2022.-",
+                            "dates": {
+                                "Archieved": "2022-06-27",
+                                "Retrieved": "2022-06-28",
+                                "Created": "2022-06-28"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20220627232302/https://www.stuff.co.nz/national/politics/129099323/traditional-values-advocate-family-first-loses-argument-that-it-should-be-a-registered-charity",
+                            "text": "-\"Traditional values advocate Family First loses argument that it should be a registered charity\". Stuff. 28 June 2022. Archived from the original on 27 June 2022. Retrieved 28 June 2022.-",
+                            "dates": {
+                                "Archieved": "2022-06-27",
+                                "Retrieved": "2022-06-28",
+                                "Created": "2022-06-28"
+                            }
+                        }
+                    ],
+                    "start_date": "28/06/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "July",
+            "Data": [
+                {
+                    "event_text": "7 July  A daytime meteor is visible in the lower North Island.",
+                    "links": [
+                        {
+                            "link": "https://www.rnz.co.nz/news/national/470531/meteor-sighted-in-parts-of-lower-north-island",
+                            "text": "-\"Meteor sighted in parts of lower North Island\". RNZ. 7 July 2022. Retrieved 3 July 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-07-03",
+                                "Created": "2022-07-07"
+                            }
+                        }
+                    ],
+                    "start_date": "07/07/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "9 July  The first case of mpox is detected in Auckland.",
+                    "links": [
+                        {
+                            "link": "https://www.rnz.co.nz/news/national/470633/first-case-of-monkeypox-confirmed-in-auckland-health-ministry-says",
+                            "text": "-\"First case of monkeypox confirmed in Auckland, Health Ministry says\". Radio New Zealand. 9 July 2022. Archived from the original on 3 October 2023. Retrieved 17 July 2022.-",
+                            "dates": {
+                                "Archieved": "2023-10-03",
+                                "Retrieved": "2022-07-17",
+                                "Created": "2022-07-09"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20231003041825/https://www.rnz.co.nz/news/national/470633/first-case-of-monkeypox-confirmed-in-auckland-health-ministry-says",
+                            "text": "-\"First case of monkeypox confirmed in Auckland, Health Ministry says\". Radio New Zealand. 9 July 2022. Archived from the original on 3 October 2023. Retrieved 17 July 2022.-",
+                            "dates": {
+                                "Archieved": "2023-10-03",
+                                "Retrieved": "2022-07-17",
+                                "Created": "2022-07-09"
+                            }
+                        }
+                    ],
+                    "start_date": "09/07/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "12 July  The second case of mpox is reported in Auckland.",
+                    "links": [
+                        {
+                            "link": "https://www.rnz.co.nz/news/national/470777/second-case-of-monkeypox-confirmed-in-nz-ministry-of-health-says",
+                            "text": "-\"Second case of monkeypox confirmed in NZ, Ministry of Health says\". Radio New Zealand. 12 July 2022. Archived from the original on 13 July 2022. Retrieved 25 July 2022.-",
+                            "dates": {
+                                "Archieved": "2022-07-13",
+                                "Retrieved": "2022-07-25",
+                                "Created": "2022-07-12"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20220713153655/https://www.rnz.co.nz/news/national/470777/second-case-of-monkeypox-confirmed-in-nz-ministry-of-health-says",
+                            "text": "-\"Second case of monkeypox confirmed in NZ, Ministry of Health says\". Radio New Zealand. 12 July 2022. Archived from the original on 13 July 2022. Retrieved 25 July 2022.-",
+                            "dates": {
+                                "Archieved": "2022-07-13",
+                                "Retrieved": "2022-07-25",
+                                "Created": "2022-07-12"
+                            }
+                        }
+                    ],
+                    "start_date": "12/07/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Christchurch City councillors vote in favour of building the $683m stadium, Te Kaha.",
+                    "links": [
+                        {
+                            "link": "https://www.rnz.co.nz/news/national/470912/christchurch-councillors-meet-on-stadium-decision",
+                            "text": "-\"Christchurch councillors meet on stadium decision\". RNZ. 14 July 2022. Retrieved 17 July 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-07-17",
+                                "Created": "2022-07-14"
+                            }
+                        }
+                    ],
+                    "start_date": "14/07/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Hamilton section of the Waikato Expressway opens to traffic, having been officially opened two days earlier",
+                    "links": [
+                        {
+                            "link": "https://www.stuff.co.nz/national/129283124/hamilton-section-of-waikato-expressway-open-to-traffic",
+                            "text": "-Lines-MacKenzie, Jo (15 July 2022). \"Hamilton section of Waikato Expressway open to traffic\". Stuff. Retrieved 26 July 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-07-26",
+                                "Created": "2022-07-15"
+                            }
+                        }
+                    ],
+                    "start_date": "14/07/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "18 to 20 July  Severe winds, heavy rain and flooding cause chaos across the country, as well as leaving more than 100 people trapped in Lake Ōhau and closing a number of state highways.",
+                    "links": [
+                        {
+                            "link": "https://www.rnz.co.nz/news/national/471170/strong-wind-gusts-topple-trees-trigger-power-cuts-in-south-island",
+                            "text": "-\"Strong wind gusts topple trees, trigger power cuts in South Island\". RNZ. 18 July 2022. Retrieved 20 July 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-07-20",
+                                "Created": "2022-07-18"
+                            }
+                        },
+                        {
+                            "link": "https://www.rnz.co.nz/news/national/471258/south-island-floods-clean-up-ahead-for-parts-of-otago-canterbury",
+                            "text": "-\"South Island floods: Clean-up ahead for parts of Otago, Canterbury\". RNZ. 20 July 2022. Retrieved 20 July 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-07-20",
+                                "Created": "2022-07-20"
+                            }
+                        },
+                        {
+                            "link": "https://www.rnz.co.nz/news/national/471199/wild-weather-canterbury-rivers-rising-as-heavy-rain-strong-wind-batters-south-island",
+                            "text": "-\"Wild weather: Canterbury rivers rising as heavy rain, strong wind batters South Island\". RNZ. 19 July 2022. Retrieved 20 July 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-07-20",
+                                "Created": "2022-07-19"
+                            }
+                        },
+                        {
+                            "link": "https://www.stuff.co.nz/dominion-post/news/300642236/state-highway-35-closed-between-ptiki-and-gisborne-after-eastbound-lane-falls-into-river",
+                            "text": "-\"State Highway 35 closed between Ōpōtiki and Gisborne after eastbound lane falls into river\". Stuff. 20 July 2022. Retrieved 20 July 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-07-20",
+                                "Created": "2022-07-20"
+                            }
+                        }
+                    ],
+                    "start_date": "20/07/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "20 July  The Court of Appeal overturns resource consents that allowed two water-bottling companies to extract billions of litres of water from Christchurch aquifers.",
+                    "links": [
+                        {
+                            "link": "https://www.stuff.co.nz/national/129328167/huge-day-for-christchurch-as-water-bottling-consents-quashed",
+                            "text": "-Law, Tina (20 July 2022). \"'Huge day for Christchurch' as water bottling consents quashed\". Stuff. Retrieved 20 July 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-07-20",
+                                "Created": "2022-07-20"
+                            }
+                        }
+                    ],
+                    "start_date": "20/07/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "31 July  COVID-19 in New Zealand The New Zealand border fully reopens to all travellers at 1159 pm.",
+                    "links": [
+                        {
+                            "link": "https://www.rnz.co.nz/news/national/471954/border-fully-reopens-but-big-visitor-numbers-not-expected-just-yet",
+                            "text": "-McKee, Jake (1 August 2022). \"LBorder fully reopens, but big visitor numbers not expected just yet\". RNZ News. Retrieved 2 August 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-08-02",
+                                "Created": "2022-08-01"
+                            }
+                        }
+                    ],
+                    "start_date": "31/07/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "August",
+            "Data": [
+                {
+                    "event_text": "11 August  The remains of two children are found in suitcases in Clendon Park, Auckland.",
+                    "links": [
+                        {
+                            "link": "https://www.stuff.co.nz/national/crime/300657961/large-police-presence-road-blocked-off-due-to-incident-in-aucklands-clendon-park?rm=a",
+                            "text": "-Anderson, Ryan; Sommerville, Troels (11 August 2022). \"Large police presence, road blocked off due to incident in Auckland's Clendon Park\". Stuff. Archived from the original on 18 August 2022. Retrieved 18 August 2022.-",
+                            "dates": {
+                                "Archieved": "2022-08-18",
+                                "Retrieved": "2022-08-18",
+                                "Created": "2022-08-11"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20220818080256/https://www.stuff.co.nz/national/crime/300657961/large-police-presence-road-blocked-off-due-to-incident-in-aucklands-clendon-park?rm=a",
+                            "text": "-Anderson, Ryan; Sommerville, Troels (11 August 2022). \"Large police presence, road blocked off due to incident in Auckland's Clendon Park\". Stuff. Archived from the original on 18 August 2022. Retrieved 18 August 2022.-",
+                            "dates": {
+                                "Archieved": "2022-08-18",
+                                "Retrieved": "2022-08-18",
+                                "Created": "2022-08-11"
+                            }
+                        }
+                    ],
+                    "start_date": "11/08/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "12 August  COVID-19 in New Zealand The first cruise ship since the beginning of the pandemic docks at Queens Wharf in Auckland from Sydney.",
+                    "links": [
+                        {
+                            "link": "https://www.rnz.co.nz/news/national/472729/first-cruise-ship-since-beginning-of-pandemic-arrives-in-new-zealand",
+                            "text": "-\"First cruise ship since beginning of pandemic arrives in New Zealand\". RNZ. 12 August 2022. Retrieved 18 August 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-08-18",
+                                "Created": "2022-08-12"
+                            }
+                        }
+                    ],
+                    "start_date": "12/08/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "15 August  A 6.4 magnitude earthquake occurs south of the Kermadec Islands at 145am.",
+                    "links": [
+                        {
+                            "link": "https://www.rnz.co.nz/news/national/472855/quake-recorded-near-kermadec-islands",
+                            "text": "-\"Quake recorded near Kermadec Islands\". RNZ. 15 August 2022. Retrieved 18 August 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-08-18",
+                                "Created": "2022-08-15"
+                            }
+                        }
+                    ],
+                    "start_date": "15/08/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A state of emergency is declared on the West Coast, following a red-level alert issued by MetService due to heavy rain.",
+                    "links": [
+                        {
+                            "link": "https://www.rnz.co.nz/news/national/472936/state-of-emergency-declared-for-west-coast-as-residents-brace-for-more-flooding",
+                            "text": "-\"State of emergency declared for West Coast as residents brace for more flooding\". RNZ. 16 August 2022. Retrieved 18 August 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-08-18",
+                                "Created": "2022-08-16"
+                            }
+                        }
+                    ],
+                    "start_date": "16/08/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Labour's caucus unanimously decides to suspend Hamilton West MP Gaurav Sharma effective immediately in the wake of allegations of bullying of and by MPs.",
+                    "links": [
+                        {
+                            "link": "https://www.rnz.co.nz/news/political/472945/watch-labour-s-caucus-unanimously-agrees-to-suspend-mp-gaurav-sharma-pm-jacinda-ardern",
+                            "text": "-\"Watch: Labour's caucus unanimously agrees to suspend MP Gaurav Sharma – PM Jacinda Ardern\". RNZ. 16 August 2022. Retrieved 30 August 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-08-30",
+                                "Created": "2022-08-16"
+                            }
+                        }
+                    ],
+                    "start_date": "16/08/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Two restoration workers become the first people to enter the ChristChurch Cathedral since February 2011.",
+                    "links": [
+                        {
+                            "link": "https://www.stuff.co.nz/the-press/news/129601765/people-enter-the-christ-church-cathedral-for-the-first-time-since-2011",
+                            "text": "-Gates, Charlie (17 August 2022). \"People enter the Christ Church Cathedral for the first time since 2011\". Stuff. Retrieved 18 August 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-08-18",
+                                "Created": "2022-08-17"
+                            }
+                        }
+                    ],
+                    "start_date": "17/08/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A front of severe weather hits the Nelson and Tasman regions causing record flooding and numerous slips. The heavy rain lasts for four days causing extensive damage to Nelson City and surrounding areas. Over five hundred people are evacuated and numerous homes are rendered unlivable. It is estimated that it will take years for the city to recover. Areas of the West Coast and Marlborough are also hit causing extensive flooding and damage. The severe weather heads north to hit Taranaki in the following days. The cost, according to Nelson City Council, is $60 million.",
+                    "links": [
+                        {
+                            "link": "https://www.nzherald.co.nz/nz/weather-nelson-flooding-households-communities-stunned-by-damage/ZLUTHPTKHCZHMG2OYRVMZ4KSXE/",
+                            "text": "-\"Weather: Nelson flooding – households, communities stunned by damage\". The New Zealand Herald. 21 August 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2022-08-21"
+                            }
+                        },
+                        {
+                            "link": "https://www.theguardian.com/world/2022/aug/19/new-zealand-floods-could-take-years-to-clean-up-with-1200-people-displaced",
+                            "text": "-\"New Zealand floods could take years to clean up, with 1,200 people displaced\". The Guardian. 19 August 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2022-08-19"
+                            }
+                        },
+                        {
+                            "link": "https://www.rnz.co.nz/news/national/477081/nelson-city-council-faces-60m-bill-for-flood-repairs-govt-must-help-mayor",
+                            "text": "-\"Nelson City Council faces $60m bill for flood repairs, govt must help – mayor\". RNZ. 21 October 2022. Retrieved 24 October 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-10-24",
+                                "Created": "2022-10-21"
+                            }
+                        }
+                    ],
+                    "start_date": "17/08/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "22 August  The government takes direct control of Kiwibank through the purchase of holding company Kiwi Group Holdings for an estimated NZ$2.1 billion from the New Zealand Superannuation Fund, ACC, and New Zealand Post.",
+                    "links": [
+                        {
+                            "link": "https://www.rnz.co.nz/news/business/473251/government-taking-direct-control-of-kiwibank",
+                            "text": "-\"Government taking direct control of Kiwibank\". RNZ News. 22 August 2022. Archived from the original on 24 August 2022. Retrieved 1 September 2022.-",
+                            "dates": {
+                                "Archieved": "2022-08-24",
+                                "Retrieved": "2022-09-01",
+                                "Created": "2022-08-22"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20220824060442/https://www.rnz.co.nz/news/business/473251/government-taking-direct-control-of-kiwibank",
+                            "text": "-\"Government taking direct control of Kiwibank\". RNZ News. 22 August 2022. Archived from the original on 24 August 2022. Retrieved 1 September 2022.-",
+                            "dates": {
+                                "Archieved": "2022-08-24",
+                                "Retrieved": "2022-09-01",
+                                "Created": "2022-08-22"
+                            }
+                        }
+                    ],
+                    "start_date": "22/08/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "25 August  Corporal Dominic Abelen is killed in Ukraine whilst on a period of leave without pay, and was not on active duty with the NZDF.",
+                    "links": [
+                        {
+                            "link": "https://www.rnz.co.nz/news/national/473428/reports-say-nz-soldier-killed-in-ukraine-while-on-leave-nzdf",
+                            "text": "-\"Reports say NZ soldier killed in Ukraine while on leave – NZDF\". RNZ. 24 August 2022. Retrieved 30 August 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-08-30",
+                                "Created": "2022-08-24"
+                            }
+                        }
+                    ],
+                    "start_date": "25/08/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Fire and Emergency firefighters go on strike for a second time, lasting an hour.",
+                    "links": [
+                        {
+                            "link": "https://www.rnz.co.nz/news/national/473565/firefighters-walk-off-the-job-again-after-their-first-ever-national-strike-last-week",
+                            "text": "-\"Firefighters walk off the job again after their first ever national strike last week\". RNZ. 26 August 2022. Retrieved 30 August 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-08-30",
+                                "Created": "2022-08-26"
+                            }
+                        }
+                    ],
+                    "start_date": "26/08/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Five people are taken to hospital after a gas explosion at a building site in Auckland's Wynyard Quarter.",
+                    "links": [
+                        {
+                            "link": "https://www.rnz.co.nz/news/national/473533/auckland-wharf-explosion-five-injured-as-emergency-services-rush-to-scene",
+                            "text": "-\"Auckland wharf explosion: Five injured as emergency services rush to scene\". RNZ. 26 August 2022. Retrieved 30 August 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-08-30",
+                                "Created": "2022-08-26"
+                            }
+                        }
+                    ],
+                    "start_date": "26/08/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "30 August  A person is shot in the Christchurch suburb of Linwood, leading to a manhunt.",
+                    "links": [
+                        {
+                            "link": "https://www.rnz.co.nz/news/national/473754/man-shot-search-underway-after-serious-incident-in-central-christchurch",
+                            "text": "-\"Man shot, search underway after serious incident in central Christchurch\". RNZ. 30 August 2022. Retrieved 30 August 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-08-30",
+                                "Created": "2022-08-30"
+                            }
+                        }
+                    ],
+                    "start_date": "30/08/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "September",
+            "Data": [
+                {
+                    "event_text": "8 September  Accession of Charles III as King of New Zealand on the death of Elizabeth II.",
+                    "links": [
+                        {
+                            "link": "https://www.stuff.co.nz/life-style/royals/300683071/queen-elizabeth-ii-has-died-aged-96",
+                            "text": "-\"Queen Elizabeth II has died, aged 96\". Stuff. 9 September 2022. Retrieved 9 September 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-09-09",
+                                "Created": "2022-09-09"
+                            }
+                        }
+                    ],
+                    "start_date": "08/09/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "11 September  Charles III is proclaimed King of New Zealand on the steps of Parliament House, Wellington.",
+                    "links": [
+                        {
+                            "link": "https://www.rnz.co.nz/news/national/474542/king-charles-iii-officially-proclaimed-as-new-zealand-s-new-king",
+                            "text": "-\"King Charles III officially proclaimed as New Zealand's new king\". RNZ News. 11 September 2022. Retrieved 11 September 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-09-11",
+                                "Created": "2022-09-11"
+                            }
+                        }
+                    ],
+                    "start_date": "11/09/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "12 September  COVID-19 in New Zealand The COVID-19 Protection Framework ends at 1159 pm, resulting in the removal of most pandemic-related restrictions.",
+                    "links": [
+                        {
+                            "link": "https://www.stuff.co.nz/national/politics/129854755/covid19-traffic-light-system-masks-scrapped-from-midnight-monday",
+                            "text": "-Witton, Bridie. \"Covid-19 traffic light system, masks scrapped from midnight Monday\". Stuff. Retrieved 12 September 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-09-12",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "12/09/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "19 September  New Zealand representatives attend the funeral of Queen Elizabeth II in London.",
+                    "links": [
+                        {
+                            "link": "https://www.rnz.co.nz/news/national/475039/queen-elizabeth-ii-funeral-the-delegation-representing-new-zealand",
+                            "text": "-Queen Elizabeth II funeral: The delegation representing New Zealand-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "19/09/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "26 September  A state memorial service for Queen Elizabeth II with a national holiday is held at the Wellington Cathedral of St Paul.",
+                    "links": [
+                        {
+                            "link": "https://www.nzherald.co.nz/nz/state-memorial-for-queen-elizabeth-ii-held-in-wellington/EKVGAW7ITP2TTPLRSMWK7OUWZU/",
+                            "text": "-\"State Memorial for Queen Elizabeth II held in Wellington\". The New Zealand Herald. 26 September 2022. Retrieved 1 October 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-10-01",
+                                "Created": "2022-09-26"
+                            }
+                        }
+                    ],
+                    "start_date": "26/09/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "28 September  The first Costco store in New Zealand opens in Westgate.",
+                    "links": [
+                        {
+                            "link": "https://www.1news.co.nz/2022/09/28/shoppers-flock-to-new-costco-store-in-auckland-on-opening-day/",
+                            "text": "-Anderson, Lucy. \"Shoppers flock to new Costco store in Auckland on opening day\". 1 News. Retrieved 29 September 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-09-29",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "28/09/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "October",
+            "Data": [
+                {
+                    "event_text": "1 October  The AMC+ streaming service launches in New Zealand.",
+                    "links": [
+                        {
+                            "link": "https://www.stuff.co.nz/entertainment/stuff-to-watch/300700857/a-new-streaming-service-is-coming-to-new-zealand-what-is-amc",
+                            "text": "-Mahon-Heap, John (30 September 2022). \"A new streaming service is coming to New Zealand: What is AMC+?\". Stuff. Archived from the original on 5 October 2022. Retrieved 7 October 2022.-",
+                            "dates": {
+                                "Archieved": "2022-10-05",
+                                "Retrieved": "2022-10-07",
+                                "Created": "2022-09-30"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20221005231308/https://www.stuff.co.nz/entertainment/stuff-to-watch/300700857/a-new-streaming-service-is-coming-to-new-zealand-what-is-amc",
+                            "text": "-Mahon-Heap, John (30 September 2022). \"A new streaming service is coming to New Zealand: What is AMC+?\". Stuff. Archived from the original on 5 October 2022. Retrieved 7 October 2022.-",
+                            "dates": {
+                                "Archieved": "2022-10-05",
+                                "Retrieved": "2022-10-07",
+                                "Created": "2022-09-30"
+                            }
+                        }
+                    ],
+                    "start_date": "01/10/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Heavy snow hits much of the South Island, Wellington, Taranaki and the Central Plateau, causing problems for farmers and viticulturists, and closing state highways.",
+                    "links": [
+                        {
+                            "link": "https://www.stuff.co.nz/national/weather-news/300705616/live-cool-sunny-weather-for-the-weekend-as-october-freeze-expected-to-pass",
+                            "text": "-\"Live: Cool, sunny weather for the weekend as October freeze expected to pass\". Stuff. 6 October 2022. Retrieved 6 October 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-10-06",
+                                "Created": "2022-10-06"
+                            }
+                        }
+                    ],
+                    "start_date": "06/10/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The first community transmission of monkeypox in New Zealand is confirmed.",
+                    "links": [
+                        {
+                            "link": "https://www.stuff.co.nz/national/health/300706640/monkeypox-community-transmission-confirmed-in-new-zealand",
+                            "text": "-Martin, Hannah (6 October 2022). \"Monkeypox: Community transmission confirmed in New Zealand\". Stuff. Retrieved 6 October 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-10-06",
+                                "Created": "2022-10-06"
+                            }
+                        }
+                    ],
+                    "start_date": "06/10/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "7 October  The Supreme Court posthumously quashes the 1993 child abuse convictions of Peter Ellis.",
+                    "links": [
+                        {
+                            "link": "https://thespinoff.co.nz/society/07-10-2022/peter-ellis-has-name-cleared-child-abuse-convictions-posthumously-quashed",
+                            "text": "-Sowman-Lund, Stewart (7 October 2022). \"Peter Ellis has his name cleared: child abuse convictions posthumously quashed\". The Spinoff. Retrieved 7 October 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-10-07",
+                                "Created": "2022-10-07"
+                            }
+                        }
+                    ],
+                    "start_date": "07/10/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "8 October  The 2022 local elections are held.",
+                    "links": [
+                        {
+                            "link": "https://www.aucklandcouncil.govt.nz/elections/Pages/key-dates-for-the-2022-local-election.aspx",
+                            "text": "-\"Key dates for the 2022 local election\". Auckland Council. Retrieved 10 December 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-12-10",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "08/10/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "19 October  A digital security breach allows personal details about most University of Otago students to be viewable to others.",
+                    "links": [
+                        {
+                            "link": "https://www.rnz.co.nz/news/national/476984/private-details-of-otago-students-were-exposed-by-digital-fault",
+                            "text": "-\"Private details of Otago students were exposed by digital fault\". RNZ News. 19 October 2022. Retrieved 24 October 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-10-24",
+                                "Created": "2022-10-19"
+                            }
+                        }
+                    ],
+                    "start_date": "19/10/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "20 October  Tractors drive through city centres in a protest led by the farmer advocacy group Groundswell.",
+                    "links": [
+                        {
+                            "link": "https://www.rnz.co.nz/news/national/477043/tractors-trucks-roll-into-city-centres-in-groundswell-protest",
+                            "text": "-\"Tractors, trucks roll into city centres in Groundswell protest\". RNZ News. 20 October 2022. Retrieved 24 October 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-10-24",
+                                "Created": "2022-10-20"
+                            }
+                        }
+                    ],
+                    "start_date": "20/10/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "21 October  Minister of Transport Michael Wood announces a $1.3 billion public transport single payment system, to rolled out across the country in stages, starting with Canterbury in 2024.",
+                    "links": [
+                        {
+                            "link": "https://www.rnz.co.nz/news/national/477115/new-1-point-3b-single-payment-system-for-public-transport-announced",
+                            "text": "-\"New $1.3b single payment system for public transport announced\". RNZ News. 21 October 2022. Retrieved 24 October 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-10-24",
+                                "Created": "2022-10-21"
+                            }
+                        }
+                    ],
+                    "start_date": "21/10/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "25 October  Women make up 50% of MPs in parliament for the first time, as Soraya Peke-Mason is sworn in as a list MP.",
+                    "links": [
+                        {
+                            "link": "https://www.1news.co.nz/2022/10/25/labours-peke-mason-sworn-in-creating-history-for-women-mps/",
+                            "text": "-\"Labour's Peke-Mason sworn in, creating history for women MPs\". 1News. 25 October 2022. Retrieved 3 November 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-11-03",
+                                "Created": "2022-10-25"
+                            }
+                        }
+                    ],
+                    "start_date": "25/10/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "November",
+            "Data": [
+                {
+                    "event_text": "2 November  The evacuation of 130 people from a holiday park at Woodend Beach north of Christchurch occurs due to a wildfire. About 50 firefighters battled the flames overnight.",
+                    "links": [
+                        {
+                            "link": "https://www.rnz.co.nz/news/national/477945/130-people-evacuated-as-crews-battle-canterbury-scrub-fire",
+                            "text": "-\"130 people evacuated as crews battle Canterbury scrub fire\". RNZ. 2 November 2022. Retrieved 6 November 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-11-06",
+                                "Created": "2022-11-02"
+                            }
+                        }
+                    ],
+                    "start_date": "02/11/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "8 November  A full lunar eclipse takes place.",
+                    "links": [],
+                    "start_date": "08/11/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "21 November  The Supreme Court rules that current electoral legislation setting the minimum voting age at 18 years violates the Bill of Rights Act 1990.",
+                    "links": [
+                        {
+                            "link": "https://www.nzherald.co.nz/nz/make-it-16-appeal-to-lower-voting-age-accepted-by-supreme-court/FAWCOW3GEFBL7D4PEOVGZ2WOVA/",
+                            "text": "-Molyneux, Vita (21 November 2022). \"Supreme Court rules in favour of lowering voting age to 16\". The New Zealand Herald. Archived from the original on 25 November 2022. Retrieved 20 November 2022.-",
+                            "dates": {
+                                "Archieved": "2022-11-25",
+                                "Retrieved": "2022-11-20",
+                                "Created": "2022-11-21"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20221125144720/https://www.nzherald.co.nz/nz/make-it-16-appeal-to-lower-voting-age-accepted-by-supreme-court/FAWCOW3GEFBL7D4PEOVGZ2WOVA/",
+                            "text": "-Molyneux, Vita (21 November 2022). \"Supreme Court rules in favour of lowering voting age to 16\". The New Zealand Herald. Archived from the original on 25 November 2022. Retrieved 20 November 2022.-",
+                            "dates": {
+                                "Archieved": "2022-11-25",
+                                "Retrieved": "2022-11-20",
+                                "Created": "2022-11-21"
+                            }
+                        }
+                    ],
+                    "start_date": "21/11/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "23 November  Murder of Janak Patel",
+                    "links": [
+                        {
+                            "link": "https://www.stuff.co.nz/national/crime/300748108/murder-charge-laid-over-sandringham-dairy-killing",
+                            "text": "-Ham, Katie; Halpin, James (25 November 2022). \"Murder charge laid over Sandringham dairy killing\". Stuff. Archived from the original on 25 November 2022. Retrieved 2 December 2022.-",
+                            "dates": {
+                                "Archieved": "2022-11-25",
+                                "Retrieved": "2022-12-02",
+                                "Created": "2022-11-25"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20221125193930/https://www.stuff.co.nz/national/crime/300748108/murder-charge-laid-over-sandringham-dairy-killing",
+                            "text": "-Ham, Katie; Halpin, James (25 November 2022). \"Murder charge laid over Sandringham dairy killing\". Stuff. Archived from the original on 25 November 2022. Retrieved 2 December 2022.-",
+                            "dates": {
+                                "Archieved": "2022-11-25",
+                                "Retrieved": "2022-12-02",
+                                "Created": "2022-11-25"
+                            }
+                        },
+                        {
+                            "link": "https://www.nzherald.co.nz/nz/sandringham-dairy-stabbing-two-men-arrested-sisters-plea-for-justice-absent-pm-slammed/WVZELBQEVNCRZC3XV7JOQOSC6A/",
+                            "text": "-Reid, Neil (26 November 2022). \"Sandringham dairy stabbing: Two in court today, sister's plea for 'justice', absent PM slammed\". The New Zealand Herald. Archived from the original on 25 November 2022. Retrieved 2 December 2022.-",
+                            "dates": {
+                                "Archieved": "2022-11-25",
+                                "Retrieved": "2022-12-02",
+                                "Created": "2022-11-26"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20221125202217/https://www.nzherald.co.nz/nz/sandringham-dairy-stabbing-two-men-arrested-sisters-plea-for-justice-absent-pm-slammed/WVZELBQEVNCRZC3XV7JOQOSC6A/",
+                            "text": "-Reid, Neil (26 November 2022). \"Sandringham dairy stabbing: Two in court today, sister's plea for 'justice', absent PM slammed\". The New Zealand Herald. Archived from the original on 25 November 2022. Retrieved 2 December 2022.-",
+                            "dates": {
+                                "Archieved": "2022-11-25",
+                                "Retrieved": "2022-12-02",
+                                "Created": "2022-11-26"
+                            }
+                        }
+                    ],
+                    "start_date": "23/11/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "23 November  The Reserve Bank lifts the Official cash rate by 75 basis points to 4.25% while forecasting a \"shallow recession\" in 2023.",
+                    "links": [
+                        {
+                            "link": "https://www.stuff.co.nz/business/130560483/significant-risk-reserve-bank-causes-more-pain-than-necessary-with-ocr-move",
+                            "text": "-Pullar-Strecker, Tom (23 November 2022). \"'Significant risk' Reserve Bank causes more pain than necessary with OCR move\". Stuff. Retrieved 15 January 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-01-15",
+                                "Created": "2022-11-23"
+                            }
+                        }
+                    ],
+                    "start_date": "23/11/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "25 November  The New Zealand Government and Ngāti Mutunga o Wharekauri sign an agreement to settle historical Treaty of Waitangi claims relating to the Chatham Islands.",
+                    "links": [
+                        {
+                            "link": "https://www.beehive.govt.nz/release/ng%C4%81ti-mutunga-o-wharekauri-and-crown-sign-agreement-principle-ka-waitohu-ng%C4%81ti-mutunga-o",
+                            "text": "-Little, Andrew (25 November 2022). \"Ngāti Mutunga o Wharekauri and the Crown sign Agreement in Principle\". Beehive.govt.nz. New Zealand Government. Archived from the original on 26 November 2022. Retrieved 2 December 2022.-",
+                            "dates": {
+                                "Archieved": "2022-11-26",
+                                "Retrieved": "2022-12-02",
+                                "Created": "2022-11-25"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20221126223915/https://www.beehive.govt.nz/release/ng%C4%81ti-mutunga-o-wharekauri-and-crown-sign-agreement-principle-ka-waitohu-ng%C4%81ti-mutunga-o",
+                            "text": "-Little, Andrew (25 November 2022). \"Ngāti Mutunga o Wharekauri and the Crown sign Agreement in Principle\". Beehive.govt.nz. New Zealand Government. Archived from the original on 26 November 2022. Retrieved 2 December 2022.-",
+                            "dates": {
+                                "Archieved": "2022-11-26",
+                                "Retrieved": "2022-12-02",
+                                "Created": "2022-11-25"
+                            }
+                        },
+                        {
+                            "link": "https://www.rnz.co.nz/news/national/479512/chatham-islands-iwi-sign-treaty-settlement-agreement",
+                            "text": "-Smith, Anneke (25 November 2022). \"Chatham Islands iwi sign treaty settlement agreement\". Radio New Zealand. Archived from the original on 28 November 2022. Retrieved 2 December 2022.-",
+                            "dates": {
+                                "Archieved": "2022-11-28",
+                                "Retrieved": "2022-12-02",
+                                "Created": "2022-11-25"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20221128000419/https://www.rnz.co.nz/news/national/479512/chatham-islands-iwi-sign-treaty-settlement-agreement",
+                            "text": "-Smith, Anneke (25 November 2022). \"Chatham Islands iwi sign treaty settlement agreement\". Radio New Zealand. Archived from the original on 28 November 2022. Retrieved 2 December 2022.-",
+                            "dates": {
+                                "Archieved": "2022-11-28",
+                                "Retrieved": "2022-12-02",
+                                "Created": "2022-11-25"
+                            }
+                        }
+                    ],
+                    "start_date": "25/11/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "30 November  A magnitude 5.6 earthquake causes a tsunami at Lake Taupō, damaging moored boats.",
+                    "links": [
+                        {
+                            "link": "https://www.rnz.co.nz/news/national/523638/taupo-tsunami-triggered-by-special-kind-of-earthquake",
+                            "text": "-\"Taupō tsunami triggered by 'special kind of earthquake'\". RNZ. 30 July 2024. Retrieved 14 September 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-09-14",
+                                "Created": "2024-07-30"
+                            }
+                        }
+                    ],
+                    "start_date": "30/11/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "December",
+            "Data": [
+                {
+                    "event_text": "1 December  Graham Philip is sentenced to three years and one month in prison for sabotage, the first conviction for this crime in New Zealand history.",
+                    "links": [
+                        {
+                            "link": "https://www.stuff.co.nz/national/130623195/saboteur-graham-philip-jailed-for-trying-to-cut-power-to-entire-north-island",
+                            "text": "-Bathgate, Benn (1 December 2022). \"Saboteur Graham Philip jailed for trying to cut power to entire North Island\". Stuff.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2022-12-01"
+                            }
+                        }
+                    ],
+                    "start_date": "01/12/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "10 December  The Hamilton West by-election is won by the National Party candidate, Tama Potaka.",
+                    "links": [
+                        {
+                            "link": "https://www.rnz.co.nz/news/national/480491/hamilton-west-by-election-national-s-tama-potaka-cruises-to-victory",
+                            "text": "-\"Hamilton West by-election: National's Tama Potaka cruises to victory\". RNZ News. 10 December 2022. Retrieved 10 December 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-12-10",
+                                "Created": "2022-12-10"
+                            }
+                        }
+                    ],
+                    "start_date": "10/12/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "26 December  New Zealanders break retail spending record for Boxing Day, with consumers spending $100.5 million.",
+                    "links": [
+                        {
+                            "link": "https://www.rnz.co.nz/news/national/481510/new-zealanders-break-record-spend-100m-on-boxing-day-sales",
+                            "text": "-\"New Zealanders break record, spend $100m on Boxing Day sales\". RNZ. 27 December 2022. Retrieved 27 December 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-12-27",
+                                "Created": "2022-12-27"
+                            }
+                        }
+                    ],
+                    "start_date": "26/12/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "31 December  The 2023 New Year Honours are announced.",
+                    "links": [
+                        {
+                            "link": "https://dpmc.govt.nz/publications/new-year-honours-list-2023",
+                            "text": "-\"New Year honours list 2023\". Department of the Prime Minister and Cabinet. 31 December 2022. Retrieved 31 December 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-12-31",
+                                "Created": "2022-12-31"
+                            }
+                        }
+                    ],
+                    "start_date": "31/12/2022",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

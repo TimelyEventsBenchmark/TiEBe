@@ -1,0 +1,957 @@
+{
+    "Events": [
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "Hundreds of thousands of people all over Brazil protest against corruption and denounce the government of President Dilma Rousseff.",
+                    "links": [
+                        {
+                            "link": "http://edition.cnn.com/2015/04/12/americas/brazil-protests/",
+                            "text": "-\"Protesters in Brazil push to impeach President Dilma Rousseff\". CNN. Retrieved 14 March 2016.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2016-03-14",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "13/03/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Senator Delcídio do Amaral, the speaker of the Worker's Party (PT) signs a plea bargain with Operation Car Wash prosecutor Sergio Moro disclosing allegations of corruption against other political figures.",
+                    "links": [
+                        {
+                            "link": "https://www.conjur.com.br/2016-mar-15/leia-integra-delacao-premiada-senador-delcidio-amaral",
+                            "text": "-\"Leia a íntegra do acordo de delação premiada do senador Delcídio do Amaral\". Conjur. 15 March 2016. Retrieved July 30, 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-07-30",
+                                "Created": "2016-03-15"
+                            }
+                        }
+                    ],
+                    "start_date": "15/03/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Dilma Rousseff appoints former president Luiz Inácio Lula da Silva as her chief of staff, a position that would have made him immune from prosecution. A conversation between them was recorded and later leaked by Sergio Moro, who was rebuked for the disclosure.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/article/us-brazil-politics-lula/brazils-rousseff-gets-relief-from-supreme-court-supporters-idUSKCN0WX2L5",
+                            "text": "-Maria Carolina Marcello; Lisandra Paraguassu (March 31, 2017). \"Brazil's Rousseff gets relief from Supreme Court, supporters\". Reuters.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2017-03-31"
+                            }
+                        }
+                    ],
+                    "start_date": "16/03/2016",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "By 38 votes to 27, the commission for the impeachment process of President Dilma Rousseff approves the opinion of the rapporteur, Deputy Jovair Arantes (PTB) of Goiás.",
+                    "links": [
+                        {
+                            "link": "https://www.brasildefato.com.br/2016/04/12/saiba-como-votou-cada-deputado-na-comissao-especial-do-impeachment/",
+                            "text": "-Agência Brasil (12 April 2016). \"Saiba como votou cada deputado na comissão especial do impeachment\". Brasil de Fato. Retrieved 26 April 2016.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2016-04-26",
+                                "Created": "2016-04-12"
+                            }
+                        }
+                    ],
+                    "start_date": "11/04/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Brazil's Chamber of Deputies votes 367-137 in favor of beginning impeachment procedures against President Dilma Rousseff.",
+                    "links": [
+                        {
+                            "link": "https://ca.news.yahoo.com/brazils-rousseff-loses-crucial-impeachment-vote-congress-015138598--business.html",
+                            "text": "-\"In crushing defeat, Brazil's Rousseff moves close to impeachment\". Yahoo! News. Retrieved 12 May 2016.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2016-05-12",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "17/04/2016",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "May",
+            "Data": [
+                {
+                    "event_text": "Minister of the Supreme Federal Court, Teori Zavascki, removes Eduardo Cunha from his post as Federal Deputy and President of the Brazilian Chamber of Deputies.",
+                    "links": [
+                        {
+                            "link": "http://g1.globo.com/politica/noticia/2016/05/teori-determina-afastamento-de-cunha-do-mandato.html",
+                            "text": "-Mariana Oliveira e Renan Ramalho (5 May 2016). \"Ministro do STF afasta Cunha do mandato e da presidência da Câmara\". G1. Retrieved 6 May 2016.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2016-05-06",
+                                "Created": "2016-05-05"
+                            }
+                        }
+                    ],
+                    "start_date": "05/05/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Senate approves the removal of former Worker's Party Speaker Delcídio do Amaral for breaching decorum following his admissions in his March 15 plea bargain agreement.",
+                    "links": [],
+                    "start_date": "10/05/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Brazilian Senate votes (55-22) to begin the impeachment process against the President of Brazil Dilma Rousseff and suspend her from office while the trial takes place.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-latin-america-36273916#",
+                            "text": "-\"Brazil's Dilma Rousseff to face impeachment trial\". BBC. Retrieved 12 May 2016.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2016-05-12",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "12/05/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Vice President of Brazil Michel Temer assumes presidential powers and duties as Acting President of Brazil.",
+                    "links": [
+                        {
+                            "link": "https://www.nbcnews.com/news/world/brazil-senate-votes-impeach-president-dilma-rousseff-n572606",
+                            "text": "-\"Brazil's Senate Votes to Impeach President Dilma Rousseff\". NBC News. Retrieved 14 May 2016.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2016-05-14",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "12/05/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Temer announces a new Cabinet, exclusively made of white males.",
+                    "links": [
+                        {
+                            "link": "https://www.forbes.com/sites/shannonsims/2016/05/12/brazils-new-president-michel-temer-fills-cabinet-with-only-men/#5862d81b582c",
+                            "text": "-Shannon Sims (May 12, 2016). \"Brazil's New President Michel Temer Fills Cabinet With Only White Men\". Forbes. Retrieved February 11, 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-02-11",
+                                "Created": "2016-05-12"
+                            }
+                        }
+                    ],
+                    "start_date": "12/05/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Temer announces plans for austerity measures.",
+                    "links": [
+                        {
+                            "link": "http://www.dw.com/en/brazils-new-president-temer-unveils-austerity-measures/a-19280901",
+                            "text": "-\"Brazil's new president Temer unveils austerity measures\". Deutsche Welle. May 24, 2016. Retrieved February 13, 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-02-13",
+                                "Created": "2016-05-24"
+                            }
+                        }
+                    ],
+                    "start_date": "24/05/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Temer planning minister Romero Juca resigns after a recording of him is released, where he appeared to conspire to obstruct justice.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-latin-america-36365781",
+                            "text": "-\"Brazil leaked tape forces minister Romero Juca out\". BBC News. May 24, 2016. Retrieved February 14, 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-02-14",
+                                "Created": "2016-05-24"
+                            }
+                        },
+                        {
+                            "link": "https://www.bbc.com/news/world-latin-america-36370799",
+                            "text": "-\"Brazilian press reacts to latest leaked tape scandal\". BBC News. 24 May 2016. Retrieved February 15, 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-02-15",
+                                "Created": "2016-05-24"
+                            }
+                        }
+                    ],
+                    "start_date": "24/05/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "President of the Supreme Federal Court, Minister Ricardo Lewandowski, prohibits the process of hidden proceedings in the Court.",
+                    "links": [
+                        {
+                            "link": "http://politica.estadao.com.br/noticias/geral,presidente-do-supremo-proibe-processos-ocultos-na-corte,10000053724",
+                            "text": "-Isadora Peron (27 May 2016). \"Presidente do Supremo proíbe processos ocultos na Corte\". Estadão. Retrieved 29 May 2016.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2016-05-29",
+                                "Created": "2016-05-27"
+                            }
+                        }
+                    ],
+                    "start_date": "25/05/2016",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "June",
+            "Data": [
+                {
+                    "event_text": "A bus plunges over a ravine in the state of São Paulo state, resulting in at least 18 people killed and 28 injured.",
+                    "links": [
+                        {
+                            "link": "http://g1.globo.com/sp/santos-regiao/noticia/2016/06/sobe-o-numero-de-mortos-em-grave-acidente-na-rodovia-mogi-bertioga.html",
+                            "text": "-\"Sobe o número de mortos em grave acidente na rodovia Mogi Bertioga\". Globo.com (in Portuguese). 9 June 2016. Retrieved 1 August 2016.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2016-08-01",
+                                "Created": "2016-06-09"
+                            }
+                        }
+                    ],
+                    "start_date": "09/06/2016",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "July",
+            "Data": [
+                {
+                    "event_text": "Ousted deputy Eduardo Cunha resigns as President of the Brazilian Chamber of Deputies.",
+                    "links": [
+                        {
+                            "link": "http://www1.folha.uol.com.br/poder/2016/07/1789401-cunha-renuncia-a-presidencia-da-camara.shtml",
+                            "text": "-\"Chorando, Cunha renuncia à presidência da Câmara\". Folha de S.Paulo. 7 July 2016. Retrieved 8 July 2016.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2016-07-08",
+                                "Created": "2016-07-07"
+                            }
+                        }
+                    ],
+                    "start_date": "07/07/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Rodrigo Maia is elected President of the Brazilian Chamber of Deputies.",
+                    "links": [
+                        {
+                            "link": "http://g1.globo.com/politica/noticia/2016/07/rodrigo-maia-vence-rosso-no-2-turno-e-e-eleito-presidente-da-camara.html",
+                            "text": "-\"Rodrigo Maia vence Rosso no 2º turno e é eleito presidente da Câmara\". G1. 14 July 2016. Retrieved 14 July 2016.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2016-07-14",
+                                "Created": "2016-07-14"
+                            }
+                        }
+                    ],
+                    "start_date": "14/07/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Former President of Brazil Lula da Silva stands trial on obstruction of justice charges relating to the Petrobras scandal.",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/world/2016/jul/29/lula-da-silva-trial-obstruction-petrobras-corruption",
+                            "text": "-\"Former Brazilian president Lula to stand trial on obstruction charges\". The Guardian. 29 July 2016. Retrieved 1 August 2016.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2016-08-01",
+                                "Created": "2016-07-29"
+                            }
+                        }
+                    ],
+                    "start_date": "29/07/2016",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "August",
+            "Data": [
+                {
+                    "event_text": "21 The 2016 Summer Olympics are held in Rio de Janeiro, Brazil.",
+                    "links": [
+                        {
+                            "link": "https://web.archive.org/web/20150224233603/http://www.rio2016.com/en",
+                            "text": "-\"Rio 2016 Olympic Games\". Archived from the original on February 24, 2015. Retrieved February 25, 2015.-",
+                            "dates": {
+                                "Archieved": "2015-02-24",
+                                "Retrieved": "2015-02-25",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "http://www.rio2016.com/en",
+                            "text": "-\"Rio 2016 Olympic Games\". Archived from the original on February 24, 2015. Retrieved February 25, 2015.-",
+                            "dates": {
+                                "Archieved": "2015-02-24",
+                                "Retrieved": "2015-02-25",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "05/08/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Federal Senate votes 59 to 21 to indict suspended President Dilma Rousseff on charges of breaking budget laws and put her on trial.",
+                    "links": [
+                        {
+                            "link": "https://www.economist.com/news/americas/21706322-new-president-takes-over-country-crisis-time-temer",
+                            "text": "-\"Time for Temer | The Economist\". The Economist.]-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://www.reuters.com/article/us-brazil-impeachment-vote-idUSKCN10L0HO",
+                            "text": "-\"Brazil's Senate indicts Rousseff, opens impeachment trial\". Reuters. 10 August 2016. Retrieved 10 August 2016.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2016-08-10",
+                                "Created": "2016-08-10"
+                            }
+                        }
+                    ],
+                    "start_date": "10/08/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Brazil's Federal Senate begins the impeachment trial of suspended President Dilma Rousseff.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/article/us-brazil-impeachment-idUSKCN11007P",
+                            "text": "-\"Brazil's Senate begins Rousseff's impeachment trial\". Reuters. 25 August 2016. Retrieved 26 August 2016.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2016-08-26",
+                                "Created": "2016-08-25"
+                            }
+                        }
+                    ],
+                    "start_date": "25/08/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Senate votes 61 to 20 in favor of removing Dilma Rousseff from office as President of Brazil. Vice President Michel Temer (who has been acting president since May 12) succeeds to the presidency and serves out the remainder of the term, which ends at midnight January 1, 2019.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-latin-america-37237513",
+                            "text": "-\"Brazil President Dilma Rousseff removed from office by Senate\". BBC News. 31 August 2016. Retrieved 31 August 2016.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2016-08-31",
+                                "Created": "2016-08-31"
+                            }
+                        }
+                    ],
+                    "start_date": "31/08/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Economic numbers released showing the Brazilian economy shrank 3.8% year-on-year in the second quarter.",
+                    "links": [
+                        {
+                            "link": "https://www.economist.com/news/americas/21706322-new-president-takes-over-country-crisis-time-temer",
+                            "text": "-\"Time for Temer: The New President Takes over A Country in Crisis\". September 3, 2016.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2016-09-03"
+                            }
+                        }
+                    ],
+                    "start_date": "31/08/2016",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "September",
+            "Data": [
+                {
+                    "event_text": "18 The 2016 Summer Paralympics are held in Rio de Janeiro, Brazil.",
+                    "links": [
+                        {
+                            "link": "https://web.archive.org/web/20150327050811/http://www.rio2016.com/en/the-games/paralympic/event",
+                            "text": "-\"The Paralympic Games\". Rio 2016. Archived from the original on 27 March 2015. Retrieved 27 March 2015.-",
+                            "dates": {
+                                "Archieved": "2015-03-27",
+                                "Retrieved": "2015-03-27",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "http://www.rio2016.com/en/the-games/paralympic/event",
+                            "text": "-\"The Paralympic Games\". Rio 2016. Archived from the original on 27 March 2015. Retrieved 27 March 2015.-",
+                            "dates": {
+                                "Archieved": "2015-03-27",
+                                "Retrieved": "2015-03-27",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "07/09/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Eduardo Cunha, former President of the Brazilian Chamber of Deputies, loses his position as Deputy following a vote of the Chamber, as a result of a series of corruption scandals.",
+                    "links": [
+                        {
+                            "link": "https://www.forbes.com/sites/shannonsims/2016/09/12/brazils-most-powerful-and-corrupt-politician-just-went-down/#5a42cbe012b6",
+                            "text": "-\"The Most Powerful -- And Corrupt -- Politician in Brazil Finally Has Mandate Ended\". Forbes. Retrieved 14 September 2016.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2016-09-14",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "12/09/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Brazilian prosecutors file corruption charges against former President Luiz Inácio Lula da Silva and his wife, Marisa Letícia Lula da Silva. Federal judge Sergio Moro will preside over his case.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/article/us-brazil-corruption-idUSKCN11K2C6?il=0",
+                            "text": "-\"Brazil's Lula charged as 'top boss' of Petrobras graft scheme\". Reuters. 14 September 2016. Retrieved 14 September 2016.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2016-09-14",
+                                "Created": "2016-09-14"
+                            }
+                        }
+                    ],
+                    "start_date": "14/09/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Brazilian police arrest former Finance Minister Guido Mantega as part of an ongoing probe into corruption.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/article/us-brazil-corruption-mantega-idUSKCN11S14C",
+                            "text": "-\"Brazil police arrest former finance minister in Petrobras probe\". Reuters. 22 September 2016. Retrieved 23 September 2016.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2016-09-23",
+                                "Created": "2016-09-22"
+                            }
+                        }
+                    ],
+                    "start_date": "22/09/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Senator Gleisi Hoffmann and her husband are indicted as part of the Operation Car Wash investigation.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/article/brazil-corruption/brazil-senator-husband-indicted-in-petrobras-scandal-idUSL8N1C35VZ",
+                            "text": "-\"Brazil senator, husband indicted in Petrobras scandal\". Reuters. September 27, 2016. Retrieved February 14, 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-02-14",
+                                "Created": "2016-09-27"
+                            }
+                        }
+                    ],
+                    "start_date": "27/09/2016",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "October",
+            "Data": [
+                {
+                    "event_text": "Brazilian voters cast ballots in the first round of nationwide election for mayors and city councils in 5,568 municipalities.",
+                    "links": [
+                        {
+                            "link": "https://www.bloomberg.com/news/articles/2016-10-02/brazil-heads-to-the-polls-in-nationwide-municipal-elections",
+                            "text": "-\"Brazil Heads to the Polls in Nationwide Municipal Elections\". Bloomberg News. 2 October 2016. Retrieved 2 October 2016.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2016-10-02",
+                                "Created": "2016-10-02"
+                            }
+                        }
+                    ],
+                    "start_date": "02/10/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Former president Lula da Silva is charged with corruption linked to Odebrecht in Angola.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/article/us-brazil-corruption-lula-idUSKCN1251Y7",
+                            "text": "-\"Brazil police charge Lula in case linked to Odebrecht in Angola: source\". Reuters. 5 October 2016. Retrieved 5 October 2016.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2016-10-05",
+                                "Created": "2016-10-05"
+                            }
+                        }
+                    ],
+                    "start_date": "05/10/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The first elephant sanctuary in Latin America opens in Mato Grosso.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-latin-america-37663208",
+                            "text": "-\"Brazil opens Latin America's first elephant sanctuary\". BBC News. 14 October 2016. Retrieved 16 October 2016.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2016-10-16",
+                                "Created": "2016-10-14"
+                            }
+                        }
+                    ],
+                    "start_date": "15/10/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Clashes between rival gangs in at least two prisons, leave at least 18 people dead.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/article/us-brazil-prison-idUSKBN12H11Z",
+                            "text": "-\"Prison clashes in Brazil kill 18: media\". Reuters. 17 October 2016. Retrieved 23 October 2016.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2016-10-23",
+                                "Created": "2016-10-17"
+                            }
+                        }
+                    ],
+                    "start_date": "17/10/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Former President of the Chamber of Deputies, Eduardo Cunha is arrested by the Federal Police in Operation Car Wash.",
+                    "links": [
+                        {
+                            "link": "http://g1.globo.com/pr/parana/noticia/2016/10/juiz-federal-sergio-moro-determina-prisao-de-eduardo-cunha.html",
+                            "text": "-\"Cunha é preso em Brasília por decisão de Sérgio Moro\". G1. Globo.com. 19 October 2016. Retrieved 19 October 2016.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2016-10-19",
+                                "Created": "2016-10-19"
+                            }
+                        }
+                    ],
+                    "start_date": "19/10/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Prosecutors file homicide charges against 21 employees of Samarco, Vale, and BHP for the Mariana dam disaster in Minas Gerais, which killed 19 people and polluted waterways.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/business-37723057",
+                            "text": "-\"Brazil charges BHP and Vale staff over mine collapse\". BBC News. 20 October 2016. Retrieved 21 October 2016.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2016-10-21",
+                                "Created": "2016-10-20"
+                            }
+                        }
+                    ],
+                    "start_date": "20/10/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Second round of the nationwide election for mayors and city councils with more than 200,000 voters. The Workers' Party would suffer major losses in at the mayoral level.",
+                    "links": [
+                        {
+                            "link": "https://www.as-coa.org/articles/update-five-lessons-brazils-future-local-election-results",
+                            "text": "-\"Update: Five Lessons for Brazil's Future from Local Election Results\". AS/COA. 3 November 2016. Retrieved 30 July 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-07-30",
+                                "Created": "2016-11-03"
+                            }
+                        }
+                    ],
+                    "start_date": "30/10/2016",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "November",
+            "Data": [
+                {
+                    "event_text": "Former governor of Rio de Janeiro, Anthony Garotinho, is arrested by Federal Police, in Operation Chequinho.",
+                    "links": [
+                        {
+                            "link": "http://g1.globo.com/rio-de-janeiro/noticia/2016/11/anthony-garotinho-e-preso-pela-policia-federal-na-zona-sul-do-rio.html",
+                            "text": "-\"Anthony Garotinho é preso pela polícia federal na Zona Sul do Rio\". G1. Globo.com. 16 November 2016. Retrieved 21 November 2016.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2016-11-21",
+                                "Created": "2016-11-16"
+                            }
+                        }
+                    ],
+                    "start_date": "16/11/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Former Rio de Janeiro governor Sérgio Cabral is arrested in a corruption probe.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-latin-america-38011388",
+                            "text": "-\"Brazil corruption probe: Rio state ex-governor Cabral held\". BBC News. 17 November 2016. Retrieved 21 November 2016.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2016-11-21",
+                                "Created": "2016-11-17"
+                            }
+                        },
+                        {
+                            "link": "https://www.theguardian.com/world/2016/nov/17/sergio-cabral-rio-governor-brazil-arrested-bribes",
+                            "text": "-\"Former Rio governor arrested over charges of 'cartelization' of public works: Sérgio Cabral accused by Brazilian federal prosecutors of facilitating $65.6m in bribes over infrastructure contracts for World Cup and Olympics projects\". The Guardian.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "17/11/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Four policemen are killed in Rio de Janeiro after their helicopter is shot down by a gang.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-latin-america-38041847",
+                            "text": "-\"Brazil: Four dead after police helicopter 'shot down by gang'\". BBC News. 20 November 2016. Retrieved 21 November 2016.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2016-11-21",
+                                "Created": "2016-11-20"
+                            }
+                        },
+                        {
+                            "link": "https://www.reuters.com/article/us-brazil-violence-helicopter-idUSKBN13F017?il=0",
+                            "text": "-\"Reuters\". 20 November 2016. Archived from the original on 2022-11-14. Retrieved 2017-07-02.-",
+                            "dates": {
+                                "Archieved": "2017-07-02",
+                                "Retrieved": "2016-11-20",
+                                "Created": "2022-11-14"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20221114205059/https://www.reuters.com/article/us-brazil-violence-helicopter-idUSKBN13F017?il=0",
+                            "text": "-\"Reuters\". 20 November 2016. Archived from the original on 2022-11-14. Retrieved 2017-07-02.-",
+                            "dates": {
+                                "Archieved": "2017-07-02",
+                                "Retrieved": "2016-11-20",
+                                "Created": "2022-11-14"
+                            }
+                        }
+                    ],
+                    "start_date": "20/11/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Testimony begins in a corruption case against former President of Brazil Luiz Inácio Lula da Silva.",
+                    "links": [
+                        {
+                            "link": "http://www.miamiherald.com/news/nation-world/article116206213.html",
+                            "text": "-\"Testimony begins in corruption case against Brazil's Lula\". Miami Herald. Retrieved 24 November 2016.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2016-11-24",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "21/11/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Brazilian Development Bank announces plans to repay up to $29 billion in loans to the Government of Brazil in order to stem a burgeoning deficit.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/article/us-bndes-outlook-idUSKBN13I29N",
+                            "text": "-\"BNDES to repay Brazil Treasury debt with mix of cash, securities\". Reuters. Retrieved 24 November 2016.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2016-11-24",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "23/11/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Secretary of Government Geddel Vieira Lima resigns following allegations that he and President Michel Temer pressured a fellow cabinet minister into approving a real estate project.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/article/us-brazil-politics-idUSKBN13K14S",
+                            "text": "-\"Minister at center of Brazil's latest scandal quits\". Reuters. Retrieved 26 November 2016.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2016-11-26",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://www.nytimes.com/2016/11/25/world/americas/brazil-president-temer-corruption.html",
+                            "text": "-\nSimon Romero (November 25, 2016). \"Brazil's President, Michel Temer, Embroiled in New Corruption Scandal\". The New York Times. Retrieved February 11, 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-02-11",
+                                "Created": "2016-11-25"
+                            }
+                        }
+                    ],
+                    "start_date": "25/11/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "President Michel Temer, President of the Senate Renan Calheiros, and President of the Chamber Rodrigo Maia hold a press conference and announce the \"institutional adjustment\", which will not sponsor any proposal to amnesty crimes linked to the practice of electoral slush funds.",
+                    "links": [
+                        {
+                            "link": "http://g1.globo.com/politica/noticia/2016/11/temer-anuncia-ajustamento-com-congresso-contra-anistia-caixa-2.html",
+                            "text": "-Luciana Amaral (27 November 2016). \"Temer anuncia 'ajustamento' com Congresso contra anistia a caixa 2\". G1. Globo.com. Retrieved 27 November 2016.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2016-11-27",
+                                "Created": "2016-11-27"
+                            }
+                        }
+                    ],
+                    "start_date": "27/11/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Contractors and suppliers for the Rio de Janeiro Olympic Games claim they are owed millions in unpaid debts.",
+                    "links": [
+                        {
+                            "link": "https://www.bloomberg.com/news/articles/2016-11-28/rio-2016-olympic-committee-still-owes-vendors-millions",
+                            "text": "-\"Rio 2016 Olympic Committee Still Owes Vendors Millions\". Bloomberg. 28 November 2016. Retrieved 28 November 2016.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2016-11-28",
+                                "Created": "2016-11-28"
+                            }
+                        }
+                    ],
+                    "start_date": "28/11/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A chartered Avro RJ85 plane carrying 77 people, including the Chapecoense football team, crashes near Medellín, Colombia. Rescuers report that at least six survivors have been found in the wreckage. The 2016 Copa Sudamericana Finals are suspended.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-latin-america-38140981",
+                            "text": "-\"Brazil's Chapecoense football team in Colombia plane crash\". BBC News. 29 November 2016. Retrieved 29 November 2016.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2016-11-29",
+                                "Created": "2016-11-29"
+                            }
+                        }
+                    ],
+                    "start_date": "29/11/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Three of Brazil's leading football clubs  Flamengo, Palmeiras and São Paulo FC  offer to loan players to Chapecoense, after the team lost the majority of its squad in the LaMia Airlines Flight 2933 crash.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/sport/football/38150202",
+                            "text": "-\"Chapecoense plane crash: Brazil football giants offer to loan players\". BBC Sport. Retrieved 30 November 2016.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2016-11-30",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "29/11/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Protesters in Brasília hold a violent demonstration against a proposed public spending cap. Police use tear gas and rubber bullets in order to disperse the demonstrators.",
+                    "links": [
+                        {
+                            "link": "https://www.wsj.com/articles/thousands-protest-brazilian-president-ahead-of-vote-on-public-spending-cap-1480454223",
+                            "text": "-Trevisani, Paulo (30 November 2016). \"Thousands Protest Brazilian President Ahead of Vote on Public-Spending Cap\". The Wall Street Journal. Retrieved 30 November 2016.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2016-11-30",
+                                "Created": "2016-11-30"
+                            }
+                        }
+                    ],
+                    "start_date": "29/11/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The National Institute for Space Research (INPE) says deforestation has increased 29% this year, on top of a 24% increase the year prior.",
+                    "links": [
+                        {
+                            "link": "https://www.npr.org/sections/thetwo-way/2016/11/30/503867628/deforestation-of-the-amazon-up-29-percent-from-last-year-study-finds",
+                            "text": "-Camila Domonoske (30 November 2016). \"Deforestation Of The Amazon Up 29 Percent From Last Year, Study Finds\". the two-way. NPR. Retrieved 14 February 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-02-14",
+                                "Created": "2016-11-30"
+                            }
+                        }
+                    ],
+                    "start_date": "29/11/2016",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "December",
+            "Data": [
+                {
+                    "event_text": "Odebrecht apologizes for \"illicit actions in business activities\".",
+                    "links": [
+                        {
+                            "link": "https://www.odebrecht.com/en/communication/releases/odebrecht-apologizes-its-mistakes",
+                            "text": "-Odebrecht. \"Odebrecht Apologizes for its Mistakes\".-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "01/12/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "In association football, CONMEBOL officially awards Chapecoense the 2016 Copa Sudamericana title in the wake of the plane crash that killed almost the entire team. Atlético Nacional, who would have faced Chapecoense in the final and campaigned for the Brazilian club to be awarded the title, receives a fair play award from CONMEBOL.",
+                    "links": [
+                        {
+                            "link": "http://www.espnfc.com/copa-sudamericana/story/3012498/chapecoense-officially-awarded-title-of-copa-sudamericana-after-plane-crash",
+                            "text": "-\"Chapecoense officially awarded title of Copa Sudamericana after plane crash\". ESPN. 5 December 2016. Retrieved 5 December 2016.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2016-12-05",
+                                "Created": "2016-12-05"
+                            }
+                        }
+                    ],
+                    "start_date": "05/12/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Brazilian Senate passes PEC 55, a constitutional amendment requiring a 20-year spending cap, in a 53-16 vote.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/article/us-brazil-politics/brazil-senate-passes-spending-cap-in-win-for-temer-idUSKBN142203",
+                            "text": "-Anthony Boadle; Marcela Ayres (December 13, 2016). \"Brazil Senate passes spending cap in win for Temer\". Reuters. Retrieved February 13, 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-02-13",
+                                "Created": "2016-12-13"
+                            }
+                        }
+                    ],
+                    "start_date": "13/12/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The construction firm Odebrecht and affiliated petrochemical company Braskem plead guilty of violating American foreign bribery laws in connection with the Petrobras deal.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/article/us-brazil-corruption-usa-idUSKBN14A1QE?il=0",
+                            "text": "-\"Brazilian firms to pay record $3.5 billion penalty in corruption case\". Reuters. 21 December 2016. Retrieved 22 December 2016.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2016-12-22",
+                                "Created": "2016-12-21"
+                            }
+                        }
+                    ],
+                    "start_date": "21/12/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Ambassador of Greece to Brazil, Kyriakos Amiridis, is reported missing while on vacation in Rio de Janeiro. A homicide team is investigating his disappearance.",
+                    "links": [
+                        {
+                            "link": "https://web.archive.org/web/20161230160224/http://bnonews.com/news/index.php/news/id5585",
+                            "text": "-\"Greek Ambassador Kyriakos Amiridis missing in Rio de Janeiro\". BNO News. Archived from the original on 2016-12-30. Retrieved 2016-12-29.-",
+                            "dates": {
+                                "Archieved": "2016-12-30",
+                                "Retrieved": "2016-12-29",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "http://bnonews.com/news/index.php/news/id5585",
+                            "text": "-\"Greek Ambassador Kyriakos Amiridis missing in Rio de Janeiro\". BNO News. Archived from the original on 2016-12-30. Retrieved 2016-12-29.-",
+                            "dates": {
+                                "Archieved": "2016-12-30",
+                                "Retrieved": "2016-12-29",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "29/12/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A body found in a burnt-out vehicle north of Rio de Janeiro is confirmed to be that of missing Greek Ambassador Kyriakos Amiridis. A military police officer who had an affair with the ambassador's wife confesses to the murder. The wife and a second man are also detained.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-latin-america-38467304",
+                            "text": "-\"Brazil police detain wife of murdered Greek ambassador Amiridis\". BBC News. 30 December 2016. Retrieved 1 January 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-01-01",
+                                "Created": "2016-12-30"
+                            }
+                        }
+                    ],
+                    "start_date": "31/12/2016",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

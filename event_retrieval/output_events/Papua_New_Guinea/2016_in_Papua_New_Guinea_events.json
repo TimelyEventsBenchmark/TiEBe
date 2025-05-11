@@ -1,0 +1,108 @@
+{
+    "Events": [
+        {
+            "Month": "May",
+            "Data": [
+                {
+                    "event_text": "- Anti-government protests erupt against Prime Minister O'Neill citing corruption and fraud.",
+                    "links": [
+                        {
+                            "link": "http://www.radionz.co.nz/international/pacific-news/304996/png-protests-spread-to-the-provinces",
+                            "text": "-\"PNG protests spread to the provinces\".-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "29/05/2016",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "June",
+            "Data": [
+                {
+                    "event_text": "- Police open fire on student protesters at the University of Papua New Guinea in Port Moresby, protesting against Prime Minister Peter O'Neill, killing four and leaving another seven injured. Police deny the deaths and claim they only used tear gas. A court grants an injunction barring students from protesting on campus while thousands protest and boycott classes calling for O'Neill's resignation over corruption allegations.",
+                    "links": [
+                        {
+                            "link": "http://www.abc.net.au/news/2016-06-08/shooting-on-papua-new-guinea-university-campus/7489416",
+                            "text": "-\"PNG police shoot students during anti-government protest\". Australian Broadcasting Corporation.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://www.reuters.com/article/us-papua-protests/papua-new-guinea-court-bars-university-protests-after-violence-idUSKCN0YU2PI",
+                            "text": "-\"Papua New Guinea court bars university protests after violence\". Reuters.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "08/06/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "- Protest leader Noel Anjo demands the Prime Minister either resign or hand himself to police, getting arrested and charged for corruption, and declares the protests will not end otherwise.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-asia-36486004",
+                            "text": "-\"Papua New Guinea moves to block more student protests\".-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "09/06/2016",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "August",
+            "Data": [
+                {
+                    "event_text": "- A court demands the closure of Manus Island's facility owned by Australia housing migrants.",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/australia-news/2016/aug/03/png-court-wants-resettlement-plan-for-manus-island-detainees-by-thursday",
+                            "text": "-\"PNG court wants resettlement plan for Manus Island detainees by Thursday\". TheGuardian.com.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "03/08/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "- The governments of Australia and Papua New Guinea confirm the closure of Manus Regional Processing Centre following a request by the supreme court.",
+                    "links": [
+                        {
+                            "link": "http://www.abc.net.au/news/2016-08-17/manus-island-to-close-png-prime-minister-confirms/7759810",
+                            "text": "-\"Manus Island detention centre to close, Peter Dutton and PNG Prime Minister confirm\". Australian Broadcasting Corporation.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "17/08/2016",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

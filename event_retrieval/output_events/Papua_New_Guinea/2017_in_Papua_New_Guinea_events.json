@@ -1,0 +1,34 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "22 January  an earthquake of 7.9 magnitude struck off Papua New Guinea.",
+                    "links": [
+                        {
+                            "link": "http://www.cnn.com/2017/01/22/asia/papua-new-guinea-quake/index.html",
+                            "text": "-Sutton, Joe; Cullinane, Susannah (22 January 2017). \"Magnitude 7.9 quake strikes off Papua New Guinea\". CNN. Retrieved 12 February 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-02-12",
+                                "Created": "2017-01-22"
+                            }
+                        },
+                        {
+                            "link": "https://www.reuters.com/article/us-papua-quake-idUSKBN15605Y",
+                            "text": "-Pearl, Harry (22 January 2017). \"Powerful quake strikes off Papua New Guinea, initial tsunami alert wound back\". Reuters. Retrieved 12 February 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-02-12",
+                                "Created": "2017-01-22"
+                            }
+                        }
+                    ],
+                    "start_date": "22/01/2017",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,640 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "1 January  NITI Aayog was established to replace Planning Commission of India.",
+                    "links": [],
+                    "start_date": "01/01/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "23 January  Gyan Sangam, a two-day retreat took place at Pune, it was attended by Prime Minister Narendra Modi, Finance Minister Arun Jaitley, Reserve Bank of India Governor Raghuram Rajan and chiefs of various financial institutions.",
+                    "links": [],
+                    "start_date": "03/01/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "89 January  Annual Pravasi Bharatiya Divas conference took place in Gandhinagar, Gujarat.",
+                    "links": [],
+                    "start_date": "09/01/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "13 January  32 died in Malihabad, Uttar Pradesh after drinking hooch.",
+                    "links": [],
+                    "start_date": "13/01/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "23 January  Ara Civil Court bombing killed 3 when a bomb went off in a woman's purse at the Ara civil court.",
+                    "links": [
+                        {
+                            "link": "https://web.archive.org/web/20150123131157/http://www.hindustantimes.com/india-news/bihar-bomb-blast-in-ara-court-premises-one-feared-dead-seven-injured/article1-1309859.aspx",
+                            "text": "-\"Bihar: 2 killed, 15 injured in Ara court blast, 2 prisoners escape\". 23 January 2015. Archived from the original on 23 January 2015. Retrieved 23 August 2024.-",
+                            "dates": {
+                                "Archieved": "2015-01-23",
+                                "Retrieved": "2024-08-23",
+                                "Created": "2015-01-23"
+                            }
+                        },
+                        {
+                            "link": "http://www.hindustantimes.com/india-news/bihar-bomb-blast-in-ara-court-premises-one-feared-dead-seven-injured/article1-1309859.aspx",
+                            "text": "-\"Bihar: 2 killed, 15 injured in Ara court blast, 2 prisoners escape\". 23 January 2015. Archived from the original on 23 January 2015. Retrieved 23 August 2024.-",
+                            "dates": {
+                                "Archieved": "2015-01-23",
+                                "Retrieved": "2024-08-23",
+                                "Created": "2015-01-23"
+                            }
+                        }
+                    ],
+                    "start_date": "23/01/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "26 January  Republic Day celebrations were held, US President Barack Obama was the chief guest.",
+                    "links": [],
+                    "start_date": "26/01/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "27 January  M. N. Rai, a colonel in the Rashtriya Rifles and Sanjeev Kumar Singh, a head constable in the Special Operations Group, died in a gun battle in Tral in Pulwama district. Two militants were also killed. M. N. Rai had been awarded the Yudh Seva medal on 26 January.",
+                    "links": [],
+                    "start_date": "27/01/2015",
+                    "end_date": "26/01/2015"
+                },
+                {
+                    "event_text": "31 January  The Agni-V was test launched from a canister in Wheeler Island, suitable for road or rail mobile launch vehicles.",
+                    "links": [],
+                    "start_date": "31/01/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Telecom Regulatory Authority of India (TRAI) mandated that the telecom operator will have to pay ₹1 for each dropped call to the subscriber, from 1  onward.",
+                    "links": [],
+                    "start_date": "01/01/2015",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "7 February  Polling for the New Delhi state elections held.",
+                    "links": [],
+                    "start_date": "07/02/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "10 February  Delhi Legislative Assembly election's results announced with Aam Aadmi Party securing 67 of 70 seats.",
+                    "links": [],
+                    "start_date": "10/02/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "13 February  A grenade attack by the United Liberation Front of Assam on a family in the town of Sepon in India's Assam state killed two people.",
+                    "links": [],
+                    "start_date": "13/02/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "14 February  A house under construction collapsed in the Indian city of Mughalsarai in the state of Uttar Pradesh killing twelve people and injuring two.",
+                    "links": [
+                        {
+                            "link": "http://www.ndtv.com/india-news/12-killed-as-under-construction-house-collapses-in-uttar-pradesh-739711",
+                            "text": "-\"12 Killed as Under-Construction House Collapses in Uttar Pradesh\". NDTV. 15 February 2015. Retrieved 9 May 2015.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2015-05-09",
+                                "Created": "2015-02-15"
+                            }
+                        }
+                    ],
+                    "start_date": "14/02/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "15 February  The number of reported deaths of swine flu in India reached 585, with Rajasthan, Gujarat, Madhya Pradesh and Maharashtra being the worst-affected with reported death tolls at 165, 144, 76 and 58 respectively.",
+                    "links": [],
+                    "start_date": "15/02/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "16 February  Govind Pansare, a CPI politician and his wife were shot at in Kolhapur, Maharashtra. Govind Pansare later died on 20 February.",
+                    "links": [],
+                    "start_date": "16/02/2015",
+                    "end_date": "20/02/2015"
+                },
+                {
+                    "event_text": "18 February  The Cabinet Committee on Security approves the construction of seven stealth frigates and six nuclear submarines for the Indian Navy.",
+                    "links": [],
+                    "start_date": "18/02/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "1822 February  The 10th edition of Aero India took place at Yelahanka Air Force Station near Bangalore.",
+                    "links": [],
+                    "start_date": "22/02/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "23 February  Budget session of the Parliament began with the President's address to the joint session of Lok Sabha and Rajya Sabha.",
+                    "links": [],
+                    "start_date": "23/02/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "28 February  Union Budget presented to the Parliament by Finance Minister Arun Jaitley.",
+                    "links": [],
+                    "start_date": "28/02/2015",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "3 March  National Electoral Roll Purification and Authentication Programme launched by the Election Commission of India.",
+                    "links": [],
+                    "start_date": "03/03/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "17 March  Supreme Court of India rejected the classification of Jat people as Other Backward Classes.",
+                    "links": [],
+                    "start_date": "17/03/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "18 March  Beyond visual range (BVR) air-to-air missile, Astra, was successfully test fired from a Su-30MKI in test range in Chandipur, Orissa.",
+                    "links": [],
+                    "start_date": "18/03/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "23 March  Amaravathi was announced to be name of the new capital of Andhra Pradesh, to be built near Thullur.",
+                    "links": [],
+                    "start_date": "23/03/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "24 March  Supreme Court of India declared Section 66A of the Information Technology Act, 2000 unconstitutional.",
+                    "links": [],
+                    "start_date": "24/03/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "26 March  National Institute of Ocean Technology (NIOT) unveiled Polar Remotely Operated Vehicle (PROVe), which would be used to study the monsoon.",
+                    "links": [],
+                    "start_date": "26/03/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "27 March  Bharat Ratna was awarded to former Prime Minister Atal Bihari Vajpayee",
+                    "links": [],
+                    "start_date": "27/03/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "28 March  ISRO placed Indian Regional Navigation Satellite System (IRNSS) 1-D satellite in orbit by a PSLV C-27 launch vehicle.",
+                    "links": [],
+                    "start_date": "28/03/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "29 March  India began to evacuate its citizens from Yemen.",
+                    "links": [],
+                    "start_date": "29/03/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "30 March  Bharat Ratna awarded to freedom fighter Madan Mohan Malaviya posthumously.",
+                    "links": [],
+                    "start_date": "30/03/2015",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "1 April  Faster Adoption and Manufacturing of Hybrid and Electric vehicles in India (FAME India) scheme was launched by the government to boost electric and hybrid vehicle sales.",
+                    "links": [],
+                    "start_date": "01/04/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "5 April  Petroleum and Natural Gas Minister, Dharmendra Pradhan, launched the Give up LPG subsidy campaign urging rich people to give up LPG subsidy.",
+                    "links": [],
+                    "start_date": "05/04/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "7 April  Police killed 20 Red sanders, Pterocarpus santalinus smugglers in Chittoor district.",
+                    "links": [],
+                    "start_date": "07/04/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "10 April  India completed evacuating citizens from Yemen, and announced the closure of embassy. In all, about 4,640 Indians and 960 nationals from 41 other countries were evacuated.",
+                    "links": [],
+                    "start_date": "10/04/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "11 April  Maoists killed 7 of personnel of Chhattisgarh's Special Task Force in south Bastar.",
+                    "links": [],
+                    "start_date": "11/04/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "25 April   Nepal earthquake, a 7.9 Richter scale earthquake occurred in Nepal. Parts of North India were affected.",
+                    "links": [],
+                    "start_date": "25/04/2015",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "May",
+            "Data": [
+                {
+                    "event_text": "1 May  One of India's most wanted Maoist leaders Roopesh and his wife were arrested in Coimbatore.",
+                    "links": [],
+                    "start_date": "01/05/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "3 May  Militants ambushed and killed 8 personnel of Assam Rifles in Mon district of Nagaland.",
+                    "links": [],
+                    "start_date": "03/05/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "5 May  The Akash missile was inducted into the Indian Army.",
+                    "links": [],
+                    "start_date": "05/05/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "6 May  India and Iran signed an agreement which would allow India to develop the Port of Chabahar. The deal was signed during Transport Minister Nitin Gadkari's Iran visit.",
+                    "links": [],
+                    "start_date": "06/05/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "7 May  The Parliament passed the Constitution (119th Amendment) Bill, 2013. It would allow India to solve its territorial disputes with Bangladesh.",
+                    "links": [],
+                    "start_date": "07/05/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "9 May  Prime Minister Narendra Modi launched 3 large-scale social security schemes, Pradhan Mantri Suraksha Bima Yojana, Pradhan Mantri Jeevan Jyoti Bima Yojana, and Atal Pension Yojana, at Nazrul Mancha in Kolkata.",
+                    "links": [],
+                    "start_date": "09/05/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "9 May  Maoists released about 250 hostages they had taken a day before in Sukma district. One hostage was killed.",
+                    "links": [],
+                    "start_date": "09/05/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "13 May - Supreme Court of India laid down guidelines for publication of government advertisements and suggests that only pictures of President of India, Prime Minister of India, and Chief Justice of India be used in such ads.",
+                    "links": [
+                        {
+                            "link": "https://www.livemint.com/Politics/zi9OO28Cu3wEqg9uO77GLK/Supreme-Court-issues-guidelines-for-govt-advertisements.html",
+                            "text": "-Sen, Shreeja (13 May 2015). \"SC allows photos of only President, Prime Minister or Chief Justice in govt ads\". mint. Retrieved 13 January 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-01-13",
+                                "Created": "2015-05-13"
+                            }
+                        },
+                        {
+                            "link": "https://www.thehindu.com/news/national/sc-no-to-politicians-photos-on-government-ads/article7200970.ece",
+                            "text": "-Rajagopal, Krishnadas (13 May 2015). \"SC says no to politicians' photos on government ads\". The Hindu. ISSN 0971-751X. Retrieved 13 January 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-01-13",
+                                "Created": "2015-05-13"
+                            }
+                        },
+                        {
+                            "link": "https://search.worldcat.org/issn/0971-751X",
+                            "text": "-Rajagopal, Krishnadas (13 May 2015). \"SC says no to politicians' photos on government ads\". The Hindu. ISSN 0971-751X. Retrieved 13 January 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-01-13",
+                                "Created": "2015-05-13"
+                            }
+                        }
+                    ],
+                    "start_date": "13/05/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "24 May  The reported death toll from 2015 India heat wave reached 335 people.",
+                    "links": [
+                        {
+                            "link": "http://timesofindia.indiatimes.com/india/Heatwave-sweeps-across-India-335-people-dead/articleshow/47401544.cms",
+                            "text": "-\"Heatwave sweeps across India, 335 people dead\". The Times of India. 24 May 2015. Retrieved 24 May 2015.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2015-05-24",
+                                "Created": "2015-05-24"
+                            }
+                        }
+                    ],
+                    "start_date": "24/05/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "27 May - Chief Minister of Tripura Manik Sarkar withdraws Armed Forces (Special Powers) Act that's in force in Tripura since 1997.",
+                    "links": [
+                        {
+                            "link": "https://www.thehindu.com/news/national/other-states/tripura-withdraws-afspa-says-insurgency-on-the-wane/article7252919.ece",
+                            "text": "-Ali, Syed Sajjad (28 May 2015). \"Tripura withdraws AFSPA, says insurgency on the wane\". The Hindu. ISSN 0971-751X. Retrieved 16 January 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-01-16",
+                                "Created": "2015-05-28"
+                            }
+                        },
+                        {
+                            "link": "https://search.worldcat.org/issn/0971-751X",
+                            "text": "-Ali, Syed Sajjad (28 May 2015). \"Tripura withdraws AFSPA, says insurgency on the wane\". The Hindu. ISSN 0971-751X. Retrieved 16 January 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-01-16",
+                                "Created": "2015-05-28"
+                            }
+                        }
+                    ],
+                    "start_date": "27/05/2015",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "June",
+            "Data": [
+                {
+                    "event_text": "4 June  2015 Manipur ambush 20 army personnel were killed and 11 were injured in a militant attack in Manipur. The responsibility for the attack was claimed by National Socialist Council of Nagaland-Khaplang.",
+                    "links": [],
+                    "start_date": "04/06/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "8 June  A Shahjahanpur-based journalist Jagendra Singh died from burn injuries in a hospital in Lucknow. He had allegedly been set on fire by the local police on 1 June for making Facebook posts against the Uttar Pradesh Minister for Dairy Development Rammurti Singh Verma.",
+                    "links": [],
+                    "start_date": "08/06/2015",
+                    "end_date": "01/06/2015"
+                },
+                {
+                    "event_text": "9 June  2015 Indian counter-insurgency operation in Myanmar Indian army attacked two militant camps across the Myanmar border in response to the 2015 Manipur ambush.",
+                    "links": [],
+                    "start_date": "09/06/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "15 June  The Supreme Court of India directed the Central Board of Secondary Education to conduct the All India Pre Medical Test again due to allegations of cheating.",
+                    "links": [],
+                    "start_date": "15/06/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "17 June  94 people died in Malad area of Mumbai after drinking hooch.",
+                    "links": [],
+                    "start_date": "17/06/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "19 June  Sandeep Kothari, a journalist, was kidnapped from Katangi area of Balaghat district in Madhya Pradesh and killed for refusing to withdraw an illegal mining case from the court. His body was recovered in Wardha district of Maharashtra on 20 June.",
+                    "links": [],
+                    "start_date": "19/06/2015",
+                    "end_date": "20/06/2015"
+                },
+                {
+                    "event_text": "21 June  The first International Yoga Day was held.",
+                    "links": [],
+                    "start_date": "21/06/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "29 June  India signed the legal framework of the Asian Infrastructure Investment Bank and pledged US$8.3 billion towards it.",
+                    "links": [],
+                    "start_date": "29/06/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "9 July  The Ministry of Home Affairs declared Nagaland a \"disturbed\" region under Armed Forces (Special Powers) Act, 1958 for one year, starting from 30 .",
+                    "links": [],
+                    "start_date": "30/06/2015",
+                    "end_date": "09/07/2015"
+                }
+            ]
+        },
+        {
+            "Month": "July",
+            "Data": [
+                {
+                    "event_text": "1 July  The Digital India programme was launched by Prime Minister Narendra Modi.",
+                    "links": [],
+                    "start_date": "01/07/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "15 July  29 people died in a stampede at Rajahmundry in Andhra Pradesh during the Godavari Maha Pushkaram.",
+                    "links": [],
+                    "start_date": "15/07/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "21 July  Surakshit Khadya Abhiyan was launched by Minister of Consumer Affairs, Food and Public Distribution, Ram Vilas Paswan. The campaign aims to promote food safety in India.",
+                    "links": [],
+                    "start_date": "21/07/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "23 July  Two Anglo-Indian members were nominated by President Pranab Mukherjee to the Lok Sabha. The two nominated members were George Baker, a BJP leader and actor from West Bengal, and Richard Hay, an economics professor from Kerala.",
+                    "links": [],
+                    "start_date": "23/07/2015",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "August",
+            "Data": [
+                {
+                    "event_text": "1 August  Landslide killed at least 20 people in a village in Chandel district, Manipur.",
+                    "links": [],
+                    "start_date": "01/08/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "6 August  Indian forces captured a terrorist, Mohammed Naved, allegedly from Faisalabad, Pakistan, following an attack on a convoy on the Jammu-Srinagar highway.",
+                    "links": [],
+                    "start_date": "06/08/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "8 August  Godman Sarathi Baba was arrested following a TV channel exposé and subsequent protests in Odisha.",
+                    "links": [],
+                    "start_date": "08/08/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "24 August - A youth from Muslim community was stripped, tied to a pole and assaulted by Bajrang Dal in Mangalore.",
+                    "links": [
+                        {
+                            "link": "https://www.daijiworld.com/news/newsDisplay?newsID=349697",
+                            "text": "-\"Mangaluru: Attavar incident part of strategy to spark communal violence: Ashraf\". www.daijiworld.com. Retrieved 16 December 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-12-16",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "24/08/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "26 August  Demonstrations demanding reservations for the Patel community began in Gujarat. The following clashes killed at least 8. Army was deployed in select areas.",
+                    "links": [],
+                    "start_date": "26/08/2015",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "September",
+            "Data": [
+                {
+                    "event_text": "12 September  A gas cylinder explosion killed at least 80 in Petlawad, Madhya Pradesh.",
+                    "links": [],
+                    "start_date": "12/09/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "14 September  Department of Industrial Policy and Promotion (DIPP) released a report ranking the states on ease of doing business and regulatory reforms.",
+                    "links": [],
+                    "start_date": "14/09/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "16 September  Central Government banned the National Socialist Council of Nagaland (Khaplang) for five years.",
+                    "links": [],
+                    "start_date": "16/09/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "25 September  Anti-India protests erupted in Nepal over the blockade of trade routes. Madhesi and Tharu ethnic groups blocked the routes, by doing a dharna on the no man's land, after Nepal's new constitution was deemed unfavorable to the ethnic groups living in the Terai plains. Nepali politicians said that such a blockade is not possible without the approval of the Indian government.",
+                    "links": [],
+                    "start_date": "25/09/2015",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "October",
+            "Data": [
+                {
+                    "event_text": "2 October  Environment Minister Prakash Javadekar announced India's Intended Nationally Determined Contributions for the United Nations Framework Convention on Climate Change. It set a target of reducing its emission intensity by 3335%, by 2030 from 2005 levels.",
+                    "links": [],
+                    "start_date": "02/10/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "12  22 October  India and China conducted joint anti-terror drills in Kunming, China.",
+                    "links": [],
+                    "start_date": "22/10/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "15  19 October  India, US and Japan conducted the 19th Exercise Malabar in the Bay of Bengal.",
+                    "links": [],
+                    "start_date": "19/10/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "19 October  The retail price of Toor dal reached ₹200 (US$2.30) per kg. Other pulses also reached high prices. Several state governments were selling imported pulses at subsidised prices in order to curb the inflated prices.",
+                    "links": [],
+                    "start_date": "19/10/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "20 October  The Government of Maharashtra invoked the Maharashtra Prevention of Dangerous Activities of Slumlords, Bootleggers, Drug Offenders and Dangerous Persons Act, 1981, and Maharashtra Control of Organised Crime Act, 1999 against hoarders of pulses and edible oil.",
+                    "links": [],
+                    "start_date": "20/10/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "21 October  Home Minister Rajnath Singh inaugurated the Indian Police Foundation (IPF) and the Indian Police Institute (IPI) in New Delhi.",
+                    "links": [],
+                    "start_date": "21/10/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "22 October  Prime Minister Narendra Modi laid the foundation stone of Amaravati, the new capital of Andhra Pradesh.",
+                    "links": [],
+                    "start_date": "22/10/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "26 October  The third IndiaAfrica Forum Summit began in New Delhi.",
+                    "links": [],
+                    "start_date": "26/10/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "27 October  Finance Minister Arun Jaitley launched the e-Sahayog of the Income Tax Department. The facility will allow the tax office to remotely notify the payer in case of mismatch in filings.",
+                    "links": [],
+                    "start_date": "27/10/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "31 October  The birth anniversary of Sardar Vallabhbhai Patel was observed as Rashtriya Ekta Diwas (National Unity Day).",
+                    "links": [],
+                    "start_date": "31/10/2015",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "November",
+            "Data": [
+                {
+                    "event_text": "1 November - Premiere of India's popular show Naagin (2015 TV series)",
+                    "links": [],
+                    "start_date": "01/11/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "26 November  Samvidhan Divas (Constitution Day) to be observed.",
+                    "links": [],
+                    "start_date": "26/11/2015",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "December",
+            "Data": [
+                {
+                    "event_text": "22 December  The Beechcraft King Air plane chartered by India's Border Security Force (BSF) crashed on take-off near the Delhi airport, killing 10 people.",
+                    "links": [],
+                    "start_date": "22/12/2015",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

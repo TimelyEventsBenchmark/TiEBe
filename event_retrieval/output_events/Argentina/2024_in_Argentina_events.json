@@ -1,0 +1,779 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "Argentina deports eight Ecuadorians, including relatives of gang leader José Adolfo Macías Villamar, who were arrested on 18 January amid the ongoing conflict in Ecuador.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-latin-america-68038970",
+                            "text": "-\"Ecuador: Argentina expels family of gang boss Adolfo Macías\". 2024-01-20. Retrieved 2024-01-20.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-01-20",
+                                "Created": "2024-01-20"
+                            }
+                        }
+                    ],
+                    "start_date": "18/01/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Workers go on a 12-hour strike led by Argentina's largest union, in protest of president Javier Milei's policies.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/americas/argentina-labor-union-holds-strike-biggest-challenge-yet-milei-2024-01-24/",
+                            "text": "-Misculin, Nicolás (2024-01-25). \"Argentine unions raise challenge to Milei with major strike, protest\". reuters.com. Retrieved 2024-08-07.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-08-07",
+                                "Created": "2024-01-25"
+                            }
+                        }
+                    ],
+                    "start_date": "24/01/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "600 hectares of forest are destroyed by fire in Los Alerces National Park, a UNESCO World Heritage Site in Patagonia.",
+                    "links": [
+                        {
+                            "link": "https://nos.nl/artikel/2506558-honderden-hectare-aan-unesco-erfgoed-in-vlammen-opgegaan-in-argentinie",
+                            "text": "-\"Honderden hectare aan Unesco-erfgoed in vlammen opgegaan in Argentinië\". nos.nl (in Dutch). 2024-01-28. Retrieved 2024-01-28.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-01-28",
+                                "Created": "2024-01-28"
+                            }
+                        }
+                    ],
+                    "start_date": "29/01/2024",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "State news agency Télam is closed after 80 years and police surround its offices in Buenos Aires a week after president Milei threatened to close the agency, alleging its use for propaganda by the Peronist opposition.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/americas/argentine-state-news-agency-telam-shut-after-milei-threat-2024-03-04/",
+                            "text": "-\"Argentine state news agency Telam shut after Milei threat\". Reuters. March 4, 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-03-04"
+                            }
+                        }
+                    ],
+                    "start_date": "04/03/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "President Milei orders the deployment of federal forces into Rosario to combat drug-related violence following a request from Santa Fe provincial governor Maximiliano Pullaro.",
+                    "links": [
+                        {
+                            "link": "https://www.batimes.com.ar/news/argentina/governmentsends-federal-security-forces-to-rosario-to-tackle-drug-violence.phtml",
+                            "text": "-\"Government sends federal security forces to Rosario to tackle drug violence\". Buenos Aires Times. March 11, 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-03-11"
+                            }
+                        }
+                    ],
+                    "start_date": "07/03/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Argentina announces a charge against Venezuela before the International Civil Aviation Organization for allegedly violating the Convention on International Civil Aviation after President Nicolás Maduro banned Argentine aircraft from its airspace earlier this month amid traded accusations with President Milei.",
+                    "links": [
+                        {
+                            "link": "https://www.infobae.com/politica/2024/03/20/argentina-enfrenta-a-venezuela-en-naciones-unidas-por-la-decision-ilegal-de-maduro-contra-los-vuelos-de-aerolineas/",
+                            "text": "-Lejtman, Román (2024-03-20). \"Argentina enfrenta a Venezuela en Naciones Unidas por la decisión ilegal de Maduro contra los vuelos de Aerolíneas\". infobae (in European Spanish). Retrieved 2024-03-20.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-03-20",
+                                "Created": "2024-03-20"
+                            }
+                        }
+                    ],
+                    "start_date": "20/03/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Argentina orders the deployment of at least two gendarmerie to the Argentine embassy in Venezuela, where allies of opposition leader María Corina Machado take refuge amid more confrontation between the two countries.",
+                    "links": [
+                        {
+                            "link": "https://www.infobae.com/america/agencias/2024/03/27/argentina-enviara-gendarmes-a-venezuela-para-custodiar-la-embajada-en-caracas/",
+                            "text": "-\"Argentina enviará gendarmes a Venezuela para custodiar la Embajada en Caracas\". infobae (in European Spanish). 2024-03-27. Retrieved 2024-03-28.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-03-28",
+                                "Created": "2024-03-27"
+                            }
+                        }
+                    ],
+                    "start_date": "27/03/2024",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "The Venezuelan government announces that it will give safe passage to Argentina to six aides of opposition leader María Corina Machado who are taking refuge in the Argentine embassy in Caracas.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/americas/venezuela-allow-safe-passage-argentina-machado-aides-sources-2024-04-05/",
+                            "text": "-\"Venezuela to allow safe passage to Argentina for Machado aides, government source says\". Reuters. April 6, 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-04-06"
+                            }
+                        }
+                    ],
+                    "start_date": "05/04/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Argentina and Denmark sign a 2.1 billion kroner ($300 million) deal for the sale of 24 Royal Danish Air Force F-16 Fighting Falcons to Argentina. No date for the F-16s to be handed over to Argentina has been announced.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/denmark-argentina-f16-jets-a47a12400a3d3e69d4ae3f2e95fd0b89",
+                            "text": "-\"Argentina buys 24 of Denmark's aging F-16 fighter jets\". AP News. 2024-04-16. Retrieved 2024-04-16.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-04-16",
+                                "Created": "2024-04-16"
+                            }
+                        }
+                    ],
+                    "start_date": "16/04/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Argentina issues an arrest warrant via Interpol for Iranian interior minister Ahmad Vahidi in connection with the 1994 AMIA bombing in Buenos Aires. Vahidi is currently believed to be in Sri Lanka.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-latin-america-68888587",
+                            "text": "-\"Argentina seeks arrest of Iranian minister over 1994 bombing\". BBC News. 2024-04-24. Retrieved 2024-04-24.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-04-24",
+                                "Created": "2024-04-24"
+                            }
+                        }
+                    ],
+                    "start_date": "24/04/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Tens of thousands march in Buenos Aires against cuts in funding for public universities made by President Milei.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-latin-america-68886411",
+                            "text": "-\"Buenos Aires: Thousands protest against education cuts\". 2024-04-24. Retrieved 2024-04-25.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-04-25",
+                                "Created": "2024-04-24"
+                            }
+                        }
+                    ],
+                    "start_date": "24/04/2024",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "May",
+            "Data": [
+                {
+                    "event_text": "The Central Bank of Argentina releases the highest banknote of the Argentine peso, valued at 10,000 pesos but with a conversion rate of only $11.",
+                    "links": [
+                        {
+                            "link": "https://www.france24.com/en/live-news/20240507-argentina-introduces-10-000-peso-banknote",
+                            "text": "-\"Argentina introduces 10,000-peso banknote\". France 24. May 7, 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-05-07"
+                            }
+                        }
+                    ],
+                    "start_date": "07/05/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Unions launch a general strike against President Milei's planned reforms and budget cuts.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/americas/argentine-workers-launch-general-strike-against-milei-reforms-austerity-2024-05-09/",
+                            "text": "-\"Argentine workers launch general strike against Milei reforms, austerity\". Reuters. May 9, 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-05-09"
+                            }
+                        }
+                    ],
+                    "start_date": "09/05/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "At least 90 people are injured after a seven-car passenger train collides with a locomotive in Palermo, Buenos Aires.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/buenos-aires-train-derails-argentina-a0ece469b27c7ed2a1059e90040501f6",
+                            "text": "-\"A train in central Buenos Aires strikes a boxcar on the track, injuring dozens\". Associated Press. 11 May 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-05-11"
+                            }
+                        }
+                    ],
+                    "start_date": "10/05/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Spain recalls its ambassador in Buenos Aires after President Milei makes disparaging remarks against Spanish Prime Minister Pedro Sánchez and his wife Begoña Gómez during Milei's visit to the country.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/argentina-milei-spain-tensions-diplomatic-crisis-milei-farright-socialism-a295baecb76e9d7021fd650b08e048b6",
+                            "text": "-\"Spain withdraws its ambassador to Argentina over comments made by President Milei\". Associated Press. 21 May 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-05-21"
+                            }
+                        }
+                    ],
+                    "start_date": "21/05/2024",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "June",
+            "Data": [
+                {
+                    "event_text": "Riots break out in Buenos Aires as the Argentine Senate votes 37-36 to provisionally approve President Milei's economic reform package.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/articles/c255zdlde92o",
+                            "text": "-\"Buenos Aires rocked by clashes over Milei reforms\". BBC. June 13, 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-06-13"
+                            }
+                        }
+                    ],
+                    "start_date": "12/06/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Argentine Chamber of Deputies votes to approve President Milei's economic reform package.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/argentina-congress-milei-law-president-economy-8deecd2adcdb82258a242b53d2474480",
+                            "text": "-\"Argentine Congress seals 1st legislative win for President Milei after months of debate and protests\". Associated Press. June 28, 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-06-28"
+                            }
+                        }
+                    ],
+                    "start_date": "28/06/2024",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "July",
+            "Data": [
+                {
+                    "event_text": "Bolivia summons its ambassador to Argentina after President Milei calls the recent 2024 Bolivian coup attempt \"fraudulent\" and implies that it was staged.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/americas/bolivia-summons-argentine-ambassador-after-milei-brands-attempted-coup-2024-07-01/",
+                            "text": "-\"Bolivia summons Argentine ambassador after Milei brands attempted coup 'fraudulent'\". Reuters. July 1, 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-07-01"
+                            }
+                        }
+                    ],
+                    "start_date": "01/07/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "French rugby players Oscar Jégou and Hugo Auradou are arrested in Buenos Aires on suspicion of raping a woman while the French national rugby team was on tour in Mendoza.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/argentina-france-rugby-sexual-assault-case-rape-sports-53a07504753f1b59ea0f171fc206bde4",
+                            "text": "-\"French rugby players suspected of assault in Argentina moved to western city for court appearance\". Associated Press. July 12, 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-07-12"
+                            }
+                        }
+                    ],
+                    "start_date": "08/07/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Argentina formally designates Hamas as a terrorist organisation.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/argentina-terrorism-hamas-israel-palestinians-milei-2806ce6633de66dcebf2a10486dff81d",
+                            "text": "-\"Argentina designates Hamas a terrorist group in show of support for Israel\". Associated Press. July 13, 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-07-13"
+                            }
+                        }
+                    ],
+                    "start_date": "12/07/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Argentina wins its 16th Copa America title following a 1-0 match against Colombia at the 2024 Copa América final held in Miami.",
+                    "links": [
+                        {
+                            "link": "https://www.aljazeera.com/news/2024/7/15/argentina-win-record-16th-copa-america-in-match-marred-by-crowd-chaos",
+                            "text": "-\"Argentina win record 16th Copa America in match marred by crowd chaos\". Al Jazeera. July 15, 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-07-15"
+                            }
+                        }
+                    ],
+                    "start_date": "14/07/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "An A-4AR Fightinghawk attack aircraft of the Argentine Air Force crashes in Villa Reynolds Airport, San Luis. The pilot dies after ejecting from the plane at a low altitude.",
+                    "links": [
+                        {
+                            "link": "https://www.mdzol.com/sociedad/2024/7/15/un-militar-murio-en-un-accidente-aereo-en-la-provincia-de-san-luis-443747.html",
+                            "text": "-\"Un militar murió en un accidente aéreo en la provincia de San Luis\". MdzOnline (in Spanish). 15 July 2024. Retrieved 16 July 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-07-16",
+                                "Created": "2024-07-15"
+                            }
+                        }
+                    ],
+                    "start_date": "15/07/2024",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "August",
+            "Data": [
+                {
+                    "event_text": "2 August  Argentina recognizes Edmundo González as President-elect of Venezuela, becoming the third country to do so after the United States and Peru.",
+                    "links": [
+                        {
+                            "link": "https://www.barrons.com/news/argentina-recognizes-venezuela-opposition-candidate-as-president-elect-minister-7bcf778d",
+                            "text": "-\"Argentina Recognizes Venezuela Opposition Candidate As President-elect\". www.barrons.com. Retrieved 2024-08-03.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-08-03",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "02/08/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "14 August  Former President Alberto Fernández is indicted on charges of making threats and causing bodily harm to former first lady Fabiola Yáñez.",
+                    "links": [
+                        {
+                            "link": "https://buenosairesherald.com/politics/alberto-fernandez-formally-indicted-for-making-violent-threats-causing-bodily-harm",
+                            "text": "-\"Alberto Fernández formally indicted for making violent threats, causing bodily harm\". Buenos Aires Herald. 2024-08-14. Retrieved 2024-08-15.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-08-15",
+                                "Created": "2024-08-14"
+                            }
+                        }
+                    ],
+                    "start_date": "14/08/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "16 August - The Argentine Federal Police dismantles an alleged Islamist terrorist organization planning attacks against Jewish community centers in Mendoza.",
+                    "links": [
+                        {
+                            "link": "https://www.usnews.com/news/world/articles/2024-08-16/argentine-police-thwart-alleged-terror-attacks-in-mendoza",
+                            "text": "-\"Argentine Police Thwart Alleged Terror Attacks in Mendoza\". US News & World Report. Retrieved 19 December 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-12-19",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "16/08/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "20 August - A Liberia-flagged ship on the Paraná River near Rosario is quarantined after suspected cases of mpox are detected on the ship. The Argentine Health Ministry subsequently activates an emergency protocol against mpox.",
+                    "links": [
+                        {
+                            "link": "https://www.cnn.com/2024/08/20/americas/argentina-quarantines-mpox-ship-intl-latam/index.html",
+                            "text": "-Magramo, Alex Stambaugh, Larry Madowo, Kathleen (2024-08-20). \"African health officials hopeful mpox shots will start within days as WHO says outbreak is 'not the new Covid'\". CNN. Retrieved 2024-08-21.{{cite web}}:  CS1 maint: multiple names: authors list (link)-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-08-21",
+                                "Created": "2024-08-20"
+                            }
+                        }
+                    ],
+                    "start_date": "20/08/2024",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "September",
+            "Data": [
+                {
+                    "event_text": "2 September - President Milei vetoes a bill passed by the Congress to raise the minimum pension.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/world-news/general-news-edf64f0079d5f9786eebbdb60309429f",
+                            "text": "-\"Milei veta ley que aumenta jubilaciones y pensiones; la oposición insistirá en el Congreso\". Associated Press News (in Spanish). 2 September 2024. Retrieved 13 February 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-13",
+                                "Created": "2024-09-02"
+                            }
+                        }
+                    ],
+                    "start_date": "02/09/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "6 September  Venezuelan security forces surround the Argentine embassy in Caracas after several opposition members take refuge inside. Electricity is reportedly cut to the embassy with Vente Venezuela describing the situation as a siege.",
+                    "links": [
+                        {
+                            "link": "https://edition.cnn.com/2024/09/07/americas/venezuelan-security-forces-surround-argentine-embassy-intl/index.html",
+                            "text": "-Torres, Mauricio (2024-09-07). \"Venezuelan security forces surround Argentine embassy after opposition members take refuge inside\". CNN. Retrieved 2024-09-07.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-09-07",
+                                "Created": "2024-09-07"
+                            }
+                        }
+                    ],
+                    "start_date": "06/09/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "23 September  A Venezuelan court issues arrest warrants against president Milei, his sister and adviser Karina Milei and Security Minister Patricia Bullrich over the seizure of a Venezuelan aircraft in Buenos Aires due to sanctions violations. The warrant is followed by an arrest order from a federal court in Buenos Aires against Venezuelan President Nicolas Maduro, Interior Minister Diosdado Cabello and several other officials for crimes against humanity.",
+                    "links": [
+                        {
+                            "link": "https://www.france24.com/en/live-news/20240923-venezuelan-court-issues-arrest-warrant-for-argentina-s-milei",
+                            "text": "-\"Argentina seeks Maduro's arrest for crimes against humanity\". France 24. 2024-09-23. Retrieved 2024-09-24.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-09-24",
+                                "Created": "2024-09-23"
+                            }
+                        }
+                    ],
+                    "start_date": "23/09/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "24 September  President Milei proposes an \"agenda of freedom\" with economic, social, and foreign policies that directly contradict the United Nations' \"Pact for the Future\", which he calls a model to \"repress, restrict and curtail\" humanity's freedom and ineffective at preventing conflicts.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/argentinas-milei-criticizes-leviathan-un-speech-pledges-agenda-freedom-2024-09-24/",
+                            "text": "-\"Argentina's Milei criticizes 'Leviathan' UN, pledges 'agenda of freedom'\". Reuters. September 24, 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-09-24"
+                            }
+                        }
+                    ],
+                    "start_date": "24/09/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "25 September  Extensive wildfires in Córdoba Province destroy 40,000 hectares (400 km2) of forests and farmland, including several farm structures, and kill large numbers of cattle.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/americas/cattle-burn-monster-wildfires-rage-argentina-ranchlands-2024-09-25/",
+                            "text": "-\"Cattle burn as 'monster' wildfires rage in Argentina ranchlands\". Reuters. September 25, 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-09-25"
+                            }
+                        }
+                    ],
+                    "start_date": "25/09/2024",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "October",
+            "Data": [
+                {
+                    "event_text": "A total solar eclipse occurs over the Argentine Patagonia.",
+                    "links": [
+                        {
+                            "link": "https://www.france24.com/en/live-news/20241002-south-america-treated-to-rare-ring-of-fire-eclipse",
+                            "text": "-\"South America treated to rare 'ring of fire' eclipse\". France 24. 2024-10-03. Retrieved 2024-10-03.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-10-03",
+                                "Created": "2024-10-03"
+                            }
+                        }
+                    ],
+                    "start_date": "02/10/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Tens of thousands march in Buenos Aires for the second time against cuts in funding for public universities made by President Milei.",
+                    "links": [
+                        {
+                            "link": "https://chequeado.com/el-explicador/marcha-federal-universitaria-en-vivo-todos-los-datos-sobre-la-manifestacion-del-2-de-octubre/",
+                            "text": "-\"Marcha federal universitaria: todos los datos sobre la manifestación del 2 de octubre\". Chequeado (in Spanish). 3 October 2024. Retrieved 13 February 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-13",
+                                "Created": "2024-10-03"
+                            }
+                        }
+                    ],
+                    "start_date": "02/10/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "3 October  President Milei vetoes a bill providing for secure funding for public universities and salary increases for faculty and staff amid nationwide protests.",
+                    "links": [
+                        {
+                            "link": "https://www.france24.com/en/live-news/20241003-huge-protests-in-argentina-over-public-university-cuts",
+                            "text": "-\"Argentina's Milei vetoes university budget after huge protests\". France 24. 2024-10-03. Retrieved 2024-10-03.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-10-03",
+                                "Created": "2024-10-03"
+                            }
+                        }
+                    ],
+                    "start_date": "03/10/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "16 October  Singer and former One Direction member Liam Payne dies after falling from the third floor of his hotel room in Palermo, Buenos Aires.",
+                    "links": [
+                        {
+                            "link": "https://www.aljazeera.com/news/2024/10/16/former-one-direction-member-liam-payne-found-dead-in-buenos-aires",
+                            "text": "-\"Former One Direction member Liam Payne found dead in Buenos Aires\". Al Jazeera. 2024-10-16. Retrieved 2024-10-16.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-10-16",
+                                "Created": "2024-10-16"
+                            }
+                        }
+                    ],
+                    "start_date": "16/10/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "17 October - At least 25 campuses of national universities remain took by students as a protest against the defunding of public universities.",
+                    "links": [
+                        {
+                            "link": "https://chequeado.com/el-explicador/toma-de-universidades-que-dice-la-ley-sobre-el-ingreso-de-las-fuerzas-de-seguridad-en-las-facultades/",
+                            "text": "-\"Toma de universidades: ¿qué dice la ley sobre el ingreso de las fuerzas de seguridad en las facultades?\". Chequeado (in Spanish). 17 October 2024. Retrieved 13 February 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-13",
+                                "Created": "2024-10-17"
+                            }
+                        }
+                    ],
+                    "start_date": "17/10/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "29 October  The collapse of a 10-story hotel in Villa Gesell ultimately led to 9 deaths, the last one occurring a month later.",
+                    "links": [
+                        {
+                            "link": "https://www.france24.com/en/live-news/20241029-one-dead-a-dozen-missing-in-argentina-hotel-collapse-authorities",
+                            "text": "-\"One dead, a dozen missing in Argentina hotel collapse: authorities\". France 24. 2024-10-29. Retrieved 2024-10-29.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-10-29",
+                                "Created": "2024-10-29"
+                            }
+                        }
+                    ],
+                    "start_date": "29/10/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "President Milei dismisses Diana Mondino as Minister of Foreign Affairs, International Trade and Worship following the country's decision to vote against the United States embargo against Cuba in the United Nations. She is replaced by Argentine ambassador to the US Gerardo Werthein.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/argentina-milei-foreign-minister-cuba-un-4ab32cf005981cf2664a0614bccb7f3e",
+                            "text": "-\"Argentina's president fires his foreign minister after vote in favor of ending US embargo on Cuba\". Associated Press. 2024-10-31. Retrieved 2024-10-31.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-10-31",
+                                "Created": "2024-10-31"
+                            }
+                        }
+                    ],
+                    "start_date": "30/10/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A nationwide transport strike disrupts services of Trenes Argentinos, the Buenos Aires Underground, and Aerolineas Argentinas among other sectors.",
+                    "links": [
+                        {
+                            "link": "https://www.france24.com/en/live-news/20241030-argentina-hit-by-massive-transport-strike",
+                            "text": "-\"Argentina hit by massive transport strike\". France 24. 2024-10-31. Retrieved 2024-10-31.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-10-31",
+                                "Created": "2024-10-31"
+                            }
+                        }
+                    ],
+                    "start_date": "30/10/2024",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "November",
+            "Data": [
+                {
+                    "event_text": "9 November  Andrés Bracamonte, the leader of the Rosario Central ultras, is shot dead along with his deputy near Estadio Gigante de Arroyito in Rosario.",
+                    "links": [
+                        {
+                            "link": "https://www.france24.com/en/live-news/20241111-three-sought-over-murders-of-argentine-football-hooligans",
+                            "text": "-\"Three sought over murders of Argentine football hooligans\". France 24. 2024-11-12. Retrieved 2024-11-12.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-11-12",
+                                "Created": "2024-11-12"
+                            }
+                        }
+                    ],
+                    "start_date": "09/11/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "13 November  President Milei recalls the Argentine delegation to the 2024 United Nations Climate Change Conference in Azerbaijan.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/cop29-climate-change-united-nations-baku-azerbaijan-67aa7cd1610c86779c11430afc269b8b",
+                            "text": "-\"At UN climate talks, nations big and small get chance to bear witness to climate change\". Associated Press. 2024-11-14. Retrieved 2024-11-16.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-11-16",
+                                "Created": "2024-11-14"
+                            }
+                        }
+                    ],
+                    "start_date": "13/11/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "14 November  Argentina casts the sole dissenting vote against a nonbinding resolution in the United Nations condemning violence against women and girls.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/argentina-milei-united-nations-gender-b55668acab6e97b5ebbb97abe2dda996",
+                            "text": "-\"In Milei's latest drastic move, Argentina is sole UN holdout voting 'no' to ending gender violence\". Associated Press. 2024-11-16. Retrieved 2024-11-16.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-11-16",
+                                "Created": "2024-11-16"
+                            }
+                        }
+                    ],
+                    "start_date": "14/11/2024",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "December",
+            "Data": [
+                {
+                    "event_text": "4 December - Edgardo Kueider, member of the Argentine Senate, is arrested when entering Paraguay through the Friendship Bridge with at least USD 200,000 undeclared, prompting a scandal that causes his expulsion of the body days later.",
+                    "links": [
+                        {
+                            "link": "https://chequeado.com/el-explicador/que-se-sabe-sobre-la-detencion-del-senador-edgardo-kueider-en-paraguay/",
+                            "text": "-Corti, Delfina; Tarricone, Manuel (13 December 2024). \"Qué se sabe sobre la detención de Edgardo Kueider en Paraguay\". Chequeado (in Spanish). Retrieved 13 February 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-13",
+                                "Created": "2024-12-13"
+                            }
+                        }
+                    ],
+                    "start_date": "04/12/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "8 December - A member of Argentina's National Gendarmerie is arrested when he enters Venezuela on charges of \"conspiratorial actions\". This sparks a conflict between Venezuela and Argentina's governments, with the Argentine Foreign Ministry rejecting Nahuel Gallo's “arbitrary and unjustified” detention and denouncing Venezuela before the International Criminal Court.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/americas/argentina-files-icc-complaint-against-venezuela-over-officers-arrest-2025-01-02/",
+                            "text": "-\"Argentina files ICC complaint against Venezuela over officer's arrest\". Reuters. 2 January 2025. Retrieved 13 February 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-13",
+                                "Created": "2025-01-02"
+                            }
+                        }
+                    ],
+                    "start_date": "08/12/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "19 December  A private aircraft crashes into a residential area in San Fernando, Buenos Aires, killing its two pilots.",
+                    "links": [
+                        {
+                            "link": "https://www.telegraph.co.uk/world-news/2024/12/19/two-dead-plane-crash-house-argentina/",
+                            "text": "-\"Two dead after plane crashes into house in Argentina\". The Daily Telegraph. 2024-12-19. Retrieved 2024-12-19.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-12-19",
+                                "Created": "2024-12-19"
+                            }
+                        }
+                    ],
+                    "start_date": "19/12/2024",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

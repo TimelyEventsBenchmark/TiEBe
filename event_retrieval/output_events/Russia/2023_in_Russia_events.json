@@ -1,0 +1,641 @@
+{
+    "Events": [
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "21 February  during the Presidential Address to the Federal Assembly, Vladimir Putin announced Russia's suspension of participation in the New START treaty, stating that Russia would not allow the US and NATO to inspect its nuclear facilities. He claimed the United States was continuing to develop new nuclear weapons, and if the U.S. conducted any nuclear weapons tests, then Russia would develop and test its own.",
+                    "links": [
+                        {
+                            "link": "https://www.bloomberg.com/news/articles/2023-02-21/putin-says-russia-to-suspend-new-start-nuke-pact-participation",
+                            "text": "-\"Putin Says Russia to Suspend New START Nuke Pact Participation\". Bloomberg.com. 21 February 2023. Retrieved 21 February 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-02-21",
+                                "Created": "2023-02-21"
+                            }
+                        }
+                    ],
+                    "start_date": "21/02/2023",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "2022 March - 2023 visit by Xi Jinping to Russia",
+                    "links": [],
+                    "start_date": "22/03/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "25 March  Russian President Vladimir Putin announces that Russia will station tactical nuclear weapons in Belarus by July. The nuclear missiles will be operated by Russian forces. It will be the first time that Russian nuclear weapons have been deployed abroad since 1996.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/world-europe-65077687",
+                            "text": "-\"Putin: Russia to station nuclear weapons in Belarus\". BBC News. 25 March 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2023-03-25"
+                            }
+                        },
+                        {
+                            "link": "https://www.reuters.com/world/europe/putin-says-moscow-has-deal-with-belarus-station-nuclear-weapons-there-tass-2023-03-25/",
+                            "text": "-Ljunggren, David (26 March 2023). \"Putin says Moscow to place nuclear weapons in Belarus, US reacts cautiously\". Reuters.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2023-03-26"
+                            }
+                        }
+                    ],
+                    "start_date": "25/03/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "6 December  Former People's Deputy of Ukraine Illia Kyva, who defected to Russia in , is found dead in Moscow Oblast.",
+                    "links": [
+                        {
+                            "link": "https://meduza.io/en/news/2023/12/06/former-ukrainian-lawmaker-illia-kyva-found-dead-in-moscow-region",
+                            "text": "-\"Former Ukrainian lawmaker Illia Kyva found dead in Moscow region\". Meduza. Retrieved 6 December 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-12-06",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "30/11/2023",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "2 April  Assassination of Vladlen Tatarsky, a bombing occurred in the Street Food Bar №1 café on Universitetskaya Embankment in Saint Petersburg, Russia. Russian military blogger Vladlen Tatarsky, real name Maxim Fomin, died as a result of the explosion and 42 people were injured, 24 of whom were hospitalized, including six in critical condition.",
+                    "links": [
+                        {
+                            "link": "https://www.middletownpress.com/news/world/article/alert-russian-media-say-a-famous-military-17874298.php",
+                            "text": "-\"Alert: Russian media say a famous military blogger has been killed in an apparent bombing attack at a café in St. Petersburg\". The Middletown Press. 2 April 2023. Archived from the original on 2 April 2023. Retrieved 2 April 2023.-",
+                            "dates": {
+                                "Archieved": "2023-04-02",
+                                "Retrieved": "2023-04-02",
+                                "Created": "2023-04-02"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20230402165102/https://www.middletownpress.com/news/world/article/alert-russian-media-say-a-famous-military-17874298.php",
+                            "text": "-\"Alert: Russian media say a famous military blogger has been killed in an apparent bombing attack at a café in St. Petersburg\". The Middletown Press. 2 April 2023. Archived from the original on 2 April 2023. Retrieved 2 April 2023.-",
+                            "dates": {
+                                "Archieved": "2023-04-02",
+                                "Retrieved": "2023-04-02",
+                                "Created": "2023-04-02"
+                            }
+                        },
+                        {
+                            "link": "https://www.reuters.com/world/europe/russian-military-blogger-killed-explosion-st-petersburg-agencies-2023-04-02/",
+                            "text": "-Trevelyan, Mark; Light, Felix; Trevelyan, Mark (2 April 2023). \"Russian military blogger killed in St Petersburg bomb blast - agencies\". Reuters. Archived from the original on 2 April 2023. Retrieved 2 April 2023.-",
+                            "dates": {
+                                "Archieved": "2023-04-02",
+                                "Retrieved": "2023-04-02",
+                                "Created": "2023-04-02"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20230402164705/https://www.reuters.com/world/europe/russian-military-blogger-killed-explosion-st-petersburg-agencies-2023-04-02/",
+                            "text": "-Trevelyan, Mark; Light, Felix; Trevelyan, Mark (2 April 2023). \"Russian military blogger killed in St Petersburg bomb blast - agencies\". Reuters. Archived from the original on 2 April 2023. Retrieved 2 April 2023.-",
+                            "dates": {
+                                "Archieved": "2023-04-02",
+                                "Retrieved": "2023-04-02",
+                                "Created": "2023-04-02"
+                            }
+                        },
+                        {
+                            "link": "https://understandingwar.org/backgrounder/russian-offensive-campaign-assessment-april-2-2023",
+                            "text": "-Stepanenko, Kateryna and Kagan, Frederick W. (2 April  2023). Russian Offensive Campaign Assessment, April 2, 2023 Archived 3 April 2023 at the Wayback Machine Institute for the Study of War. Retrieved 3 April 2023.-",
+                            "dates": {
+                                "Archieved": "2023-04-03",
+                                "Retrieved": "2023-04-02",
+                                "Created": "2023-04-03"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20230403051230/https://understandingwar.org/backgrounder/russian-offensive-campaign-assessment-april-2-2023",
+                            "text": "-Stepanenko, Kateryna and Kagan, Frederick W. (2 April  2023). Russian Offensive Campaign Assessment, April 2, 2023 Archived 3 April 2023 at the Wayback Machine Institute for the Study of War. Retrieved 3 April 2023.-",
+                            "dates": {
+                                "Archieved": "2023-04-03",
+                                "Retrieved": "2023-04-02",
+                                "Created": "2023-04-03"
+                            }
+                        }
+                    ],
+                    "start_date": "02/04/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "27 April  the Moscow City Court ordered the SOVA Center which monitored nationalist and racist movements in Russia to close over claims that it carried out its activities throughout Russia despite only being registered in Moscow. The order occurred during a crackdown on human rights and independent organizations in Russia following its invasion of Ukraine in 2022.",
+                    "links": [
+                        {
+                            "link": "https://www.themoscowtimes.com/2023/04/27/moscow-court-orders-closure-of-sova-analytical-center-a80969",
+                            "text": "-Times, The Moscow (27 April 2023). \"Moscow Court Orders Closure Of Sova Analytical Center\". The Moscow Times. Retrieved 28 April 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-04-28",
+                                "Created": "2023-04-27"
+                            }
+                        }
+                    ],
+                    "start_date": "27/04/2023",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "May",
+            "Data": [
+                {
+                    "event_text": "6 May  Russian writer and pro-war nationalist Zakhar Prilepin is injured and his driver is killed when their vehicle is hit by a car bomb in Nizhny Novgorod Oblast, Russia.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-europe-65509809",
+                            "text": "-\"Zakhar Prilepin: Russian pro-war blogger injured in car bomb\". BBC News. 6 May 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2023-05-06"
+                            }
+                        }
+                    ],
+                    "start_date": "06/05/2023",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "June",
+            "Data": [
+                {
+                    "event_text": "13 June- Russia hints at possibly leaving the Black Sea grain deal. President Vladimir Putin announces that Russia is contemplating withdrawing from Black Sea grain deal. Putin said Russia entered the Black Sea grain deal to help “friendly” countries in Africa and Latin America and maintain good relationships but they were deceived by the west.",
+                    "links": [
+                        {
+                            "link": "https://www.bloomberg.com/news/articles/2023-06-13/putin-says-russia-mulls-quitting-ukraine-safe-corridor-crop-deal#xj4y7vzkg",
+                            "text": "-\"Russia Considering Quitting Ukraine safe corridor crop deal, Putin says\". Bloomberg.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "13/06/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "14 June- The State Duma gives preliminary approval to a bill Banning Gender reassignment and outlaws changing birth gender on documents.",
+                    "links": [
+                        {
+                            "link": "https://www.themoscowtimes.com/2023/06/14/russian-lawmakers-vote-to-ban-gender-reassignment-a81507",
+                            "text": "-\"Russian Lawmakers Vote to Ban Gender Reassignment\". 14 June 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2023-06-14"
+                            }
+                        },
+                        {
+                            "link": "https://novayagazeta.eu/articles/2023/06/14/russias-state-duma-unanimously-adopts-bill-on-sex-change-ban-in-first-reading-en-news",
+                            "text": "-\"Russia's State Duma unanimously adopts bill on 'sex change' ban in first reading\".-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://www.rferl.org/a/russia-gender-reassignment-banned-duma/32459527.html",
+                            "text": "-\"Russian State Duma Approves Bill Banning Gender Reassignment on First Reading\". Radiofreeeurope/Radioliberty.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "14/06/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "23 June  The Wagner Group, led by Yevgeny Prigozhin, launched an armed rebellion after accusing the Russian military of killing Wagner forces. Wagner units withdrew from Ukraine and seized the city of Rostov-on-Don in Russia.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/live/world-europe-66006142",
+                            "text": "-\"LIVE: Rebel Russian mercenaries seize part of second city as Putin vows punishment\". BBC News. 24 June 2023. Retrieved 24 June 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-06-24",
+                                "Created": "2023-06-24"
+                            }
+                        }
+                    ],
+                    "start_date": "23/06/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "24 June  The Wagner Group rebellion was abruptly halted by a deal brokered by Belarusian president Alexander Lukashenko.",
+                    "links": [],
+                    "start_date": "24/06/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "27 June   Russia drops all charges against Wagner Group. The defence ministry also announced that the group will be disarmed.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-europe-66029382",
+                            "text": "-\"Wagner group to hand over heavy weapons as FSB drops mutiny charges\". BBC.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "27/06/2023",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "July",
+            "Data": [
+                {
+                    "event_text": "14 July  The State Duma approves bill banning nearly all medical help for transgender people including gender reassignment surgeries.",
+                    "links": [
+                        {
+                            "link": "https://edition.cnn.com/2023/07/14/europe/russia-lgbtq-rights-gender-reassignment-surgery-intl/index.html",
+                            "text": "-\"Russia's Duma votes for law to ban gender reassignment surgery, in further crackdown on LGBTQ rights\". CNN.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "14/07/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "17 July  Russia officially pulls out of the Black Sea grain deal.",
+                    "links": [
+                        {
+                            "link": "https://edition.cnn.com/2023/07/17/europe/russia-ukraine-grain-deal-intl/index.html",
+                            "text": "-\"Russia pulls out of Ukraine grain deal, in potential blow to global food supplies\". CNN.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "17/07/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "24 July  President Putin signs into law the law banning nearly all medical help for transgender people including gender reassignment surgeries.",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/world/2023/jul/24/vladimir-putin-signs-law-banning-gender-changes-in-russia",
+                            "text": "-\"Vladimir Putin signs law banning gender changes in Russia\". The Guardian. 24 July 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2023-07-24"
+                            }
+                        },
+                        {
+                            "link": "https://www.themoscowtimes.com/2023/07/24/putin-signs-gender-reassignment-ban-into-law-a81950",
+                            "text": "-\"Putin Signs Gender Reassignment Ban into Law\". 24 July 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2023-07-24"
+                            }
+                        },
+                        {
+                            "link": "https://www.scmp.com/news/world/russia-central-asia/article/3228788/putin-signs-legislation-marking-final-step-outlawing-gender-affirming-procedures-russia",
+                            "text": "-\"Putin signs legislation outlawing 'sex change' procedures in Russia\". 25 July 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2023-07-25"
+                            }
+                        }
+                    ],
+                    "start_date": "24/07/2023",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "August",
+            "Data": [
+                {
+                    "event_text": "14 August  At least 35 people are killed and 105 others are injured in an explosion at a gas station in Makhachkala, Dagestan.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/europe/three-dead-blast-car-service-russian-city-makhachkala-ria-2023-08-14/",
+                            "text": "-\"Fire at Russian fuel station kills 35, scores injured\". Reuters. 15 August 2023. Retrieved 15 August 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-08-15",
+                                "Created": "2023-08-15"
+                            }
+                        }
+                    ],
+                    "start_date": "14/08/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "23 August  2023 Wagner Group plane crash.",
+                    "links": [],
+                    "start_date": "23/08/2023",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "September",
+            "Data": [
+                {
+                    "event_text": "2 September  Russian Foreign Minister Sergey Lavrov says Russia will provide free grain to six African countries with plans supply up to 50 thousand tonnes.",
+                    "links": [
+                        {
+                            "link": "https://www.aljazeera.com/news/2023/9/2/russia-ukraine-war-list-of-key-events-day-556",
+                            "text": "-\"Russia-Ukraine war: List of key events, day 556\". www.aljazeera.com. Retrieved 3 September 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-09-03",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "02/09/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "10 September  2023 Russian regional elections and By-elections to the 8th Russian State Duma",
+                    "links": [
+                        {
+                            "link": "https://www.vedomosti.ru/politics/news/2022/09/13/940669-chernyak-dosrochno-slozhil-polnomochiya",
+                            "text": "-\"Депутат Госдумы от Крыма Черняк досрочно сложил полномочия\". Ведомости. 13 September 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2022-09-13"
+                            }
+                        },
+                        {
+                            "link": "https://rg.ru/2022/09/15/cik-v-sleduiushchem-godu-zaplanirovano-20-vyborov-gubernatorov.html",
+                            "text": "-\"ЦИК: В следующем году запланировано 20 выборов губернаторов\". rg.ru. 15 September 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2022-09-15"
+                            }
+                        }
+                    ],
+                    "start_date": "10/09/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "12 September  2023 North Korea-Russia summit North Korean leader Kim Jong Un arrives in Russia for a summit with Russian President Vladimir Putin.",
+                    "links": [
+                        {
+                            "link": "https://www.nbcnews.com/news/world/north-korea-kim-jong-un-russia-vladimir-putin-ukraine-rcna104563",
+                            "text": "-\"North Korea's Kim Jong Un arrives in Russia for possible arms talks with Putin\". NBC News. 12 September 2023. Retrieved 12 September 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-09-12",
+                                "Created": "2023-09-12"
+                            }
+                        }
+                    ],
+                    "start_date": "12/09/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "13 September  The North KoreaRussia summit is held at the Vostochny Cosmodrome in Amur Oblast, Russia, lasting for four hours, with North Korean leader Kim Jong Un vowing that North Korea will support Russian President Vladimir Putin.",
+                    "links": [],
+                    "start_date": "13/09/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "17 September  The 2023 North KoreaRussia summit concludes with Kim Jong Un returning to North Korea.",
+                    "links": [
+                        {
+                            "link": "https://www.cnn.com/2023/09/17/world/north-korea-kim-leaves-russia-intl/index.html",
+                            "text": "-Kwon, Amarachi Orie,Darya Tarasova,Duarte Mendonca,Jake (17 September 2023). \"North Korean leader Kim Jong Un gifted bulletproof vest and drones as he leaves Russia\". CNN. Retrieved 18 September 2023.{{cite web}}:  CS1 maint: multiple names: authors list (link)-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-09-18",
+                                "Created": "2023-09-17"
+                            }
+                        }
+                    ],
+                    "start_date": "17/09/2023",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "October",
+            "Data": [
+                {
+                    "event_text": "12 October  The United Nations Human Rights Council extends a special rapporteur's mandate to investigate human rights violations in Russia for an additional year, despite Russia's previous refusal to recognize the rapporteur's mandate or permit her entry into the country.",
+                    "links": [
+                        {
+                            "link": "https://www.barrons.com/news/un-human-rights-council-votes-to-extend-russia-monitoring-46a4324a",
+                            "text": "-MILLARD, Robin. \"UN Human Rights Council Prolongs Russia Monitoring\". www.barrons.com. Retrieved 12 October 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-10-12",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "12/10/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "13 October  Russian police detain one of the lawyers of Alexei Navalny and raid the houses of the other two, accusing them of belonging to an extremist organization.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/europe/investigators-search-homes-three-navalnys-lawyers-allies-say-2023-10-13/",
+                            "text": "-Trevelyan, Mark (13 October 2023). \"Allies of Russia's Navalny say three of his lawyers detained\". Reuters. Retrieved 13 October 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-10-13",
+                                "Created": "2023-10-13"
+                            }
+                        }
+                    ],
+                    "start_date": "13/10/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "23 October  A Russian district court extends RFE/RL journalist Alsu Kurmasheva's detention until December 5 as a \"preventive measure\" after Kurmasheva allegedly failed to register as a \"foreign agent\".",
+                    "links": [
+                        {
+                            "link": "https://www.rfi.fr/en/international-news/20231023-russian-court-extends-detention-of-us-russian-journalist",
+                            "text": "-\"Russian court extends detention of US-Russian journalist\". RFI. 23 October 2023. Retrieved 24 October 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-10-24",
+                                "Created": "2023-10-23"
+                            }
+                        }
+                    ],
+                    "start_date": "23/10/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "24 October  Lukoil's second chairman in just over a year, Vladimir Nekrasov, dies due to acute heart failure.",
+                    "links": [
+                        {
+                            "link": "https://www.cnn.com/2023/10/24/business/lukoil-chairman-nekrasov-dies/index.html",
+                            "text": "-Thompson, Mark (24 October 2023). \"Lukoil chairman dies suddenly, second in just over a year | CNN Business\". CNN. Retrieved 24 October 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-10-24",
+                                "Created": "2023-10-24"
+                            }
+                        }
+                    ],
+                    "start_date": "24/10/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "28 October  Anti-Jewish unrest in the North Caucasus Protesters gather on the tarmac of Uytash Airport in Makhachkala, Dagestan, as a Red Wings Airlines flight from Tel Aviv, Israel, arrives, shouting antisemitic slogans and attempting to storm the plane.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/russia-dagestan-tel-aviv-flight-airport-makhachkala-fa06b16131ed41c0c789981cdcaac84f",
+                            "text": "-\"Hundreds storm airport in Russia in antisemitic riot over arrival of plane from Israel\". AP News. 29 October 2023. Retrieved 30 October 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-10-30",
+                                "Created": "2023-10-29"
+                            }
+                        }
+                    ],
+                    "start_date": "28/10/2023",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "November",
+            "Data": [
+                {
+                    "event_text": "2 November  Russian President Vladimir Putin signs a law formally withdrawing Russia's ratification of the Comprehensive Nuclear-Test-Ban Treaty. Russia maintains that it will not resume nuclear weapons testing unless the United States does.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/europe/putin-revokes-russias-ratification-nuclear-test-ban-treaty-2023-11-02/",
+                            "text": "-Osborn, Andrew (2 November 2023). \"Putin withdraws Russia's ratification of global nuclear test ban treaty\". Reuters. Retrieved 2 November 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-11-02",
+                                "Created": "2023-11-02"
+                            }
+                        }
+                    ],
+                    "start_date": "02/11/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "30 November  the Russian Supreme Court ruled the \"international LGBT movement\" to be extremist, outlawing it in the country.",
+                    "links": [
+                        {
+                            "link": "https://news.sky.com/story/russian-supreme-court-bans-the-whole-lgbtq-movement-and-brands-activists-extremists-13019582",
+                            "text": "-\"Russian Supreme Court bans the whole LGBTQ movement and brands activists 'extremists'\". Sky News. Retrieved 1 December 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-12-01",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://www.reuters.com/world/europe/top-russian-court-bans-lgbt-movement-extremist-2023-11-30/",
+                            "text": "-\"Top Russian court bans LGBT movement as 'extremist'\". Reuters. 30 November 2023. Retrieved 16 February 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-02-16",
+                                "Created": "2023-11-30"
+                            }
+                        }
+                    ],
+                    "start_date": "30/11/2023",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "December",
+            "Data": [
+                {
+                    "event_text": "7 December  One person is killed and five are injured in a mass shooting in Bryansk.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-europe-67647620",
+                            "text": "-\"Russia school shooting: Teenage girl kills classmate and herself\". BBC. 7 December 2023. Retrieved 22 December 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-12-22",
+                                "Created": "2023-12-07"
+                            }
+                        },
+                        {
+                            "link": "http://web.archive.org/web/20231210222805/https://www.kp.ru/daily/27591/4862593",
+                            "text": "-\"Стрельба в гимназии в Брянске 7 декабря 2023: причины, последние новости, видео\". Комсомольская правда (in Russian). Archived from the original on 10 December 2023.-",
+                            "dates": {
+                                "Archieved": "2023-12-10",
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://www.kp.ru/daily/27591/4862593/",
+                            "text": "-\"Стрельба в гимназии в Брянске 7 декабря 2023: причины, последние новости, видео\". Комсомольская правда (in Russian). Archived from the original on 10 December 2023.-",
+                            "dates": {
+                                "Archieved": "2023-12-10",
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "07/12/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "23 December  The Central Election Commission rejects journalist Yekaterina Duntsova's candidacy for president, citing errors in Duntsova's submitted documents.",
+                    "links": [
+                        {
+                            "link": "https://www.france24.com/en/live-news/20231223-russia-bars-pro-peace-candidate-from-presidential-ballot",
+                            "text": "-\"Russia bars pro-peace candidate from presidential ballot\". France 24. 23 December 2023. Retrieved 24 December 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-12-24",
+                                "Created": "2023-12-23"
+                            }
+                        }
+                    ],
+                    "start_date": "23/12/2023",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "Events": [
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "25 Colombia at the 2018 Winter Olympics - Four athletes from Colombia compete at the 2018 Winter Olympics.",
+                    "links": [
+                        {
+                            "link": "https://www.elespectador.com/deportes/otros-deportes/los-tres-colombianos-en-los-olimpicos-de-invierno-articulo-732681",
+                            "text": "-Ordóñez Olano, Luis Guillermo (10 January 2018). \"Los tres colombianos en los Olímpicos de Invierno\" [The three Colombians in the Winter Olympics]. El Espectador (in Spanish). Bogotá, Colombia. Retrieved 13 January 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-01-13",
+                                "Created": "2018-01-10"
+                            }
+                        }
+                    ],
+                    "start_date": "09/02/2018",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "July",
+            "Data": [
+                {
+                    "event_text": "Colombia are knocked out of the 2018 FIFA World Cup in the second round, losing on penalties to England at the Otkritie Arena, Moscow.",
+                    "links": [],
+                    "start_date": "03/07/2018",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "October",
+            "Data": [
+                {
+                    "event_text": "18 Colombia will compete at the 2018 Summer Youth Olympics.",
+                    "links": [
+                        {
+                            "link": "https://extranet.worldarchery.org/documents/index.php/Events/Olympic_Games/2018_Buenos_Aires_YOG/BA_2018_Qualification_Boys.pdf",
+                            "text": "-\"YOG 2018 Qualification Places - Boys\" (PDF). World Archery Federation. Retrieved 15 December 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-12-15",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "http://www.uci.ch/mm/Document/News/News/18/44/36/BAYOG2018_QualificationRanking_BMX_Racing_Neutral.pdf",
+                            "text": "-\"Mixed BMX Racing Event\" (PDF). UCI. 1 November 2017. Retrieved 11 November 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-11-11",
+                                "Created": "2017-11-01"
+                            }
+                        }
+                    ],
+                    "start_date": "06/10/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "11 October - A mudslide in the central Colombian town of Marquetalia results in at least 12 deaths.",
+                    "links": [
+                        {
+                            "link": "https://web.archive.org/web/20181011202905/https://abcnews.go.com/International/wireStory/mudslide-kills-12-people-central-colombia-58442099",
+                            "text": "-\"Mudslide kills 12 people in central Colombia - ABC News\". ABC News. Archived from the original on 2018-10-11. -",
+                            "dates": {
+                                "Archieved": "2018-10-11",
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://abcnews.go.com/International/wireStory/mudslide-kills-12-people-central-colombia-58442099",
+                            "text": "-\"Mudslide kills 12 people in central Colombia - ABC News\". ABC News. Archived from the original on 2018-10-11. -",
+                            "dates": {
+                                "Archieved": "2018-10-11",
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "11/10/2018",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,477 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "11 January  Beginning of the 2017 World Men's Handball Championship in France.",
+                    "links": [],
+                    "start_date": "11/01/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "25 January  Le Canard Enchaîné publishes the first elements of what will become the Fillon affair.",
+                    "links": [],
+                    "start_date": "25/01/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The French Socialist Party presidential primary, 2017 is won by Benoît Hamon.",
+                    "links": [],
+                    "start_date": "29/01/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "France wins the 2017 World Men's Handball Championship.",
+                    "links": [],
+                    "start_date": "29/01/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "30 January  Miss France Iris Mittenaere wins the Miss Universe 2016 competition held in Manila, Philippines.",
+                    "links": [],
+                    "start_date": "30/01/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "3 February  Louvre machete attack.",
+                    "links": [],
+                    "start_date": "03/02/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "24 February  42nd César Awards.",
+                    "links": [],
+                    "start_date": "24/02/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "18 March  2017 Orly Airport attack.",
+                    "links": [],
+                    "start_date": "18/03/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "19 March  Territorial elections in Saint Barthélemy, Saint-Martin and Saint Pierre and Miquelon.",
+                    "links": [],
+                    "start_date": "19/03/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "20 March  Beginning of the 2017 social unrest in French Guiana.",
+                    "links": [],
+                    "start_date": "20/03/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "21 March  Resignation of the Minister of the Interior Bruno Le Roux, suspected of fictitious jobs; Matthias Fekl succeeds him.",
+                    "links": [],
+                    "start_date": "21/03/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "26 March  Territorial elections in Wallis and Futuna.",
+                    "links": [],
+                    "start_date": "26/03/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "8 April  Eight caches of weapons which ETA gave the location to the French authorities are invested by the police.",
+                    "links": [],
+                    "start_date": "08/04/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "20 April  Shooting of Paris police officers.",
+                    "links": [],
+                    "start_date": "20/04/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "23 April  In the first round of voting in the 2017 French presidential election, no candidate wins an overall majority, therefore the two leading contenders, Emmanuel Macron of En Marche! and Marine Le Pen of the National Front (FN), are forced to compete in a second round.",
+                    "links": [
+                        {
+                            "link": "http://www.sudouest.fr/2017/04/23/macron-et-le-pen-au-second-tour-d-une-presidentielle-hors-norme-3389901-6121.php",
+                            "text": "-\"Macron et Le Pen au second tour d'une présidentielle hors norme\". Sud-Ouest. Agence France-Presse. 23 April 2017. Archived from the original on 24 April 2017. Retrieved 23 April 2017.-",
+                            "dates": {
+                                "Archieved": "2017-04-24",
+                                "Retrieved": "2017-04-23",
+                                "Created": "2017-04-23"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20170424090214/http://www.sudouest.fr/2017/04/23/macron-et-le-pen-au-second-tour-d-une-presidentielle-hors-norme-3389901-6121.php",
+                            "text": "-\"Macron et Le Pen au second tour d'une présidentielle hors norme\". Sud-Ouest. Agence France-Presse. 23 April 2017. Archived from the original on 24 April 2017. Retrieved 23 April 2017.-",
+                            "dates": {
+                                "Archieved": "2017-04-24",
+                                "Retrieved": "2017-04-23",
+                                "Created": "2017-04-23"
+                            }
+                        }
+                    ],
+                    "start_date": "23/04/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "May",
+            "Data": [
+                {
+                    "event_text": "7 May  Emmanuel Macron wins the French presidential election decisively.",
+                    "links": [],
+                    "start_date": "07/05/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "14 May  The French presidency is transferred from François Hollande to Emmanuel Macron.",
+                    "links": [],
+                    "start_date": "14/05/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "15 May  Édouard Philippe is appointed Prime Minister of France by President Macron.",
+                    "links": [
+                        {
+                            "link": "http://www.lemonde.fr/politique/article/2017/05/15/edouard-philippe-le-maire-les-republicains-du-havre-nomme-premier-ministre_5127912_823448.html",
+                            "text": "-\"Le premier ministre Philippe prépare \" un gouvernement rassembleur de compétences \"\". Le Monde. 15 May 2017. Retrieved 15 May 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-05-15",
+                                "Created": "2017-05-15"
+                            }
+                        }
+                    ],
+                    "start_date": "15/05/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Formation of the First Philippe government.",
+                    "links": [],
+                    "start_date": "17/05/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Beginning of the 2017 Cannes Film Festival.",
+                    "links": [],
+                    "start_date": "17/05/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "28 May  Beginning of the 2017 French Open.",
+                    "links": [],
+                    "start_date": "28/05/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "29 May  Renaud Muselier is elected President of the Regional Council of Provence-Alpes-Côte d'Azur.",
+                    "links": [],
+                    "start_date": "29/05/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "June",
+            "Data": [
+                {
+                    "event_text": "6 June  Prime Minister Édouard Philippe announces government plans for changes for labour legislation.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/article/us-france-election-labour-idUSKBN18X23L",
+                            "text": "-Jean-Baptiste Vey and Michel Rose (6 June 2017). \"Macron's government strikes firm tone as it unveils labor reform\". Reuters. Retrieved 10 June 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-06-10",
+                                "Created": "2017-06-06"
+                            }
+                        }
+                    ],
+                    "start_date": "06/06/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "11 June  First round of voting in the 2017 French legislative election.",
+                    "links": [
+                        {
+                            "link": "http://www2.assemblee-nationale.fr/content/download/52562/508892/version/1/file/decret_2017-616.pdf",
+                            "text": "-\"Décret no 2017-616\" (PDF). Assemblée nationale. 24 April 2017. Retrieved 8 May 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-05-08",
+                                "Created": "2017-04-24"
+                            }
+                        }
+                    ],
+                    "start_date": "11/06/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "15 June  Nathalie Kosciusko-Morizet is assaulted in Paris.",
+                    "links": [
+                        {
+                            "link": "http://www.huffingtonpost.fr/2017/06/15/nathalie-kosciusko-morizet-fait-un-malaise-apres-une-altercation_a_22275497/",
+                            "text": "-NKM fait un malaise après une altercation avec un passant à Paris Archived 14 November 2022 at the Wayback Machine (in French), Huffington Post, 15 June 2017.-",
+                            "dates": {
+                                "Archieved": "2022-11-14",
+                                "Retrieved": null,
+                                "Created": "2017-06-15"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20221114175757/https://www.huffingtonpost.fr/politique/article/nkm-fait-un-malaise-apres-une-agression-par-un-passant_102584.html",
+                            "text": "-NKM fait un malaise après une altercation avec un passant à Paris Archived 14 November 2022 at the Wayback Machine (in French), Huffington Post, 15 June 2017.-",
+                            "dates": {
+                                "Archieved": "2022-11-14",
+                                "Retrieved": null,
+                                "Created": "2017-06-15"
+                            }
+                        }
+                    ],
+                    "start_date": "15/06/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "18 June  Second round of voting in the 2017 French legislative election.",
+                    "links": [],
+                    "start_date": "18/06/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "19 June  The first Philippe government is dissolved, the second Philippe government is appointed.",
+                    "links": [],
+                    "start_date": "19/06/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "22 June  Loïg Chesnais-Girard is elected President of the Regional Council of Brittany.",
+                    "links": [],
+                    "start_date": "22/06/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "27 June  François de Rugy is elected President of the National Assembly.",
+                    "links": [],
+                    "start_date": "27/06/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "July",
+            "Data": [
+                {
+                    "event_text": "2 July  The LGV Bretagne-Pays de la Loire and LGV Sud Europe Atlantique are opened by President Macron.",
+                    "links": [],
+                    "start_date": "02/07/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "16 July - Tribute to the 75th anniversary of the Vel' d'Hiv Roundup in the presence of President Emmanuel Macron and Israeli Prime Minister Benyamin Netanyahu.",
+                    "links": [],
+                    "start_date": "16/07/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "17 July  Georges Képénékian is elected Mayor of Lyon.",
+                    "links": [],
+                    "start_date": "17/07/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The 2017 Tour de France concludes in Paris.",
+                    "links": [
+                        {
+                            "link": "http://www.cyclingnews.com/news/tour-de-france-2017-route-presented/",
+                            "text": "-\"Tour de France 2017 route presented\". Cycling News. 18 October 2016. Retrieved 19 October 2016.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2016-10-19",
+                                "Created": "2016-10-18"
+                            }
+                        }
+                    ],
+                    "start_date": "23/07/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Pierre de Villiers resigns as Chief of the Defence Staff; François Lecointre is named by President Macron to replace him.",
+                    "links": [],
+                    "start_date": "23/07/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "30 July  Laurianne Rossi, member of the National Assembly for Hauts-de-Seine's 11th constituency,  is assaulted in Bagneux, Hauts-de-Seine.",
+                    "links": [
+                        {
+                            "link": "http://www.lemonde.fr/politique/article/2017/07/30/hauts-de-seine-une-deputee-en-marche-agressee-sur-un-marche_5166672_823448.html",
+                            "text": "-Hauts-de-Seine : une députée En Marche agressée sur un marché Archived 6 October 2017 at the Wayback Machine (in French), Le Monde, 30 July 2017.-",
+                            "dates": {
+                                "Archieved": "2017-10-06",
+                                "Retrieved": null,
+                                "Created": "2017-07-30"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20171006112549/http://www.lemonde.fr/politique/article/2017/07/30/hauts-de-seine-une-deputee-en-marche-agressee-sur-un-marche_5166672_823448.html",
+                            "text": "-Hauts-de-Seine : une députée En Marche agressée sur un marché Archived 6 October 2017 at the Wayback Machine (in French), Le Monde, 30 July 2017.-",
+                            "dates": {
+                                "Archieved": "2017-10-06",
+                                "Retrieved": null,
+                                "Created": "2017-07-30"
+                            }
+                        }
+                    ],
+                    "start_date": "30/07/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "August",
+            "Data": [
+                {
+                    "event_text": "9 August  Levallois-Perret attack.",
+                    "links": [],
+                    "start_date": "09/08/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "14 August  Sept-Sorts car attack.",
+                    "links": [],
+                    "start_date": "14/08/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "September",
+            "Data": [
+                {
+                    "event_text": "6 September  Hurricane Irma hits Saint Barthélémy and Saint Martin.",
+                    "links": [],
+                    "start_date": "06/09/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The International Olympic Committee awards Paris the rights to host for the 2024 Summer Olympics.",
+                    "links": [
+                        {
+                            "link": "http://www.latimes.com/sports/sportsnow/la-sp-2028-olympics-deal-20170731-story.html",
+                            "text": "-Wharton, David (31 July 2017). \"Los Angeles makes deal to host 2028 Summer Olympics\". Los Angeles Times. Retrieved 31 July 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-07-31",
+                                "Created": "2017-07-31"
+                            }
+                        }
+                    ],
+                    "start_date": "13/09/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Beginning of the fête de l'Humanité (3 days).",
+                    "links": [],
+                    "start_date": "13/09/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "19 September  Hurricane Maria hits Guadeloupe.",
+                    "links": [],
+                    "start_date": "19/09/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "24 September  2017 French Senate election.",
+                    "links": [],
+                    "start_date": "24/09/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "October",
+            "Data": [
+                {
+                    "event_text": "1 October  Marseille stabbing.",
+                    "links": [],
+                    "start_date": "01/10/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "13 October  Former Minister of Culture Audrey Azoulay is elected UNESCO Director-General.",
+                    "links": [],
+                    "start_date": "13/10/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "20 October  Jean Rottner is elected President of the Regional Council of Grand Est.",
+                    "links": [],
+                    "start_date": "20/10/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "November",
+            "Data": [
+                {
+                    "event_text": "24 November  Government reshuffle Édouard Philippe.",
+                    "links": [],
+                    "start_date": "24/11/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "December",
+            "Data": [
+                {
+                    "event_text": "8 December  National tribute to Jean d'Ormesson, died 5 December.",
+                    "links": [],
+                    "start_date": "08/12/2017",
+                    "end_date": "05/12/2017"
+                },
+                {
+                    "event_text": "Second voting round of the 2017 Corsican territorial election.",
+                    "links": [],
+                    "start_date": "10/12/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Laurent Wauquiez is elected President of The Republicans party.",
+                    "links": [],
+                    "start_date": "10/12/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "14 December  Perpignan crash.",
+                    "links": [],
+                    "start_date": "14/12/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "17 December  Senatorial by-elections in Aube, Vienne and Yonne.",
+                    "links": [],
+                    "start_date": "17/12/2017",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

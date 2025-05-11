@@ -1,0 +1,625 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "The first case of clade 1b mpox in France is discovered from a patient in Brittany who came into contact with persons who had travelled to central Africa.",
+                    "links": [
+                        {
+                            "link": "https://www.france24.com/en/europe/20250107-france-mpox-variant",
+                            "text": "-\"France detects first case of new mpox variant\". France 24. 7 January 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2025-01-07"
+                            }
+                        }
+                    ],
+                    "start_date": "06/01/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "President Emmanuel Macron states that France was right to intervene militarily in the African Sahel against Islamist militants, and states that he is still waiting for the Sahel states to \"thank\" France while also denying that the French military was forced out of the region.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/europe/still-awaiting-thanks-stopping-islamists-sahel-macron-says-2025-01-06/",
+                            "text": "-\"Still awaiting thanks for stopping Islamists in Sahel, Macron says\". Reuters. January 6, 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2024-01-06"
+                            }
+                        }
+                    ],
+                    "start_date": "06/01/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "11 January  Two trams collide in Strasbourg-Ville station, injuring 68 people.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/articles/c15z34gjlndo",
+                            "text": "-\"More than 60 injured after Strasbourg trams collide\". BBC. 12 January 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2025-01-12"
+                            }
+                        }
+                    ],
+                    "start_date": "11/01/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "15 January  A wildfire breaks out in Amsterdam Island in the French Southern and Antarctic Lands, forcing the evacuation of all 31 residents. By 10 February, 45% of the island's area is affected.",
+                    "links": [
+                        {
+                            "link": "https://www.france24.com/en/live-news/20250210-almost-half-of-remote-french-island-hit-by-wildfire-official",
+                            "text": "-\"Almost half of remote French island hit by wildfire: official\". France 24. 10 February 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2025-02-10"
+                            }
+                        }
+                    ],
+                    "start_date": "15/01/2025",
+                    "end_date": "10/02/2025"
+                },
+                {
+                    "event_text": "16 January  Prime Minister François Bayrou survives a no-confidence motion filed by La France Insoumise in the National Assembly.",
+                    "links": [
+                        {
+                            "link": "https://www.france24.com/en/france/20250116-french-pm-bayrou-set-to-survive-first-no-confidence-vote-in-parliament",
+                            "text": "-\"French PM Bayrou survives first no-confidence vote in parliament\". France 24. 17 January 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2025-01-17"
+                            }
+                        }
+                    ],
+                    "start_date": "16/01/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Pakistani national Zaheer Mahmood is convicted of attempted murder and terrorist conspiracy for carrying out the 2020 Paris stabbing attack and is sentenced to 30 years' imprisonment.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/articles/crr0qj799xvo",
+                            "text": "-\"Man jailed for 30 years for Charlie Hebdo meat cleaver attack\". BBC. 24 January 2025. Retrieved 2025-01-24.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-01-24",
+                                "Created": "2025-01-24"
+                            }
+                        }
+                    ],
+                    "start_date": "24/01/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Indonesia and France sign an agreement to repatriate French national Serge Atlaoui, who has been in death row since 2007 in an Indonesian prison following a conviction for drug smuggling.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/indonesia-france-serge-atlaoui-transfer-of-prisoner-8389a12a4e1f57f9d65fba72d8d15e68",
+                            "text": "-\"Indonesia agrees to repatriate ailing French national who has spent almost 20 years on death row\". AP News. 24 January 2025. Retrieved 2025-01-24.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-01-24",
+                                "Created": "2025-01-24"
+                            }
+                        }
+                    ],
+                    "start_date": "24/01/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "29 January  Four Norwegian skiers are killed in an avalanche at Val-Cenis in the French Alps.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/articles/czep67j3w8do",
+                            "text": "-\"Five skiers killed in French Alps avalanches\". BBC. Retrieved 2025-01-29.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-01-29",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "29/01/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Serge Atlaoui is repatriated to France as part of the bilateral agreement with Indonesia signed on 24 January.",
+                    "links": [
+                        {
+                            "link": "https://www.france24.com/en/asia-pacific/20250205-frenchman-atlaoui-returns-to-paris-after-reprieve-from-death-row-in-indonesia",
+                            "text": "-\"Frenchman Atlaoui returns to Paris after reprieve from death row in Indonesia\". France 24. 5 February 2025. Retrieved 2025-02-05.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-05",
+                                "Created": "2025-02-05"
+                            }
+                        }
+                    ],
+                    "start_date": "24/01/2025",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "1 February  Three people are killed in a fire at a retirement home in Bouffémont.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/france-retirement-home-fire-6bc21440ee9b7be5feff24ff9bb4b45e",
+                            "text": "-\"Fire at retirement home near Paris leaves 3 dead, 8 injured\". AP News. 1 February 2025. Retrieved 2025-02-01.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-01",
+                                "Created": "2025-02-01"
+                            }
+                        }
+                    ],
+                    "start_date": "01/02/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "3 February  Prime Minister François Bayrou passes his government's annual budget after bypassing a vote in the National Assembly through special constitutional powers.",
+                    "links": [
+                        {
+                            "link": "https://www.france24.com/en/live-news/20250203-french-pm-set-to-force-budget-through-parliament",
+                            "text": "-\"French PM Bayrou uses special constitutional powers to force 2025 budget through parliament\". France 24. 3 February 2025. Retrieved 2025-02-04.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-03",
+                                "Created": "2025-02-04"
+                            }
+                        }
+                    ],
+                    "start_date": "03/02/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Serge Atlaoui is repatriated to France as part of the bilateral agreement with Indonesia signed on 24 January.",
+                    "links": [
+                        {
+                            "link": "https://www.france24.com/en/asia-pacific/20250205-frenchman-atlaoui-returns-to-paris-after-reprieve-from-death-row-in-indonesia",
+                            "text": "-\"Frenchman Atlaoui returns to Paris after reprieve from death row in Indonesia\". France 24. 5 February 2025. Retrieved 2025-02-05.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-05",
+                                "Created": "2025-02-05"
+                            }
+                        }
+                    ],
+                    "start_date": "05/02/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Prime Minister Bayrou survives a no-confidence motion filed against him in the National Assembly over his passage of the 2025 budget.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/france-no-confidence-prime-minister-budget-bayrou-bardella-2fb48f5591135513de2e3ce049090493",
+                            "text": "-\"France's government survives a no-confidence vote and a budget is finally adopted\". AP News. 4 February 2025. Retrieved 2025-02-06.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-04",
+                                "Created": "2025-02-06"
+                            }
+                        }
+                    ],
+                    "start_date": "05/02/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "10 February  Prime Minister Bayrou survives a second no-confidence motion filed against him in the National Assembly over his passage of the 2025 budget.",
+                    "links": [
+                        {
+                            "link": "https://www.france24.com/en/live-news/20250210-%F0%9F%94%B4-french-pm-fran%C3%A7ois-bayrou-survives-another-no-confidence-vote-over-social-security-budget",
+                            "text": "-\"French PM François Bayrou survives another no-confidence vote over social security budget\". France 24. 10 February 2025. Retrieved 2025-02-11.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-10",
+                                "Created": "2025-02-11"
+                            }
+                        }
+                    ],
+                    "start_date": "10/02/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "2025 Grenoble attack  Twelve people are injured in a grenade attack on a bar in Grenoble.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/articles/c20g37rrjy1o",
+                            "text": "-\"Grenade attack in French bar injures 12\". BBC. 13 February 2025. Retrieved 2025-02-13.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-13",
+                                "Created": "2025-02-13"
+                            }
+                        }
+                    ],
+                    "start_date": "12/02/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The WEST tokamak is reported to have maintained plasma for 1,337 seconds, a new world record duration for nuclear fusion and 25% longer than a similar effort by China the previous month.",
+                    "links": [
+                        {
+                            "link": "https://www.thelocal.fr/20250219/france-sets-new-plasma-record-in-hunt-for-nuclear-fusion",
+                            "text": "-\"France 'sets new plasma record' in hunt for nuclear fusion\". The Local. The Local. 19 February 2025. Retrieved 19 February 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-19",
+                                "Created": "2025-02-19"
+                            }
+                        },
+                        {
+                            "link": "https://www.cea.fr/english/Pages/News/nuclear-fusion-west-beats-the-world-record-for-plasma-duration.aspx",
+                            "text": "-\"Nuclear fusion: WEST beats the world record for plasma duration!\". CEA. CEA. 18 February 2025. Retrieved 19 February 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-19",
+                                "Created": "2025-02-18"
+                            }
+                        }
+                    ],
+                    "start_date": "12/02/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "13 February  The National Assembly votes in favor of a measure banning single-use electronic cigarettes.",
+                    "links": [
+                        {
+                            "link": "https://www.france24.com/en/live-news/20250213-french-parliament-votes-to-ban-disposable-e-cigarettes",
+                            "text": "-\"French parliament votes to ban disposable e-cigarettes\". France 24. 13 February 2025. Retrieved 2025-02-14.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-13",
+                                "Created": "2025-02-14"
+                            }
+                        }
+                    ],
+                    "start_date": "13/02/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "One person is killed in a knife attack in Mulhouse.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/articles/c984enp4480o",
+                            "text": "-\"One dead in stabbing in French city of Mulhouse\". BBC. 23 February 2025. Retrieved 2025-02-23.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-23",
+                                "Created": "2025-02-23"
+                            }
+                        }
+                    ],
+                    "start_date": "22/02/2025",
+                    "end_date": "25/02/2025"
+                },
+                {
+                    "event_text": "Fugitive Mohamed Amra, who escaped in an incident that left two prison guards dead in May 2024, is arrested in Romania. He is extradited to France on 25 February.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/france-romania-fugitive-amra-39965e605ff99de8778af8be08180995",
+                            "text": "-\"A fugitive French prisoner was arrested in Romania after a deadly escape and 9-month hunt\". AP News. Retrieved 2025-02-23.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-23",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://apnews.com/article/french-fugitive-fly-mohamed-amra-extradited-6241cab7fc71913dcf8610cfbf951da5",
+                            "text": "-\"French fugitive 'The Fly' is extradited to France after his arrest in Romania\". AP News. Retrieved 2025-02-26.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-26",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "25/02/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "24 February  Three molotov cocktails are thrown at the Russian consulate in Marseille. No injuries are reported.",
+                    "links": [
+                        {
+                            "link": "https://www.france24.com/en/europe/20250224-russia-demands-investigation-into-explosions-heard-at-marseille-consulate",
+                            "text": "-\"Three explosive devices thrown at the Russian consulate in Marseille, France\". France 24. 24 February 2025. Retrieved 2025-02-24.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-24",
+                                "Created": "2025-02-24"
+                            }
+                        }
+                    ],
+                    "start_date": "24/02/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "26 February  Brahim Aouissaoui is sentenced to life imprisonment without parole for carrying out the 2020 Nice stabbing.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/france-nice-church-attack-verdict-brahim-aouissaoui-761f0e8237296ff08e7a2b501e4f8a30",
+                            "text": "-\"A Tunisian extremist is imprisoned for life for killing 3 people in a French basilica in 2020\". AP News. 27 February 2025. Retrieved 27 February 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-27",
+                                "Created": "2025-02-27"
+                            }
+                        }
+                    ],
+                    "start_date": "26/02/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "28 February  Cyclone Garance makes landfall in Réunion, killing one person and leaving two others missing.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/business/environment/reunion-issue-highest-threat-warning-cyclone-approaches-authorities-say-2025-02-28/",
+                            "text": "-\"One dead, two missing as cyclone Garance hits French island of La Reunion\". Reuters. 28 February 2025. Retrieved 28 February 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-28",
+                                "Created": "2025-02-28"
+                            }
+                        }
+                    ],
+                    "start_date": "28/02/2025",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "6 March  The Ariane 6 rocket successfully launches from Kourou, French Guiana, placing the CSO-3 French military reconnaissance satellite into orbit.",
+                    "links": [
+                        {
+                            "link": "https://www.france24.com/en/live-news/20250306-%F0%9F%94%B4european-rocket-ariane-6-launches-on-first-commercial-mission",
+                            "text": "-\"Europe's new Ariane 6 rocket successfully puts French spy satellite into orbit\". France 24. 2025-03-06. Retrieved 2025-03-24.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-03-24",
+                                "Created": "2025-03-06"
+                            }
+                        },
+                        {
+                            "link": "https://apnews.com/article/space-ariane-rockets-satellites-military-2ce8b2a7348997ecd22cd6467bc62c25",
+                            "text": "-\"Ariane 6 rocket roars skyward carrying a French military reconnaissance satellite\". AP News. 2025-03-06. Retrieved 2025-03-24.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-03-24",
+                                "Created": "2025-03-06"
+                            }
+                        }
+                    ],
+                    "start_date": "06/03/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The National Assembly votes to remove sitting and standing as a voting method in the chamber following a proposal co-created by MP Sébastien Peytavie, who is wheelchair-bound.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/france-disabilities-human-rights-parliament-lawmakers-wheelchair-4f0863473168de6dc50f8c8107248c4c",
+                            "text": "-\"French lawmaker who uses a wheelchair wins a change in voting rules that discriminated against him\". AP News. 12 March 2025. Retrieved 12 March 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-03-12",
+                                "Created": "2025-03-12"
+                            }
+                        }
+                    ],
+                    "start_date": "12/03/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Jean-Pierre Maldera, a former mafia boss, is shot dead along the A41 autoroute in Grenoble.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/articles/cjev12yd202o",
+                            "text": "-\"Former mafia boss shot dead on Grenoble motorway\". BBC. 13 March 2025. Retrieved 12 March 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-03-12",
+                                "Created": "2025-03-13"
+                            }
+                        }
+                    ],
+                    "start_date": "12/03/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "17 March  French national Olivier Grondeau, who had been imprisoned in Iran since 2022 on espionage charges, is released and repatriated to France.",
+                    "links": [
+                        {
+                            "link": "https://www.france24.com/en/live-news/20250320-iran-frees-french-citizen-after-prison-ordeal-macron",
+                            "text": "-\"Iran frees Frenchman after nearly 900-day prison ordeal\". France 24. 2025-03-20. Retrieved 2025-03-20.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-03-20",
+                                "Created": "2025-03-20"
+                            }
+                        }
+                    ],
+                    "start_date": "17/03/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "22 March  Arié Engelberg, the chief rabbi of Orléans, is injured in an anti-Semitic assault. A suspect is arrested.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/france-macron-rabbi-attack-antisemitism-orleans-2618957ae166c99809ccd659afb2e2e8",
+                            "text": "-\"French president condemns antisemitism after attack on Orleans' chief rabbi\". AP News. 2025-03-23. Retrieved 2025-03-23.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-03-23",
+                                "Created": "2025-03-23"
+                            }
+                        }
+                    ],
+                    "start_date": "22/03/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "25 March  Two Dassault/Dornier Alpha Jet aircraft of the Patrouille de France collide mid-air near an air base in Saint-Dizier. The three people on board are rescued.",
+                    "links": [
+                        {
+                            "link": "https://www.france24.com/en/live-news/20250326-three-survive-mid-air-crash-of-french-air-force-acrobatics-team",
+                            "text": "-\"Three survive mid-air crash of French air force acrobatics team\". France 24. 2025-03-26. Retrieved 2025-03-26.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-03-26",
+                                "Created": "2025-03-26"
+                            }
+                        }
+                    ],
+                    "start_date": "25/03/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "31 March  Marine Le Pen from the National Rally (RN) is banned from running for political office for five years following her conviction for embezzlement, making her ineligible to run in the 2027 French presidential election.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/articles/cwyq40yz70qo",
+                            "text": "-\"Marine Le Pen barred from running for public office for five years\". BBC. 2025-03-31. Retrieved 2025-03-31.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-03-31",
+                                "Created": "2025-03-31"
+                            }
+                        }
+                    ],
+                    "start_date": "31/03/2025",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "7 April  A massive fire destroys the Syctom recycling plant in Paris.",
+                    "links": [
+                        {
+                            "link": "https://www.france24.com/en/live-news/20250408-200-firefighters-battle-major-paris-inferno",
+                            "text": "-\"200 firefighters battle major Paris inferno\". France 24. 8 April 2025. Retrieved 8 April 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-04-08",
+                                "Created": "2025-04-08"
+                            }
+                        }
+                    ],
+                    "start_date": "07/04/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "14 April  Algeria orders the expulsion of 12 French diplomats in retaliation for France indicting three Algerians for the 2024 abduction of dissident Amir Boukhors in Paris. In retaliation, France expels 12 Algerian diplomats the next day.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/articles/c62xw575w9yo",
+                            "text": "-\"Algeria to expel 12 French embassy officials\". BBC. 14 April 2025. Retrieved 14 April 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-04-14",
+                                "Created": "2025-04-14"
+                            }
+                        },
+                        {
+                            "link": "https://apnews.com/article/france-algeria-tensions-officials-expelled-09a8626acbf925733e088bc1b2f365a5",
+                            "text": "-\"France expels 12 Algerian officials in tit-for-tat move amid diplomatic tensions\". AP News. 16 April 2025. Retrieved 16 April 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-04-16",
+                                "Created": "2025-04-16"
+                            }
+                        }
+                    ],
+                    "start_date": "14/04/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "15 April  Unknown individuals launch overnight attacks on prisons in Toulon, Aix-en-Provence, Marseille, Valence, Nîmes, Villepinte and Nanterre.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/articles/cwy75231z90o",
+                            "text": "-\"French prisons hit by wave of overnight attacks\". BBC. 15 April 2025. Retrieved 15 April 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-04-15",
+                                "Created": "2025-04-15"
+                            }
+                        }
+                    ],
+                    "start_date": "15/04/2025",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "June",
+            "Data": [
+                {
+                    "event_text": "14  15 June  2025 24 Hours of Le Mans",
+                    "links": [
+                        {
+                            "link": "https://us.motorsport.com/wec/news/le-mans-24-hours-to-clash-with-f1-canadian-gp-in-2025-as-wec-calendar-announced/10623264/",
+                            "text": "-Watkins, Gary (14 June 2024). \"Le Mans 24 Hours to clash with F1 Canadian GP in 2025 as WEC calendar announced\". Motorsport.com. Retrieved 16 June 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-06-16",
+                                "Created": "2024-06-14"
+                            }
+                        }
+                    ],
+                    "start_date": "15/06/2025",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "July",
+            "Data": [
+                {
+                    "event_text": "5  27 July  2025 Tour de France",
+                    "links": [],
+                    "start_date": "27/07/2025",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "August",
+            "Data": [
+                {
+                    "event_text": "25  31 August  2025 BWF World Championships in Paris",
+                    "links": [
+                        {
+                            "link": "https://corporate.bwfbadminton.com/news-single/2018/11/29/bwf-major-event-hosts-2019-2025-awarded",
+                            "text": "-\"BWF Major Event Hosts 2019-2025 Awarded\". Badminton World Federation. 29 November 2018. Retrieved 9 September 2019.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2019-09-09",
+                                "Created": "2018-11-29"
+                            }
+                        }
+                    ],
+                    "start_date": "31/08/2025",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

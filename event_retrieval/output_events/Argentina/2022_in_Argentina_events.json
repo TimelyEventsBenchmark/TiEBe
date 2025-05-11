@@ -1,0 +1,79 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "21 January  Argentina formally requests Russia to arrest Iranian minister Mohsen Rezai, who is on a trip to Russia, based on the accusation by Argentina of Rezai's involvement in the 1994 AMIA bombing. Russia did not immediately respond.",
+                    "links": [
+                        {
+                            "link": "https://www.infobae.com/america/agencias/2022/01/21/argentina-pide-a-moscu-detencion-de-irani-acusado-de-ataque/",
+                            "text": "-de 2022, 21 de Enero (21 January 2022). \"Argentina pide a Moscú detención de iraní acusado de ataque\". infobae (in European Spanish). Retrieved 2022-01-22.{{cite web}}:  CS1 maint: numeric names: authors list (link)-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-01-21",
+                                "Created": "2022-01-22"
+                            }
+                        }
+                    ],
+                    "start_date": "21/01/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "June",
+            "Data": [
+                {
+                    "event_text": "the Ramón Castillo Neonatal Hospital in Córdoba is intervened at after a series of deaths of healthy babies, which culminated in the arrest of nurse Brenda Agüero on 19 August.",
+                    "links": [
+                        {
+                            "link": "https://www.pagina12.com.ar/474920-quien-es-brenda-aguero-la-enfermera-detenida-por-el-asesinat",
+                            "text": "-\"Quién es Brenda Agüero, la enfermera detenida por el asesinato de los bebés en Córdoba\". Página/12 (in Spanish). 21 August 2022. Retrieved 9 August 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-08-09",
+                                "Created": "2022-08-21"
+                            }
+                        }
+                    ],
+                    "start_date": "21/01/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "August",
+            "Data": [
+                {
+                    "event_text": "20 August  2022 Tucumán legionellosis outbreak",
+                    "links": [],
+                    "start_date": "20/08/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "September",
+            "Data": [
+                {
+                    "event_text": "1 September  Attempted assassination of Cristina Fernández de Kirchner",
+                    "links": [],
+                    "start_date": "01/09/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "December",
+            "Data": [
+                {
+                    "event_text": "18 December  Argentina wins the FIFA World Cup in Qatar",
+                    "links": [],
+                    "start_date": "18/12/2022",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

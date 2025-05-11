@@ -1,0 +1,45 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "5 January  Kadovar volcano eruption",
+                    "links": [],
+                    "start_date": "05/01/2018",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "26 February  an earthquake of 7.5 moment magnitude struck in Hela Province, resulting in at least 67 people killed and a further 500 injured.",
+                    "links": [
+                        {
+                            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us2000d7q6#executive",
+                            "text": "-\"M.7.5 - 89km SSW of Porgera, Papua New Guinea\". United States Geological Survey. Retrieved 5 March 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-03-05",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://time.com/5185057/papua-new-guinea-earthquake-aftermath/",
+                            "text": "-\"Death Toll Rises as Aftershocks Rattle Papua New Guinea\". Time. Retrieved 5 March 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-03-05",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "26/02/2018",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

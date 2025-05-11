@@ -1,0 +1,1370 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "17 January  Former president Petro Poroshenko, filed his appeal to the court after he was appread[clarification needed] by his scandals during his term and the Euromaidan protest.",
+                    "links": [
+                        {
+                            "link": "https://www.aljazeera.com/news/2022/1/19/ukrainian-court-rejects-request-to-detain-ex-president-poroshenko",
+                            "text": "-\"Ukrainian court rejects request to detain ex-President Poroshenko\". www.aljazeera.com. Retrieved 2022-01-29.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-01-29",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://www.aljazeera.com/news/2022/1/17/ex-leader-poroshenko-returns-to-ukraine-to-face-treason-case",
+                            "text": "-\"Ex-leader Poroshenko returns to Ukraine to face treason case\". www.aljazeera.com. Retrieved 2022-01-29.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-01-29",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://www.dw.com/en/ukraine-court-rejects-request-to-arrest-ex-president-petro-poroshenko/a-60482710",
+                            "text": "-\"Ukraine court rejects request to arrest ex-President Petro Poroshenko | DW | 19.01.2022\". Deutsche Welle. Retrieved 2022-01-29.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-01-29",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "17/01/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "14 February  German Chancellor Olaf Scholz met with President Zelenskiy in Kyiv, and with Russian President Putin in Moscow to attempt to ease the crisis in Ukraine.",
+                    "links": [
+                        {
+                            "link": "https://www.rferl.org/a/ukraine-russia-scholz-talks/31702470.html",
+                            "text": "-\"Moscow Signals Talks To Continue As Germany's Scholz Urges De-Escalation Over Ukraine\". Radiofreeeurope/Radioliberty. Retrieved 11 April 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-04-11",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "14/02/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "19 February  2022 Russia-Ukraine clash accusations.",
+                    "links": [],
+                    "start_date": "19/02/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "21 February  Russian President Vladimir Putin signed a decree recognising the Donetsk and Luhansk People's Republics in eastern Ukraine, and ordered Russian forces to enter Ukraine.",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/world/2022/feb/21/ukraine-putin-decide-recognition-breakaway-states-today",
+                            "text": "-Putin orders troops into eastern Ukraine on ‘peacekeeping duties’ The Guardian, 2022-02-21.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2022-02-21"
+                            }
+                        },
+                        {
+                            "link": "https://www.theguardian.com/world/video/2022/feb/21/putin-signs-decree-recognising-ukraines-two-breakaway-regions-video",
+                            "text": "-Putin signs decree recognising Ukraine's two breakaway territories Archived 2022-02-22 at the Wayback Machine The Guardian, 2022-02-21.-",
+                            "dates": {
+                                "Archieved": "2022-02-22",
+                                "Retrieved": null,
+                                "Created": "2022-02-21"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20220222220735/https://www.theguardian.com/world/video/2022/feb/21/putin-signs-decree-recognising-ukraines-two-breakaway-regions-video",
+                            "text": "-Putin signs decree recognising Ukraine's two breakaway territories Archived 2022-02-22 at the Wayback Machine The Guardian, 2022-02-21.-",
+                            "dates": {
+                                "Archieved": "2022-02-22",
+                                "Retrieved": null,
+                                "Created": "2022-02-21"
+                            }
+                        }
+                    ],
+                    "start_date": "21/02/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Explosions from Russian rocket strikes were heard throughout the country, especially in and around Kyiv.",
+                    "links": [],
+                    "start_date": "24/02/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Ukrainian Defense Minister claimed Ukraine had inflicted 800 casualties among Russian forces, destroyed 30 Russian tanks, 7 Russian aircraft, and 6 helicopters. This claim remained unverified.",
+                    "links": [],
+                    "start_date": "24/02/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "US President Joe Biden and Secretary of Defense Lloyd Austin announced the deployment of an additional 7,000 troops to Germany from the US to support NATO allies amid the crisis.",
+                    "links": [],
+                    "start_date": "24/02/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The European Union announced new sanctions on Russia targeting the country's financial, energy, and transport sectors, visa policy, and include export controls and export financing bans in response to the invasion. The sanctions were targeted to have \"maximum impact on the Russian economy and political elite\" according to European Commission President Ursula von der Leyen at a joint news conference with French President Emmanuel Macron.",
+                    "links": [],
+                    "start_date": "25/02/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A video of a Russian T-72B3 tank with a Z painted on the front raised the flag of the Soviet Union as it entered Ukraine. While certainly a statement, the flag was more likely was there to \"reduce the risk of friendly fire,\" especially from the air, according to a source in Kyiv.",
+                    "links": [
+                        {
+                            "link": "https://www.newsweek.com/russian-tank-soviet-union-ukraine-invasion-dnieper-war-video-1682593",
+                            "text": "-Kaonga, Gerrard (25 February 2022). \"Video Shows Russian Tank Flying Soviet Flag During Ukraine Invasion\". newsweek.com. Retrieved 26 April 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-04-26",
+                                "Created": "2022-02-25"
+                            }
+                        }
+                    ],
+                    "start_date": "25/02/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "26 February (Day 3)  Artem Datsishin, a ballet dancer of Ukraine's National Opera House, was injured by Russian shelling and later died in the hospital.",
+                    "links": [],
+                    "start_date": "26/02/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "28 February (Day 5)  The first instance of a Ukrainian farmer towing away a Russian tank appeared on social media, followed by many more to come in the future.",
+                    "links": [
+                        {
+                            "link": "https://www.fwi.co.uk/news/ukrainian-farmer-uses-tractor-to-steal-russian-tank",
+                            "text": "-Case, Philip (March 2022). \"Ukrainian farmer uses tractor to 'steal' Russian tank\". fwi.co.uk. Retrieved 8 April 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-04-08",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "28/02/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "3 March (Day 8)  Eight civilians were killed in the city of Izium when the town's central hospital reportedly sustained significant damage from a Russian rocket strike.",
+                    "links": [],
+                    "start_date": "03/03/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "5 March (Day 10)  A video posted online showed a Russian jet being shot down by Ukrainian forces near Chernihiv. Later images showed the capture of the pilot, who ejected from his plane but was injured.",
+                    "links": [
+                        {
+                            "link": "https://www.rferl.org/a/ukraine-russia-pilot-captured/31737920.html",
+                            "text": "-Furlong, Ray (5 March 2022). \"Ukraine Shoots Down Russian Jet, Captures Pilot\". rferl.org. Retrieved 8 April 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-04-08",
+                                "Created": "2022-03-05"
+                            }
+                        }
+                    ],
+                    "start_date": "05/03/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "6 March (Day 11)  Intense shelling of Izium began as Russian forces occupied Honcharivka and Pisky neighbourhoods and the city railway station, according to deputy mayor of Izium Volodymyr Matsokin.",
+                    "links": [],
+                    "start_date": "06/03/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Maj Gen Vitaly Gerasimov, chief of staff of Russia's 41st combined army, was killed outside of Kharkiv, according to Ukraine's defence ministry, but Gerasimov was confirmed to be alive by BBC Russian when he was awarded the Order of Alexander Nevsky on 23 May 2022.",
+                    "links": [
+                        {
+                            "link": "https://www.pravda.ru/news/world/1711740-gerasimov/",
+                            "text": "-Смирнова, Юлиана (2022-05-23). \"Воскрес \"убитый\" генерал ВС РФ Герасимов\". Правда.Ру (in Russian). Retrieved 2024-04-21.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-04-21",
+                                "Created": "2022-05-23"
+                            }
+                        },
+                        {
+                            "link": "https://www.bbc.com/russian/features-61754126",
+                            "text": "-\"Груз 200: что известно о потерях России в Украине к середине июня\". BBC News Русская служба (in Russian). Retrieved 2024-04-21.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-04-21",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "07/03/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Russian online outlets reported that the city of Izium was taken by Russian forces. This claim does not appear to have been factual, especially because fighting broke out between Ukrainian and Russian forces the next day.",
+                    "links": [
+                        {
+                            "link": "https://kyivindependent.com/uncategorized/russian-troops-destroy-central-hospital-in-izyum-kharkiv-oblast/",
+                            "text": "-\"Russian troops destroy central hospital in Izyum, Kharkiv Oblast\". Voice of America. 8 March 2022. Retrieved 8 March 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-03-08",
+                                "Created": "2022-03-08"
+                            }
+                        }
+                    ],
+                    "start_date": "07/03/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "8 March (Day 13)  The United States banned imports of all Russian oil, liquefied natural gas, and coal in response to the Russian invasion of Ukraine.",
+                    "links": [
+                        {
+                            "link": "https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/03/08/fact-sheet-united-states-bans-imports-of-russian-oil-liquefied-natural-gas-and-coal/",
+                            "text": "-\"FACT SHEET: United States Bans Imports of Russian Oil, Liquefied Natural Gas, and Coal\". White House. 8 March 2022. Retrieved 6 April 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-04-06",
+                                "Created": "2022-03-08"
+                            }
+                        }
+                    ],
+                    "start_date": "08/03/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "10 March (Day 15)  2,250 civilians were evacuated from Izium as Russian forces pushed further into the city.",
+                    "links": [],
+                    "start_date": "10/03/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Maj Gen Andrei Kolesnikov, the Russian commander of the 29th combined army, was killed in fighting, according to official Ukrainian sources.",
+                    "links": [],
+                    "start_date": "11/03/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Ukrainian military claimed  to have damaged or destroyed 31 Russian Battalion tactical groups (BTGs).",
+                    "links": [],
+                    "start_date": "11/03/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Russian troops captured the northern part of Izium.",
+                    "links": [],
+                    "start_date": "12/03/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Russian forces conducted a new advance northeast from Kherson along the western bank of the Dnipro, as well as make limited territorial gains east of Mariupol.",
+                    "links": [],
+                    "start_date": "12/03/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "13 March (Day 18)  Yevhen Matveyev, leader of Dniprorudne, was abducted by Russian troops, according to Foreign Minister Dmytro Kuleba.",
+                    "links": [],
+                    "start_date": "13/03/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Some information suggested China expressed some openness to providing Russia with requested military and financial assistance with the war on Ukraine, according to a US diplomat. Both China and Russia denied that Moscow asked for military assistance.",
+                    "links": [],
+                    "start_date": "14/03/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A Russian missile attack on a military training centre in Yavoriv killed around 35 people, 15 miles away from the Ukrainian border with Poland.",
+                    "links": [],
+                    "start_date": "14/03/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The UNGA voted on a resolution demanding an immediate end to the Russian offensive in Ukraine. 141 countries voted in favor of the resolution, 35 nations abstained, and only 5 nations voted against (Russia, Belarus, North Korea, Eritrea, and Syria) in a \"sweeping show of international unity\". The UNSC failed to adopt the vote though, because of the single \"no\" vote from Russia, a P5 member.",
+                    "links": [
+                        {
+                            "link": "https://www.atlanticcouncil.org/blogs/ukrainealert/russias-veto-makes-a-mockery-of-the-united-nations-security-council/",
+                            "text": "-Magid, Shelby (15 March 2022). \"Russia's veto makes a mockery of the United Nations Security Council\". atlanticcouncil.org. Retrieved 8 April 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-04-08",
+                                "Created": "2022-03-15"
+                            }
+                        }
+                    ],
+                    "start_date": "15/03/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "The Ukrainian military confirmed that Izium had officially fallen, and was under Russian control, ending the month-long Battle of Izium.",
+                    "links": [],
+                    "start_date": "01/04/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "86 Ukrainian soldiers, 15 of them women, were released from Russian captivity in the second prisoner swap of the war in Zaporizhzhia Oblast. The number of Russian soldiers swapped was unknown.",
+                    "links": [
+                        {
+                            "link": "https://kyivindependent.com/uncategorized/86-ukrainian-soldiers-released-from-russian-captivity-during-second-prisoner-swap/",
+                            "text": "-\"86 Ukrainian soldiers released from Russian captivity during second prisoner swap\". kyivindependent.com. April 2022. Retrieved 6 April 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-04-06",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "01/04/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The US announced they were sending $300 million in \"security assistance\" for Kyiv to bolster its defence capabilities amid Russia's attacks.",
+                    "links": [],
+                    "start_date": "01/04/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Russia claimed two Ukrainian helicopters made a rare strike across the border, hitting an oil tank facility in Belgorod. President Zelenskyy declined to say whether he had ordered the raid. Ukraine officials denied this allegation.",
+                    "links": [],
+                    "start_date": "01/04/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "According to the mayor of Kyiv, \"huge\" battles were being fought to the north and east of Kyiv.",
+                    "links": [],
+                    "start_date": "01/04/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "New numbers came out a total of 6,266 people were able to evacuate and flee the violence, including more than 3,000 from the besieged city of Mariupol according to an official.",
+                    "links": [],
+                    "start_date": "01/04/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A call between Chinese Communist Party leader Xi Jinping and President Zelenskyy wa \"just a matter a time\", according to a Chinese diplomat.",
+                    "links": [],
+                    "start_date": "01/04/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "30 towns are cities are retaken in Northern Ukraine and around Kyiv after a massive Russian retreat. \"Irpin, Bucha, Hostomel and the whole Kyiv region were liberated from the invader\" deputy defence minister Hanna Maliar claims.",
+                    "links": [
+                        {
+                            "link": "https://thehill.com/policy/international/3257426-ukraine-regains-full-control-of-kyiv-region-for-first-time-since-russian-invasion/",
+                            "text": "-Dress, Brad (2 April 2022). \"Ukraine regains full control of Kyiv region for first time since Russian invasion: official\". The Hill.com. Retrieved 5 April 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-04-05",
+                                "Created": "2022-04-02"
+                            }
+                        }
+                    ],
+                    "start_date": "02/04/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Ukrainian flag is raised over Chernobyl nuclear plant after complete Russian troop withdrawal from Chernobyl.",
+                    "links": [
+                        {
+                            "link": "https://www.businessinsider.com/ukraine-regains-control-chernobyl-nuclear-plant-2022-4",
+                            "text": "-Al-Arshani, Sarah. \"Ukrainian flag raised over Chernobyl nuclear plant after Russian troops withdraw\". businessinsider.com. Retrieved 5 April 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-04-05",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "02/04/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Russian police detain 211 people at protests against Moscow's military operation in Ukraine, according to an NGO.",
+                    "links": [],
+                    "start_date": "02/04/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Peace talks between Ukraine and Russia have progressed enough to \"conduct direct consultations,\" according to a Ukrainian negotiator. Turkish President Erdogan confirms he spoke to both countries on Friday, and \"seemed to confirm for his part that they were ready to organise a meeting in the near future.\"",
+                    "links": [],
+                    "start_date": "02/04/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Ukrainian forces retaking control over the Kyiv region report war atrocities and potential war crimes from the ground.",
+                    "links": [],
+                    "start_date": "03/04/2022",
+                    "end_date": "01/04/2022"
+                },
+                {
+                    "event_text": "Zelenskyy in a pre-recorded message urged to those at the Grammy Awards in Las Vegas to \"tell our story, tell the truth about war\" on social media and television.",
+                    "links": [],
+                    "start_date": "03/04/2022",
+                    "end_date": "01/04/2022"
+                },
+                {
+                    "event_text": "There was heavy fighting and airstrikes across Mariupol, according to the UK Defense Ministry.",
+                    "links": [],
+                    "start_date": "03/04/2022",
+                    "end_date": "01/04/2022"
+                },
+                {
+                    "event_text": "Almost 80% of all residential buildings in Izium were reported to have been destroyed after Russian forces took the city on 1 April. There was no power, heating, or water in the city, and it was still impossible to make casualty estimates, according to Deputy mayor of Izium Volodymyr Matsokin.",
+                    "links": [],
+                    "start_date": "01/04/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Russia's lead negotiator said talks with Ukraine would resume on the morrow.",
+                    "links": [],
+                    "start_date": "01/04/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A mass grave was uncovered in Bucha. Kyiv Regional Police and local residents said they believed at least 150 people were buried there, but the mayor said the death toll could be as high as 300. President Zelenskyy visits the mass grave.",
+                    "links": [
+                        {
+                            "link": "https://www.cnn.com/2022/04/03/europe/ukraine-bucha-horrors/index.html",
+                            "text": "-Cotovio, Vasco (3 April 2022). \"The horrors of Putin's invasion of Ukraine are increasingly coming to light\". CNN. Retrieved 5 April 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-04-05",
+                                "Created": "2022-04-03"
+                            }
+                        }
+                    ],
+                    "start_date": "04/04/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Biden called for Putin to be put on trial for war crimes over Russia's killings in Ukraine.",
+                    "links": [
+                        {
+                            "link": "https://www.cnbc.com/2022/04/04/biden-calls-to-put-putin-on-trial-for-war-crimes-over-russias-actions-in-ukraine.html",
+                            "text": "-Mangan, Dan (4 April 2022). \"Biden calls to put Putin on trial for war crimes over Russia killings in Ukraine\". cnbc.com. Retrieved 5 April 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-04-05",
+                                "Created": "2022-04-04"
+                            }
+                        }
+                    ],
+                    "start_date": "04/04/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The U.S. was to impose further sanctions on Russia after the Bucha massacre, while Russia denied that its military killed any civilians.",
+                    "links": [],
+                    "start_date": "04/04/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Zelenskyy planned to address the United Nations Security Council on the morrow.",
+                    "links": [],
+                    "start_date": "04/04/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Zelenskyy accused Russian troops of indiscriminately killing civilians \"just for their pleasure\" before the United Nations Security Council, questioning the very mandate of the Security Council itself in his speech.",
+                    "links": [],
+                    "start_date": "05/04/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "New footage from besieged Mariupol showed around 90% of residential buildings had been damaged or destroyed as a result of intense bombardment, according to Ukrainian officials.",
+                    "links": [],
+                    "start_date": "05/04/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The European Union proposed a ban on Russian coal after the Bucha massacre.",
+                    "links": [
+                        {
+                            "link": "https://www.washingtonpost.com/world/2022/04/05/eu-ban-coal-sanctions-bucha-massacre-ukraine/",
+                            "text": "-Rauhala, Emily. \"E.U. proposes ban on Russian coal after Bucha massacre in Ukraine\". Washington Post. Retrieved 5 April 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-04-05",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "05/04/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "An evacuation convoy on its way to Mariupol was turned back by Russian forces, according to Deputy PM Iryna Vereshchuk, complicating ongoing humanitarian efforts.",
+                    "links": [],
+                    "start_date": "05/04/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "An estimated 3,800 people were evacuated via humanitarian corridors.",
+                    "links": [],
+                    "start_date": "05/04/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Pope Francis condemns the Bucha massacre towards his weekly audience in Vatican City. \"Stop this war! Let the weapons fall silent! Stop sowing death and destruction,\" he also said.",
+                    "links": [
+                        {
+                            "link": "https://www.voanews.com/a/pope-francis-condemns-ukraine-massacre-/6517362.html",
+                            "text": "-\"Pope Francis Condemns Ukraine 'Massacre'\". Voice of America. 6 April 2022. Retrieved 6 April 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-04-06",
+                                "Created": "2022-04-06"
+                            }
+                        }
+                    ],
+                    "start_date": "06/04/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The US Senate unanimously passes legislation authorizing President Biden to use a lend-lease program, last used in World War II, to speed up the delivery of military equipment to Ukraine.",
+                    "links": [],
+                    "start_date": "06/04/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "11 humanitarian corridors are to open today; Mariupol to Zaporizhzhia, Berdiansk to Zaporizhzhia, Tokmak to Zaporizhzhia, Enerhodar to Zaporizhzhia, Huliaipole and Melitopol to Zaporizhzhia, Sievierodonetsk to Bakhmut, Lysychansk to Bakhmut, Popasna to Bakhmut, Rubizhne to Bakhmut, and from Hirske to Bakhmut.",
+                    "links": [],
+                    "start_date": "06/04/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Russian soldiers are starting to hide the bodies of the people they kill to avoid the world's condemnation according to President Zelenskyy in a nightly address.",
+                    "links": [],
+                    "start_date": "06/04/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Russia is struggling to recruit enough combat-ready reinforcements to fight in Eastern Ukraine, according to American and other Western military and intelligence officials.",
+                    "links": [],
+                    "start_date": "06/04/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Boston Marathon set to take place on  will not allow runners from Russia or Belarus to compete because of the war in Ukraine.",
+                    "links": [],
+                    "start_date": "18/04/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The United Nations General Assembly votes to suspend Russia from the UN Human Rights Council following global outrage from the Bucha massacre. There are 93 nations who voted in favor, 24 nations against, and 58 nations that abstained.",
+                    "links": [
+                        {
+                            "link": "https://www.cnn.com/2022/04/07/politics/un-russia-human-rights/index.html",
+                            "text": "-Roth, Richard (7 April 2022). \"UN suspends Russia from Human Rights Council\". CNN. Retrieved 7 April 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-04-07",
+                                "Created": "2022-04-07"
+                            }
+                        }
+                    ],
+                    "start_date": "07/04/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Ukrainian officials are urging residents of the eastern regions of Donetsk, Luhansk, and Kharkiv to evacuate immediately, as the Russians are believed to be regrouping for a potential new attack in the east.",
+                    "links": [],
+                    "start_date": "07/04/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "NATO expresses support for providing \"new and heavier equipment\" to Ukraine from outrage over Russia's atrocities against civilians.",
+                    "links": [],
+                    "start_date": "07/04/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "U.S. and European allies meet in Brussels to discuss providing more military aid to Ukraine.",
+                    "links": [],
+                    "start_date": "07/04/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Russia's Foreign Minister Sergei Lavrov accuses Ukraine of backpedaling on a draft peace deal, changing demands related to Crimea, among other things. Ukrainian officials dismiss this as propaganda, citing that Lavrov was not actually on the negotiating team.",
+                    "links": [],
+                    "start_date": "07/04/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The popular once-former band Pink Floyd reunites to make its first single in 28 years titled \"Hey, Hey, Rise Up!\" based on a performance from a frontman the Ukrainian band 'BoomBox', Andriy Khlyvnyuk. The single is to be released at midnight tomorrow with proceeds going to Ukrainian humanitarian relief.",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/music/2022/apr/07/pink-floyd-reform-to-support-ukraine",
+                            "text": "-Petridis, Alexis (7 April 2022). \"'This is a crazy, unjust attack': Pink Floyd re-form to support Ukraine\". The Guardian. Retrieved 7 April 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-04-07",
+                                "Created": "2022-04-07"
+                            }
+                        }
+                    ],
+                    "start_date": "07/04/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Russian military conducts a rocket strike on a railway station used for evacuating civilians in Kramatorsk, killing 57 people and wounding 109 according to officials. This is condemned many European officials. Russia's defense ministry denies carrying out the attack.",
+                    "links": [],
+                    "start_date": "08/04/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "President Zelenskyy says in a speech that the situation in Borodyanka is \"much worse\" with \"even more victims\" than in Bucha. Authorities have found \"650 dead bodies\" according to Ukraine's prosecutor general Iryna Venediktova.",
+                    "links": [
+                        {
+                            "link": "https://www.axios.com/zelensky-borodyanka-much-worse-bucha-death-a10be01f-34cb-4c70-b1a6-1566b108d77d.html",
+                            "text": "-Gonzalez, Oriana (8 April 2022). \"Zelensky: Borodyanka is \"much worse\" than Bucha\". axios.com. Retrieved 8 April 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-04-08",
+                                "Created": "2022-04-08"
+                            }
+                        }
+                    ],
+                    "start_date": "08/04/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A funeral is held for Russian Colonel Alexander Bespalov, commander of the 59th Guards Tank Regiment, in Ozersk. He was killed 'during a special military operation in Ukraine' according to local reporting.",
+                    "links": [],
+                    "start_date": "08/04/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "European Commission President Ursula von der Leyen meets with President Zelenskyy in Kyiv.",
+                    "links": [],
+                    "start_date": "08/04/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Slovakia transfers a S-300 missile system to Ukraine, and the Czech Republic sends tanks and infantry fighting vehicles, fulfilling one of President Zelenskyy's top requests to help the country defend against Russia's bombing campaign, according to Slovakia's PM Eduard Heger.",
+                    "links": [],
+                    "start_date": "08/04/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Prices for grains, vegetable oils, and other food commodities reach their highest levels on record according to the United Nations Food and Agriculture Organization because of the war in Ukraine.",
+                    "links": [
+                        {
+                            "link": "https://www.axios.com/food-prices-record-march-russia-invasion-33a415cd-0ca7-4a21-9a6d-606b35ba036c.html",
+                            "text": "-Doherty, Erin (8 April 2022). \"Russian invasion of Ukraine fuels record food prices\". axios.com. Retrieved 10 April 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-04-10",
+                                "Created": "2022-04-08"
+                            }
+                        }
+                    ],
+                    "start_date": "08/04/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "United Kingdom PM Boris Johnson visits Kyiv to meet with President Zelenskyy \"in a show of solidarity with the Ukrainian people,\" according to British and Ukrainian officials. In the meeting, PM Johnson pledges continued military assistance, 120 armored vehicles, new anti-ship missile systems, and guaranteed an additional $500 million in World Bank lending to Ukraine, according to his UK office.",
+                    "links": [],
+                    "start_date": "09/04/2022",
+                    "end_date": "11/04/2022"
+                },
+                {
+                    "event_text": "President Zelenskyy also holds talks with Austrian Chancellor Karl Nehammer. Nehammer announced that he will also be meeting on 11 April in Moscow with Russian President Putin as well, becoming the first European leader to do so in person since the beginning of the war.",
+                    "links": [
+                        {
+                            "link": "https://www.aljazeera.com/news/2022/4/10/austrian-head-of-state-to-meet-putin-in-moscow-on-monday",
+                            "text": "-\"Austrian chancellor to meet Putin in Moscow\". aljazeera.com. Retrieved 11 April 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-04-11",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "11/04/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "\"132 tormented bodies of tortured, murdered citizens\" are found in Makariv as Ukrainian forces continue to advance into areas liberated by Russian forces, according to Ukraine's Ministry of Defence.",
+                    "links": [
+                        {
+                            "link": "https://indianexpress.com/article/world/russia-ukraine-war-live-updates-putin-nato-zelenskyy-biden-bucha-7857197/",
+                            "text": "-\"Russia-Ukraine War News Highlights: Zelenskyy has met Boris Johnson in Kyiv, says Ukrainian official\". indianexpress.com. 7 April 2022. Retrieved 10 April 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-04-10",
+                                "Created": "2022-04-07"
+                            }
+                        }
+                    ],
+                    "start_date": "11/04/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Russian President Putin appoints Army Gen. Alexander Dvornikov, commander of Russia's Southern Military District, the new commander of Russia's military campaign in Ukraine after the previous general's failure to take Kyiv, according to a US and European officials.",
+                    "links": [
+                        {
+                            "link": "https://jnews.uk/putin-appoints-new-commander-for-ukraine/",
+                            "text": "-\"Putin appoints new commander for Ukraine\". jnews.uk. 10 April 2022. Retrieved 10 April 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-04-10",
+                                "Created": "2022-04-10"
+                            }
+                        }
+                    ],
+                    "start_date": "11/04/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The executive board of the International Monetary Fund (IMF) approves an account for Ukraine that would allow countries to donate aid. Canada proposes up to 1 billion Canadian dollars in its federal budget for the account, according to the IMF.",
+                    "links": [],
+                    "start_date": "11/04/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "\"Abnormally high\" radiation is recorded in areas of the Chernobyl Exclusion Zone where Russian troops dug trenches and tried to build fortifications when they occupied the site until late last month.",
+                    "links": [
+                        {
+                            "link": "https://www.axios.com/ukraine-chernobyl-russian-trenches-radioactive-zone-78592787-0009-49bf-a28f-9b459fbc03aa.html",
+                            "text": "-Falconer, Rebecca (9 April 2022). \"Ukrainian officials: Russian troops dug trenches in radioactive Chernobyl zone\". axios.com. Retrieved 10 April 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-04-10",
+                                "Created": "2022-04-09"
+                            }
+                        }
+                    ],
+                    "start_date": "11/04/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "President Zelenskyy holds a phone call with German Chancellor Olaf Scholz, discussing additional assistance, war crimes happening in Ukraine, candidacy to join the EU, and \"how to strengthen sanctions against Russia and... force Russia to seek peace.\"",
+                    "links": [],
+                    "start_date": "10/04/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Newly released Maxar Technologies satellite imagery shows an 8-mile (13 km) convoy of military vehicles heading south through Ukraine to Donbas.",
+                    "links": [],
+                    "start_date": "10/04/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Russian forces shell Kharkiv and send reinforcements toward Izium in an attempt to break Ukrainian defenses, according to a Ukrainian military commander.",
+                    "links": [],
+                    "start_date": "10/04/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A \"big enemy military equipment convoy that was moving towards Izium direction was destroyed\" by Ukrainian forces, according to Oleh Syniehubov, head of the Kharkiv regional military administration.",
+                    "links": [],
+                    "start_date": "10/04/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Russian air-launched missiles are claimed to have hit Ukraine's S-300 air-defense missile systems in southern Mykolaiv Oblast and at an air base in Chuhuiv, according to Russian Defense Ministry spokesman, Maj. Gen. Igor Konashenkov.",
+                    "links": [],
+                    "start_date": "10/04/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Dnipro airport is hit by two Russian missiles, according to the regional governor. Sea-launched Russian cruise missiles also reportedly destroy the headquarters of a Ukrainian military unit stationed farther west in the Dnipro Oblast.",
+                    "links": [],
+                    "start_date": "10/04/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The number of Ukrainians who have fled the country since the beginning of the war reaches 4.5 million, according to the UNHCR.",
+                    "links": [],
+                    "start_date": "10/04/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Austrian Chancellor Karl Nehammer holds a meeting with Russian President Putin in Moscow, becoming the first European leader to do so since the beginning of the war. Nehammer said he brought up the Russian atrocities in Ukraine during a \"tough\" and \"unfriendly\" meeting.",
+                    "links": [
+                        {
+                            "link": "https://www.cnn.com/2022/04/11/europe/austria-nehammer-putin-meeting-russia-ukraine-intl/index.html",
+                            "text": "-Schmidt, Nadine (11 April 2022). \"Austria's leader says his face-to-face meeting with Putin was 'not a friendly visit'\". CNN. Retrieved 15 April 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-04-15",
+                                "Created": "2022-04-11"
+                            }
+                        }
+                    ],
+                    "start_date": "11/04/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The defense of besieged Mariupol continues with heavy fighting and bombardment throughout the day, according to Gen. Valery Zaluzhny, commander of the Armed Forces of Ukraine. President Zelenskyy claims in his nightly video address to the nation that the siege of Mariupol could be ended with the proper military weapons.",
+                    "links": [],
+                    "start_date": "11/04/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Reports of a possible Russian strike involving chemical weapons takes place in Mariupol. While unconfirmed, President Zelenskyy warns that the possibility should be taken seriously. Mariupol officials and the UK are working to verify the claim.",
+                    "links": [],
+                    "start_date": "11/04/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Russian troops retreating from parts of northern Ukraine deliberately left \"tens if not hundreds of thousands\" of unexploded land mines, according to President Zelenskyy in his nightly video address, in what he considered a \"war crime\".",
+                    "links": [],
+                    "start_date": "11/04/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Ukraine is currently investigating 5,800 cases of Russian war crimes, with \"more and more\" proceedings every day, according to the Prosecutor General of Ukraine.",
+                    "links": [],
+                    "start_date": "11/04/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Indian PM Narendra Modi and US President Biden hold a virtual meeting to discuss the two nations differing stances on Ukraine, with India being currently non-aligned. India, while staying firm in its stance despite growing pressure from the US, does promote the end of the war without criticizing Russia.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-asia-india-61042314",
+                            "text": "-Pandey, Vikas (12 April 2022). \"2+2 talks: How India and US agreed to differ on Ukraine war\". BBC News. Retrieved 15 April 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-04-15",
+                                "Created": "2022-04-12"
+                            }
+                        }
+                    ],
+                    "start_date": "11/04/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Viktor Medvedchuk, a key pro-Russia Ukrainian politician and oligarch, is detained in a \"special operation\" by the SBU, according to President Zelenskyy in a telegram. Zelenskyy has plans to use Medvedchuk in a future prisoner swap for Ukrainian POWs.",
+                    "links": [],
+                    "start_date": "12/04/2022",
+                    "end_date": "03/04/2022"
+                },
+                {
+                    "event_text": "Presidents from the nations of Poland, Lithuania, Latvia, and Estonia visit Kyiv in Mariinskyi Palace to \"send a strong signal of common European solidarity with Ukraine\" and to discuss continued commitment to supporting Ukraine politically and with military aid. The leaders also visited the sites of possible war crimes in nearby Borodianka. German President Frank-Walter Steinmeier also offered to visit to Ukraine along with the Polish and Baltic presidents, but the trip was \"not wanted\" by Kyiv. This is believed to have been said because Steinmeier is considered to have had close relations with Russia in previous political roles.",
+                    "links": [
+                        {
+                            "link": "https://www.euronews.com/2022/04/14/we-know-this-history-polish-and-baltic-leaders-reiterate-support-for-ukraine-during-kyiv-v",
+                            "text": "-\"'We know this history': Polish and Baltic leaders reiterate support for Ukraine during Kyiv visit\". euronews.com. 14 April 2022. Retrieved 16 April 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-04-16",
+                                "Created": "2022-04-14"
+                            }
+                        }
+                    ],
+                    "start_date": "12/04/2022",
+                    "end_date": "03/04/2022"
+                },
+                {
+                    "event_text": "A five-hour battle takes place in the Polohy Raion as Ukrainian forces tried to liberate the area. After units of the region's territorial defense brigade occupied part of the district, Russian reinforcements forced them to withdraw, according to Col. Ivan Arefyev, spokesperson for the Zaporizhzhia Regional Military Administration.",
+                    "links": [],
+                    "start_date": "12/04/2022",
+                    "end_date": "03/04/2022"
+                },
+                {
+                    "event_text": "The US cannot confirm the use of chemical weapons in Ukraine still, according to US Secretary of State Antony Blinken, but noted that they \"had credible information that Russian forces may use a variety of riot control agents\".",
+                    "links": [],
+                    "start_date": "12/04/2022",
+                    "end_date": "03/04/2022"
+                },
+                {
+                    "event_text": "The Ukrainian Postal Service Ukrposhta releases a stamp depicting an illustration from the Attack on Snake Island, in which Ukrainian soldiers refused to surrender, responding instead with \"Russian warship, go fuck yourself\".",
+                    "links": [],
+                    "start_date": "12/04/2022",
+                    "end_date": "03/04/2022"
+                },
+                {
+                    "event_text": "US President Biden first uses the word \"genocide\" to describe the events going on in Ukraine in an event in Iowa. President Zelenskyy refers to the gesture as \"true words of a true leader\", after he first used the word on 3 April to describe the Bucha massacre.",
+                    "links": [],
+                    "start_date": "03/04/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The French Ministry of Finance publishes a detailed list of Russian assets worth €23.7 billion it has frozen since the beginning of Russia's invasion of Ukraine.",
+                    "links": [],
+                    "start_date": "03/04/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Ukraine claims it hit the Russian cruiser Moskva with two anti-ship Neptune cruise missiles in the Black Sea, according to Ukrainian officials and the US Defense Department. The Russian Ministry of Defence claims otherwise, that the warship Moskva was evacuated after a fire onboard detonated ammunition, seriously damaging the vessel, according to Russian state media. Both accounts confirm that the warship did in fact catch fire.",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/world/2022/apr/14/russia-moskva-cruiser-sunk-stormy-seas-defense-ministry",
+                            "text": "-Pjotr Sauer; Julian Borger (14 April 2022). \"Russia says Moskva cruiser has sunk after reported Ukrainian missile strike\". The Guardian. Archived from the original on 14 April 2022. Retrieved 14 April 2022.-",
+                            "dates": {
+                                "Archieved": "2022-04-14",
+                                "Retrieved": "2022-04-14",
+                                "Created": "2022-04-14"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20220414202148/https://www.theguardian.com/world/2022/apr/14/russia-moskva-cruiser-sunk-stormy-seas-defense-ministry",
+                            "text": "-Pjotr Sauer; Julian Borger (14 April 2022). \"Russia says Moskva cruiser has sunk after reported Ukrainian missile strike\". The Guardian. Archived from the original on 14 April 2022. Retrieved 14 April 2022.-",
+                            "dates": {
+                                "Archieved": "2022-04-14",
+                                "Retrieved": "2022-04-14",
+                                "Created": "2022-04-14"
+                            }
+                        }
+                    ],
+                    "start_date": "13/04/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Russian military threatens to strike Ukrainian \"decision-making centers\" in response to what Russia said were \"attempts of sabotage and strikes\" on Russian territory, said Russian Ministry of Defense spokesperson Maj. Gen. Igor Konashenkov.",
+                    "links": [],
+                    "start_date": "13/04/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The US announces that it is sending an additional $800 million (€740 million) worth of weapons, ammunition, and other security assistance to Ukraine. Part of the new deal includes the sending of 11 Mil Mi-17 helicopters, 18 155mm Howitzer cannons, 300 more Switchblade drones, and radar systems capable of tracking incoming fire and pinpointing its origin. Some Biden administration officials viewed as too much of an escalation risk just a few weeks ago.",
+                    "links": [],
+                    "start_date": "13/04/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The European Union also approves an additional €500 million for military equipment for the Ukrainian Armed Forces, according to a news release from the European Council of the European Union.",
+                    "links": [],
+                    "start_date": "13/04/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "President Zelenskyy and US President Biden talk in a telephone conversation for 58 minutes to discuss ongoing US support for Ukraine, \"assessed Russian war crimes\" and \"agreed to enhance sanctions,\" according to the White House and a Twitter post from Zelenskyy.",
+                    "links": [],
+                    "start_date": "13/04/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Colombian President Iván Duque says in an interview in response to US President Biden's calling the war in Ukraine \"genocide\", \"what is happening in Ukraine is a genocide. And it has to stop... This is insane\". This comes after Colombia increased their power production to help meet the needs of the western world after all shipments of Russia have been cut off.",
+                    "links": [],
+                    "start_date": "13/04/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "May",
+            "Data": [
+                {
+                    "event_text": "President Zelenskyy announces for the first time that civilians, around 100, were evacuated from the Azovstal steel plant in a \"real ceasefire\" from the heavy Russian bombardment of the plant. There are still around one hundred people still in the plant, many of whom are injured, and are still trapped without basic necessities, according to President Zelenskyy in an address. The evacuations stop early due to a break in the ceasefire, but are set to continue tomorrow at 8 am.",
+                    "links": [],
+                    "start_date": "01/05/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "US House Speaker Nancy Pelosi visits Kyiv, meeting with many Ukrainian diplomats. Ukrainian Ambassador to the US Oksana Markarova commented the visit was \"symbolic,\" and that Ukraine looks forward to the approval of the $33 billion supplemental funding bill aimed at supporting Ukraine over the next several months.",
+                    "links": [],
+                    "start_date": "01/05/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "It is \"only a question of how soon that will be feasible\" before US President Biden visits Ukraine, announces US House Intelligence Chairman Adam Schiff.",
+                    "links": [],
+                    "start_date": "01/05/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Three people are killed and eight others injured in Russian shelling near Izium in the Kharkiv region where Russian forces are attempting to advance against Ukrainian forces in the settlements of Uda, Prudianka, and Staryi Saltiv, according to head of the Regional Military Administration Oleh Synyehubov.",
+                    "links": [],
+                    "start_date": "01/05/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Four residents in Lyman are killed and 11 more wounded in by Russian shelling, according to Donetsk Regional Military Administration head Pavlo Kyriyenko.",
+                    "links": [],
+                    "start_date": "01/05/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Foreign Minister Dmytro Kuleba tells top EU diplomat Josep Borrell that \"the next round of EU sanctions on Russia which must include an oil embargo,\" otherwise the west is doing nothing more than \"supporting Ukraine with one hand while supporting the Russian war machine with another hand\".",
+                    "links": [],
+                    "start_date": "01/05/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "US President Biden announces the US will send an 11th package weapons package to Ukraine, including \"more advanced rocket systems and munitions\" such as the High Mobility Artillery Rocket System (HMARS) which will help guide \"more precise [strikes on] key targets\". NATO announces they do not foresee Russia retailing to this decision.",
+                    "links": [],
+                    "start_date": "31/05/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Russian forces shell 21 areas in Luhansk and Donetsk, destroying 46 \"civil objects,\" according to the Joint Forces Task Force.",
+                    "links": [],
+                    "start_date": "31/05/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "June",
+            "Data": [
+                {
+                    "event_text": "Fighting continues for the control of Severodonetsk, though it is announced that 80% of the territory is now controlled by Russian forces, according to head of Luhansk's regional military administration Serhiy Hayday.",
+                    "links": [],
+                    "start_date": "01/06/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Ukraine beats Scotland 31 at Hampden Park in Glasgow in the 2022 FIFA World Cup playoff semi-final. The result leaves team Ukraine one win away from officially qualifying for the upcoming World Cup in Qatar. The match was originally due to take place on 24 March, but was postponed because of the Russian invasion.",
+                    "links": [],
+                    "start_date": "01/06/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Russian cruise missiles hit a railway station for a second time close to the Beskydy Tunnel in the Carpathian mountains, injuring two people. According to an Interior Minister advisor Anton Gerashchenko, the strike was carried out to \"disrupt rail traffic and stop the supply of fuel and weapons from our allies\".",
+                    "links": [],
+                    "start_date": "01/06/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Ukraine announces that at least 7 people have been killed and 16 injured today, primarily in the cities of Severodonetsk and Sloviansk, according to a statement from the national Joint Forces Task Force.",
+                    "links": [],
+                    "start_date": "01/06/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The United Kingdom agrees to send more M270 Multiple Launch Rocket Systems to the Ukrainian military and training on how to use the system, according to British Defence Secretary Ben Wallace.",
+                    "links": [],
+                    "start_date": "01/06/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "\"Some success\" is reported in the fight for control of Severodonetsk that Ukrainian forces are keeping their ground, and that street fighting still continues, according to President Zelenskyy in a video message.",
+                    "links": [],
+                    "start_date": "02/06/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The armed forces including the AZOV Dnipro unit launch an offensive from several vantage points into Russian occupied areas in the Kherson region. Head of the Kherson Regional State Administration Gennady Laguta proudly announces the liberation of 20 settlements in around 8 km (5 miles) of Russian occupied territory.",
+                    "links": [],
+                    "start_date": "02/06/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The cities of Bakhmut and Slovyansk and the highways connecting to them are the main areas under bombardment from Russian forces according to head of the Donetsk military administration Pavlo Kyrylenko.",
+                    "links": [],
+                    "start_date": "02/06/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Around 22 million tons of grain are reported to be stuck in ports due to lack of Russian cooperation causing major grain insecurity issues in Asia and Africa. Russia has also been caught stealing and illegally selling Ukrainian grain to third parties in other nations.",
+                    "links": [],
+                    "start_date": "02/06/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The US confirms it has carried out a handful successful cyber operations in support of Ukraine in \"offensive\" and 'defensive\" ways.",
+                    "links": [],
+                    "start_date": "02/06/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "President Zelenskyy with PM Shmyhal and his adviser Mykhailo Podolyak, reaffirms that Ukraine will win the war in a somber and defiant video marking the 100th day of war in the nation. \"We have been defending our country for 100 days already. Victory will be ours! Glory to Ukraine!\" Zelenskyy said.",
+                    "links": [
+                        {
+                            "link": "https://www.wsj.com/livecoverage/russia-ukraine-latest-news-2022-06-03/card/zelensky-says-victory-will-be-ours-as-war-stretches-for-100-days-LZJUAqkAn0p4sLxQN8GZ",
+                            "text": "-Heineke, Alina. \"Zelensky Says 'Victory Will Be Ours' as War Stretches for 100 Days\". WSJ. Retrieved 3 June 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-06-03",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "03/06/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Red Cross reports that the scale of the destruction in just 100 days of war \"defies comprehension\". ICRC Director-General Robert Mardini also citing that \"one third of the population\" has had to flee in this small period of time.",
+                    "links": [],
+                    "start_date": "03/06/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The EU formally adopts a sixth package of sanctions against Russia over its aggression in Ukraine. The sanctions will apply to Russian oil, bank payment systems \"de-SWIFT-ing,\" broadcasting, general exports, consulting services, and individual listings.",
+                    "links": [],
+                    "start_date": "03/06/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Officials announce that the Ukrainian military is \"continu[ing] to prepare\" for an anticipated Russian offensive toward Kharkiv.",
+                    "links": [],
+                    "start_date": "03/06/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Russian President Putin and Senegalese President Macky Sall discuss the ongoing food and grain crisis caused by the Russian serizing of Ukrainian grain, as well as economic and humanitarian cooperation in a meeting in Sochi, Russia, according to the Kremlin.",
+                    "links": [],
+                    "start_date": "03/06/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The All Saints church in Sviatohirsk, whose original temple dates back to the year 1526, is the most recent of 113 churches to be \"destroyed\" by Russian artillery, according to Zelenskyy.",
+                    "links": [],
+                    "start_date": "04/06/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Hundreds more people flee Sloviansk and Severodonetsk as the Russian army is \"throwing all its reserves into\" the capturing of the cities, with more reinforcements arriving, according to the Luhansk regional military administration.",
+                    "links": [],
+                    "start_date": "04/06/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Heavy fighting continues in the east, with Russian air activity in the region \"remaining high,\" but has \"failed to have a meaningful impact on the conflict\" as of recently according to the UK Ministry of Defence.",
+                    "links": [],
+                    "start_date": "04/06/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Foreign Minister Kuleba reacts angrily to French President Macron's comment that \"we must not humiliate Russia\". Kuleba said in response that it is \"Russia that humiliates itself. We all better focus on how to put Russia in its place. This will bring peace and save lives\".",
+                    "links": [],
+                    "start_date": "04/06/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Defense Minister Oleksii Reznikov, speaking at the GLOBSEC-2022 forum in Bratislava in Slovakia, says it is \"hard to predict when the war will end, but my optimistic projection is that it may end by the end of the year\".",
+                    "links": [],
+                    "start_date": "04/06/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Zelenskyy visits troops on the frontline border of the Luhansk-Donetsk regions, specifically \"Lysychansk\" and \"Soledar,\" Zelenskyy said in his nightly address. \"I am proud of everyone I met, shook hands with, communicated with and supported,\" Zelenskyy also said.",
+                    "links": [],
+                    "start_date": "05/06/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Head of the Luhansk region military administration Hayday announces the \"good news\" that \"half of the city (of Severodonetsk) is really controlled by our defenders,\" which is a major advance compared to early in the week, with Russians controlling 80% of the city.",
+                    "links": [],
+                    "start_date": "05/06/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "No territory was regarded as lost, but it is reported Russian forces resumed their offensive near Sviatohirsk, suffering losses.",
+                    "links": [],
+                    "start_date": "05/06/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Russians forces conducted an offensive in Bila Krynytsia which was recently retaken by Ukrainian forces. Head of the regional military administration Oleksandr Vilkul said Russian units had returned to \"previously occupied positions\".",
+                    "links": [],
+                    "start_date": "05/06/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Wales defeats Ukraine 10 to secure a slot in the 2022 FIFA World Cup. As a gesture of generosity, 100 tickets were handed out to Ukrainian refugees living in the area before the beginning of the match.",
+                    "links": [],
+                    "start_date": "05/06/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "September",
+            "Data": [
+                {
+                    "event_text": "18 September  2022 Russian and Ukrainian tornado outbreak A small but significant tornado outbreak took place in Eastern Ukraine and eventually moved into Russia the following day, producing at least 5 tornadoes including an F3 tornado.",
+                    "links": [
+                        {
+                            "link": "https://web.archive.org/web/20220921155820/https://eswd.eu/",
+                            "text": "-\"European Severe Weather Database\". European Severe Storms Laboratory. Archived from the original on 21 September 2022. Retrieved 21 September 2022.-",
+                            "dates": {
+                                "Archieved": "2022-09-21",
+                                "Retrieved": "2022-09-21",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://eswd.eu/",
+                            "text": "-\"European Severe Weather Database\". European Severe Storms Laboratory. Archived from the original on 21 September 2022. Retrieved 21 September 2022.-",
+                            "dates": {
+                                "Archieved": "2022-09-21",
+                                "Retrieved": "2022-09-21",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "18/09/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "19 September  The public chambers of the Donetsk People's Republic and Luhansk People's Republic appealed to their heads of state with a request to \"immediately\" hold a referendum on joining Russia.",
+                    "links": [
+                        {
+                            "link": "https://life.ru/p/1524895",
+                            "text": "-\"Общественная палата ЛНР просит немедленно провести референдум о присоединении к России\". Life.ru (in Russian). 19 September 2022. Retrieved 19 September 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-09-19",
+                                "Created": "2022-09-19"
+                            }
+                        },
+                        {
+                            "link": "https://meduza.io/news/2022/09/19/v-lnr-predlozhili-nemedlenno-provesti-referendum-o-prisoedinenii-k-rossii",
+                            "text": "-\"В ДНР и ЛНР предложили немедленно провести референдумы о присоединении к России\". Meduza (in Russian). Retrieved 19 September 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-09-19",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://www.rbc.ru/politics/19/09/2022/632876649a794759f62261eb",
+                            "text": "-\"В ЛНР предложили провести референдум о присоединении к России немедленно\". РБК (in Russian). 19 September 2022. Retrieved 19 September 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-09-19",
+                                "Created": "2022-09-19"
+                            }
+                        }
+                    ],
+                    "start_date": "19/09/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "20 September  The People's Council of the Luhansk People's Republic scheduled a referendum on the republic's entry into Russia as a federal subject for 2327 September. Soon after, the People's Council of the Donetsk People's Republic announced that the referendum on the entry of the DPR into the Russian Federation would be held on the same date.",
+                    "links": [
+                        {
+                            "link": "https://ria.ru/20220920/referendum-1818144207.html",
+                            "text": "-Новости, Р. И. А. (20 September 2022). \"Референдум о вхождении ЛНР в состав России пройдет с 23 по 27 сентября\". РИА Новости (in Russian). Retrieved 20 September 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-09-20",
+                                "Created": "2022-09-20"
+                            }
+                        },
+                        {
+                            "link": "https://tass.ru/mezhdunarodnaya-panorama/15808407",
+                            "text": "-\"В ДНР заявили, что референдум о вхождении в состав России состоится с 23 по 27 сентября\". tass.ru. Retrieved 20 September 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-09-20",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "20/09/2022",
+                    "end_date": "27/09/2022"
+                },
+                {
+                    "event_text": "27 September  2022 annexation referendums in Russian-occupied Ukraine According to the results released by Russian occupation authorities in Ukraine, the Donetsk People's Republic, the Luhansk People's Republic, as well as occupied parts of Zaporizhzhia and Kherson Oblasts overwhelmingly vote in favor of annexation, with 99.23%, 98.42%, 93.11% and 87.05% of support, respectively. Turnout exceeded 75% in each region and exceeded 97% in Donetsk Oblast. However, the voting has been widely dismissed as a sham referendum.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/europe/first-partial-results-show-over-96-occupied-ukraine-regions-favour-joining-2022-09-27/",
+                            "text": "-Trevelyan, Mark (28 September 2022). \"Moscow's proxies in occupied Ukraine regions report big votes to join Russia\". Reuters.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2022-09-28"
+                            }
+                        },
+                        {
+                            "link": "https://apnews.com/article/russia-ukraine-kyiv-moscow-referendums-1780c30715ce49723629d05c5e2f3238",
+                            "text": "-\"Kremlin announces vote, paves way to annex part of Ukraine\". Associated Press. 27 September 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2022-09-27"
+                            }
+                        }
+                    ],
+                    "start_date": "27/09/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "30 September  Russian President Vladimir Putin announced in a speech that Russia had annexed the four regions occupied during the conflict.",
+                    "links": [
+                        {
+                            "link": "http://en.kremlin.ru/events/president/transcripts/copy/69465",
+                            "text": "-\"Signing of treaties on accession of Donetsk and Lugansk people's republics and Zaporozhye and Kherson regions to Russia\". Kremlin.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://www.reuters.com/world/europe/putin-says-russia-has-four-new-regions-he-announces-annexation-ukrainian-2022-09-30/",
+                            "text": "-\"Putin says Russia has 'four new regions' as he announces annexation of Ukrainian territory\". Reuters. 30 September 2022. Archived from the original on 30 September 2022. Retrieved 30 September 2022.-",
+                            "dates": {
+                                "Archieved": "2022-09-30",
+                                "Retrieved": "2022-09-30",
+                                "Created": "2022-09-30"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20220930191609/https://www.reuters.com/world/europe/putin-says-russia-has-four-new-regions-he-announces-annexation-ukrainian-2022-09-30/",
+                            "text": "-\"Putin says Russia has 'four new regions' as he announces annexation of Ukrainian territory\". Reuters. 30 September 2022. Archived from the original on 30 September 2022. Retrieved 30 September 2022.-",
+                            "dates": {
+                                "Archieved": "2022-09-30",
+                                "Retrieved": "2022-09-30",
+                                "Created": "2022-09-30"
+                            }
+                        }
+                    ],
+                    "start_date": "30/09/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "December",
+            "Data": [
+                {
+                    "event_text": "2 December  Ukrainian President Volodymyr Zelenskyy entered a bill to the Verkhovna Rada that would officially ban all activities of the Ukrainian Orthodox Church (Moscow Patriarchate) UOC in Ukraine.",
+                    "links": [
+                        {
+                            "link": "https://www.nytimes.com/2022/12/02/world/europe/zelensky-ukraine-orthodox-church.html",
+                            "text": "-Santora, Marc (2022-12-03). \"Zelensky Proposes Barring Orthodox Church That Answers to Moscow\". The New York Times. ISSN 0362-4331.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2022-12-03"
+                            }
+                        },
+                        {
+                            "link": "https://search.worldcat.org/issn/0362-4331",
+                            "text": "-Santora, Marc (2022-12-03). \"Zelensky Proposes Barring Orthodox Church That Answers to Moscow\". The New York Times. ISSN 0362-4331.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2022-12-03"
+                            }
+                        }
+                    ],
+                    "start_date": "02/12/2022",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

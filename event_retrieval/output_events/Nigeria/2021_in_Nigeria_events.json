@@ -1,0 +1,791 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "1 January  The Nigerian Air Force (NAF) destroys a Boko Haram settlement at Mana Waji in Borno State, killing dozens.",
+                    "links": [
+                        {
+                            "link": "https://allafrica.com/stories/202101020257.html",
+                            "text": "-\"Nigeria: Military Airstrike Destroys New Boko Haram Settlement, Kill Scores in Borno\". allAfrica.com. Vanguard. 2 January 2021. Retrieved January 3, 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-01-03",
+                                "Created": "2021-01-02"
+                            }
+                        }
+                    ],
+                    "start_date": "01/01/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "2 January  Journalist Omoyele Sowore and four other activists are arrested and beaten during a protest in Abuja.",
+                    "links": [
+                        {
+                            "link": "https://www.msn.com/en-us/news/world/nigeria-arrests-journalist-and-opposition-leader-sowore/ar-BB1cqoIs?ocid=ob-fb-enus-1541512262291",
+                            "text": "-\"Nigeria arrests journalist and opposition leader Sowore\". msn.com. AFP. January 3, 2021. Retrieved January 4, 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-01-04",
+                                "Created": "2021-01-03"
+                            }
+                        }
+                    ],
+                    "start_date": "02/01/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "8 January  Olatunji Babalola steps in as Acting MD of Ogun-Oshun River Basin Development Authority (OORBDA)",
+                    "links": [
+                        {
+                            "link": "https://ntaabeokuta.com.ng/o-orbda-md-odumosu-bows-out-of-office-fg-appoints-olatunji-as-acting-md/",
+                            "text": "-\"Change of Guard at Ogun-Oshun RBDA: Odumosu Completes Term, Olatunji Steps in as Acting MD\". 8 January 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2021-01-08"
+                            }
+                        }
+                    ],
+                    "start_date": "08/01/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "16 January  Islamic State West Africa Province (ISWAP) fighters armed with machine guns overrun a military base in Marte, Borno. ISWAP says seven were killed and one person was captured.",
+                    "links": [
+                        {
+                            "link": "https://www.aljazeera.com/news/2021/1/16/armed-group-captures-military-base-in-northeast-nigeria",
+                            "text": "-\"Armed group captures military base in northeast Nigeria\". aljazeera.com. Al Jazeera English. AFP. January 16, 2021. Retrieved January 16, 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-01-16",
+                                "Created": "2021-01-16"
+                            }
+                        }
+                    ],
+                    "start_date": "16/01/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "25 January  Police investigate the kidnapping of seven boys and girls, aged 1013, and an adult male from an orphanage in Abuja.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/nigeria-kidnapping-abuja-cd4945468b5f01655d9e3e6910e4eff6",
+                            "text": "-\"Nigerian police working to rescue abducted orphans and staff\". AP NEWS. 25 January 2021. Retrieved January 27, 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-01-27",
+                                "Created": "2021-01-25"
+                            }
+                        }
+                    ],
+                    "start_date": "25/01/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "26 January  President Muhammadu Buhari shakes up the top military command. Leo Irabor is named Chief of Defence, Ibrahim Attahiru became commander the Army, A. Z. Gambo became commander of the Navy, and I. O. Amao became commander of the Air Force.",
+                    "links": [
+                        {
+                            "link": "https://www.aljazeera.com/news/2021/1/26/nigerian-president-buhari-replaces-top-four-military-chiefs",
+                            "text": "-\"Nigerian President Buhari replaces top military commanders\". aljazeera.com. Al Jazeera English. January 26, 2021. Retrieved January 26, 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-01-26",
+                                "Created": "2021-01-26"
+                            }
+                        }
+                    ],
+                    "start_date": "26/01/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "28 January  Hundreds of unemployed Nigerians are repatriated from Saudi Arabia.",
+                    "links": [
+                        {
+                            "link": "https://www.yahoo.com/news/nigeria-repatriates-hundreds-migrants-saudi-204503896.html",
+                            "text": "-Eboh, Camillus; Achirga, Abraham (January 28, 2021). \"Nigeria repatriates hundreds of migrants from Saudi Arabia\". news.yahoo.com. Reuters. Retrieved January 28, 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-01-28",
+                                "Created": "2021-01-28"
+                            }
+                        }
+                    ],
+                    "start_date": "28/01/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "29 January  A Dutch court rules that Shell Nigeria must pay Ogoni farmers punitive damages for a 2007 oil spill in the Niger Delta.",
+                    "links": [
+                        {
+                            "link": "https://www.commondreams.org/news/2021/01/29/after-13-years-justice-dutch-court-orders-shell-oil-pay-harm-done-nigerian-farmers",
+                            "text": "-Germanos, Andrea (January 29, 2021). \"\"After 13 Years, Justice!\" Dutch Court Orders Shell Oil to Pay for Harm Done to Nigerian Farmers\". Common Dreams. AFP. Retrieved January 29, 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-01-29",
+                                "Created": "2021-01-29"
+                            }
+                        }
+                    ],
+                    "start_date": "29/01/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "30 January  UNICEF protests the sentencing of 13-year-old Omar Farouq to ten years of prison for blasphemy against Allah. Blasphemy is not a crime across Nigeria, but it is a violation of Sharia law, which is followed in Kano State along with civil law.",
+                    "links": [
+                        {
+                            "link": "https://www.msn.com/en-us/news/world/nigeria-sentences-teenage-boy-to-10-years-in-prison-for-blasphemy-prompting-outrage/ar-BB196Emp?ocid=ob-fb-enus-1541512262291",
+                            "text": "-Busari, Stephanie; McSweeney, Eoin (January 30, 2021). \"Nigeria sentences teenage boy to 10 years in prison for blasphemy, prompting outrage\". msn.com. CNN. Retrieved January 31, 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-01-31",
+                                "Created": "2021-01-30"
+                            }
+                        }
+                    ],
+                    "start_date": "30/01/2021",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "3 February  A judge in Abuja orders the arrest of the head of ExxonMobil Nigeria after he ignores three summons to testify in a corruption investigation.",
+                    "links": [
+                        {
+                            "link": "https://www.aljazeera.com/economy/2021/2/3/nigerian-judge-issues-arrest-warrant-for-exxon-chief",
+                            "text": "-\"Judge issues arrest warrant for ExxonMobil Nigeria chief\". Al Jazeera English. February 3, 2021. Retrieved February 4, 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-02-04",
+                                "Created": "2021-02-03"
+                            }
+                        }
+                    ],
+                    "start_date": "03/02/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Facebook bans Nnamdi Kanu, leader of Indigenous People of Biafra (IPOB) for hate speech.",
+                    "links": [
+                        {
+                            "link": "https://web.archive.org/web/20210205002507/https://www.yahoo.com/news/nigerian-separatist-leader-nnamdi-kanus-170113174.html",
+                            "text": "-\"Nigerian separatist Nnamdi Kanu's Facebook account removed for hate speech\". news.yahoo.com. BBC News. February 4, 2021. Archived from the original on February 5, 2021. Retrieved February 4, 2021.-",
+                            "dates": {
+                                "Archieved": "2021-02-05",
+                                "Retrieved": "2021-02-04",
+                                "Created": "2021-02-04"
+                            }
+                        },
+                        {
+                            "link": "https://www.yahoo.com/news/nigerian-separatist-leader-nnamdi-kanus-170113174.html",
+                            "text": "-\"Nigerian separatist Nnamdi Kanu's Facebook account removed for hate speech\". news.yahoo.com. BBC News. February 4, 2021. Archived from the original on February 5, 2021. Retrieved February 4, 2021.-",
+                            "dates": {
+                                "Archieved": "2021-02-05",
+                                "Retrieved": "2021-02-04",
+                                "Created": "2021-02-04"
+                            }
+                        }
+                    ],
+                    "start_date": "04/02/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Government troops and planes overrun ISWAP camps in Yobe State and Borno State.",
+                    "links": [
+                        {
+                            "link": "https://www.yahoo.com/news/nigeria-troops-overrun-jihadist-camps-190635313.html",
+                            "text": "-Abubakar, Aminu (February 4, 2021). \"Nigeria troops overrun jihadist camps in northeast\". news.yahoo.com. AFP. Retrieved February 4, 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-02-04",
+                                "Created": "2021-02-04"
+                            }
+                        }
+                    ],
+                    "start_date": "04/02/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "5 February  After the South Korean trade minister drops out, Ngozi Okonjo-Iweala becomes the leading candidate to head the World Trade Organization (WTO). If elected, Okonjo-Iweala will be the first woman and the first African to hold the post.",
+                    "links": [
+                        {
+                            "link": "https://www.msn.com/en-us/news/world/path-clears-for-nigerias-okonjo-iweala-to-be-first-woman-head-of-wto/ar-BB1dptQr?ocid=ob-fb-enus-1541512262291",
+                            "text": "-\"Path clears for Nigeria's Okonjo-Iweala to be first woman head of WTO\". msn.com. AFP. February 5, 2021. Retrieved February 5, 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-02-05",
+                                "Created": "2021-02-05"
+                            }
+                        }
+                    ],
+                    "start_date": "05/02/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "7 February  Fourteen people are killed in Kutemeshi and five are killed in Kujeni, both in Kaduna State, in raids by armed bandits who looted shops and warehouses as well as burning houses and a church.",
+                    "links": [
+                        {
+                            "link": "https://www.msn.com/en-us/news/world/gunmen-raid-villages-in-northwest-nigeria-killing-19/ar-BB1duOIx",
+                            "text": "-\"Gunmen raid villages in northwest Nigeria, killing 19\". msn.com. Al Jazeera English. February 8, 2021. Retrieved February 8, 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-02-08",
+                                "Created": "2021-02-08"
+                            }
+                        }
+                    ],
+                    "start_date": "07/02/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "11 February  Hussaini Abdullahi of the Kaduna State Emergency Management Agency (SEMA) says that 4,000 Fulani herdsmen have fled from Yoruba and Igbo-speaking regions after being accused of rising crime rates.",
+                    "links": [
+                        {
+                            "link": "https://www.yahoo.com/news/thousands-herders-flee-southern-nigeria-184558664.html",
+                            "text": "-\"Thousands of herders flee southern Nigeria over ethnic attacks\". news.yahoo.com. AFP. February 11, 2021. Retrieved February 12, 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-02-12",
+                                "Created": "2021-02-11"
+                            }
+                        }
+                    ],
+                    "start_date": "11/02/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "13 February  At least six protesters are beaten and 13 others are arrested at the site of the 2020 Lekki shooting in Lagos State.",
+                    "links": [
+                        {
+                            "link": "https://www.aljazeera.com/news/2021/2/13/nigerian-police-beat-arrest-protesters-at-site-of-lekki-shooting",
+                            "text": "-\"Nigerian police beat, arrest protesters at site of Lekki shooting\". aljazeera.com. Al Jazeera English. February 13, 2021. Retrieved February 13, 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-02-13",
+                                "Created": "2021-02-13"
+                            }
+                        }
+                    ],
+                    "start_date": "13/02/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "One student is killed and 41 people (students, teachers, family members) are kidnapped by bandits in Kagara, Niger State.",
+                    "links": [
+                        {
+                            "link": "https://web.archive.org/web/20210217130128/https://www.yahoo.com/news/gunmen-kidnap-hundreds-schoolboys-central-100957654.html",
+                            "text": "-\"Gunmen kidnap dozens from school in central Nigeria\". news.yahoo.com. AFP. February 17, 2021. Archived from the original on February 17, 2021. Retrieved February 17, 2021.-",
+                            "dates": {
+                                "Archieved": "2021-02-17",
+                                "Retrieved": "2021-02-17",
+                                "Created": "2021-02-17"
+                            }
+                        },
+                        {
+                            "link": "https://www.yahoo.com/news/gunmen-kidnap-hundreds-schoolboys-central-100957654.html",
+                            "text": "-\"Gunmen kidnap dozens from school in central Nigeria\". news.yahoo.com. AFP. February 17, 2021. Archived from the original on February 17, 2021. Retrieved February 17, 2021.-",
+                            "dates": {
+                                "Archieved": "2021-02-17",
+                                "Retrieved": "2021-02-17",
+                                "Created": "2021-02-17"
+                            }
+                        }
+                    ],
+                    "start_date": "17/02/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Businessman Obinwanne Okeke, (″Invictus Obi″) is sentenced to 10 years in prison in the United States for cyber fraud amounting to $11 million (£8 million).",
+                    "links": [
+                        {
+                            "link": "https://web.archive.org/web/20210217213819/https://www.yahoo.com/news/obinwanne-okeke-nigerian-email-fraudster-132652000.html",
+                            "text": "-\"Obinwanne Okeke: Nigerian email fraudster jailed for 10 years in US\". news.yahoo.com. BBC News. February 17, 2021. Archived from the original on February 17, 2021. Retrieved February 18, 2021.-",
+                            "dates": {
+                                "Archieved": "2021-02-17",
+                                "Retrieved": "2021-02-18",
+                                "Created": "2021-02-17"
+                            }
+                        },
+                        {
+                            "link": "https://www.yahoo.com/news/obinwanne-okeke-nigerian-email-fraudster-132652000.html",
+                            "text": "-\"Obinwanne Okeke: Nigerian email fraudster jailed for 10 years in US\". news.yahoo.com. BBC News. February 17, 2021. Archived from the original on February 17, 2021. Retrieved February 18, 2021.-",
+                            "dates": {
+                                "Archieved": "2021-02-17",
+                                "Retrieved": "2021-02-18",
+                                "Created": "2021-02-17"
+                            }
+                        }
+                    ],
+                    "start_date": "17/02/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "20 February  Boko Haram insurgents attacked the towns of Marte and Dikwa in Borno State.",
+                    "links": [
+                        {
+                            "link": "https://dailypost.ng/2021/02/20/boko-haram-chief-of-army-staff-in-maiduguri-over-fresh-attack-on-borno-communities/",
+                            "text": "-Sunday, Ochogwu (February 20, 2021). \"Boko Haram: Chief of Army Staff in Maiduguri over fresh attack on Borno Communities\". Daily Post. The Chief of Army Staff (COAS), Maj Gen Ibrahim Attahiru has arrived in Maiduguri, Borno State, over an attack on two communities in the state by the Boko Haram insurgents on Friday night. [...] Boko Haram reportedly raided the central Borno towns of Marte and Dikwa, the same night.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2021-02-20"
+                            }
+                        }
+                    ],
+                    "start_date": "20/02/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "21 February  Seven are killed when a military plane crashes in Abuja.",
+                    "links": [
+                        {
+                            "link": "https://web.archive.org/web/20210222023137/https://www.yahoo.com/news/seven-die-nigerian-air-force-150020270.html",
+                            "text": "-\"Seven die in Nigerian Air Force Abuja plane crash\". news.yahoo.com. BBC News. February 21, 2021. Archived from the original on February 22, 2021. Retrieved February 22, 2021.-",
+                            "dates": {
+                                "Archieved": "2021-02-22",
+                                "Retrieved": "2021-02-22",
+                                "Created": "2021-02-21"
+                            }
+                        },
+                        {
+                            "link": "https://www.yahoo.com/news/seven-die-nigerian-air-force-150020270.html",
+                            "text": "-\"Seven die in Nigerian Air Force Abuja plane crash\". news.yahoo.com. BBC News. February 21, 2021. Archived from the original on February 22, 2021. Retrieved February 22, 2021.-",
+                            "dates": {
+                                "Archieved": "2021-02-22",
+                                "Retrieved": "2021-02-22",
+                                "Created": "2021-02-21"
+                            }
+                        }
+                    ],
+                    "start_date": "21/02/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "23 February  2021 Maiduguri rocket attacks",
+                    "links": [],
+                    "start_date": "23/02/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "24 February  Gunmen kill 36 people and burn down houses in attacks in Kaduna and Katsina States.",
+                    "links": [
+                        {
+                            "link": "https://www.cnn.com/2021/02/25/africa/gunmen-attack-northern-nigeria-intl/index.html",
+                            "text": "-\"Gunmen kill 36 in attacks on two northern Nigerian states\". CNN. Reuters. February 25, 2021. The series of attacks by armed bandits occurred over the past 48 hours with 18 people killed each in villages of Kaduna and Katsina states and several others injured. The assailants burnt down houses, displacing the villagers.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2021-02-25"
+                            }
+                        }
+                    ],
+                    "start_date": "24/02/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "26 February  Zamfara kidnapping of at least 317 schoolgirls.",
+                    "links": [
+                        {
+                            "link": "https://web.archive.org/web/20210227080930/https://www.yahoo.com/news/nigeria-school-attack-hundreds-schoolgirls-080216767.html",
+                            "text": "-\"Nigeria's Zamfara school abduction: More than 300 Nigerian girls missing\". news.yahoo.com. BBC News. February 26, 2021. Archived from the original on February 27, 2021. Retrieved February 26, 2021.-",
+                            "dates": {
+                                "Archieved": "2021-02-27",
+                                "Retrieved": "2021-02-26",
+                                "Created": "2021-02-26"
+                            }
+                        },
+                        {
+                            "link": "https://www.yahoo.com/news/nigeria-school-attack-hundreds-schoolgirls-080216767.html",
+                            "text": "-\"Nigeria's Zamfara school abduction: More than 300 Nigerian girls missing\". news.yahoo.com. BBC News. February 26, 2021. Archived from the original on February 27, 2021. Retrieved February 26, 2021.-",
+                            "dates": {
+                                "Archieved": "2021-02-27",
+                                "Retrieved": "2021-02-26",
+                                "Created": "2021-02-26"
+                            }
+                        }
+                    ],
+                    "start_date": "26/02/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "27 February  The 42 hostages kidnapped from a school in Kagara, Niger State, on 17 February are freed.",
+                    "links": [
+                        {
+                            "link": "https://www.aljazeera.com/news/2021/2/27/kidnappers-release-42-abducted-from-school-in-nigeria",
+                            "text": "-\"Kidnappers release 42 abducted from school in Nigeria\". aljazeera.com. Al Jazeera English. February 27, 2021. Retrieved February 28, 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-02-28",
+                                "Created": "2021-02-27"
+                            }
+                        }
+                    ],
+                    "start_date": "27/02/2021",
+                    "end_date": "17/02/2021"
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "2 March  Insurgents temporarily hold Dikwa, Borno State.",
+                    "links": [
+                        {
+                            "link": "https://www.yahoo.com/news/nigerian-insurgents-northeast-government-stronghold-134345116.html",
+                            "text": "-\"Insurgents seize, then leave government stronghold in northeast Nigeria\". news.yahoo.com. Reuters. March 2, 2021. Retrieved March 2, 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-03-02",
+                                "Created": "2021-03-02"
+                            }
+                        }
+                    ],
+                    "start_date": "02/03/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "6 March  President Buhari receives the OxfordAstraZeneca COVID-19 vaccine and calls for Nigerians to follow his lead. 3.92 million vaccines arrived on , provided by the U.N. COVAX program. The country expects 84 million doses of vaccine this year and hopes to vaccinate 40% of the population this year and 30% in 2022. There have been 158,042 confirmed cases of COVID-19 and 1,954 deaths.",
+                    "links": [
+                        {
+                            "link": "https://www.yahoo.com/news/president-buhari-calls-nigerians-vaccine-121221233.html",
+                            "text": "-\"President Buhari calls for Nigerians to follow his vaccine lead\". news.yahoo.com. Reuters. March 6, 2021. Retrieved March 6, 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-03-06",
+                                "Created": "2021-03-06"
+                            }
+                        }
+                    ],
+                    "start_date": "06/03/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "11 March  Thirty students are kidnapped from the Federal College of Forestry Mechanisation, in Mando, Kaduna. The gunmen ran past the boys′ dormitory to capture the largest number of girls possible.",
+                    "links": [
+                        {
+                            "link": "https://thehill.com/policy/international/542905-students-abducted-by-armed-gunmen-at-nigeria-school",
+                            "text": "-Lonas, Lexi (12 March 2021). \"Students abducted by armed gunmen at Nigeria school\". TheHill. Retrieved March 12, 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-03-12",
+                                "Created": "2021-03-12"
+                            }
+                        },
+                        {
+                            "link": "https://www.cbsnews.com/news/nigeria-gunmen-kidnap-students-federal-college-forestry-mechanization/",
+                            "text": "-\"Gunmen attack school and kidnap at least 30 students in Nigeria\". cbsnews.com. CBS News. Retrieved March 12, 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-03-12",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "11/03/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "31 March  Critics of President Muhammadu Buhari including members of the Peoples Democratic Party (PDP) decry his frequent trips to London for health care, calling it a drain on the treasury.",
+                    "links": [
+                        {
+                            "link": "https://www.yahoo.com/news/outrage-nigeria-over-buharis-london-152556668.html",
+                            "text": "-AGOI, Joel Olatunde (March 31, 2021). \"Outrage in Nigeria over Buhari's London medical trips\". news.yahoo.com. AFP. Retrieved April 1, 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-04-01",
+                                "Created": "2021-03-31"
+                            }
+                        }
+                    ],
+                    "start_date": "31/03/2021",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "5 April  Owerri prison break",
+                    "links": [],
+                    "start_date": "05/04/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "8 April  Eleven armed forces personnel were killed in an attack in Benue State.",
+                    "links": [
+                        {
+                            "link": "https://www.msn.com/en-in/news/world/eleven-soldiers-killed-in-attack-in-nigeria/ar-BB1ftIPM",
+                            "text": "-Wion Web Team (April 9, 2021). \"Eleven soldiers killed in attack in Nigeria\". MSN. One army officer was among the 11 armed forces personnel killed in an attack in Nigeria that was termed as unprovoked by a spokesperson on Thursday. The attack took place in Nigeria's Benue state.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2021-04-09"
+                            }
+                        }
+                    ],
+                    "start_date": "08/04/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "20 April  Greenfield University kidnapping",
+                    "links": [],
+                    "start_date": "20/04/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Mainok attack",
+                    "links": [],
+                    "start_date": "25/04/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Makurdi kidnapping",
+                    "links": [],
+                    "start_date": "25/04/2021",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "May",
+            "Data": [
+                {
+                    "event_text": "26 May  Kebbi boat disaster",
+                    "links": [],
+                    "start_date": "26/05/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "30 May - Tegina kidnapping[citation needed]",
+                    "links": [],
+                    "start_date": "30/05/2021",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "June",
+            "Data": [
+                {
+                    "event_text": "2 June  Twitter removes one of his Muhammadu Buhari's tweets and temporarily suspends his account.",
+                    "links": [
+                        {
+                            "link": "https://www.vanguardngr.com/2021/04/imo-jailbreak-ipob-esn-behind-attacks-igp-mohammed/",
+                            "text": "-Omonobi, Kingsley (5 April 2021). \"Imo JailBreak: IPOB, ESN behind attacks — IGP Mohammed\". Vanguard. Retrieved 5 June 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-06-05",
+                                "Created": "2021-04-05"
+                            }
+                        }
+                    ],
+                    "start_date": "02/06/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "3 June  2021 Kebbi massacre",
+                    "links": [],
+                    "start_date": "03/06/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "4 June  the Minister of Information and Culture announced that Twitter's operations in Nigeria would be \"suspended\" indefinitely, arguing that the company engages in activities that \"are capable of undermining Nigeria's corporate existence.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-africa-57363779",
+                            "text": "-\"Nigeria to suspend Twitter 'indefinitely'\". BBC News. 2021-06-04. Retrieved 2021-06-04.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-06-04",
+                                "Created": "2021-06-04"
+                            }
+                        },
+                        {
+                            "link": "https://techcrunch.com/2021/06/04/nigeria-suspends-twitter-operations-says-platform-undermines-its-corporate-existence/",
+                            "text": "-\"Nigeria suspends Twitter operations, says platform 'undermines its corporate existence'\". TechCrunch. 4 June 2021. Archived from the original on 2021-06-08. Retrieved 2021-06-04.-",
+                            "dates": {
+                                "Archieved": "2021-06-04",
+                                "Retrieved": "2021-06-04",
+                                "Created": "2021-06-08"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20210608161450/https://techcrunch.com/2021/06/04/nigeria-suspends-twitter-operations-says-platform-undermines-its-corporate-existence/",
+                            "text": "-\"Nigeria suspends Twitter operations, says platform 'undermines its corporate existence'\". TechCrunch. 4 June 2021. Archived from the original on 2021-06-08. Retrieved 2021-06-04.-",
+                            "dates": {
+                                "Archieved": "2021-06-04",
+                                "Retrieved": "2021-06-04",
+                                "Created": "2021-06-08"
+                            }
+                        }
+                    ],
+                    "start_date": "04/06/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "5 June  Under directives issued pursuant to the suspension, Twitter was blocked by all internet service providers in the country.",
+                    "links": [],
+                    "start_date": "05/06/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "1011 June  Bandits kill 53 people in Zamfara State.",
+                    "links": [
+                        {
+                            "link": "https://www.aljazeera.com/news/2021/6/12/gunmen-kill-53-villagers-in-restive-northern-nigeria-state",
+                            "text": "-\"Gunmen storm villages, kill 53 in Nigeria's Zamfara state\". www.aljazeera.com. Al Jazeera. Retrieved June 12, 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-06-12",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "11/06/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "12 June  Police break up a peaceful Democracy Day protest in Lagos by firing tear gas and firing live ammunition into the air. Other protests were held in Ibadan, Osogbo, Abeokuta, Akure, and elsewhere.",
+                    "links": [
+                        {
+                            "link": "https://www.aljazeera.com/news/2021/6/12/police-fire-tear-gas-to-break-up-nigeria-protests",
+                            "text": "-\"Police fire tear gas in Nigeria 'Democracy Day' protests\". www.aljazeera.com. Al Jazeera. Retrieved June 12, 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-06-12",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "12/06/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "24 June  Kebbi kidnapping",
+                    "links": [],
+                    "start_date": "24/06/2021",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "July",
+            "Data": [
+                {
+                    "event_text": "5 July  Chikun kidnapping",
+                    "links": [],
+                    "start_date": "05/07/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "7 July  Eighteen people are killed by suspected Islamic militants in Dabna, Hong, Adamawa State, with the gunmen reportedly attacking the nearby villages of Kwapre and Garka as well.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/africa/more-than-dozen-killed-by-suspected-islamist-militants-nigeria-officials-2021-07-07/",
+                            "text": "-\"18 Nigerian villagers killed by suspected Islamist militants -officials\". Reuters. July 7, 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2021-07-07"
+                            }
+                        }
+                    ],
+                    "start_date": "07/07/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Military plane shot down by bandits, pilot escapes.",
+                    "links": [
+                        {
+                            "link": "http://morningstaronline.co.uk/article/w/bandits-shoot-down-nigerian-military-plane-during-operations-against-kidnappers",
+                            "text": "-\"Bandits shoot down Nigerian military plane during operations against kidnappers\". 20 July 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2021-07-20"
+                            }
+                        }
+                    ],
+                    "start_date": "07/07/2021",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "August",
+            "Data": [
+                {
+                    "event_text": "26 September - Kwatar Daban Masara airstrike",
+                    "links": [],
+                    "start_date": "26/09/2021",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "September",
+            "Data": [
+                {
+                    "event_text": "26 September - Kwatar Daban Masara airstrike",
+                    "links": [],
+                    "start_date": "26/09/2021",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "October",
+            "Data": [
+                {
+                    "event_text": "17 October - Sokoto massacre",
+                    "links": [
+                        {
+                            "link": "https://dfcnewsng.com/2021/10/19/bandits-massacre-40-in-sokoto-market-buhari-declares-total-war/",
+                            "text": "-\n\"Bandits Massacre 40 in Sokoto Market, Buhari Declares Total War\". DFCNews. 2021-10-19. Retrieved 2022-01-04.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-01-04",
+                                "Created": "2021-10-19"
+                            }
+                        }
+                    ],
+                    "start_date": "17/10/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "25 October - Mazakuka mosque shooting",
+                    "links": [],
+                    "start_date": "25/10/2021",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "November",
+            "Data": [
+                {
+                    "event_text": "1 November - 2021 Lagos high-rise collapse",
+                    "links": [],
+                    "start_date": "01/11/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "30 November - Bagwai boat disaster",
+                    "links": [],
+                    "start_date": "30/11/2021",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "December",
+            "Data": []
+        }
+    ]
+}

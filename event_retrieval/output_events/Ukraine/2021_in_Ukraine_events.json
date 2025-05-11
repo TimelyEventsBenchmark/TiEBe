@@ -1,0 +1,1199 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "12 January  Moldovan President Maia Sandu arrives in the country for her first foreign visit as president. Both countries said that they are willing to join the Three Seas Initiative and European Union.",
+                    "links": [
+                        {
+                            "link": "https://uawire.org/moldovan-president-arrives-in-ukraine-on-her-first-foreign-visit",
+                            "text": "-\"UAWire - Moldovan President arrives in Ukraine on her first foreign visit\". uawire.org. Retrieved 2022-03-18.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-03-18",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://www.ukrinform.net/rubric-economy/3169575-ukraine-moldova-willing-to-join-three-seas-initiative.html",
+                            "text": "-\"Ukraine, Moldova willing to join Three Seas Initiative\". www.ukrinform.net. 12 January 2021. Retrieved 2022-03-18.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-01-12",
+                                "Created": "2022-03-18"
+                            }
+                        }
+                    ],
+                    "start_date": "12/01/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "21 January  Fifteen people are killed and eleven others injured in a fire at a nursing home in Kharkiv.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-europe-55755600",
+                            "text": "-\"Ukraine fire: Fifteen dead as blaze guts home for elderly\". BBC News. 2021-01-21. Retrieved 2022-03-18.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-03-18",
+                                "Created": "2021-01-21"
+                            }
+                        }
+                    ],
+                    "start_date": "21/01/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "25 January  The country reopens schools, restaurants, and gyms as a tough lockdown aimed to prevent a new wave of COVID-19 was ended.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/article/us-health-coronavirus-ukraine-lockdown-idUSKBN29U0RE",
+                            "text": "-\"Ukraine completes tough COVID lockdown with optimistic expectations\". Reuters. 2021-01-25. Retrieved 2022-03-18.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-03-18",
+                                "Created": "2021-01-25"
+                            }
+                        }
+                    ],
+                    "start_date": "25/01/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "27 January  In accordance with decommunization laws, the last statue of Vladimir Lenin in the country (excluding territories currently annexed by Russia or occupied by separatists) is demolished in Odesa Oblast.",
+                    "links": [
+                        {
+                            "link": "https://www.svoboda.org/a/31072087.html",
+                            "text": "-\"На Украине снесли последний памятник Владимиру Ленину\". Радио Свобода (in Russian). 27 January 2021. Retrieved 2022-03-18.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-01-27",
+                                "Created": "2022-03-18"
+                            }
+                        }
+                    ],
+                    "start_date": "27/01/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "29 January  The Verkhovna Rada passes a law banning registration of the Sputnik V vaccine developed by Russia.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/business/healthcare-pharmaceuticals/ukraine-bans-use-russian-vaccines-2021-01-29/",
+                            "text": "-\"Ukraine bans use of Russian COVID-19 vaccines\". Reuters. 2021-01-29. Retrieved 2022-03-18.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-03-18",
+                                "Created": "2021-01-29"
+                            }
+                        }
+                    ],
+                    "start_date": "29/01/2021",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "5 February  The country secures 12 million doses of the vaccine developed by AstraZeneca and Novavax.",
+                    "links": [
+                        {
+                            "link": "https://www.unian.info/politics/covid-19-vaccine-delivery-plans-for-12-mln-doses-confirmed-11311436.html",
+                            "text": "-\"Delivery plans for 12 mln COVID-19 vaccine doses to Ukraine confirmed\". www.unian.info. Retrieved 2022-03-18.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-03-18",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "05/02/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "23 February  The country receives their first shipment of 500 doses of the OxfordAstraZeneca vaccine manufactured by the Serum Institute of India.",
+                    "links": [
+                        {
+                            "link": "https://www.rferl.org/a/ukraine-covid-19-astrazeneca-vaccine-first-delivery/31117396.html",
+                            "text": "-\"Ukraine Takes First Delivery of AstraZeneca Vaccine For COVID-19\". Radio Free Europe/Radio Liberty. 23 February 2021. Retrieved 2022-03-18.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-02-23",
+                                "Created": "2022-03-18"
+                            }
+                        }
+                    ],
+                    "start_date": "23/02/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "26 February  The country reports 10 ceasefire violations in the Luhansk region.",
+                    "links": [
+                        {
+                            "link": "https://www.unian.info/war/donbas-war-update-ukraine-records-10-ceasefire-violations-on-feb-25-11334971.html",
+                            "text": "-\"Donbas war update: Ukraine records 10 ceasefire violations on Feb 25\". www.unian.info. Retrieved 2022-03-18.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-03-18",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "26/02/2021",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "1 March  The country reports multiple ceasefire violations in the Donbas region, with one casualty.",
+                    "links": [
+                        {
+                            "link": "https://www.unian.info/war/donbas-war-update-ukraine-reports-one-kia-on-feb-28-11337422.html",
+                            "text": "-\"Donbas war update: Ukraine reports one KIA on Feb 28\". www.unian.info. Retrieved 2022-03-18.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-03-18",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "01/03/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "2 March  President Volodymyr Zelenskyy receives his first dose of OxfordAstraZeneca vaccine.",
+                    "links": [
+                        {
+                            "link": "https://abcnews.go.com/Health/wireStory/ukraines-leader-vaccine-shot-dispel-public-doubts-76208269",
+                            "text": "-\"Ukraine's leader gets vaccine shot to dispel public doubts\". ABC News. Retrieved 2022-03-18.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-03-18",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "02/03/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "4 March  The country reports its first cases of the Lineage B.1.1.7 variant first detected in the United Kingdom in two people from Ivano-Frankivsk.",
+                    "links": [
+                        {
+                            "link": "https://covid.unian.info/covid-19-two-cases-of-uk-strain-officially-confirmed-in-ukraine-11341670.html",
+                            "text": "-\"COVID-19: Two cases of UK strain officially confirmed in Ukraine\". covid.unian.info. Retrieved 2022-03-18.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-03-18",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "04/03/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "9 March  The country grants approval for the Sinovac CoronaVac vaccine.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/business/healthcare-pharmaceuticals/ukraine-approves-chinas-sinovac-covid-19-vaccine-ministry-2021-03-09/",
+                            "text": "-\"Ukraine approves China's Sinovac COVID-19 vaccine\". Reuters. 2021-03-09. Retrieved 2022-03-18.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-03-18",
+                                "Created": "2021-03-09"
+                            }
+                        }
+                    ],
+                    "start_date": "09/03/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "18 March  Kyiv Mayor Vitali Klitschko announces a three-week lockdown in the city beginning on  which will close all cultural institutions and many non-essential shopping and entertainment malls due to an increase in COVID-19 cases.",
+                    "links": [
+                        {
+                            "link": "https://www.ukrinform.net/rubric-society/3210627-kyiv-introduces-strict-quarantine-restrictions-from-march-20-klitschko.html",
+                            "text": "-\"Kyiv introduces strict quarantine restrictions from March 20 – Klitschko\". www.ukrinform.net. 18 March 2021. Retrieved 2022-03-18.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-03-18",
+                                "Created": "2022-03-18"
+                            }
+                        }
+                    ],
+                    "start_date": "18/03/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "31 March  Russian President Vladimir Putin accuses the country of \"provoking armed confrontation\" with pro-Russian separatists in the war-torn eastern portion of the country. Putin also said that Ukraine failed to comply with the July 2020 ceasefire of the conflict, which has killed over 14,000 people since it broke out in 2014.",
+                    "links": [
+                        {
+                            "link": "https://news.yahoo.com/putin-accuses-ukraine-provoking-clashes-085755024.html",
+                            "text": "-\"Putin accuses Ukraine of provoking clashes with pro-Russian separatists amid tensions\". news.yahoo.com. 31 March 2021. Retrieved 2022-03-18.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-03-31",
+                                "Created": "2022-03-18"
+                            }
+                        }
+                    ],
+                    "start_date": "31/03/2021",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "The country signs a deal with Pfizer to supply 10 million doses of the PfizerBioNTech vaccine.",
+                    "links": [
+                        {
+                            "link": "https://covid.unian.info/ukraine-signs-deal-with-pfizer-for-supply-of-10-mln-vaccine-doses-11379115.html",
+                            "text": "-\"Ukraine signs deal with Pfizer for supply of 10 mln vaccine doses\". covid.unian.info. Retrieved 2022-03-18.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-03-18",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "06/04/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "President Volodymyr Zelenskyy calls on NATO to hasten the country's accession to the military alliance in response to a growing build-up of Russian troops and military hardware on its borders, and to help bring an end to the ongoing conflict in the Donbas with pro-Russian separatists.",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/world/2021/apr/06/ukraine-pressures-nato-for-membership-as-russia-amasses-troops-at-border",
+                            "text": "-\"Ukraine urges Nato to hasten membership as Russian troops gather\". the Guardian. 2021-04-06. Retrieved 2022-03-18.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-03-18",
+                                "Created": "2021-04-06"
+                            }
+                        }
+                    ],
+                    "start_date": "06/04/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Russia warns that having the country join NATO \"would exacerbate the Donbas conflict\" after Ukraine urged NATO to \"speed up\" its membership application.",
+                    "links": [
+                        {
+                            "link": "https://meduza.io/en/feature/2021/04/07/we-deeply-doubt-it-will-help",
+                            "text": "-\"'We deeply doubt it will help' Kremlin warns that Ukraine joining NATO would exacerbate Donbas conflict\". Meduza. Retrieved 2022-03-18.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-03-18",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "07/04/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Verkhovna Rada votes to legalize the use of medical cannabis products.",
+                    "links": [
+                        {
+                            "link": "https://life.pravda.com.ua/health/2021/04/9/244505/",
+                            "text": "-Поперечна, Дарія (9 April 2021). \"В Україні легалізували використання медичного канабісу, але не всього\". УП.Життя (in Ukrainian).-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2021-04-09"
+                            }
+                        }
+                    ],
+                    "start_date": "07/04/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "9 April  Russia deploys more troops to the RussiaUkraine border as tensions escalate between the U.S., Russia, and Ukraine.",
+                    "links": [
+                        {
+                            "link": "https://www.nytimes.com/2021/04/09/world/europe/russia-ukraine-war-troops-intervention.html",
+                            "text": "-Kramer, Andrew E. (2021-04-09). \"Russian Troop Movements and Talk of Intervention Cause Jitters in Ukraine\". The New York Times. ISSN 0362-4331. Retrieved 2022-03-18.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-03-18",
+                                "Created": "2021-04-09"
+                            }
+                        },
+                        {
+                            "link": "https://search.worldcat.org/issn/0362-4331",
+                            "text": "-Kramer, Andrew E. (2021-04-09). \"Russian Troop Movements and Talk of Intervention Cause Jitters in Ukraine\". The New York Times. ISSN 0362-4331. Retrieved 2022-03-18.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-03-18",
+                                "Created": "2021-04-09"
+                            }
+                        }
+                    ],
+                    "start_date": "09/04/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "11 April  A Ukrainian soldier is killed and another is seriously wounded by Russian separatist forces artillery fire on the front line in Eastern Ukraine, bringing the total number of troops killed in combat this year to 27.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/world-news-ukraine-antony-blinken-russia-e30cceb6a90d69dc087079282d3bce9c",
+                            "text": "-\"Ukraine says 1 soldier killed in east as tensions rise\". AP NEWS. 2021-04-20. Retrieved 2022-03-18.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-03-18",
+                                "Created": "2021-04-20"
+                            }
+                        }
+                    ],
+                    "start_date": "11/04/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "12 April  The country triggers Article 15 of the Charter on a Special Partnership, initiating an emergency meeting with NATO to discuss the Russian escalation in Donbas and the build-up of Russian forces on its border. The article was last triggered in 2018 during the Kerch Strait incident.",
+                    "links": [
+                        {
+                            "link": "https://ukranews.com/en/news/768973-ukraine-initiates-april-13-emergency-meeting-of-nato-commission-to-discuss-russia-s-escalation-of",
+                            "text": "-\"Ukraine Initiates April 13 Emergency Meeting Of NATO Commission To Discuss Russia's Escalation Of Security Situation\". ukranews_com. 2021-04-12. Retrieved 2022-03-18.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-03-18",
+                                "Created": "2021-04-12"
+                            }
+                        }
+                    ],
+                    "start_date": "12/04/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "15 April  The country protests an alleged announcement by Russia that, beginning next week, it would be closing the Kerch Strait to foreign warships and state ships until October.",
+                    "links": [
+                        {
+                            "link": "https://interfax.com.ua/news/general/737914-amp.html",
+                            "text": "-\"МИД Украины протестует в связи с ограничением РФ свободы судоходства в Черном море\". Интерфакс-Украина (in Russian). 15 April 2021. Retrieved 2022-03-18.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-04-15",
+                                "Created": "2022-03-18"
+                            }
+                        }
+                    ],
+                    "start_date": "15/04/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "16 April  The country receives 117,000 doses of the OxfordAstraZeneca vaccine through the COVAX vaccine-sharing initiative.",
+                    "links": [
+                        {
+                            "link": "https://www.unicef.org/ukraine/en/press-releases/covax-arrival-ukraine",
+                            "text": "-\"First COVID-19 vaccines shipped by COVAX arrive in Ukraine\". www.unicef.org. Retrieved 2022-03-18.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-03-18",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "16/04/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "21 April  President Volodymyr Zelenskyy invites his Russian counterpart Vladimir Putin to a face-to-face meeting on the front line in the war-torn Donbas to negotiate an end to the conflict.",
+                    "links": [
+                        {
+                            "link": "https://www.dailysabah.com/world/europe/ukraines-zelenskiy-invites-putin-to-meet-on-front-line",
+                            "text": "-AFP, French Press Agency- (2021-04-21). \"Ukraine's Zelenskiy invites Putin to meet on front line\". Daily Sabah. Retrieved 2022-03-18.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-03-18",
+                                "Created": "2021-04-21"
+                            }
+                        }
+                    ],
+                    "start_date": "21/04/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "22 April  The Russian Defense Ministry announces that it will move its forces away from the Ukrainian border beginning tomorrow. The country and its western allies accused Russia of trying to provoke conflict by moving troops to the border, while Defense Minister Sergey Shoygu claimed that it was only to conduct drills.",
+                    "links": [
+                        {
+                            "link": "https://www.aljazeera.com/news/2021/4/22/russia-orders-pullback-of-troops-after-military-drills",
+                            "text": "-\"Russia to pull back troops from Ukraine border\". www.aljazeera.com. Retrieved 2022-03-18.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-03-18",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "22/04/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "23 April  A United Nations aid convoy brings 23 tons of humanitarian aid to the region around Donetsk, passing the contact line into separatist-controlled territory at the Novotroitske crossing point.",
+                    "links": [
+                        {
+                            "link": "https://news.un.org/en/story/2021/04/1090472",
+                            "text": "-\"UN-led aid convoy brings 23 tonnes of humanitarian goods across contact line in east Ukraine\". UN News. 2021-04-23. Retrieved 2021-05-25.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-05-25",
+                                "Created": "2021-04-23"
+                            }
+                        }
+                    ],
+                    "start_date": "23/04/2021",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "June",
+            "Data": [
+                {
+                    "event_text": "23 June  The country reports its first two cases of the SARS-CoV-2 Delta variant in a woman and a teenager who travelled from Russia.",
+                    "links": [
+                        {
+                            "link": "https://www.kyivpost.com/ukraine-politics/delta-most-dangerous-coronavirus-variant-yet-detected-in-ukraine.html",
+                            "text": "-\"Delta, most dangerous coronavirus variant yet, detected in Ukraine - KyivPost - Ukraine's Global Voice\". KyivPost. 2021-06-23. Retrieved 2022-03-18.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-03-18",
+                                "Created": "2021-06-23"
+                            }
+                        }
+                    ],
+                    "start_date": "23/06/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "28 June  The country and NATO forces launch joint naval drills in the Black Sea codenamed Sea Breeze 2021. Russia has condemned the drills, with the Russian Defence Ministry saying that they would closely monitor the drills.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/black-sea-ukraine-europe-government-and-politics-ea5d4e704ecce23a4d7aa7196f04ba9f",
+                            "text": "-\"Ukraine, NATO launch joint Black Sea drills\". AP NEWS. 2021-06-28. Retrieved 2022-03-18.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-03-18",
+                                "Created": "2021-06-28"
+                            }
+                        }
+                    ],
+                    "start_date": "28/06/2021",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "July",
+            "Data": [
+                {
+                    "event_text": "2 July  Belarus closes its border with the country after President Alexander Lukashenko claims that arms are being smuggled into the country in an attempt by \"outside powers\" to overthrow his regime, saying that \"They have crossed the line. We cannot forgive them\". Ukraine denies Lukashenko's claims, and says that closing the border would make its people \"suffer\".",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-europe-57702516",
+                            "text": "-\"Belarus closes border to Ukraine over coup claim\". BBC News. 2021-07-02. Retrieved 2022-03-18.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-03-18",
+                                "Created": "2021-07-02"
+                            }
+                        }
+                    ],
+                    "start_date": "02/07/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "5 July  The country authorizes the usage of the Johnson & Johnson COVID-19 vaccine.",
+                    "links": [
+                        {
+                            "link": "https://www.kyivpost.com/ukraine-politics/reuters-ukraine-approves-johnson-johnson-covid-19-vaccine.html",
+                            "text": "-\"Reuters: Ukraine approves Johnson & Johnson COVID-19 vaccine - KyivPost - Ukraine's Global Voice\". KyivPost. 2021-07-05. Retrieved 2022-03-18.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-03-18",
+                                "Created": "2021-07-05"
+                            }
+                        }
+                    ],
+                    "start_date": "05/07/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "9 July  The Ministry of Defence accuses Russia of hacking the website of the Naval Forces to publish fake news and upload false documents regarding naval drills between Ukraine, NATO, and most Black Sea nations.",
+                    "links": [
+                        {
+                            "link": "https://www.rferl.org/a/ukraine-hack-russia-navy-sea-breeze/31351045.html",
+                            "text": "-\"Ukraine Blames Russian Hackers For Attack On Navy Website\". Radio Free Europe/Radio Liberty. 10 July 2021. Retrieved 2022-03-18.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-07-10",
+                                "Created": "2022-03-18"
+                            }
+                        }
+                    ],
+                    "start_date": "09/07/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "19 July  The President, in a joint statement with the Moldovan President Maia Sandu and Georgian President Salome Zourabichvili, announced the countries' intentions to pursue closer relations with the European Union, effectively rebuking Russia.",
+                    "links": [
+                        {
+                            "link": "https://www.politico.eu/article/georgia-moldova-ukraine-european-union-charles-michel-russia-batumi-conference/",
+                            "text": "-\"Georgia, Moldova and Ukraine see joint path to EU\". POLITICO. 2021-07-19. Retrieved 2022-03-18.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-03-18",
+                                "Created": "2021-07-19"
+                            }
+                        }
+                    ],
+                    "start_date": "19/07/2021",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "August",
+            "Data": [
+                {
+                    "event_text": "4 August  The country received 509,400 doses of the OxfordAstraZeneca COVID-19 vaccine donated by Denmark.",
+                    "links": [
+                        {
+                            "link": "https://www.ukrinform.net/rubric-society/3291894-more-than-500000-doses-of-astrazeneca-vaccine-provided-by-denmark-arrive-in-ukraine.html",
+                            "text": "-\"More than 500,000 doses of AstraZeneca vaccine provided by Denmark arrive in Ukraine\". www.ukrinform.net. 4 August 2021. Retrieved 2022-03-18.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-08-04",
+                                "Created": "2022-03-18"
+                            }
+                        }
+                    ],
+                    "start_date": "04/08/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "15 August  Konstantin Pavlov, the pro-Russian mayor of Kryvyi Rih, is found dead at his home with a gunshot wound. The National Police say that they are currently establishing the circumstances of the mayor's death and have also opened a criminal case.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/europe/opposition-mayor-ukrainian-city-found-dead-2021-08-15/",
+                            "text": "-\"Opposition mayor of Ukrainian city found dead\". Reuters. 2021-08-15. Retrieved 2022-03-18.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-03-18",
+                                "Created": "2021-08-15"
+                            }
+                        }
+                    ],
+                    "start_date": "15/08/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "26 August  A mass grave containing between 5,000 and 8,000 skeletons is discovered in Kyiv, during exploration works for a planned expansion of Odesa International Airport. The graves are believed to date back to the late 1930s during a major purge.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-europe-58340805",
+                            "text": "-\"Stalin-era mass grave found in Ukraine\". BBC News. 2021-08-26. Retrieved 2022-03-18.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-03-18",
+                                "Created": "2021-08-26"
+                            }
+                        }
+                    ],
+                    "start_date": "26/08/2021",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "September",
+            "Data": [
+                {
+                    "event_text": "17 September  The country and the United States announce that they will begin joint military exercises involving 15 other countries in western Ukraine next week.",
+                    "links": [
+                        {
+                            "link": "https://www.voanews.com/a/ukraine-us-to-hold-joint-military-drills-/6232331.html",
+                            "text": "-\"Ukraine, US to Hold Joint Military Drills\". VOA. 16 September 2021. Retrieved 2022-03-18.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-09-16",
+                                "Created": "2022-03-18"
+                            }
+                        }
+                    ],
+                    "start_date": "17/09/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "23 September  A law passed ordering oligarchs to stay out of politics, a day after the failed assassination attempt to kill an aide of President Volodymyr Zelenskyy, which officials said could have been a response to the reform.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/europe/ukrainian-parliament-passes-law-oligarchs-final-reading-2021-09-23/",
+                            "text": "-Polityuk, Pavel; Zinets, Natalia (2021-09-23). \"Ukrainian lawmakers pass law on oligarchs after assassination attempt\". Reuters. Retrieved 2022-03-18.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-03-18",
+                                "Created": "2021-09-23"
+                            }
+                        }
+                    ],
+                    "start_date": "23/09/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "27 September  Hungary and Russia sign a natural gas supply deal which will see Gazprom supply Hungary with 4.5 billion cubic metres of gas annually via Serbia and Austria for the next 15 years. The gas pact is criticized by the country, which argues that it is a \"purely political, economically unreasonable decision\". In response, Hungarian Foreign Minister Péter Szijjártó accuses Ukraine of \"meddling\" in its internal affairs.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/business/energy/hungary-russias-gazprom-expected-sign-new-long-term-gas-supply-deal-monday-2021-09-27/",
+                            "text": "-Komuves, Anita; Than, Krisztina (2021-09-27). \"Hungary accuses Ukraine of meddling as it signs Russia gas pact\". Reuters. Retrieved 2022-03-18.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-03-18",
+                                "Created": "2021-09-27"
+                            }
+                        }
+                    ],
+                    "start_date": "27/09/2021",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "October",
+            "Data": [
+                {
+                    "event_text": "7 October  Dmytro Razumkov, the speaker of the Verkhovna Rada is dismissed following his disagreements with President Volodymyr Zelenskyy and his ruling Servant of the People party's stances on legislation which aimed to reduce the influence of Ukrainian oligarchs.",
+                    "links": [
+                        {
+                            "link": "https://www.kyivpost.com/ukraine-politics/speaker-razumkov-dismissed-after-disputes-with-zelensky.html",
+                            "text": "-\"Speaker Razumkov dismissed with 284 votes after disputes with Zelensky - Oct. 07, 2021\". KyivPost. 2021-10-07. Retrieved 2022-03-18.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2021-10-07"
+                            }
+                        }
+                    ],
+                    "start_date": "07/10/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "12 October  The European Union vows to help the country with its gas supplies as President Volodymyr Zelenskyy underlines his concerns of potential Russian political leverage in the region in the aftermath of the agreement with Germany regarding the Nord Stream pipeline.",
+                    "links": [
+                        {
+                            "link": "https://www.dw.com/en/eu-chief-vows-to-help-ukraine-with-gas-supply/a-59478866",
+                            "text": "-Welle (www.dw.com), Deutsche. \"EU chief vows to help Ukraine with gas supply | DW | 12.10.2021\". DW.COM. Retrieved 2022-03-18.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-03-18",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "12/10/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "22 October  The country closes schools and public venues in Kyiv and will only permit the schools to reopen if teachers are vaccinated in other \"red zone\" areas after the country reported a record for the second consecutive day of 29,785 new cases and 614 deaths from COVID-19.",
+                    "links": [
+                        {
+                            "link": "https://www.barrons.com/news/ukraine-posts-record-covid-deaths-cases-for-second-day-01634890807",
+                            "text": "-Presse, AFP-Agence France. \"Ukraine Posts Record Covid Deaths And Cases For Second Day\". www.barrons.com. Retrieved 2022-03-18.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-03-18",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "22/10/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "26 October  The country confirms it has carried out its first drone strikes using the Turkish-made Bayraktar TB2, destroying a pro-Russian separatist D-30 howitzer. A Ukrainian soldier is killed and another wounded by rebel artillery near Hranitne in Donetsk Oblast.",
+                    "links": [
+                        {
+                            "link": "https://www.themoscowtimes.com/2021/10/27/ukraine-destroys-pro-russian-artillery-in-its-first-use-of-turkish-drones-a75420",
+                            "text": "-Times, The Moscow (2021-10-27). \"Ukraine Destroys Pro-Russian Artillery in Its First Use of Turkish Drones\". The Moscow Times. Retrieved 2022-03-18.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-03-18",
+                                "Created": "2021-10-27"
+                            }
+                        }
+                    ],
+                    "start_date": "26/10/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Kremlin Spokesman Dmitry Peskov warns that the delivery and first operational deployment of the Turkish Bayraktar TB2 in Donbas by the country may \"destabilize the situation\" in the region.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/middle-east/kremlin-says-turkish-drones-risk-destabilising-situation-east-ukraine-2021-10-27/",
+                            "text": "-\"Kremlin says Turkish drones risk destabilising situation in east Ukraine\". Reuters. 2021-10-27. Retrieved 2022-03-18.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-03-18",
+                                "Created": "2021-10-27"
+                            }
+                        }
+                    ],
+                    "start_date": "27/10/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Ukrainian troops regain control of the village of Staromaryivka in the so-called \"grey zone\" between Ukraine and the Donetsk People's Republic (DPR), according to DPR Foreign Minister Natalya Nikonorova.",
+                    "links": [
+                        {
+                            "link": "https://tass.com/world/1354741",
+                            "text": "-\"Ukrainian forces seize village of Staromaryevka — Donetsk Republic\". tass.com. 2021-10-27. Retrieved 2022-03-18.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-03-18",
+                                "Created": "2021-10-27"
+                            }
+                        }
+                    ],
+                    "start_date": "27/10/2021",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "November",
+            "Data": [
+                {
+                    "event_text": "1 November  Kyiv begins to require vaccine certificates or negative test results in order to enter restaurants, cafés, gyms, entertainment facilities and shopping malls as well as to use public transportation in an attempt to reduce the number of COVID-19 cases.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/europe/new-covid-19-restrictions-force-ukraines-capital-amid-spike-cases-2021-11-01/",
+                            "text": "-\"New COVID-19 restrictions in force in Ukraine's capital amid spike in cases\". Reuters. 2021-11-01. Retrieved 2022-03-17.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-03-17",
+                                "Created": "2021-11-01"
+                            }
+                        }
+                    ],
+                    "start_date": "01/11/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "4 November  The country surpasses three million cases of COVID-19 after reporting a record 27,377 new cases in the past 24 hours.",
+                    "links": [
+                        {
+                            "link": "https://www.ukrinform.net/rubric-society/3344578-covid-in-ukraine-daily-cases-hit-27377-as-of-nov-4.html",
+                            "text": "-\"COVID in Ukraine: Daily cases hit 27,377 as of Nov 4\". www.ukrinform.net. 4 November 2021. Retrieved 2022-03-17.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-11-04",
+                                "Created": "2022-03-17"
+                            }
+                        }
+                    ],
+                    "start_date": "04/11/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "7 November  The country receives 2,930,300 doses of the Moderna COVID-19 vaccine distributed through the COVAX initiative.",
+                    "links": [
+                        {
+                            "link": "https://www.unicef.org/ukraine/en/press-releases/unicef-delivers-close-3-million-doses-moderna-vaccine-ukraine-under-covax",
+                            "text": "-\"UNICEF delivers close to 3 million doses of Moderna vaccine to Ukraine under COVAX\". www.unicef.org. Retrieved 2022-03-18.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-03-18",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "07/11/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "8 November  The country's oldest English language newspaper the Kyiv Post suspends publication after 26 years in print following a dispute between its owner and journalists. All of the newspaper's journalists have been fired with immediate effect.",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/world/2021/nov/08/ukrainian-english-language-newspaper-kyiv-post-suspends-publication",
+                            "text": "-Kyiv, AFP in (2021-11-08). \"Ukrainian English-language newspaper Kyiv Post suspends publication\". the Guardian. Retrieved 2022-03-18.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-03-18",
+                                "Created": "2021-11-08"
+                            }
+                        }
+                    ],
+                    "start_date": "08/11/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "11 November  The country deploys a further 8,500 soldiers and police officers, as well as 15 helicopters, to the border with Belarus to prevent possible attempts by stranded migrants to cross into the country in order to reach the European Union.",
+                    "links": [
+                        {
+                            "link": "https://www.voanews.com/a/ukraine-to-deploy-troops-helicopters-to-guard-belarus-border-/6309168.html",
+                            "text": "-\"Ukraine to Deploy Troops, Helicopters to Guard Belarus Border\". VOA. 11 November 2021. Retrieved 2022-03-18.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-11-11",
+                                "Created": "2022-03-18"
+                            }
+                        }
+                    ],
+                    "start_date": "11/11/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "British Prime Minister Boris Johnson states that the west will have to choose between reliance on Russian gas and supporting Ukraine amid reported buildups of the Russian military near the border with the country.",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/politics/2021/nov/15/west-must-choose-between-russian-gas-and-supporting-ukraine-pm-warns",
+                            "text": "-\"West must choose between Russian gas and supporting Ukraine, PM warns\". the Guardian. 2021-11-15. Retrieved 2022-03-18.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-03-18",
+                                "Created": "2021-11-15"
+                            }
+                        }
+                    ],
+                    "start_date": "16/11/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Researchers at the American cybersecurity firm Mandiant report that the Belarusian government has ties to the hacker group Ghostwriter, which was accused of targeting various German politicians and ministries in September and has since been accused of launching misinformation campaigns against multiple countries, including Ukraine.",
+                    "links": [
+                        {
+                            "link": "https://abcnews.go.com/Politics/wireStory/report-implicates-belarus-anti-nato-cyber-campaign-81206234",
+                            "text": "-\"Report implicates Belarus in anti-NATO cyber campaign\". ABC News. Retrieved 2022-03-18.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-03-18",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "16/11/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "18 November  Belarus suspends electricity supplies to the country, in \"accordance with the established procedure for interaction within the framework of contractual relations\", according to a statement from the Belarusian Ministry of Energy.",
+                    "links": [
+                        {
+                            "link": "https://ukranews.com/en/news/814995-belarus-to-stop-supplying-electricity-to-ukraine-on-november-18",
+                            "text": "-\"Belarus To Stop Supplying Electricity To Ukraine On November 18\". ukranews_com. 2021-11-17. Retrieved 2022-03-18.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-03-18",
+                                "Created": "2021-11-17"
+                            }
+                        }
+                    ],
+                    "start_date": "18/11/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "23 November  The country warns of \"combat preparedness\" of separatist forces in eastern Ukraine as the Russian military presence on the border increases, warning of a potential new conflict. The separatists began mobilization of reservists yesterday.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/europe/russian-controlled-forces-donbass-raise-combat-readiness-ukraine-2021-11-23/",
+                            "text": "-Zinets, Natalia (2021-11-23). \"Russian-controlled forces in Donbass raise combat readiness - Ukraine\". Reuters. Retrieved 2022-03-18.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-03-18",
+                                "Created": "2021-11-23"
+                            }
+                        }
+                    ],
+                    "start_date": "23/11/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "British foreign secretary Liz Truss warns Russia that any attack on the country would be a \"grave mistake\", and that the UK is working closely with its NATO allies to provide support to Ukraine.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/business/aerospace-defense/exclusive-britain-says-russian-attack-ukraine-would-be-grave-mistake-2021-11-24/",
+                            "text": "-Maclellan, Kylie (2021-11-24). \"EXCLUSIVE Britain says Russian attack on Ukraine would be a 'grave mistake'\". Reuters. Retrieved 2022-03-18.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-03-18",
+                                "Created": "2021-11-24"
+                            }
+                        }
+                    ],
+                    "start_date": "24/11/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The country launches a \"special operation\" on the Belarusian border involving troops from the National Guard, police, and the armed forces, including anti-tank and airborne units, amid fears of a migrant crisis and also due to a Russian military build-up on its borders.",
+                    "links": [
+                        {
+                            "link": "https://www.rferl.org/a/ukraine-border-operation-belarus/31576562.html",
+                            "text": "-\"Biden Vows 'Unwavering Support' For Ukraine Amid Heightened Tensions With Russia\". Radio Free Europe/Radio Liberty. 24 November 2021. Retrieved 2022-03-18.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-11-24",
+                                "Created": "2022-03-18"
+                            }
+                        }
+                    ],
+                    "start_date": "24/11/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "26 November  President Volodymyr Zelenskyy accuses Russia of plotting a coup against him and says that Ukrainian tycoon Rinat Akhmetov was being enlisted to help plan the coup. Zelenskyy says that his country \"is prepared for any scenario\" as tensions rise.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/europe/ukraine-has-information-about-december-coup-attempt-with-russian-involvement-2021-11-26/",
+                            "text": "-Zinets, Natalia; Polityuk, Pavel (2021-11-26). \"Zelenskiy says Ukraine uncovers coup plot involving Russians; Kremlin denies role\". Reuters. Retrieved 2022-03-18.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-03-18",
+                                "Created": "2021-11-26"
+                            }
+                        },
+                        {
+                            "link": "https://www.nbcnews.com/news/world/ukraine-president-says-coup-plot-thwarted-involving-russians-rcna6787",
+                            "text": "-\"Ukraine president says coup plot thwarted involving Russians\". NBC News. 10 December 2021. Retrieved 2022-03-18.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-12-10",
+                                "Created": "2022-03-18"
+                            }
+                        },
+                        {
+                            "link": "https://www.bbc.com/news/world-europe-59428712",
+                            "text": "-\"Ukraine-Russia conflict: Zelensky alleges coup plan involving Russians\". BBC News. 2021-11-26. Retrieved 2022-03-18.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-03-18",
+                                "Created": "2021-11-26"
+                            }
+                        }
+                    ],
+                    "start_date": "26/11/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "29 November  Turkey offers to mediate between Ukraine and Russia over the crisis between the two nations.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/middle-east/erdogan-says-turkey-ready-mediate-between-ukraine-russia-ntv-2021-11-29/",
+                            "text": "-\"Erdogan says Turkey ready to mediate between Ukraine and Russia -NTV\". Reuters. 2021-11-29. Retrieved 2022-03-18.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-03-18",
+                                "Created": "2021-11-29"
+                            }
+                        }
+                    ],
+                    "start_date": "29/11/2021",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "December",
+            "Data": [
+                {
+                    "event_text": "7 December  Thirteen people are killed in a collision between a minibus and a truck in Chernihiv Oblast.",
+                    "links": [
+                        {
+                            "link": "https://www.rferl.org/a/ukraine-minibus-truck-crash-dead/31598400.html",
+                            "text": "-\"Thirteen Dead In Ukraine After Minibus, Truck Collide\". Radio Free Europe/Radio Liberty. 7 December 2021. Retrieved 2022-03-17.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-12-07",
+                                "Created": "2022-03-17"
+                            }
+                        }
+                    ],
+                    "start_date": "07/12/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "8 December  U.S. President Joe Biden announces that American troops will not be unilaterally deployed to the country in order to deter a potential Russian invasion, saying that the option \"was not on the table\".",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/europe/kremlin-says-both-sides-follow-up-quickly-putin-biden-talks-2021-12-08/",
+                            "text": "-Mason, Jeff; Soldatkin, Vladimir (2021-12-09). \"Biden says U.S. will not put troops in Ukraine, as tensions with Russia ease\". Reuters. Retrieved 2022-03-17.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-03-17",
+                                "Created": "2021-12-09"
+                            }
+                        }
+                    ],
+                    "start_date": "08/12/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "13 December  One-hundred and six members of a Ukrainian \"neo-Nazi\" youth group are arrested in Russia, suspected of planning attacks, including mass murders. Russia has accused Ukrainian intelligence of financially funding the group. Ukraine alleges that the arrests and subsequent Russian media reporting are staged as part of Russian intelligence measures.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/europe/russia-arrests-ukrainian-neo-nazis-kyiv-denies-link-them-2021-12-13/",
+                            "text": "-Zinets, Natalia (2021-12-13). \"Ukraine accuses Russia of information warfare after 'neo-Nazi' arrests\". Reuters. Retrieved 2022-03-17.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-03-17",
+                                "Created": "2021-12-13"
+                            }
+                        }
+                    ],
+                    "start_date": "13/12/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "17 December  Russia demands that NATO never admit the country as a member of the military alliance, among other measures, saying that they want a legally binding guarantee to end further eastward expansion. Other demands include a Russian veto on Ukrainian membership in NATO, the removal of U.S. nuclear weapons from Europe, and the withdrawal of multinational NATO battalions from Poland and the Baltics.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/russia-unveils-security-guarantees-says-western-response-not-encouraging-2021-12-17/",
+                            "text": "-Tétrault-Farber, Gabrielle; Balmforth, Tom (2021-12-17). \"Russia demands NATO roll back from East Europe and stay out of Ukraine\". Reuters. Retrieved 2022-03-17.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-03-17",
+                                "Created": "2021-12-17"
+                            }
+                        }
+                    ],
+                    "start_date": "17/12/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The country reports its first case of the Omicron variant in a person who travelled from the United Arab Emirates.",
+                    "links": [
+                        {
+                            "link": "https://timesofindia.indiatimes.com/world/rest-of-world/ukraine-reports-its-first-case-of-omicron-coronavirus-variant/articleshow/88356440.cms",
+                            "text": "-\"Ukraine reports its first case of Omicron coronavirus variant\". The Times of India. 18 December 2021. Retrieved 2022-03-17.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-12-18",
+                                "Created": "2022-03-17"
+                            }
+                        }
+                    ],
+                    "start_date": "18/12/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Ukrainian ambassador to Israel Yevhen Korniychuk says that the country might recognize Jerusalem as the capital of Israel.",
+                    "links": [
+                        {
+                            "link": "https://www.timesofisrael.com/liveblog_entry/ukraine-says-it-recognizes-jerusalem-as-israels-capital-will-open-embassy-there/",
+                            "text": "-Berman, Lazar. \"Ukraine envoy: Kyiv could recognize Jerusalem as Israel's capital soon\". www.timesofisrael.com. Retrieved 2022-03-17.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-03-17",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "18/12/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Former Ukrainian President and oligarch Petro Poroshenko leaves the country on a \"pre-planned diplomatic tour\" of Turkey and Poland after the National Bureau of Investigation attempts to issue a summons regarding charges of abetting terrorism. The National Bureau of Investigation claims that Poroshenko was involved in looting national resources from the country's temporarily occupied territories.",
+                    "links": [
+                        {
+                            "link": "https://www.dw.com/ru/v-partii-poroshenko-podtverdili-chto-on-pokinul-ukrainu/a-60178684",
+                            "text": "-Welle (www.dw.com), Deutsche. \"Порошенко покинул Украину перед вызовом на допрос | DW | 18.12.2021\". DW.COM (in Russian). Retrieved 2022-03-17.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-03-17",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "18/12/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Poland and Lithuania join the country in calling for stronger international sanctions on Russia, with Polish President Andrzej Duda saying that \"everything must be done\" to prevent a potential Russian invasion of Ukraine, and that he was \"absolutely against any policy of concessions to Russia\".",
+                    "links": [
+                        {
+                            "link": "https://www.rferl.org/a/ukraine-poland-duda-russia-concessions/31618019.html",
+                            "text": "-\"Polish, Lithuanian Leaders Back Kyiv And Call For No 'Concessions' To Russia\". Radio Free Europe/Radio Liberty. 21 December 2021. Retrieved 2022-03-17.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-12-21",
+                                "Created": "2022-03-17"
+                            }
+                        }
+                    ],
+                    "start_date": "20/12/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "U.S. Pentagon Press Secretary John Kirby says a small Department of Defense team has returned from the country after assessing its air defences.",
+                    "links": [
+                        {
+                            "link": "https://www.thedrive.com/the-war-zone/43596/pentagon-team-has-returned-from-assessing-ukraines-air-defense-needs",
+                            "text": "-Trevithick, Joseph (21 December 2021). \"Pentagon Team Has Returned From Assessing Ukraine's Air Defense Needs\". The Drive. Retrieved 2022-03-17.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-12-21",
+                                "Created": "2022-03-17"
+                            }
+                        }
+                    ],
+                    "start_date": "20/12/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Russian president Vladimir Putin demands that NATO guarantee that it will not move its forces into the country, accusing NATO and the U.S. of \"trying to send Ukraine and Russia into direct armed conflict.\"",
+                    "links": [
+                        {
+                            "link": "https://www.independent.ie/world-news/europe/we-dont-want-conflict-but-we-need-assurance-putin-tells-nato-41179711.html",
+                            "text": "-\"'We don't want conflict, but we need assurance,' Putin tells Nato\". independent. 24 December 2021. Retrieved 2022-03-17.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-12-24",
+                                "Created": "2022-03-17"
+                            }
+                        }
+                    ],
+                    "start_date": "24/12/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A group called Free City of Odesa claimed responsibility for burning down several vehicles belonging to the country's Armed Forces.",
+                    "links": [
+                        {
+                            "link": "https://x.com/war_noir/status/1474433971094228997",
+                            "text": "-@war_noir (24 December 2021). \"#Ukraine 🇺🇦: A group called \"Free City of #Odessa\" claimed responsibility for burning down several command and staf…\" (Tweet) – via Twitter.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2021-12-24"
+                            }
+                        }
+                    ],
+                    "start_date": "24/12/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "29 December  Three people are killed and four others are injured in a fire at a candlelit vigil in Kosiv.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-europe-59820248",
+                            "text": "-\"Ukraine: Three die after memorial candle lit in hospital ward\". BBC News. 2021-12-29. Retrieved 2022-03-17.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-03-17",
+                                "Created": "2021-12-29"
+                            }
+                        }
+                    ],
+                    "start_date": "29/12/2021",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

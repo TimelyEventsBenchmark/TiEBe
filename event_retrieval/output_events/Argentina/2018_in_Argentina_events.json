@@ -1,0 +1,432 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "The tariffs of metropolitan buses, trains and subways in Buenos Aires are increased.",
+                    "links": [
+                        {
+                            "link": "http://www.lanacion.com.ar/2097411-el-gobierno-anuncia-una-suba-de-los-boletos-de-colectivos-y-trenes",
+                            "text": "-Diego Cabot (January 3, 2017). \"El Gobierno anunció una suba de los boletos de colectivos y trenes\" [The government announced a tariff increase in buses and trains] (in Spanish). La Nación. Retrieved January 1, 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-01-01",
+                                "Created": "2017-01-03"
+                            }
+                        }
+                    ],
+                    "start_date": "03/01/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Union leader Marcelo Balcedo, accused of money laundering, is detained in Uruguay, in a joint operation between the Interpol and the Uruguayan police.",
+                    "links": [
+                        {
+                            "link": "http://www.lanacion.com.ar/2097763-detuvieron-a-un-gremialista-argentino-en-una-chacra-de-punta-del-este-tenia-armas-y-dinero-en-efectivo",
+                            "text": "-\"Detuvieron a un gremialista argentino en una chacra en Piriápolis: tenía armas y dinero en efectivo\" [They detained an Argentine union leader in Piriapolis: he had weapons and banknotes] (in Spanish). La Nación. January 4, 2018. Retrieved January 1, 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-01-01",
+                                "Created": "2018-01-04"
+                            }
+                        }
+                    ],
+                    "start_date": "04/01/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The economic emergency law ceases to be in force.",
+                    "links": [
+                        {
+                            "link": "https://www.clarin.com/economia/gobierno-anuncio-final-ley-emergencia-economica_0_Sydj0DCmG.html",
+                            "text": "-\"Se \"termina\" la Emergencia Económica tras 16 años de vigencia\" [The economic emergency ends after 1 years] (in Spanish). Clarin. January 6, 2018. Retrieved January 1, 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-01-01",
+                                "Created": "2018-01-06"
+                            }
+                        }
+                    ],
+                    "start_date": "06/01/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Unable to get support from the PJ and the CGT for an amendment in the labor law, Macri postpones the bill for March.",
+                    "links": [
+                        {
+                            "link": "http://www.lanacion.com.ar/2098930-sin-las-garantias-del-pj-y-de-la-cgt-el-gobierno-posterga-la-reforma-laboral-para-marzo",
+                            "text": "-Santiago Dapelo (January 9, 2018). \"Sin las garantías del PJ y de la CGT, el Gobierno posterga la reforma laboral para marzo\" [With no guarantees from the PJ and the CGT, the government postpones the labor amendment for March] (in Spanish). La Nación. Retrieved January 1, 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-01-01",
+                                "Created": "2018-01-09"
+                            }
+                        }
+                    ],
+                    "start_date": "09/01/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Raúl Zaffaroni, judge of the Inter-American Court of Human Rights, urges President Macri to resign.",
+                    "links": [],
+                    "start_date": "19/01/2018",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "Police officer Luis Chocobar is indicted by the judiciary, accused of murder, for shooting a thief who attempted to kill a tourist. President Macri receives him at the Casa Rosada, giving him his full support.",
+                    "links": [
+                        {
+                            "link": "https://www.clarin.com/politica/mauricio-macri-solidariza-policia-mato-ladron-juez-proceso_0_SkfVLqeLG.html",
+                            "text": "-\"\"Estoy orgulloso de que haya un policía como vos\", le dijo Macri a Chocobar en la Casa Rosada\" [\"I'm proud that there is a policeman like you\", said Macri to Chocobar at the Casa Rosada] (in Spanish). Clarín. February 1, 2018. Retrieved February 7, 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-02-07",
+                                "Created": "2018-02-01"
+                            }
+                        }
+                    ],
+                    "start_date": "01/02/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Members of the Argentine Congress propose a bill to ask for the removal of judge Raúl Zaffaroni from the Inter-American Court of Human Rights.",
+                    "links": [],
+                    "start_date": "01/02/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The government closes the National Lottery, and ends the \"Prode\" game.",
+                    "links": [
+                        {
+                            "link": "http://www.lanacion.com.ar/2105992-el-gobierno-disuelve-la-loteria-nacional-y-elimina-el-historico-prode",
+                            "text": "-\"El Gobierno disuelve la Lotería Nacional y elimina el histórico Prode\" [The government closes the National Lottery and ends the historical Prode] (in Spanish). La Nación. February 2, 2018. Retrieved February 2, 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-02-02",
+                                "Created": "2018-02-02"
+                            }
+                        }
+                    ],
+                    "start_date": "02/02/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Minister Patricia Bullrich meets with US specialists in security and terrorism, to discuss the G20 summit. Those people voiced concerns about a presence of Hezbollah in the Triple Frontier.",
+                    "links": [
+                        {
+                            "link": "https://www.clarin.com/politica/patricia-bullrich-reunio-washington-especialistas-terrorismo-seguridad_0_BJFqpbFUM.html#cxrecs_s",
+                            "text": "-\"Patricia Bullrich se reunió en Washington con especialistas en terrorismo y seguridad\" [Patricia Bullrich meets in Washington with specialists in terrorism and security] (in Spanish). Clarín. February 7, 2018. Retrieved February 7, 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-02-07",
+                                "Created": "2018-02-07"
+                            }
+                        }
+                    ],
+                    "start_date": "07/02/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Members of the Peronist parties Justicialist Party, Renewal Front and Citizen's Unity hold a summit, discussing a joint ticket for the 2019 general elections. The Peronist provincial governors did not attend it, with the exception of Alberto Rodríguez Saá.",
+                    "links": [
+                        {
+                            "link": "https://www.clarin.com/politica/pj-busca-armar-frente-opositor-gobernadores-pegaron-faltazo_0_BJVHIUcUM.html",
+                            "text": "-Jazmín Bullorini (February 8, 2018). \"El PJ busca armar un frente opositor, pero los gobernadores pegaron el faltazo\" [The PJ seeks to organize an opposing front, but the governors did not attend] (in Spanish). Clarín. Retrieved February 7, 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-02-07",
+                                "Created": "2018-02-08"
+                            }
+                        }
+                    ],
+                    "start_date": "08/02/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Estela de Carlotto has a private meeting with Pope Francis.",
+                    "links": [
+                        {
+                            "link": "https://www.clarin.com/politica/estela-carlotto-recibida-francisco-vaticano-papa-preocupado-argentina_0_HykoiTt8G.html",
+                            "text": "-\"Estela de Carlotto, tras ser recibida por Francisco en el Vaticano: \"El Papa está preocupado por Argentina\"\" [Estela de Carloto, after meeting Francis in the Vatican City: \"The pope is worried for Argentina\"] (in Spanish). Clarín. February 8, 2018. Retrieved February 7, 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-02-07",
+                                "Created": "2018-02-08"
+                            }
+                        }
+                    ],
+                    "start_date": "08/02/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "General strike of national banks.",
+                    "links": [
+                        {
+                            "link": "http://www.perfil.com/politica/arranco-el-paro-bancario-nacional-en-rechazo-a-la-oferta-paritaria.phtml",
+                            "text": "-\"Arrancó el paro bancario nacional en rechazo a la oferta paritaria\" [The strike of banks started, protesting against the wages proposal] (in Spanish). Perfil. February 9, 2018. Retrieved February 7, 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-02-07",
+                                "Created": "2018-02-09"
+                            }
+                        }
+                    ],
+                    "start_date": "09/02/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Two-days general strike of national banks.",
+                    "links": [
+                        {
+                            "link": "https://www.clarin.com/economia/sucursales-vacias-enojos-microcortes-calle-postales-paro-bancario-centro-porteno_0_rkRCyyqPz.html",
+                            "text": "-\"Sucursales vacías, enojos y microcortes de calle: las postales del paro bancario en el centro porteño\" [Empty banks, anger and street blocks: issues of the bank strike at the center of Buenos Aires] (in Spanish). Clarín. February 20, 2018. Retrieved February 23, 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-02-23",
+                                "Created": "2018-02-20"
+                            }
+                        }
+                    ],
+                    "start_date": "19/02/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A general strike is called by union leader Hugo Moyano.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/article/us-argentina-protests-truckers/argentine-truckers-block-capital-streets-to-protest-macri-reforms-idUSKCN1G52KN",
+                            "text": "-Hugh Bronstein, Nicolás Misculin (February 21, 2018). \"Argentine truckers block capital streets to protest Macri reforms\". Reuters. Retrieved February 23, 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-02-23",
+                                "Created": "2018-02-21"
+                            }
+                        }
+                    ],
+                    "start_date": "21/02/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Six suspected drug traffickers are jailed at the Russian embassy while trying to smuggle drugs in a diplomatic flight.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/article/us-argentina-drugs-russia/two-argentines-arrested-in-russian-embassy-cocaine-probe-idUSKCN1G62VF",
+                            "text": "-\"Two Argentines arrested in Russian embassy cocaine probe\". Reuters. February 22, 2018. Retrieved February 23, 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-02-23",
+                                "Created": "2018-02-22"
+                            }
+                        }
+                    ],
+                    "start_date": "22/02/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Bolivia rejects a treaty of mutual free healthcare with Argentina.",
+                    "links": [
+                        {
+                            "link": "https://www.clarin.com/politica/gobierno-evo-morales-rechaza-atender-argentinos-hospitales-tensa-relacion-bolivia_0_r1svmy7_z.html",
+                            "text": "-\"El gobierno de Evo Morales rechaza atender a argentinos en sus hospitales y se tensa la relación con Bolivia\" [The government of Evo Morales refuses to accept Argentines in their hospital; the relation with Bolivia gets tense] (in Spanish). Clarín. February 27, 2018. Retrieved February 27, 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-02-27",
+                                "Created": "2018-02-27"
+                            }
+                        }
+                    ],
+                    "start_date": "27/02/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Bolivia reverses their previous decision, and announces a mutual free healthcare treaty with Argentina.",
+                    "links": [
+                        {
+                            "link": "https://www.clarin.com/politica/gobierno-evo-morales-da-marcha-dara-atencion-sanitaria-gratuita-argentinos_0_BJ1hWIVOf.html",
+                            "text": "-Natasha Niebieskikwiat (February 28, 2018). \"Bolivia da marcha atrás y dará atención sanitaria gratuita a los argentinos\" [Bolivia steps back and will provide free healthcare to Argentines] (in Spanish). Clarín. Retrieved February 28, 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-02-28",
+                                "Created": "2018-02-28"
+                            }
+                        }
+                    ],
+                    "start_date": "28/02/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Union leaders Hugo and Pablo Moyano are indicted on money laundering charges.",
+                    "links": [
+                        {
+                            "link": "https://www.clarin.com/politica/imputaron-hugo-pablo-moyano-presunto-lavado-dinero_0_BkGHGL4Of.html",
+                            "text": "-Lucía Salinas (February 28, 2018). \"Imputaron a Hugo y Pablo Moyano por presunto lavado de dinero\" [Hugo and Pablo Moyano were indicted for money laundering] (in Spanish). Clarín. Retrieved February 28, 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-02-28",
+                                "Created": "2018-02-28"
+                            }
+                        }
+                    ],
+                    "start_date": "28/02/2018",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "Opening of regular sessions of the National Congress of Argentina.",
+                    "links": [],
+                    "start_date": "01/03/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Polish League Against Defamation filed a complaint against the newspaper Página/12, accusing them to violate the recently amended Act on the Institute of National Remembrance, which forbids any suggestion of Polish involvement in the Holocaust.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/article/us-israel-poland/polish-group-sues-argentine-paper-under-new-holocaust-law-idUSKCN1GF0RF",
+                            "text": "-\"Polish group sues Argentine paper under new Holocaust law\". Reuters. March 3, 2018. Retrieved March 2, 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-03-02",
+                                "Created": "2018-03-03"
+                            }
+                        }
+                    ],
+                    "start_date": "03/03/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Facundo Jones Huala, leader of the Resistencia Ancestral Mapuche guerrilla, is extradited to Chile.",
+                    "links": [
+                        {
+                            "link": "https://www.lanacion.com.ar/2114265-la-justicia-decidio-extraditar-a-chile-a-jones-huala-y-hay-disturbios",
+                            "text": "-Germán de los Santos (March 5, 2018). \"La Justicia decidió extraditar a Chile a Jones Huala y hay disturbios en la puerta del juzgado\". La Nación. Retrieved March 2, 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-03-02",
+                                "Created": "2018-03-05"
+                            }
+                        }
+                    ],
+                    "start_date": "05/03/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Former president Cristina Fernández de Kirchner is indicted for allegedly obstructing investigation into the 1994 AMIA Bombing which killed 85 people, allegedly making a deal with the Iranian government to stop investigating Iranian officials involved in the attack in exchange for better prices on Iranian oil.",
+                    "links": [
+                        {
+                            "link": "https://web.archive.org/web/20180307214329/https://abcnews.go.com/International/wireStory/argentina-leader-trial-alleged-cover-bombing-53537541",
+                            "text": "-\"Argentina ex-leader on trial for alleged cover-up in bombing\". ABC News. Archived from the original on March 7, 2018. Retrieved March 7, 2018.-",
+                            "dates": {
+                                "Archieved": "2018-03-07",
+                                "Retrieved": "2018-03-07",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://abcnews.go.com/International/wireStory/argentina-leader-trial-alleged-cover-bombing-53537541",
+                            "text": "-\"Argentina ex-leader on trial for alleged cover-up in bombing\". ABC News. Archived from the original on March 7, 2018. Retrieved March 7, 2018.-",
+                            "dates": {
+                                "Archieved": "2018-03-07",
+                                "Retrieved": "2018-03-07",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "05/03/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Large demonstrations during the International Women's Day.",
+                    "links": [
+                        {
+                            "link": "https://web.archive.org/web/20180308084133/https://www.washingtonpost.com/world/asia_pacific/the-latest-chinese-use-womens-day-to-joke-about-power-grab/2018/03/07/aa1bb312-228b-11e8-946c-9420060cb7bd_story.html",
+                            "text": "-\"The Latest: Tens of thousands in Argentina mark Women's Day\". The Washington Post. March 8, 2018. Archived from the original on March 8, 2018. Retrieved March 7, 2018.-",
+                            "dates": {
+                                "Archieved": "2018-03-08",
+                                "Retrieved": "2018-03-07",
+                                "Created": "2018-03-08"
+                            }
+                        },
+                        {
+                            "link": "https://www.washingtonpost.com/world/asia_pacific/the-latest-chinese-use-womens-day-to-joke-about-power-grab/2018/03/07/aa1bb312-228b-11e8-946c-9420060cb7bd_story.html",
+                            "text": "-\"The Latest: Tens of thousands in Argentina mark Women's Day\". The Washington Post. March 8, 2018. Archived from the original on March 8, 2018. Retrieved March 7, 2018.-",
+                            "dates": {
+                                "Archieved": "2018-03-08",
+                                "Retrieved": "2018-03-07",
+                                "Created": "2018-03-08"
+                            }
+                        }
+                    ],
+                    "start_date": "08/03/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The ice bridge of the Perito Moreno Glacier collapses.",
+                    "links": [
+                        {
+                            "link": "https://web.archive.org/web/20180313092201/https://economictimes.indiatimes.com/industry/miscellaneous/spectacular-view-perito-moreno-glacier-ice-bridge-collapses-in-argentina/perito-moreno-glacier-ice-bridge/slideshow/63266407.cms",
+                            "text": "-\"Perito Moreno Glacier ice bridge collapses in Argentina\". The Economic Times. March 12, 2018. Archived from the original on March 13, 2018. Retrieved March 12, 2018.-",
+                            "dates": {
+                                "Archieved": "2018-03-13",
+                                "Retrieved": "2018-03-12",
+                                "Created": "2018-03-12"
+                            }
+                        },
+                        {
+                            "link": "https://economictimes.indiatimes.com/industry/miscellaneous/spectacular-view-perito-moreno-glacier-ice-bridge-collapses-in-argentina/perito-moreno-glacier-ice-bridge/slideshow/63266407.cms",
+                            "text": "-\"Perito Moreno Glacier ice bridge collapses in Argentina\". The Economic Times. March 12, 2018. Archived from the original on March 13, 2018. Retrieved March 12, 2018.-",
+                            "dates": {
+                                "Archieved": "2018-03-13",
+                                "Retrieved": "2018-03-12",
+                                "Created": "2018-03-12"
+                            }
+                        }
+                    ],
+                    "start_date": "12/03/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Julio Galván, member of the UOCRA union, is attacked by criminals. He denounced that the attack was carried out by rivals from the union.",
+                    "links": [
+                        {
+                            "link": "https://www.lanacion.com.ar/2116485-violencia-en-la-uocradejen-de-romper-las-pelotas-en-la-plata-dijeron-los-sicarios-antes-de-disparar",
+                            "text": "-Germán de los Santos (March 13, 2018). \"Violencia en la Uocra:\"Dejen de romper las pelotas en La Plata\", dijeron los sicarios antes de disparar\" [Violence at the UOCRA: \"Stop messing in La Plata\"] (in Spanish). La Nación. Retrieved April 23, 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-04-23",
+                                "Created": "2018-03-13"
+                            }
+                        }
+                    ],
+                    "start_date": "13/03/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Politicians from all political parties prepare a joint message for Pope Francis, at the 5º anniversary of his appointment.",
+                    "links": [
+                        {
+                            "link": "https://www.lanacion.com.ar/2116707-de-vidal-a-zaffaroni-una-carta-al-papa-francisco-unio-a-oficialistas-y-opositores",
+                            "text": "-Mariano De Vedia (March 13, 2018). \"De Vidal a Zaffaroni: una carta al papa Francisco unió a oficialistas y opositores\" [From Vidal to Zaffaroni: a letter to Pope Francis united all politicians] (in Spanish). La Nación. Retrieved April 23, 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-04-23",
+                                "Created": "2018-03-13"
+                            }
+                        }
+                    ],
+                    "start_date": "13/03/2018",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

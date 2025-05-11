@@ -1,0 +1,694 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "5 January  Following the suggestion of Patriarch Kirill of Moscow, Russian President Vladimir Putin announces a unilateral ceasefire on 7 in connection with Orthodox Christmas. However, Ukraine rejects an offer to respond with a mutual ceasefire, citing lack of trust.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/europe/russias-war-ukraine-latest-russia-says-63-servicemen-killed-makiivka-2023-01-02/",
+                            "text": "-\"Russia's war on Ukraine latest: Russia names new commander\". Reuters. 2023-01-11. Retrieved 2023-06-13.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-06-13",
+                                "Created": "2023-01-11"
+                            }
+                        }
+                    ],
+                    "start_date": "05/01/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "10 January  Ukrainian president Volodymyr Zelenskyy denaturalizes pro-Kremlin politician Viktor Medvedchuk and three others for high treason.",
+                    "links": [
+                        {
+                            "link": "https://www.hindustantimes.com/world-news/zelensky-says-revoked-ukrainian-citizenship-of-putin-ally-101673392464392.html",
+                            "text": "-\"Zelensky says revoked Ukrainian citizenship of Putin ally\". Hindustan Times. 2023-01-11. Retrieved 2023-06-13.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-06-13",
+                                "Created": "2023-01-11"
+                            }
+                        }
+                    ],
+                    "start_date": "10/01/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "17 January  Commander-in-Chief of the Armed Forces of Ukraine Valerii Zaluzhnyi and Chairman of the Joint Chiefs of Staff of the United States Mark Milley meet for the first time in person.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/russia-ukraine-nato-politics-government-united-states-56bf9dc96a24f62c91903c8861ae7af7",
+                            "text": "-\"US, Ukraine top military chiefs meet in person for 1st time\". AP NEWS. 2023-01-17. Retrieved 2023-06-13.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-06-13",
+                                "Created": "2023-01-17"
+                            }
+                        }
+                    ],
+                    "start_date": "17/01/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "18 January  2023 Brovary helicopter crash Fourteen people are killed and 25 others are injured in a helicopter crash in Brovary, Kyiv Oblast, Ukraine. Interior minister Denys Monastyrsky, deputy minister of internal affairs Yevhen Yenin, and state secretary of internal affairs Yurii Lubkovych are among those killed.",
+                    "links": [
+                        {
+                            "link": "https://www.aljazeera.com/news/2023/1/18/ukraine-helicopter-crash-what-we-know-so-far",
+                            "text": "-\"Ukraine helicopter crash: What we know so far\". www.aljazeera.com. Retrieved 2023-06-13.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-06-13",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "18/01/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Two British aid workers are killed during a humanitarian evacuation from Soledar in Donetsk Oblast.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/uk-64394105",
+                            "text": "-\"Ukraine: Chris Parry and Andrew Bagshaw killed in Soledar rescue attempt\". BBC News. 2023-01-24. Retrieved 2023-06-13.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-06-13",
+                                "Created": "2023-01-24"
+                            }
+                        }
+                    ],
+                    "start_date": "24/01/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Several senior Ukrainian officials, including deputy Head of the Office of the President of Ukraine Kyrylo Tymoshenko, four deputy ministers, and five regional governors, resign as a nationwide anti-corruption campaign is launched in Ukraine.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-europe-64383388",
+                            "text": "-\"Top Ukrainian officials quit in anti-corruption drive\". BBC News. 2023-01-24. Retrieved 2023-06-13.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-06-13",
+                                "Created": "2023-01-24"
+                            }
+                        }
+                    ],
+                    "start_date": "24/01/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "25 January  UNESCO places the historic center of Odesa on its list of World Heritage Sites in Danger.",
+                    "links": [
+                        {
+                            "link": "https://www.easternherald.com/2023/01/26/unesco-added-odessa-to-the-list-of-world-heritage-in-danger/",
+                            "text": "-\"UNESCO added Odessa to the list of World Heritage in Danger\". The Eastern Herald. 2023-01-26. Retrieved 2023-06-13.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-06-13",
+                                "Created": "2023-01-26"
+                            }
+                        }
+                    ],
+                    "start_date": "25/01/2023",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "5 February  People's Deputy of Ukraine Davyd Arakhamia announces that military intelligence chief Kyrylo Budanov will replace Oleksii Reznikov as Minister of Defense following a corruption scandal.",
+                    "links": [
+                        {
+                            "link": "https://www.thedrive.com/the-war-zone/budanov-head-of-ukraine-military-intel-may-replace-reznikov-as-defense-minister",
+                            "text": "-Altman, Howard (2023-02-05). \"Budanov, Head Of Ukraine Military Intel, May Replace Reznikov As Defense Minister\". The Drive. Retrieved 2023-06-13.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-06-13",
+                                "Created": "2023-02-05"
+                            }
+                        }
+                    ],
+                    "start_date": "05/02/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "6 February  Major Archbishop Sviatoslav Shevchuk of the Ukrainian Greek Catholic Church announces that the church will begin using the Gregorian calendar on September 1 for all but moveable feasts, following a decision by the Synod of Bishops.",
+                    "links": [
+                        {
+                            "link": "https://ugcc.ua/en/data/historical-decision-the-ugcc-in-ukraine-switches-to-a-new-calendar-232/",
+                            "text": "-\"HISTORICAL DECISION: THE UGCC IN UKRAINE SWITCHES TO A NEW CALENDAR\". Ukrainian Greek Catholic Church. Retrieved 2023-06-13.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-06-13",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "06/02/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Ukrainian president Volodymyr Zelenskyy visits the United Kingdom in his second trip outside Ukraine since the beginning of the Russian invasion, meeting with King Charles III and Prime Minister Rishi Sunak, and addressing Parliament at Westminster Hall.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/europe/zelenskiy-vows-changes-will-bolster-ukraine-amid-defence-minister-uncertainty-2023-02-06/",
+                            "text": "-Harmash, Olena (2023-02-11). \"Russia hits Ukraine power grid and gains ground in east\". Reuters. Retrieved 2023-06-13.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-06-13",
+                                "Created": "2023-02-11"
+                            }
+                        }
+                    ],
+                    "start_date": "08/02/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Following his UK visit, Zelenskyy visits France to meet President Emmanuel Macron and German chancellor Olaf Scholz.",
+                    "links": [
+                        {
+                            "link": "https://www.rfi.fr/en/europe/20230208-britain-promises-more-support-for-ukraine-as-zelensky-addresses-uk-parliament",
+                            "text": "-\"French President Macron hosts Ukrainian leader Zelensky in Paris\". RFI. 2023-02-08. Retrieved 2023-06-13.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-06-13",
+                                "Created": "2023-02-08"
+                            }
+                        }
+                    ],
+                    "start_date": "08/02/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "20 February  2023 visit by Joe Biden to Ukraine U.S. President Joe Biden makes an unannounced visit to Kyiv, Ukraine, where he meets with President Volodymyr Zelenskyy.",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/world/2023/feb/20/joe-biden-visits-ukraine-kyiv",
+                            "text": "-Beaumont, Peter; Koshiw, Isobel; Harding, Luke (2023-02-20). \"Joe Biden visits Kyiv in major show of support for Ukraine\". The Guardian. ISSN 0261-3077. Retrieved 2023-06-13.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-06-13",
+                                "Created": "2023-02-20"
+                            }
+                        },
+                        {
+                            "link": "https://search.worldcat.org/issn/0261-3077",
+                            "text": "-Beaumont, Peter; Koshiw, Isobel; Harding, Luke (2023-02-20). \"Joe Biden visits Kyiv in major show of support for Ukraine\". The Guardian. ISSN 0261-3077. Retrieved 2023-06-13.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-06-13",
+                                "Created": "2023-02-20"
+                            }
+                        }
+                    ],
+                    "start_date": "20/02/2023",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "19 March  Russian president Vladimir Putin visits Mariupol, Donetsk Oblast, in Russian-occupied Ukraine, for the first time since the invasion began.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/russia-ukraine-war-5482b8f62cc70efbdbeb0b3f492c0393",
+                            "text": "-\"Putin makes surprise trip to occupied Mariupol\". AP NEWS. 2023-03-19. Retrieved 2023-06-13.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-06-13",
+                                "Created": "2023-03-19"
+                            }
+                        }
+                    ],
+                    "start_date": "19/03/2023",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "5 April  President of Ukraine Volodymyr Zelenskyy makes an official visit to Poland. During his meeting with Polish President Andrzej Duda, Zelenskyy receives the Order of the White Eagle, Poland's highest order.",
+                    "links": [
+                        {
+                            "link": "https://www.eurointegration.com.ua/eng/news/2023/04/5/7159242/",
+                            "text": "-\"Duda Awards Zelenskyy with Poland's Highest Order\". European Pravda. Retrieved 2023-06-13.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-06-13",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "05/04/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "6 April  Deputy leader Andrii Sybiha says that Ukraine is willing to hold talks on the future of Crimea if a Ukrainian counter-offensive reaches the Crimean administrative border.",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/world/2023/apr/06/ukraine-talks-crimea-russia-zelenskiy",
+                            "text": "-Beaumont, Peter (2023-04-06). \"Ukraine may be willing to hold talks on Crimea, suggests Zelenskiy adviser\". The Guardian. ISSN 0261-3077. Retrieved 2023-06-13.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-06-13",
+                                "Created": "2023-04-06"
+                            }
+                        },
+                        {
+                            "link": "https://search.worldcat.org/issn/0261-3077",
+                            "text": "-Beaumont, Peter (2023-04-06). \"Ukraine may be willing to hold talks on Crimea, suggests Zelenskiy adviser\". The Guardian. ISSN 0261-3077. Retrieved 2023-06-13.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-06-13",
+                                "Created": "2023-04-06"
+                            }
+                        }
+                    ],
+                    "start_date": "06/04/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "16 April  Ukraine and Russia conduct a prisoner swap for soldiers who fought in Bakhmut, with 130 Ukrainian soldiers returning and an unknown number of Russian soldiers returning.",
+                    "links": [
+                        {
+                            "link": "https://www.pbs.org/newshour/world/130-ukrainian-pows-freed-in-easter-prisoner-exchange-with-russia",
+                            "text": "-\"130 Ukrainian POWs freed in Easter prisoner exchange with Russia\". PBS NewsHour. 2023-04-16. Retrieved 2023-06-13.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-06-13",
+                                "Created": "2023-04-16"
+                            }
+                        }
+                    ],
+                    "start_date": "16/04/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Former People's Deputy of Ukraine Oleh Barna is killed in combat.",
+                    "links": [
+                        {
+                            "link": "https://www.unian.net/war/na-fronte-pogib-eks-nardep-oleg-barna-12224391.html",
+                            "text": "-\"На фронте погиб экс-нардеп Олег Барна\". www.unian.net (in Russian). Retrieved 2023-06-13.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-06-13",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "18/04/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Ukrainian government invites Brazilian President Luiz Inácio Lula da Silva to visit Ukraine and criticizes him for his approach to the Russian invasion. Russian Foreign Minister Sergei Lavrov welcomes Lula's position on peace efforts.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/ukraine-invites-brazils-lula-visit-criticizes-his-peace-efforts-2023-04-18/",
+                            "text": "-Boadle, Anthony (2023-04-19). \"Brazil's Lula condemns invasion of Ukraine, touts peace initiative\". Reuters. Retrieved 2023-06-13.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-06-13",
+                                "Created": "2023-04-19"
+                            }
+                        }
+                    ],
+                    "start_date": "18/04/2023",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "May",
+            "Data": [
+                {
+                    "event_text": "6 May  Russian nationalist writer Zakhar Prilepin is injured and his driver is killed when their vehicle is hit by a car bomb in Nizhny Novgorod Oblast, Russia.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-europe-65509809",
+                            "text": "-\"Zakhar Prilepin: Russian pro-war blogger injured in car bomb\". BBC News. 2023-05-06. Retrieved 2023-06-13.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-06-13",
+                                "Created": "2023-05-06"
+                            }
+                        }
+                    ],
+                    "start_date": "06/05/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "13 May  Ukrainian President Volodymyr Zelenskyy meets with Pope Francis during a private audience in the Vatican.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-europe-65581170",
+                            "text": "-\"Ukraine war: Pope tells Zelensky he is 'praying for peace'\". BBC News. 2023-05-13. Retrieved 2023-06-13.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-06-13",
+                                "Created": "2023-05-13"
+                            }
+                        }
+                    ],
+                    "start_date": "13/05/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "14 May  Ukrainian President Volodymyr Zelenskyy meets with German Chancellor Olaf Scholz in Berlin, Germany.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-europe-65588111",
+                            "text": "-\"Ukraine war: Kyiv not attacking Russian territory – Zelensky\". BBC News. 2023-05-14. Retrieved 2023-06-13.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-06-13",
+                                "Created": "2023-05-14"
+                            }
+                        }
+                    ],
+                    "start_date": "14/05/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "15 May  Ukrainian President Volodymyr Zelenskyy meets with British Prime Minister Rishi Sunak at Chequers.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/live/world-europe-65595035",
+                            "text": "-\"Ukraine war: Sunak tells Russia 'we're not going away' after Zelensky talks in the UK\". BBC News. 2023-05-15. Retrieved 2023-06-13.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-06-13",
+                                "Created": "2023-05-15"
+                            }
+                        }
+                    ],
+                    "start_date": "15/05/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "16 May  Ukraine officially joins NATO's Cooperative Cyber Defence Centre of Excellence.",
+                    "links": [
+                        {
+                            "link": "https://www.pravda.com.ua/eng/news/2023/05/16/7402456/",
+                            "text": "-\"Ukraine officially joins NATO cybercentre\". Ukrainska Pravda. Retrieved 2023-06-13.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-06-13",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "16/05/2023",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "June",
+            "Data": [
+                {
+                    "event_text": "The Nova Kakhovka dam in the Russian-occupied part of Ukraine's Kherson Oblast is destroyed, releasing a huge number of water downstream on the Dnieper. The dam had held back 18 cubic kilometres of water in the Kakhovka reservoir.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/europe/what-is-kakhovka-dam-ukraine-what-happened-2023-06-07/",
+                            "text": "-Faulconbridge, Guy (2023-06-07). \"Nova Kakhovka dam breach: what do we know so far?\". Reuters. Retrieved 2023-06-13.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-06-13",
+                                "Created": "2023-06-07"
+                            }
+                        }
+                    ],
+                    "start_date": "06/06/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Thousands of civilians are being evacuated from the town of Nova Kakhovka and surrounding villages as the floods spread.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-europe-65819591",
+                            "text": "-\"Ukraine dam: Thousands flee floods after dam collapse near Nova Kakhovka\". BBC News. 2023-06-06. Retrieved 2023-06-13.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-06-13",
+                                "Created": "2023-06-06"
+                            }
+                        }
+                    ],
+                    "start_date": "06/06/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "12 June  Moldova and Ukraine sign an agreement to build a bridge across their border over the Dniester river between Cosăuți, Moldova, and Yampil, Ukraine, bypassing the unrecognised state of Transnistria.",
+                    "links": [
+                        {
+                            "link": "https://news.yahoo.com/ukraine-moldova-construct-bridge-across-144900894.html",
+                            "text": "-\"Ukraine and Moldova to construct bridge across Dniester, key link between Kyiv and Chisinau\". Yahoo News. 2023-06-12. Retrieved 2023-06-13.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-06-13",
+                                "Created": "2023-06-12"
+                            }
+                        }
+                    ],
+                    "start_date": "12/06/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "16 June - African leaders led by South African president Cyril Ramaphosa arrive at Kyviv to meet Zelenskyy on a peace mission. The seven leaders are then expected to travel to Moscow to meet Putin.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/live/world-europe-65918754",
+                            "text": "-\"First pictures of African leaders on train to Ukraine\". BBC.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "16/06/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "29 June  Former US Vice President Mike Pence makes a surprise visit to Kyiv.",
+                    "links": [
+                        {
+                            "link": "https://www.nbcnews.com/politics/2024-election/mike-pence-volodymr-zelenskyy-surprise-trip-ukraine-rcna91763",
+                            "text": "-\"Mike Pence meets with Volodymr Zelenskyy in surprise trip to Ukraine\". NBC News. 29 June 2023. Retrieved 2023-06-29.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-06-29",
+                                "Created": "2023-06-29"
+                            }
+                        }
+                    ],
+                    "start_date": "29/06/2023",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "July",
+            "Data": [
+                {
+                    "event_text": "21 July  Zelensky fires Ukrainian ambassador to the UK, Vadym Prystaiko.",
+                    "links": [
+                        {
+                            "link": "https://edition.cnn.com/2023/07/21/europe/ukraine-uk-ambassador-zelensky-wallace-prystaiko-intl/index.html",
+                            "text": "-\"Zelensky fires Ukrainian ambassador to the UK after 'sarcasm' comments\". CNN.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "21/07/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "28 July  Zelensky signs a parliamentary bill to move the date of Ukraine's Christmas Day holiday from 7 January to 25 December, the bill aiming to \"abandon the Russian heritage of imposing Christmas celebrations\".",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/world-europe-66341617",
+                            "text": "-Lukiv, Jaroslav (28 July 2023). \"Ukraine moves Christmas Day in snub to Russia\". BBC News. BBC. Retrieved 28 July 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-07-28",
+                                "Created": "2023-07-28"
+                            }
+                        }
+                    ],
+                    "start_date": "28/07/2023",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "September",
+            "Data": [
+                {
+                    "event_text": "2 September  A Ukrainian court places billionaire Ihor Kolomoisky under arrest over fraud and money laundering charges as part of corruption related activities.",
+                    "links": [
+                        {
+                            "link": "https://www.aljazeera.com/news/2023/9/2/ukraine-tycoon-ihor-kolomoisky-taken-into-custody-over-fraud-allegations",
+                            "text": "-\"Ukraine tycoon Kolomoisky taken into custody over fraud allegations\". www.aljazeera.com. Retrieved 2023-09-03.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-09-03",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "02/09/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Tens of thousands of Ukrainians oppose a asset declaration legislation critics believe hampers an effort to hold officials accountable by delaying a requirement to publicly declare their assets.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/europe/ukraines-zelenskiy-under-pressure-veto-asset-declaration-law-with-loophole-2023-09-08/",
+                            "text": "-Peleschuk, Dan (2023-09-08). \"Ukraine's Zelenskiy under pressure to veto asset declaration law with loophole\". Reuters. Retrieved 2023-09-08.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-09-08",
+                                "Created": "2023-09-08"
+                            }
+                        }
+                    ],
+                    "start_date": "08/09/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Ukraine’s National Anti-Corruption Bureau freezes more than $80m in assets belonging to Ihor Kolomoisky for 48 hours as part of an embezzlement investigation.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/europe/ukraine-freezes-80-million-tycoon-kolomoiskys-assets-media-reports-2023-09-08/",
+                            "text": "-\"Ukraine freezes $80 million of tycoon Kolomoisky's assets, media report\". Reuters. 2023-09-08. Retrieved 2023-09-08.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-09-08",
+                                "Created": "2023-09-08"
+                            }
+                        }
+                    ],
+                    "start_date": "08/09/2023",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "October",
+            "Data": [
+                {
+                    "event_text": "27 October  Pro-Russian official Oleg Tsaryov is critically injured in an assassination attempt by unknown assailants in Crimea and is reported to be in intensive care.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/europe/ukrainian-pro-russian-politician-tsaryov-intensive-care-after-being-shot-2023-10-27/",
+                            "text": "-\"Pro-Russian Ukrainian politician is shot and wounded - Russian official\". Reuters. 2023-10-27. Retrieved 2023-10-27.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-10-27",
+                                "Created": "2023-10-27"
+                            }
+                        }
+                    ],
+                    "start_date": "27/10/2023",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "November",
+            "Data": [
+                {
+                    "event_text": "12 November  Former NATO Secretary General Anders Fogh Rasmussen puts forward a proposal for Ukraine to join the military alliance but without the territories occupied by Russia.",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/world/2023/nov/11/ex-nato-chief-proposes-ukraine-joins-without-russian-occupied-territories",
+                            "text": "-Wintour, Patrick (2023-11-11). \"Ex-Nato chief proposes Ukraine joins without Russian-occupied territories\". The Guardian. ISSN 0261-3077. Retrieved 2023-11-13.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-11-13",
+                                "Created": "2023-11-11"
+                            }
+                        },
+                        {
+                            "link": "https://search.worldcat.org/issn/0261-3077",
+                            "text": "-Wintour, Patrick (2023-11-11). \"Ex-Nato chief proposes Ukraine joins without Russian-occupied territories\". The Guardian. ISSN 0261-3077. Retrieved 2023-11-13.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-11-13",
+                                "Created": "2023-11-11"
+                            }
+                        }
+                    ],
+                    "start_date": "12/11/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "27 November  A snowstorm kills at least five people in Ukraine with hundreds of towns and villages losing power. A least ten state highways are also closed with thousands of vehicles stranded in Ukraine amid the severe weather.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/europe/winter-storm-causes-power-outages-road-closures-ukraine-2023-11-27/",
+                            "text": "-\"Snowstorm kills eight in Ukraine and Moldova, hundreds of towns lose power\". Reuters. 2023-11-27. Retrieved 2023-11-28.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-11-28",
+                                "Created": "2023-11-27"
+                            }
+                        }
+                    ],
+                    "start_date": "27/11/2023",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "December",
+            "Data": [
+                {
+                    "event_text": "6 December  Former People's Deputy of Ukraine Illia Kyva, who defected to Russia in March 2022, is found dead in Moscow Oblast.",
+                    "links": [
+                        {
+                            "link": "https://meduza.io/en/news/2023/12/06/former-ukrainian-lawmaker-illia-kyva-found-dead-in-moscow-region",
+                            "text": "-\"Former Ukrainian lawmaker Illia Kyva found dead in Moscow region\". Meduza. Retrieved 2023-12-06.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-12-06",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "06/12/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "15 December  A councillor throws grenades in a meeting of the village council of Keretsky, killing 1 person and wounding 26 people. The perpetrator is also seriously injured.",
+                    "links": [
+                        {
+                            "link": "https://www.barrons.com/news/ukrainian-councillor-throws-grenades-at-meeting-wounding-26-b3c4d353",
+                            "text": "-Presse, AFP-Agence France. \"Ukraine Councillor's Grenade Attack Wounds 26 At Meeting\". www.barrons.com. Retrieved 2023-12-15.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-12-15",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "15/12/2023",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

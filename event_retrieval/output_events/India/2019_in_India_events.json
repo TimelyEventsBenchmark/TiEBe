@@ -1,0 +1,562 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "2 January  Government approves merger of Dena Bank and Vijaya Bank with Bank of Baroda.",
+                    "links": [
+                        {
+                            "link": "https://www.business-standard.com/article/pti-stories/cabinet-clears-merger-of-dena-bank-vijaya-bank-with-bob-119010200690_1.html",
+                            "text": "-\"Cabinet clears merger of Dena Bank, Vijaya Bank with BoB\". Retrieved 2 January 2019.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2019-01-02",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "02/01/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "3 January  Rajya Sabha Passes National Council for Teacher Education (Amendment) Bill.",
+                    "links": [
+                        {
+                            "link": "https://www.ndtv.com/education/rajya-sabha-passes-national-council-for-teacher-education-amendment-bill-1972260",
+                            "text": "-\"Rajya Sabha Passes National Council for Teacher Education (Amendment) Bill\". NDTV.com.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "03/01/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "4 January  Arunima Sinha becomes world's first woman amputee to scale Mount Vinson.",
+                    "links": [
+                        {
+                            "link": "https://indianexpress.com/article/india/arunima-sinha-becomes-worlds-first-woman-amputee-to-scale-mount-vinson-pm-modi-congratulates-her-5522785/",
+                            "text": "-\"Arunima Sinha becomes world's first woman amputee to scale Mount Vinson, PM Modi congratulates her\". 4 January 2019.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2019-01-04"
+                            }
+                        }
+                    ],
+                    "start_date": "04/01/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "7 January  Centre clears 10 per cent quota for economically weak in general category.",
+                    "links": [
+                        {
+                            "link": "https://www.hindustantimes.com/india-news/centre-clears-10-per-cent-reservation-for-economically-weaker-upper-castes/story-9NKUSZhxtZ2sgTNkXUhx1L.html",
+                            "text": "-\"Centre clears 10 per cent quota for economically weak in general category\". Hindustan Times. 7 January 2019.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2019-01-07"
+                            }
+                        }
+                    ],
+                    "start_date": "07/01/2019",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "12 February  Delhi hotel fire.",
+                    "links": [],
+                    "start_date": "12/02/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "14 February  2019 Pulwama attack A convoy of vehicles carrying security personnel on the JammuSrinagar National Highway was attacked by a suicide bomber near Pulwama District, Jammu and Kashmir.",
+                    "links": [],
+                    "start_date": "14/02/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "15 February  Prime Minister of India flagged of the first Vande Bharat Express.",
+                    "links": [],
+                    "start_date": "15/02/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "2125 February  2019 Assam alcohol poisonings At least 168 people died after consuming poisonous liquor and more than 300 admitted in hospitals in Jorhat and Golaghat districts.",
+                    "links": [],
+                    "start_date": "25/02/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "26 February  2019 Balakot airstrike was carried out by the Indian Air Force crossing the Line of Control directed against a terrorist training camp.",
+                    "links": [],
+                    "start_date": "26/02/2019",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "1 March  Wing Commander Abhinandan Varthaman, returns to India at Atari-Wagah Border during the night time.",
+                    "links": [],
+                    "start_date": "01/03/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "27 March  India becomes 4th nation to have Anti-satellite missile.",
+                    "links": [
+                        {
+                            "link": "https://www.timesnownews.com/technology-science/article/mission-shakti-successful-india-becomes-4th-space-super-power-by-destroying-a-live-leo-satellite/389666",
+                            "text": "-\"Mission Shakti successful: India becomes 4th space super power by destroying a live LEO satellite\". timesnownews.com.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "27/03/2019",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "2 April  Serious Fraud Investigation Office arrests former Vice Chairman of Infrastructure Leasing & Financial Services, Hari Sankaran for granting loans to entities that were not creditworthy and thereby causing loss to the company and its creditors.",
+                    "links": [
+                        {
+                            "link": "https://www.business-standard.com/about/what-is-il-fs-crisis#:~:text=IL&FS%20Financial%20Services%20fell%20short,in%20land%20acquisition%20and%20approvals.",
+                            "text": "-\"WHAT IS IL&FS CRISIS\". Business Standard India. Retrieved 22 January 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-01-22",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "02/04/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "11 April  Voting for the 2019 Indian general election began.",
+                    "links": [],
+                    "start_date": "11/04/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "17 April  A major airlines, Jet Airways ceased operations with its last flight from Sri Guru Ram Dass Jee International Airport.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/business-47963536",
+                            "text": "-\"Jet Airways temporarily suspends all flights\". BBC News. 18 April 2019. Retrieved 20 January 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-01-20",
+                                "Created": "2019-04-18"
+                            }
+                        }
+                    ],
+                    "start_date": "17/04/2019",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "May",
+            "Data": [
+                {
+                    "event_text": "3 May  Cyclone Fani arrives on the coast of Odisha.",
+                    "links": [],
+                    "start_date": "03/05/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "19 May  Voting for the 2019 Indian general election ends.",
+                    "links": [],
+                    "start_date": "19/05/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "23 May  Counting and declaration of results for the 2019 Indian general election. Narendra Modi secures a landslide victory.",
+                    "links": [],
+                    "start_date": "23/05/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "24 May  2019 Surat fire tragedy 22 Deaths and 17 Non-fatal injuries.",
+                    "links": [],
+                    "start_date": "24/05/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "30 May  Narendra Modi takes oath as  Prime Minister of India for the second time.",
+                    "links": [],
+                    "start_date": "30/05/2019",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "June",
+            "Data": [
+                {
+                    "event_text": "17 June  Tabrez Ansari lynching 24-year-old Tabrez Ansari was attacked by a Hindu lynch mob in Jharkhand, India. Ansari, a Muslim, was tied to a tree, brutally beaten and forced to chant Hindu religious slogans. He died four days later.",
+                    "links": [],
+                    "start_date": "17/06/2019",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "July",
+            "Data": [
+                {
+                    "event_text": "17 July  The Population Control Bill, 2019 is a proposed bill introduced in the Rajya Sabha by Rakesh Sinha. The purpose of the bill is to control the Population growth of India. The proposed bill was signed by 125 Members of Parliament (MP).",
+                    "links": [
+                        {
+                            "link": "https://www.livemint.com/news/india/can-proposed-population-regulation-bill-2019-solve-india-s-population-growth-crisis-1563197280540.html",
+                            "text": "-Sharma, Neetu Chandra (15 July 2019). \"Can proposed 'Population Regulation Bill, 2019' solve India's population crisis?\". Livemint. Retrieved 27 April 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-04-27",
+                                "Created": "2019-07-15"
+                            }
+                        }
+                    ],
+                    "start_date": "17/07/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "19 July  Vidisha Baliyan becomes the first Indian to be crowned as Miss Deaf World after winning the Miss Deaf World 2019.",
+                    "links": [
+                        {
+                            "link": "https://www.femina.in/trending/achievers/vidisha-baliyan-wins-miss-deaf-world-2019-title-130286.html",
+                            "text": "-\"Vidisha Baliyan is first Indian to win Miss Deaf World 2019 crown\". femina.in. Retrieved 27 August 2019.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2019-08-27",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://www.dnaindia.com/entertainment/report-meet-vidisha-baliyan-the-first-indian-to-be-honoured-with-miss-deaf-world-2019-crown-2777066",
+                            "text": "-\"Meet Vidisha Baliyan, the first Indian to be honoured with Miss Deaf World 2019 crown\". DNA India. 29 July 2019. Retrieved 27 August 2019.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2019-08-27",
+                                "Created": "2019-07-29"
+                            }
+                        }
+                    ],
+                    "start_date": "19/07/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "22 July   ISRO launches India's second mission to moon Chandrayaan-2",
+                    "links": [],
+                    "start_date": "22/07/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "30 July   India bans triple talaq.",
+                    "links": [],
+                    "start_date": "30/07/2019",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "August",
+            "Data": [
+                {
+                    "event_text": "5 August  Article 370 and Article 35A revoked from Constitution of India that gives special status to Jammu and Kashmir. Government also bifurcates Jammu and Kashmir and Ladakh into separate Union Territories.",
+                    "links": [],
+                    "start_date": "05/08/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "5 August  Schools and Colleges are shut down in Pune, Mumbai and Nashik in Maharashtra due to floods.",
+                    "links": [],
+                    "start_date": "05/08/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "7 August  Over 132,000 people evacuated in Sangli and Kolhapur districts of Maharashtra state due to heavy rains.",
+                    "links": [],
+                    "start_date": "07/08/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "16 August  Millions of residents in Jammu and Kashmir still have no communication with the outside world, eleven days after the Government of India imposed restrictions on 5 August. Meanwhile, 11 deaths (3 Pakistani soldiers, 6 Indian soldiers, 2 Pakistani civilians) have been reported in the Kashmir region.",
+                    "links": [
+                        {
+                            "link": "https://edition.cnn.com/2019/08/16/asia/kashmir-11-days-of-lockdown-intl/index.html",
+                            "text": "-Swati Gupta (16 August 2019), Kashmir: 11 Days of Lockdown, CNN, retrieved 16 August 2019-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2019-08-16",
+                                "Created": "2019-08-16"
+                            }
+                        },
+                        {
+                            "link": "https://www.democracynow.org/2019/8/16/headlines/11_die_in_kashmir_as_pakistani_indian_troops_exchange_fire",
+                            "text": "-\"11 Die in Kashmir as Pakistani & Indian Troops Exchange Fire\", Domocracy Now.org, 16 August 2019, retrieved 16 August 2019-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2019-08-16",
+                                "Created": "2019-08-16"
+                            }
+                        }
+                    ],
+                    "start_date": "16/08/2019",
+                    "end_date": "05/08/2019"
+                },
+                {
+                    "event_text": "17 August  Fire broke out in Emergency Ward of the All India Institute of Medical Sciences, New Delhi. No casualties reported.",
+                    "links": [],
+                    "start_date": "17/08/2019",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "September",
+            "Data": [
+                {
+                    "event_text": "5 September  Erramatti Mangamma becomes the world's oldest living mother after giving birth to twins.",
+                    "links": [
+                        {
+                            "link": "https://www.dnaindia.com/india/report-oldest-mum-alive-delivers-twins-at-the-age-of-74-2787738",
+                            "text": "-\"'Oldest' mum alive delivers twins at the age of 74\". DNA India. 6 September 2019. Retrieved 6 September 2019.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2019-09-06",
+                                "Created": "2019-09-06"
+                            }
+                        }
+                    ],
+                    "start_date": "05/09/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "6 September  Chandrayaan-2, India's second lunar partially successful. Vikram, the lander, crashes into the surface of the Moon.",
+                    "links": [],
+                    "start_date": "06/09/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "16 September  Jammu & Kashmir National Conference president Farooq Abdullah is arrested under the Public Safety Act (PSA), a law that allows detention without trial for two years.",
+                    "links": [
+                        {
+                            "link": "https://www.aljazeera.com/news/2019/08/india-revokes-kashmir-special-status-latest-updates-190806134011673.html",
+                            "text": "-Abdullah's arrest leaves India with few allies in Kashmir, Al Jazeera, 19 September 2019, retrieved 22 September 2019-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2019-09-22",
+                                "Created": "2019-09-19"
+                            }
+                        }
+                    ],
+                    "start_date": "16/09/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "22 September  The President of United States Donald Trump and the Indian Prime Minister Narendra Modi address 50,000 Indian Americans at the Howdy, Modi Shared Dreams Bright Futures rally in NRG Stadium in Houston, Texas.",
+                    "links": [
+                        {
+                            "link": "https://www.politico.com/story/2019/09/22/trump-indian-american-voters-2020-1507266",
+                            "text": "-ANITA KUMAR (22 September 2019), \"At a rally like no other, Trump woos Indian American voters ahead of 2020\", Politico, retrieved 22 September 2019-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2019-09-22",
+                                "Created": "2019-09-22"
+                            }
+                        }
+                    ],
+                    "start_date": "22/09/2019",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "October",
+            "Data": [
+                {
+                    "event_text": "24 October  India and Pakistan sign a memorandum of understanding opening the Kartarpur Corridor for visa-free border crossings, allowing Indian citizens to visit the Gurdwara Darbar Sahib Sikh shrine.",
+                    "links": [],
+                    "start_date": "24/10/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "31 October  Jammu and Kashmir (union territory) and Ladakh (union territory) will come in effect.",
+                    "links": [],
+                    "start_date": "31/10/2019",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "November",
+            "Data": [
+                {
+                    "event_text": "3 November  2019 Daman indigenous land clearing protests against decision of administrator Praful Khoda Patel.",
+                    "links": [],
+                    "start_date": "03/11/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "5 November  Air pollution in parts of India hits record levels.",
+                    "links": [
+                        {
+                            "link": "https://edition.cnn.com/travel/article/taj-mahal-air-purifier-intl-scli-hnk/index.html",
+                            "text": "-Taj Mahal gets its own air purifiers as India chokes on smog CNN Travel retrieved 5 November 2019-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2019-11-05",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "05/11/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "9 November  The Supreme Court of India rules in favor of Hindus over Ram Janmabhoomi temple.",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/world/2019/nov/09/ayodhya-verdict-hindus-win-possession-of-site-disputed-by-muslims",
+                            "text": "-\"Ayodhya: India's top court gives Hindus site claimed by Muslims\". The Guardian. 9 November 2019.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2019-11-09"
+                            }
+                        },
+                        {
+                            "link": "https://www.dw.com/en/india-court-rules-in-favor-of-hindus-over-ayodhya-temple-mosque-dispute/a-51177838",
+                            "text": "-\"India: Court rules in favor of Hindus over Ayodhya temple-mosque dispute | DW | 09.11.2019\". Deutsche Welle.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://www.bbc.com/news/world-asia-india-50355775",
+                            "text": "-\"Ayodhya verdict: Indian top court gives holy site to Hindus\". BBC News. 9 November 2019.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2019-11-09"
+                            }
+                        }
+                    ],
+                    "start_date": "09/11/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "22 November  Securities and Exchange Board of India blacklisted Karvy Stock Broking Ltd. for illegally pawning client securities to raise personal funds.",
+                    "links": [
+                        {
+                            "link": "https://www.thehindu.com/business/markets/what-is-the-karvy-stock-scandal-all-about/article30233018.ece",
+                            "text": "-Rukhaiyar, Ashish (8 December 2019). \"Explained: Why SEBI banned this Hyderabad-based firm from taking on new clients\". The Hindu. ISSN 0971-751X. Retrieved 22 January 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-01-22",
+                                "Created": "2019-12-08"
+                            }
+                        },
+                        {
+                            "link": "https://search.worldcat.org/issn/0971-751X",
+                            "text": "-Rukhaiyar, Ashish (8 December 2019). \"Explained: Why SEBI banned this Hyderabad-based firm from taking on new clients\". The Hindu. ISSN 0971-751X. Retrieved 22 January 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-01-22",
+                                "Created": "2019-12-08"
+                            }
+                        }
+                    ],
+                    "start_date": "22/11/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "27 November  a sessions court in Mumbai overturns clean chit to Adani Group given in 2014 by a lower court on a share rigging case.",
+                    "links": [
+                        {
+                            "link": "https://indianexpress.com/article/business/companies/court-overturns-clean-chit-to-adanis-in-share-rigging-case-6209072/",
+                            "text": "-\"Court overturns clean chit to Adanis in share-rigging case\". The Indian Express. 10 January 2020. Retrieved 10 July 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-07-10",
+                                "Created": "2020-01-10"
+                            }
+                        }
+                    ],
+                    "start_date": "27/11/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "29 November  Yogitha Reddy the pdf file got committed.",
+                    "links": [],
+                    "start_date": "29/11/2019",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "December",
+            "Data": [
+                {
+                    "event_text": "8 December  2019 Delhi factory fire.",
+                    "links": [],
+                    "start_date": "08/12/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "11 December  The Citizenship (Amendment) Act, 2019 passed by the Parliament of India.",
+                    "links": [],
+                    "start_date": "11/12/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "29 December  Hemant Soren, chief of Jharkhand Mukti Morcha and alliance partner of United Progressive Alliance sworn in as Chief Minister of Jharkhand after elections. His first decision was to drop all cases related to Pathalgadi movement.",
+                    "links": [
+                        {
+                            "link": "https://www.thehindu.com/news/national/other-states/in-maiden-order-hemant-soren-drops-pathalgadi-cases/article30427378.ece",
+                            "text": "-Staff Reporter (29 December 2019). \"In maiden order, Hemant Soren drops Pathalgadi cases\". The Hindu. ISSN 0971-751X. Retrieved 15 January 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-01-15",
+                                "Created": "2019-12-29"
+                            }
+                        },
+                        {
+                            "link": "https://search.worldcat.org/issn/0971-751X",
+                            "text": "-Staff Reporter (29 December 2019). \"In maiden order, Hemant Soren drops Pathalgadi cases\". The Hindu. ISSN 0971-751X. Retrieved 15 January 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-01-15",
+                                "Created": "2019-12-29"
+                            }
+                        }
+                    ],
+                    "start_date": "29/12/2019",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

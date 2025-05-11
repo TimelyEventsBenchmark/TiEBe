@@ -1,0 +1,185 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "8 January  Ukraine International Airlines Flight 752, a scheduled international passenger flight from Tehran to Kyiv, was shot down shortly after takeoff from Tehran Imam Khomeini International Airport by the Iranian Islamic Revolutionary Guards Corp, killing all 176 passengers and crew on board.",
+                    "links": [
+                        {
+                            "link": "https://www.nytimes.com/2020/01/10/world/middleeast/missile-iran-plane-crash.html",
+                            "text": "-\"Iran Says It Unintentionally Shot Down Ukrainian Airliner\". The New York Times. 10 January 2020. Archived from the original on 11 January 2020. Retrieved 10 January 2020.-",
+                            "dates": {
+                                "Archieved": "2020-01-11",
+                                "Retrieved": "2020-01-10",
+                                "Created": "2020-01-10"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20200111072451/https://www.nytimes.com/2020/01/10/world/middleeast/missile-iran-plane-crash.html",
+                            "text": "-\"Iran Says It Unintentionally Shot Down Ukrainian Airliner\". The New York Times. 10 January 2020. Archived from the original on 11 January 2020. Retrieved 10 January 2020.-",
+                            "dates": {
+                                "Archieved": "2020-01-11",
+                                "Retrieved": "2020-01-10",
+                                "Created": "2020-01-10"
+                            }
+                        }
+                    ],
+                    "start_date": "08/01/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "8 & 15 February  Ukraine was originally planned to participate in the Eurovision Song Contest 2020, after a year break, but the contest was cancelled.",
+                    "links": [],
+                    "start_date": "15/02/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "18 February  Russian-backed separatists launched an attack near Krymske, Novoaidar Raion, Luhansk Oblast, attempting to overrun an entrenched Ukrainian position. The attack, the first of its kind in two years, killed one Ukrainian soldier and injured four others.",
+                    "links": [
+                        {
+                            "link": "https://archive.today/20200218173832/https://www.nytimes.com/2020/02/18/world/europe/ukraine-russia-assault.html",
+                            "text": "-Kramer, Andrew E.; Varenikova, Maria (February 18, 2020). \"To Make a Diplomatic Point, Ukraine Rebels Open Fire\". The New York Times. Archived from the original on February 18, 2020.-",
+                            "dates": {
+                                "Archieved": "2020-02-18",
+                                "Retrieved": null,
+                                "Created": "2020-02-18"
+                            }
+                        },
+                        {
+                            "link": "https://www.nytimes.com/2020/02/18/world/europe/ukraine-russia-assault.html",
+                            "text": "-Kramer, Andrew E.; Varenikova, Maria (February 18, 2020). \"To Make a Diplomatic Point, Ukraine Rebels Open Fire\". The New York Times. Archived from the original on February 18, 2020.-",
+                            "dates": {
+                                "Archieved": "2020-02-18",
+                                "Retrieved": null,
+                                "Created": "2020-02-18"
+                            }
+                        }
+                    ],
+                    "start_date": "18/02/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "6 April  A series of wildfires began burning inside Ukraine's Chernobyl Exclusion Zone. The fires were largely extinguished within two weeks and at least one suspect was arrested in connection with the event.",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/environment/2020/apr/06/bad-news-radiation-spikes-16-times-above-normal-after-forest-fire-near-chernobyl",
+                            "text": "-Roth, Andrew (April 5, 2020). \"'Bad news': radiation 16 times above normal after forest fire near Chernobyl\" – via www.theguardian.com.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2020-04-05"
+                            }
+                        },
+                        {
+                            "link": "https://www.dw.com/en/chernobyl-ukraine-crews-extinguish-forest-fires-in-exclusion-zone/a-53125643",
+                            "text": "-\"Ukraine: Crews extinguish Chernobyl forest fire – DW – 04/14/2020\". dw.com.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2020-04-14"
+                            }
+                        },
+                        {
+                            "link": "https://www.usnews.com/news/world/articles/2020-04-14/forest-fire-around-defunct-chernobyl-nuclear-plant-put-out-ukraine-government-says",
+                            "text": "-\"Forest Fire Around Chernobyl Plant Put Out, Ukraine Says\".-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "06/04/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "July",
+            "Data": [
+                {
+                    "event_text": "21 July  A hostage situation took place in Lutsk, Volyn Oblast when Maksym Kryvosh seized a BAZ A079 bus and barricaded himself and 13 passengers inside at the Teatralna Square. The crisis was eventually resolved with the release of the hostages and Kryvosh's arrest.",
+                    "links": [
+                        {
+                            "link": "https://korrespondent.net/ukraine/4254407-v-mvd-rasskazaly-o-zakhvatchyke-avtobusa-v-lutske",
+                            "text": "-\"В МВД рассказали о захватчике автобуса в Луцке\". korrespondent.net.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://www.bbc.com/news/world-europe-53483585",
+                            "text": "-\"Ukraine gunman holds 20 hostages on bus\". BBC News. 2 July 2020. Retrieved 21 July 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-07-21",
+                                "Created": "2020-07-02"
+                            }
+                        },
+                        {
+                            "link": "https://ua.interfax.com.ua/news/general/676139.html",
+                            "text": "-\"У луцького терориста були спільники в інших містах України\". Інтерфакс-Україна.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "21/07/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "December",
+            "Data": [
+                {
+                    "event_text": "17 December  Mayor Hennadiy Kernes of Kharkiv dies in Germany due to complications caused by COVID-19 after contracting the virus in September.",
+                    "links": [
+                        {
+                            "link": "https://www.kyivpost.com/ukraine-politics/kharkiv-mayor-kernes-dies-from-covid-19-complications.html",
+                            "text": "-\"Kharkiv Mayor Kernes dies from COVID-19 complications - KyivPost - Ukraine's Global Voice\". KyivPost. 2020-12-17. Retrieved 2022-03-18.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-03-18",
+                                "Created": "2020-12-17"
+                            }
+                        }
+                    ],
+                    "start_date": "17/12/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "24 December  The country surpasses one million cases of COVID-19.",
+                    "links": [
+                        {
+                            "link": "https://www.kyivpost.com/ukraine-politics/covid-19-in-ukraine-11490-new-cases-223-new-deaths-352302-active-cases.html",
+                            "text": "-Mokhonchuk, Yana (2020-12-24). \"Ukraine tops 1 million coronavirus infections - KyivPost - Ukraine's Global Voice\". Kyiv Post. Retrieved 2022-03-18.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-03-18",
+                                "Created": "2020-12-24"
+                            }
+                        }
+                    ],
+                    "start_date": "24/12/2020",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,299 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "27 January  Jean-Jacques Urvoas is appointed to be Minister of Justice.",
+                    "links": [],
+                    "start_date": "27/01/2016",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "11 February  Former Prime Minister Jean-Marc Ayrault is appointed as Minister of Foreign Affairs and International Development.",
+                    "links": [],
+                    "start_date": "11/02/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "26 February  41st César Awards.",
+                    "links": [],
+                    "start_date": "26/02/2016",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "8 March  Laurent Fabius takes over as President of the Constitutional Council; Michel Pinault and Corinne Luquiens enter as simple members.",
+                    "links": [],
+                    "start_date": "08/03/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "31 March  Nuit debout begins at the Place de la République, Paris.",
+                    "links": [],
+                    "start_date": "31/03/2016",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "6 April  En Marche!, a liberal centrist political party, is founded by Emmanuel Macron in Amiens.",
+                    "links": [],
+                    "start_date": "06/04/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "1 December  President François Hollande announces he will not seek reelection in .",
+                    "links": [],
+                    "start_date": "27/11/2016",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "May",
+            "Data": [
+                {
+                    "event_text": "20 May  Introduction of plain packaging for cigarettes and tobacco products.",
+                    "links": [],
+                    "start_date": "20/05/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "11 May  Beginning of the 2016 Cannes Film Festival.",
+                    "links": [],
+                    "start_date": "11/05/2016",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "June",
+            "Data": [
+                {
+                    "event_text": "10 June  Opening of the UEFA Euro 2016 in 10 French cities.",
+                    "links": [],
+                    "start_date": "10/06/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "26 June  Referendum in the Loire-Atlantique department about the Aéroport du Grand Ouest; 55% of the voters accept the project.",
+                    "links": [],
+                    "start_date": "26/06/2016",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "July",
+            "Data": [
+                {
+                    "event_text": "3 July  Opening of the LGV Est.",
+                    "links": [],
+                    "start_date": "03/07/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "13 July - In Magnanville, a police officer and his wife are fatally stabbed as they are leaving for home after work.",
+                    "links": [
+                        {
+                            "link": "https://www.aa.com.tr/en/europe/frances-2016-spent-in-shadow-of-terror-attacks/717348",
+                            "text": "-\"France's 2016 spent in shadow of terror attacks\". www.aa.com.tr. Retrieved 5 February 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-05",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "13/07/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "14 July  During Nice's Bastille Day celebrations a 19-ton van crashes into crowds, killing at least 84 people and injuring almost 200.",
+                    "links": [
+                        {
+                            "link": "https://www.aa.com.tr/en/europe/frances-2016-spent-in-shadow-of-terror-attacks/717348",
+                            "text": "-\"France's 2016 spent in shadow of terror attacks\". www.aa.com.tr. Retrieved 5 February 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-05",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "14/07/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "24 July  The 2016 Tour de France ends in Paris.",
+                    "links": [],
+                    "start_date": "24/07/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "26 July  A priest and other churchgoers are taken hostage by two knife-wielding attackers in the town of Saint-Etienne-du-Rouvray before the police killed them. The archbishop of Rouen identifies the assassinated priest as 84-year-old Jacques Hamel.",
+                    "links": [
+                        {
+                            "link": "https://doi.org/10.1093/oseo/instance.00257274",
+                            "text": "-Nicholas of Mont-Saint-Jacques (21 December 2000), \"113 Brother Nicholas of Mont-Rouen to Archbishop Thomas of Canterbury, Rouen, before 18 November 1166\", The Correspondence of Thomas Becket, Archbishop of Canterbury 1162–1170, Oxford University Press, retrieved 5 February 2025-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-05",
+                                "Created": "1166-11-18"
+                            }
+                        }
+                    ],
+                    "start_date": "26/07/2016",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "August",
+            "Data": [
+                {
+                    "event_text": "5 August - 177 athletes from France begin to compete at the 2016 Summer Olympics in Rio de Janeiro, Brazil.",
+                    "links": [],
+                    "start_date": "05/08/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "5 August - The Braderie de Lille is cancelled due to terrorist threats.",
+                    "links": [],
+                    "start_date": "05/08/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "6 August  Thirteen people are killed in a fire in Rouen.",
+                    "links": [],
+                    "start_date": "06/08/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "8 August  The El Khomri law is signed by President Hollande.",
+                    "links": [],
+                    "start_date": "08/08/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "12 August  The mayor of Cannes bans the Islamic Burkini the swimsuits, citing a possible link to Islamic extremism. At least 20 other French towns, including Nice, subsequently joined the ban.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-europe-37056742",
+                            "text": "-\"Cannes bans burkinis over suspected link to radical Islamism\". BBC News. 12 August 2016. Retrieved 12 August 2016.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2016-08-12",
+                                "Created": "2016-08-12"
+                            }
+                        },
+                        {
+                            "link": "http://www.thelocal.fr/20160819/nice-joins-list-of-french-towns-to-ban-burqini",
+                            "text": "-\"Nice joins growing list of French towns to ban burqini\". The Local.fr. 19 August 2016. Retrieved 22 August 2016.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2016-08-22",
+                                "Created": "2016-08-19"
+                            }
+                        }
+                    ],
+                    "start_date": "12/08/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "30 August  Emmanuel Macron resigns from his position as Minister of the Economy.",
+                    "links": [],
+                    "start_date": "30/08/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "23 August  Laurent Wauquiez becomes president of The Republicans party ad interim.",
+                    "links": [],
+                    "start_date": "23/08/2016",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "September",
+            "Data": [
+                {
+                    "event_text": "4 September  Notre Dame Cathedral bombing attempt.",
+                    "links": [],
+                    "start_date": "04/09/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "9 September  Opening of the fête de l'Humanité (3 days).",
+                    "links": [],
+                    "start_date": "09/09/2016",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "October",
+            "Data": [
+                {
+                    "event_text": "1 October  Beginning of the 2016 Paris Motor Show.",
+                    "links": [],
+                    "start_date": "01/10/2016",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "November",
+            "Data": [
+                {
+                    "event_text": "7 November  Yannick Jadot wins the Europe Ecology  The Greens primary and becomes the party's candidate for the 2017 French presidential election.",
+                    "links": [],
+                    "start_date": "07/11/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "13 November  A thousands of French people marks the first anniversary of last year attacks in Paris since World War II.",
+                    "links": [],
+                    "start_date": "13/11/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "27 November  Former Prime Minister François Fillon wins the right-wing primary for the 2017 French presidential election.",
+                    "links": [],
+                    "start_date": "27/11/2016",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "December",
+            "Data": [
+                {
+                    "event_text": "6 December  Bernard Cazeneuve is appointed to be prime minister.",
+                    "links": [],
+                    "start_date": "06/12/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "19 December  The Law Court of the Republic founds IMF managing director Christine Lagarde guilty of negligence during her time as Minister of Finance.",
+                    "links": [],
+                    "start_date": "19/12/2016",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,364 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "- A suicide bomber detonates his explosive belt at a church during a New Year's mass in Gombe killing only the bomber but hurting eight people.",
+                    "links": [
+                        {
+                            "link": "https://web.archive.org/web/20150101214036/http://ca.reuters.com/article/topNews/idCAKBN0KA1Q120150101",
+                            "text": "-\"Suicide bomber hits church in Nigeria's Gombe, wounding eight\". 1 January 2015. Archived from the original on January 1, 2015. Retrieved 3 January 2015.-",
+                            "dates": {
+                                "Archieved": "2015-01-03",
+                                "Retrieved": "2015-01-01",
+                                "Created": "2015-01-01"
+                            }
+                        },
+                        {
+                            "link": "http://ca.reuters.com/article/topNews/idCAKBN0KA1Q120150101",
+                            "text": "-\"Suicide bomber hits church in Nigeria's Gombe, wounding eight\". 1 January 2015. Archived from the original on January 1, 2015. Retrieved 3 January 2015.-",
+                            "dates": {
+                                "Archieved": "2015-01-03",
+                                "Retrieved": "2015-01-01",
+                                "Created": "2015-01-01"
+                            }
+                        }
+                    ],
+                    "start_date": "01/01/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "- Fleeing villagers from a remote part of the Borno State report that Boko Haram had three days prior kidnapped around 40 boys and young men.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-africa-30666011",
+                            "text": "-\"Boko Haram unreest: Gunmen kidnap Nigerian villagers\". BBC News. 3 January 2015. Retrieved 4 January 2015.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2015-01-04",
+                                "Created": "2015-01-03"
+                            }
+                        }
+                    ],
+                    "start_date": "03/01/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "- News emerges that two days prior hundreds of Boko Haram militants had overrun several towns in northeast Nigeria and captured the military base in Baga.",
+                    "links": [
+                        {
+                            "link": "https://www.wsj.com/articles/boko-haram-overruns-villages-and-army-base-in-northeast-nigeria-1420467667",
+                            "text": "-\"Boko Haram Extends Its Grip in Nigeria\". 5 January 2015. Retrieved 7 January 2015.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2015-01-07",
+                                "Created": "2015-01-05"
+                            }
+                        }
+                    ],
+                    "start_date": "05/01/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "- Boko Haram militants raze the entire town of Baga. Bodies lay strewn on Baga's streets with as many as 2,000 people having been killed. Boko Haram now controls 70% of the Borno State, which is the worst-affected by the insurgency.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-africa-30728158",
+                            "text": "-\"Boko Haram crisis: Nigeria's Baga town hit by new assault\". BBC News. 8 January 2015. Retrieved 9 January 2015.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2015-01-09",
+                                "Created": "2015-01-08"
+                            }
+                        }
+                    ],
+                    "start_date": "08/01/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "- Refugees flee Borno State following the Boko Haram massacre in the town of Baga. 7,300 flee to neighbouring Chad while over 1,000 are trapped on the island of Kangala in Lake Chad. Nigeria's army vows to recapture the town, while Niger and Chad withdraw their forces from a transnational force tasked with combating militants.",
+                    "links": [
+                        {
+                            "link": "http://www.unhcr.org/54afb6dc9.html",
+                            "text": "-\"More than 7,000 flee to western Chad to escape attacks on key town in Nigeria\". 9 January 2015. Retrieved 10 January 2015.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2015-01-10",
+                                "Created": "2015-01-09"
+                            }
+                        }
+                    ],
+                    "start_date": "09/01/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "- A female suicide bomber, believed to be aged around 10 years old, kills herself and 19 others, possibly against her will, at a market in the northeastern city of Maiduguri.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-africa-30761963",
+                            "text": "-\"Nigeria: 'Girl bomber' kills 19 people in Maiduguri market\". BBC News. 10 January 2015. Retrieved 11 January 2015.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2015-01-11",
+                                "Created": "2015-01-10"
+                            }
+                        }
+                    ],
+                    "start_date": "10/01/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "- Two female suicide bombers, each believed to be around 10 years old, kill themselves and three others at a market in the northeastern city of Potiskum.",
+                    "links": [
+                        {
+                            "link": "http://www.news24.com/Africa/News/Two-more-child-suicide-bombers-hit-Nigeria-20150111",
+                            "text": "-\"Two more child suicide bombers hit Nigeria\". 11 January 2015. Retrieved 12 January 2015.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2015-01-12",
+                                "Created": "2015-01-11"
+                            }
+                        }
+                    ],
+                    "start_date": "11/01/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "- Following the Chad authorities decision to send troops to Nigeria and Cameroon to fight Boko Haram militants, the Russian ambassador to the country pledges to supply Cameroon with more modern weapons to combat the Islamist insurgents.",
+                    "links": [
+                        {
+                            "link": "https://web.archive.org/web/20150119094318/http://articles.economictimes.indiatimes.com/2015-01-17/news/58175190_1_boko-haram-islamists-chadian-president-paul-biya",
+                            "text": "-\"Thousands rally in Chad capital to support army move against Boko Haram\". 17 January 2015. Archived from the original on January 19, 2015. Retrieved 21 January 2015.-",
+                            "dates": {
+                                "Archieved": "2015-01-21",
+                                "Retrieved": "2015-01-19",
+                                "Created": "2015-01-17"
+                            }
+                        },
+                        {
+                            "link": "http://articles.economictimes.indiatimes.com/2015-01-17/news/58175190_1_boko-haram-islamists-chadian-president-paul-biya",
+                            "text": "-\"Thousands rally in Chad capital to support army move against Boko Haram\". 17 January 2015. Archived from the original on January 19, 2015. Retrieved 21 January 2015.-",
+                            "dates": {
+                                "Archieved": "2015-01-21",
+                                "Retrieved": "2015-01-19",
+                                "Created": "2015-01-17"
+                            }
+                        }
+                    ],
+                    "start_date": "17/01/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "- Boko Haram leader Abubakar Shekau claims responsibility for the attack on the town of Baga, Nigeria in which an unknown number of civilians were killed.",
+                    "links": [
+                        {
+                            "link": "http://www.abc.net.au/news/2015-01-21/nigerian-army-officers-face-court-martial-over-alleged-sabotage/6029874",
+                            "text": "-\"Nigerian Boko Haram 'leader' claims responsibility for deadly Baga attack in new video\". ABC News. 21 January 2015. Retrieved 21 January 2015.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2015-01-21",
+                                "Created": "2015-01-21"
+                            }
+                        }
+                    ],
+                    "start_date": "20/01/2015",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "- A female suicide bomber attacks minutes after the President leaves an election rally in the city of Gombe resulting in at least one death and 18 people injured.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-africa-31099348",
+                            "text": "-\"Nigeria elections: Blast hits presidential rally in Gombe\". BBC News. 2 February 2015. Retrieved 7 February 2015.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2015-02-07",
+                                "Created": "2015-02-02"
+                            }
+                        }
+                    ],
+                    "start_date": "02/02/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "- Nigeria postpones its general election for six weeks to allow its armed forces to control parts of the country currently controlled by Boko Haram.",
+                    "links": [
+                        {
+                            "link": "http://www.irishtimes.com/news/world/africa/nigeria-to-postpone-elections-ahead-of-boko-haram-offensive-1.2095524",
+                            "text": "-\"Nigeria to postpone elections ahead of Boko Haram offensive\". Irish Times. 7 February 2015.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2015-02-07"
+                            }
+                        }
+                    ],
+                    "start_date": "07/02/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "- A suicide bomber kills seven and wounds 30 in the city of Damaturu.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-africa-31480100",
+                            "text": "-\"Suicide bomber kills seven in Nigerian city of Damaturu\". BBC News.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "15/02/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "- Nigeria regains the key town of Monguno from Boko Haram.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-africa-31493150",
+                            "text": "-\"African allies claim gains against Boko Haram\". BBC News. 16 February 2015.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2015-02-16"
+                            }
+                        }
+                    ],
+                    "start_date": "16/02/2015",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "- A series of suicide bombings by Boko Haram in Maiduguri  kills at least 54 people and wounds more than 140 others.",
+                    "links": [
+                        {
+                            "link": "https://web.archive.org/web/20150308102727/http://bigstory.ap.org/article/e919a0bfeaed4701b65accfe7651789e/5-suicide-bomb-blasts-rock-maiduguri-city-northeast-nigeria",
+                            "text": "-\"5 suicide bomb blasts rock Maiduguri city in northeast Nigeria, 54 dead, 143 wounded: official\". Archived from the original on 2015-03-08.-",
+                            "dates": {
+                                "Archieved": "2015-03-08",
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "http://bigstory.ap.org/article/e919a0bfeaed4701b65accfe7651789e/5-suicide-bomb-blasts-rock-maiduguri-city-northeast-nigeria",
+                            "text": "-\"5 suicide bomb blasts rock Maiduguri city in northeast Nigeria, 54 dead, 143 wounded: official\". Archived from the original on 2015-03-08.-",
+                            "dates": {
+                                "Archieved": "2015-03-08",
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "07/03/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "- Forces from Niger and Chad launch a ground and air offensive against Boko Haram Islamist militants in northeastern Nigeria.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-africa-31789412",
+                            "text": "-\"Boko Haram conflict: Nigerian allies launch offensive\". BBC News. 8 March 2015. Retrieved 9 March 2015.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2015-03-09",
+                                "Created": "2015-03-08"
+                            }
+                        }
+                    ],
+                    "start_date": "08/03/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "- General elections are held. Gunmen kill at least 15 voters including an opposition house of assembly candidate for Dukku in Gombe.",
+                    "links": [
+                        {
+                            "link": "http://edition.cnn.com/2015/03/27/africa/nigeria-elections-7-bizarre-moments/",
+                            "text": "-\"#NigeriaDecides: 7 reasons why we'll never forget the 2015 elections\". 28 March 2015. Retrieved 31 March 2015.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2015-03-31",
+                                "Created": "2015-03-28"
+                            }
+                        }
+                    ],
+                    "start_date": "28/03/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "-  Voting in the general election for a second day due to delays and malfunctioning equipment. Boko Haram attacks kill 43 people.",
+                    "links": [
+                        {
+                            "link": "https://www.bloomberg.com/news/articles/2015-03-28/nigeria-extends-vote-to-second-day-after-polling-station-delays",
+                            "text": "-\"Nigeria Election Results Flow In as Opposition Cries Foul\". Bloomberg.com. 29 March 2015. Retrieved 31 March 2015.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2015-03-31",
+                                "Created": "2015-03-29"
+                            }
+                        }
+                    ],
+                    "start_date": "29/03/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "- In the general election, challenger Muhammadu Buhari leads by two million votes with three-quarters of the states having their votes counted but votes from some of President Goodluck Jonathan's strongest states in the Niger Delta have yet to be counted.",
+                    "links": [
+                        {
+                            "link": "https://web.archive.org/web/20150402085951/http://af.reuters.com/article/commoditiesNews/idAFL6N0WW4PV20150330",
+                            "text": "-\"UPDATE 6-Buhari extends lead in tight Nigerian election\". 31 March 2015. Archived from the original on 2 April 2015. Retrieved 31 March 2015.-",
+                            "dates": {
+                                "Archieved": "2015-04-02",
+                                "Retrieved": "2015-03-31",
+                                "Created": "2015-03-31"
+                            }
+                        },
+                        {
+                            "link": "https://af.reuters.com/article/commoditiesNews/idAFL6N0WW4PV20150330",
+                            "text": "-\"UPDATE 6-Buhari extends lead in tight Nigerian election\". 31 March 2015. Archived from the original on 2 April 2015. Retrieved 31 March 2015.-",
+                            "dates": {
+                                "Archieved": "2015-04-02",
+                                "Retrieved": "2015-03-31",
+                                "Created": "2015-03-31"
+                            }
+                        }
+                    ],
+                    "start_date": "30/03/2015",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "- Muhammadu Buhari of the All Progressives Congress is elected to be the next President of Nigeria.",
+                    "links": [
+                        {
+                            "link": "http://www.theage.com.au/world/muhammadu-buhari-wins-nigerian-presidency-in-first-power-shift-since-1999-20150401-1mcd1p.html",
+                            "text": "-\"Muhammadu Buhari wins Nigerian presidency in first power shift since 1999\". 1 April 2015. Retrieved 1 April 2015.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2015-04-01",
+                                "Created": "2015-04-01"
+                            }
+                        }
+                    ],
+                    "start_date": "01/04/2015",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

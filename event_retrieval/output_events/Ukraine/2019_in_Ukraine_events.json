@@ -1,0 +1,68 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "Bartholomew I of Constantinople issues formal decree granting Orthodox Church of Ukraine independence from the Russian Orthodox Church.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/world-europe-46768270",
+                            "text": "-\"Ukraine Orthodox Church granted independence from Russian Church\". BBC. 5 January 2019. Retrieved 8 January 2019.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2019-01-08",
+                                "Created": "2019-01-05"
+                            }
+                        }
+                    ],
+                    "start_date": "05/01/2019",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "31  Ukrainian presidential election",
+                    "links": [],
+                    "start_date": "31/03/2019",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "July",
+            "Data": [
+                {
+                    "event_text": "21 July  2019 Ukrainian parliamentary election",
+                    "links": [],
+                    "start_date": "21/07/2019",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "September",
+            "Data": [
+                {
+                    "event_text": "7 September  Filmmaker Oleg Sentsov and 66 others have been released in a prisoner exchange between Ukraine and Russia.",
+                    "links": [
+                        {
+                            "link": "https://www.amnestyusa.org/press-releases/filmmaker-oleg-sentsov-and-others-freed-in-prisoner-swap/",
+                            "text": "-\"FILMMAKER OLEG SENTSOV AND OTHERS FREED IN PRISONER SWAP\", Amnesty International/USA, retrieved Sep 7, 2019-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "07/09/2019",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,329 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "10 January  Riots break out in Port Moresby and other cities across the country following an announcement by prime minister James Marape of a tax deduction which is subsequently retracted. At least 22 people are killed and 41 others are injured.",
+                    "links": [
+                        {
+                            "link": "https://www.abc.net.au/news/2024-01-10/port-moresby-revolt-over-public-service-payroll-error/103306972",
+                            "text": "-\"Chaos in the streets of Port Moresby after 'technical glitch' hits public servants' pay\". ABC News. 2024-01-10. Retrieved 2024-01-10.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-01-10",
+                                "Created": "2024-01-10"
+                            }
+                        },
+                        {
+                            "link": "https://www.abc.net.au/news/2024-01-12/png-government-attempts-to-restore-essential-services/103312786",
+                            "text": "-\"Death toll in PNG riots jumps to 22 after gruesome discovery of bodies in burnt out shops\". ABC Australia. 12 January 2024. Archived from the original on 12 January 2024. Retrieved 12 January 2024.-",
+                            "dates": {
+                                "Archieved": "2024-01-12",
+                                "Retrieved": "2024-01-12",
+                                "Created": "2024-01-12"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20240112014353/https://www.abc.net.au/news/2024-01-12/png-government-attempts-to-restore-essential-services/103312786",
+                            "text": "-\"Death toll in PNG riots jumps to 22 after gruesome discovery of bodies in burnt out shops\". ABC Australia. 12 January 2024. Archived from the original on 12 January 2024. Retrieved 12 January 2024.-",
+                            "dates": {
+                                "Archieved": "2024-01-12",
+                                "Retrieved": "2024-01-12",
+                                "Created": "2024-01-12"
+                            }
+                        },
+                        {
+                            "link": "https://today.rtl.lu/news/world/a/2156775.html",
+                            "text": "-\"Troops restore order after riots in Papua New Guinea\". RTL. 12 January 2024. Archived from the original on 12 January 2024. Retrieved 12 January 2024.-",
+                            "dates": {
+                                "Archieved": "2024-01-12",
+                                "Retrieved": "2024-01-12",
+                                "Created": "2024-01-12"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20240112054158/https://today.rtl.lu/news/world/a/2156775.html",
+                            "text": "-\"Troops restore order after riots in Papua New Guinea\". RTL. 12 January 2024. Archived from the original on 12 January 2024. Retrieved 12 January 2024.-",
+                            "dates": {
+                                "Archieved": "2024-01-12",
+                                "Retrieved": "2024-01-12",
+                                "Created": "2024-01-12"
+                            }
+                        }
+                    ],
+                    "start_date": "10/01/2024",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "18 February  At least 64 people are killed in an ambush during intertribal clashes in Wabag, Enga Province.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-asia-68302051",
+                            "text": "-\"Papua New Guinea ambush: More than 60 shot dead in Highlands region\". BBC. 19 February 2024. Retrieved 19 February 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-02-19",
+                                "Created": "2024-02-19"
+                            }
+                        }
+                    ],
+                    "start_date": "18/02/2024",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "24 March  Three people are killed and 1,000 houses are destroyed following a magnitude 6.9 earthquake in East Sepik Province.",
+                    "links": [
+                        {
+                            "link": "https://www.abc.net.au/news/2024-03-25/papua-new-guinea-earthquake-hits-east-sepik-province/103627820",
+                            "text": "-\"Three people reported dead, 1,000 homes destroyed after earthquake hits PNG's East Sepik province\". ABC. 19 February 2024. Retrieved 25 March 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-03-25",
+                                "Created": "2024-02-19"
+                            }
+                        }
+                    ],
+                    "start_date": "24/03/2024",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "15 April  A magnitude 6.5 earthquake strikes West New Britain Province. No damage or casualties are reported.",
+                    "links": [
+                        {
+                            "link": "https://abcnews.go.com/International/wireStory/magnitude-65-earthquake-rattles-papua-new-guinea-tsunami-109224973",
+                            "text": "-\"Strong earthquake rattles Papua New Guinea, but there is no tsunami alert or reports of damage\". ABC News. Retrieved 2024-04-15.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-04-15",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "15/04/2024",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "May",
+            "Data": [
+                {
+                    "event_text": "24 May  A landslide hits the village of Kaokalam in Enga Province with a disputed death toll ranging from 160 to 2,000.",
+                    "links": [
+                        {
+                            "link": "https://www.abc.net.au/news/2024-05-31/first-look-at-the-png-landslide-site/103920178",
+                            "text": "-Dziedzic, Stephen (2024-05-31). \"'The earth is moving': PNG PM explains why he can't send excavators to site of landslide disaster\". ABC News. Archived from the original on 1 June 2024. Retrieved 2024-05-31.-",
+                            "dates": {
+                                "Archieved": "2024-05-31",
+                                "Retrieved": "2024-06-01",
+                                "Created": "2024-05-31"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20240601132827/https://www.abc.net.au/news/2024-05-31/first-look-at-the-png-landslide-site/103920178",
+                            "text": "-Dziedzic, Stephen (2024-05-31). \"'The earth is moving': PNG PM explains why he can't send excavators to site of landslide disaster\". ABC News. Archived from the original on 1 June 2024. Retrieved 2024-05-31.-",
+                            "dates": {
+                                "Archieved": "2024-05-31",
+                                "Retrieved": "2024-06-01",
+                                "Created": "2024-05-31"
+                            }
+                        },
+                        {
+                            "link": "https://www.france24.com/en/asia-pacific/20240527-more-than-2-000-people-buried-in-papua-new-guinea-landslide",
+                            "text": "-\"More than 2,000 people buried in Papua New Guinea landslide\". France 24. 27 May 2024. Retrieved 27 May 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-05-27",
+                                "Created": "2024-05-27"
+                            }
+                        }
+                    ],
+                    "start_date": "24/05/2024",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "July",
+            "Data": [
+                {
+                    "event_text": "6 July  Petroleum Minister Jimmy Maladina is charged by Australian police with assault relating to a domestic dispute that occurred in Sydney. He subsequently resigns from the cabinet and is replaced on 10 July by Energy Minister Thomas Opa.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/articles/cyr7x7r26e0o",
+                            "text": "-Armstrong, Kathy (7 July 2024). \"PNG minister charged with assault in Australia\". BBC. Retrieved 7 July 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-07-07",
+                                "Created": "2024-07-07"
+                            }
+                        },
+                        {
+                            "link": "https://apnews.com/article/papua-new-guinea-lawmaker-maladina-australia-assault-9ec23e2198a1360cb9bbc707f676c231",
+                            "text": "-\"Papua New Guinea lawmaker pleads not guilty in Sydney court to assaulting woman\". Associated Press. Retrieved 2024-07-11.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-07-11",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "06/07/2024",
+                    "end_date": "10/07/2024"
+                },
+                {
+                    "event_text": "1618 July  At least 26 people are killed in attacks by an armed gang on several villages in Angoram District, East Sepik Province.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/articles/cpwdp58z3gjo",
+                            "text": "-Drury, Flora (25 July 2024). \"Gang kills women and children in Papua New Guinea massacre - reports\". BBC. Retrieved 26 July 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-07-26",
+                                "Created": "2024-07-25"
+                            }
+                        }
+                    ],
+                    "start_date": "18/07/2024",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "September",
+            "Data": [
+                {
+                    "event_text": "69 September  Pope Francis conducts the first papal visit to Papua New Guinea since 1995.",
+                    "links": [
+                        {
+                            "link": "https://www.france24.com/en/live-news/20240906-pope-francis-lands-in-papua-new-guinea",
+                            "text": "-\"Pope Francis lands in Papua New Guinea\". France 24. Retrieved 6 September 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-09-06",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "09/09/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "12 September  Prime Minister of Papua New Guinea James Marape survives a vote of no confidence in the National Parliament.",
+                    "links": [
+                        {
+                            "link": "https://www.rnz.co.nz/international/pacific-news/527805/james-marape-remains-pm-after-no-confidence-vote-against-him-fails",
+                            "text": "-\"James Marape remains PM after no confidence vote against him fails\". RNZ. 2024-09-12. Retrieved 2024-09-12.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-09-12",
+                                "Created": "2024-09-12"
+                            }
+                        }
+                    ],
+                    "start_date": "12/09/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "17 September  At least 35 people are killed in intertribal clashes near the Porgera Gold Mine in Enga Province.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/papua-new-guinea-tribal-violence-enga-a01a55498e162123148a08b2b09c89ec",
+                            "text": "-\"Days of tribal violence in Papua New Guinea leave more than 35 people dead, police say\". Associated Press. 2024-09-17. Retrieved 2024-09-17.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-09-17",
+                                "Created": "2024-09-17"
+                            }
+                        }
+                    ],
+                    "start_date": "17/09/2024",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "October",
+            "Data": [
+                {
+                    "event_text": "31 October  The government announces that it would boycott the upcoming 2024 United Nations Climate Change Conference in Azerbaijan in November, calling it a \"waste of time\" amid criticism over unfulfilled pledges on climate change.",
+                    "links": [
+                        {
+                            "link": "https://www.france24.com/en/live-news/20241031-papua-new-guinea-to-boycott-waste-of-time-un-climate-summit",
+                            "text": "-\"Papua New Guinea to boycott 'waste of time' UN climate summit\". France 24. Retrieved 31 October 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-10-31",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "31/10/2024",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "December",
+            "Data": [
+                {
+                    "event_text": "12 December  Papua New Guinea receives a licence to have a local team play in the Australian National Rugby League beginning in 2028.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/papua-new-guinea-australia-rugby-league-418d86011bf5473e40bd636c562a4a8c",
+                            "text": "-\"Papua New Guinea is granted a National Rugby League team starting in 2028\". Associated Press. Retrieved 12 December 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-12-12",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "12/12/2024",
+                    "end_date": null
+                },
+                {
+                    "event_text": "22 December  A Britten-Norman BN-2B-26 Islander operated by North Coast Aviation crashes in Sapmanga Valley in Morobe Province. All five occupants are found dead the next day.",
+                    "links": [
+                        {
+                            "link": "https://asn.flightsafety.org/wikibase/467946",
+                            "text": "-https://asn.flightsafety.org/wikibase/467946-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://www.rnz.co.nz/news/world/537575/no-survivors-from-png-small-plane-crash",
+                            "text": "-\"No survivors from PNG small plane crash\". Radio New Zealand. Retrieved 25 December 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-12-25",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "22/12/2024",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

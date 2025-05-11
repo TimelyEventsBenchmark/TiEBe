@@ -1,0 +1,136 @@
+{
+    "Events": [
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "- Around 60 people are killed in an attack by members of the CODECO paramilitary.",
+                    "links": [],
+                    "start_date": "02/02/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "- The  Movement begins an offensive",
+                    "links": [],
+                    "start_date": "27/03/2022",
+                    "end_date": "23/03/2022"
+                },
+                {
+                    "event_text": "- 2022 MONUSCO helicopter crash",
+                    "links": [],
+                    "start_date": "29/03/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "May",
+            "Data": [
+                {
+                    "event_text": "28 May - 24 people die in an attack by militants in Beni region.",
+                    "links": [
+                        {
+                            "link": "https://www.aljazeera.com/news/2022/5/29/more-than-a-dozen-civilians-killed-in-dr-congo-rebel-attack",
+                            "text": "-\"Civilians killed in eastern DR Congo rebel attack\". www.aljazeera.com. Retrieved 2022-06-18.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-06-18",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "28/05/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "June",
+            "Data": [
+                {
+                    "event_text": "- Between 18 and 27 people are killed in a massacre by suspected Allied Democratic Forces fighters in Otomabere, Irumu Territory, Ituri Province.",
+                    "links": [
+                        {
+                            "link": "https://www.theeastafrican.co.ke/tea/rest-of-africa/20-killed-in-new-dr-congo-attack-3840666",
+                            "text": "-\"20 killed in fresh attack in eastern DR Congo\". The East African. 2022-06-07. Retrieved 2022-06-18.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-06-18",
+                                "Created": "2022-06-07"
+                            }
+                        },
+                        {
+                            "link": "https://www.voanews.com/a/drc-army-m23-rebels-kill-two-congo-soldiers-as-fighting-resumes/6605739.html",
+                            "text": "-\"DRC Army: M23 Rebels Kill Two Congo Soldiers as Fighting Resumes\". VOA. 6 June 2022. Retrieved 2022-06-18.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-06-06",
+                                "Created": "2022-06-18"
+                            }
+                        }
+                    ],
+                    "start_date": "05/06/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "July",
+            "Data": [
+                {
+                    "event_text": "25 July  Protests against MONUSCO begin in Goma.",
+                    "links": [],
+                    "start_date": "25/07/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "September",
+            "Data": [
+                {
+                    "event_text": "27 September  The Ministry of Health of the Democratic Republic of the Congo formally declares an end to the latest outbreak of Ebola.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/africa/congo-declares-end-latest-ebola-outbreak-east-2022-09-27/",
+                            "text": "-\"Congo declares end of latest Ebola outbreak in east\". Reuters. 2022-09-27. Retrieved 2022-09-27.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-09-27",
+                                "Created": "2022-09-27"
+                            }
+                        }
+                    ],
+                    "start_date": "27/09/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "October",
+            "Data": [
+                {
+                    "event_text": "30 October - Government expels Rwandan ambassador to Congo after alleged Rwandan government support for M23 rebels.",
+                    "links": [
+                        {
+                            "link": "https://www.aljazeera.com/news/2022/10/30/dr-congo-expels-rwandan-ambassador-as-m23-rebels-gain-ground",
+                            "text": "-\"DR Congo expels Rwandan ambassador as M23 rebels seize towns\". Al Jazeera. Retrieved 30 October 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-10-30",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "30/10/2022",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

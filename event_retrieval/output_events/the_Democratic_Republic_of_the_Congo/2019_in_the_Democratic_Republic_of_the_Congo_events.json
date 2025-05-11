@@ -1,0 +1,27 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "The Independent National Electoral Commission declares that Félix Tshisekedi is the victor of the 30 December 2018 general election.",
+                    "links": [],
+                    "start_date": "10/01/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Constitutional Court rejects an appeal by Martin Fayulu challenging the result of the election.",
+                    "links": [],
+                    "start_date": "20/01/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Tshisekedi is inaugurated as the 5th President of the DRC.",
+                    "links": [],
+                    "start_date": "24/01/2019",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

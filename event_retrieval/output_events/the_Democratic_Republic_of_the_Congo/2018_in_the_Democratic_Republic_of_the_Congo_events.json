@@ -1,0 +1,132 @@
+{
+    "Events": [
+        {
+            "Month": "May",
+            "Data": [
+                {
+                    "event_text": "8 May  The 2018 Équateur province Ebola virus outbreak begins.",
+                    "links": [
+                        {
+                            "link": "https://www.yahoo.com/news/outbreak-ebola-kills-17-northwest-dr-congo-170946645.html",
+                            "text": "-\"New outbreak of Ebola kills 17 in northwest DR Congo\". Yahoo News.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "08/05/2018",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "May",
+            "Data": [
+                {
+                    "event_text": "8 May  The 2018 Équateur province Ebola virus outbreak begins.",
+                    "links": [
+                        {
+                            "link": "https://www.yahoo.com/news/outbreak-ebola-kills-17-northwest-dr-congo-170946645.html",
+                            "text": "-\"New outbreak of Ebola kills 17 in northwest DR Congo\". Yahoo News.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "08/05/2018",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "July",
+            "Data": [
+                {
+                    "event_text": "24 July  The WHO declares the Équateur province Ebola virus outbreak over.",
+                    "links": [],
+                    "start_date": "24/07/2018",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "July",
+            "Data": [
+                {
+                    "event_text": "24 July  The WHO declares the Équateur province Ebola virus outbreak over.",
+                    "links": [],
+                    "start_date": "24/07/2018",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "August",
+            "Data": [
+                {
+                    "event_text": "1 August  Another Ebola virus outbreak was confirmed in Kivu in the eastern region of the country.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/article/us-health-ebola/congo-declares-new-ebola-outbreak-in-eastern-province-idUSKBN1KM59B?il=0",
+                            "text": "-\"Congo declares new Ebola outbreak in eastern province\". U.S. August 2018. Retrieved 1 August 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-08-01",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "01/08/2018",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "August",
+            "Data": [
+                {
+                    "event_text": "1 August  Another Ebola virus outbreak was confirmed in Kivu in the eastern region of the country.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/article/us-health-ebola/congo-declares-new-ebola-outbreak-in-eastern-province-idUSKBN1KM59B?il=0",
+                            "text": "-\"Congo declares new Ebola outbreak in eastern province\". U.S. August 2018. Retrieved 1 August 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-08-01",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "01/08/2018",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "December",
+            "Data": [
+                {
+                    "event_text": "23 December  scheduled date for the Democratic Republic of the Congo general election, 2018",
+                    "links": [],
+                    "start_date": "23/12/2018",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "December",
+            "Data": [
+                {
+                    "event_text": "23 December  scheduled date for the Democratic Republic of the Congo general election, 2018",
+                    "links": [],
+                    "start_date": "23/12/2018",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1704 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "1 January  The death toll from the bushfire season in the South Coast of New South Wales rises to seven.",
+                    "links": [],
+                    "start_date": "01/01/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "2 January  Victorian Premier Daniel Andrews declares a state of disaster for six local government areas and three alpine resorts in Victoria, due to unprecedented risk from bushfires. Two people are confirmed to have died in eastern Victoria from the fires, with 17 people missing.",
+                    "links": [],
+                    "start_date": "02/01/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "5 January  The New South Wales town of Eden is evacuated due to the bushfires.",
+                    "links": [
+                        {
+                            "link": "https://www.abc.net.au/news/2020-01-05/fires-nsw-eden-evacuation-ordered-as-blaze-poses-imminent-risk/11841864",
+                            "text": "-\"(ABC News, 5 January 2019, Eden evacuation ordered as blaze poses imminent risk\". ABC News. 5 January 2020. Archived from the original on 5 January 2020. Retrieved 5 January 2020.-",
+                            "dates": {
+                                "Archieved": "2020-01-05",
+                                "Retrieved": "2020-01-05",
+                                "Created": "2019-01-05"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20200105174557/https://www.abc.net.au/news/2020-01-05/fires-nsw-eden-evacuation-ordered-as-blaze-poses-imminent-risk/11841864",
+                            "text": "-\"(ABC News, 5 January 2019, Eden evacuation ordered as blaze poses imminent risk\". ABC News. 5 January 2020. Archived from the original on 5 January 2020. Retrieved 5 January 2020.-",
+                            "dates": {
+                                "Archieved": "2020-01-05",
+                                "Retrieved": "2020-01-05",
+                                "Created": "2019-01-05"
+                            }
+                        }
+                    ],
+                    "start_date": "05/01/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "17 January  The Wiggles singer Greg Page suffered a cardiac arrest and collapsed on stage at the Wiggles reunion show.",
+                    "links": [],
+                    "start_date": "17/01/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "20 January  A hail storm sweeps through Canberra in the Australian Capital Territory and surrounding parts of New South Wales, including areas affected by fire storms earlier in the year. The storm with winds recorded up to 177 km pelted hail stones the size of golf balls, big enough to smash car windows and injure birds. The hail caused significant damage to thousands of cars and homes, tore branches off trees, and caused localised flooding. This was less than 24 hours after the region was hit by massive dust storms blanketing entire towns and blacking out the sun.",
+                    "links": [],
+                    "start_date": "20/01/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "20 January  Will Hodgman resigns as Premier of Tasmania, and is replaced by Peter Gutwein.",
+                    "links": [],
+                    "start_date": "20/01/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "20 January  2 February  Novak Djokovic won the Men's Singles and Sofia Kenin the Women's Singles at the 2020 Australian Open.",
+                    "links": [],
+                    "start_date": "20/01/2020",
+                    "end_date": "02/02/2020"
+                },
+                {
+                    "event_text": "25 January  Australia confirms its first COVID-19 case in Melbourne.",
+                    "links": [],
+                    "start_date": "25/01/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "3 February  Richard Di Natale resigns as leader of the Australian Greens.",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/australia-news/2020/feb/03/richard-di-natale-resigns-as-greens-leader-and-announces-he-will-leave-politics",
+                            "text": "-Murphy, Katharine (3 February 2020). \"Richard Di Natale resigns as Greens leader and announces he will leave politics\". The Guardian. ISSN 0261-3077. Archived from the original on 10 May 2024. Retrieved 5 February 2020.-",
+                            "dates": {
+                                "Archieved": "2024-05-10",
+                                "Retrieved": "2020-02-05",
+                                "Created": "2020-02-03"
+                            }
+                        },
+                        {
+                            "link": "https://search.worldcat.org/issn/0261-3077",
+                            "text": "-Murphy, Katharine (3 February 2020). \"Richard Di Natale resigns as Greens leader and announces he will leave politics\". The Guardian. ISSN 0261-3077. Archived from the original on 10 May 2024. Retrieved 5 February 2020.-",
+                            "dates": {
+                                "Archieved": "2024-05-10",
+                                "Retrieved": "2020-02-05",
+                                "Created": "2020-02-03"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20240510042925/https://www.theguardian.com/australia-news/2020/feb/03/richard-di-natale-resigns-as-greens-leader-and-announces-he-will-leave-politics",
+                            "text": "-Murphy, Katharine (3 February 2020). \"Richard Di Natale resigns as Greens leader and announces he will leave politics\". The Guardian. ISSN 0261-3077. Archived from the original on 10 May 2024. Retrieved 5 February 2020.-",
+                            "dates": {
+                                "Archieved": "2024-05-10",
+                                "Retrieved": "2020-02-05",
+                                "Created": "2020-02-03"
+                            }
+                        }
+                    ],
+                    "start_date": "03/02/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "4 February  Adam Bandt is elected unopposed as leader of the Australian Greens, with Larissa Waters and Nick McKim as co-deputy leaders.",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/australia-news/2020/feb/04/adam-bandt-pledges-to-push-for-australian-green-new-deal-after-being-elected-greens-leader",
+                            "text": "-Karp, Paul (4 February 2020). \"Adam Bandt pledges to push for Australian Green New Deal after being elected Greens leader\". The Guardian. ISSN 0261-3077. Archived from the original on 18 April 2023. Retrieved 5 February 2020.-",
+                            "dates": {
+                                "Archieved": "2023-04-18",
+                                "Retrieved": "2020-02-05",
+                                "Created": "2020-02-04"
+                            }
+                        },
+                        {
+                            "link": "https://search.worldcat.org/issn/0261-3077",
+                            "text": "-Karp, Paul (4 February 2020). \"Adam Bandt pledges to push for Australian Green New Deal after being elected Greens leader\". The Guardian. ISSN 0261-3077. Archived from the original on 18 April 2023. Retrieved 5 February 2020.-",
+                            "dates": {
+                                "Archieved": "2023-04-18",
+                                "Retrieved": "2020-02-05",
+                                "Created": "2020-02-04"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20230418093323/https://www.theguardian.com/australia-news/2020/feb/04/adam-bandt-pledges-to-push-for-australian-green-new-deal-after-being-elected-greens-leader",
+                            "text": "-Karp, Paul (4 February 2020). \"Adam Bandt pledges to push for Australian Green New Deal after being elected Greens leader\". The Guardian. ISSN 0261-3077. Archived from the original on 18 April 2023. Retrieved 5 February 2020.-",
+                            "dates": {
+                                "Archieved": "2023-04-18",
+                                "Retrieved": "2020-02-05",
+                                "Created": "2020-02-04"
+                            }
+                        }
+                    ],
+                    "start_date": "04/02/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "16 February  A fundraising concert Fire Fight Australia is held at Stadium Australia in Sydney following the 201920 Australian bushfire season.",
+                    "links": [],
+                    "start_date": "16/02/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "17 February  General Motors announces it is pulling its Holden brand from Australia.",
+                    "links": [
+                        {
+                            "link": "https://edition.cnn.com/2020/02/17/business/general-motors-holden-australia/index.html",
+                            "text": "-General Motors is killing off the Holden brand and pulling out of Australia Archived 24 February 2020 at the Wayback Machine By Michelle Toh, CNN Business, 17 February 2020-",
+                            "dates": {
+                                "Archieved": "2020-02-24",
+                                "Retrieved": null,
+                                "Created": "2020-02-17"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20200224030233/https://edition.cnn.com/2020/02/17/business/general-motors-holden-australia/index.html",
+                            "text": "-General Motors is killing off the Holden brand and pulling out of Australia Archived 24 February 2020 at the Wayback Machine By Michelle Toh, CNN Business, 17 February 2020-",
+                            "dates": {
+                                "Archieved": "2020-02-24",
+                                "Retrieved": null,
+                                "Created": "2020-02-17"
+                            }
+                        }
+                    ],
+                    "start_date": "17/02/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "19 February  A mother and her three children, aged 6, 4 and 3 years are killed in a car fire after their father, Rowan Baxter, doused the car in petrol and set it alight in the Brisbane suburb of Camp Hill. Baxter also died from a self-inflicted stab wound near the crime scene.",
+                    "links": [],
+                    "start_date": "19/02/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Wallan rail derailment, two people are killed and several passengers are injured when a NSW TrainLink XPT train traveling from Sydney to Melbourne derails just north of Melbourne at Wallan.",
+                    "links": [],
+                    "start_date": "20/02/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Prime Minister Scott Morrison announces the Royal Commission into National Natural Disaster Arrangements to look into the fires that devastated the country over summer. 18 million hectares (44 million acres) burned, 28 people died, and 3,000 homes were destroyed.",
+                    "links": [
+                        {
+                            "link": "https://edition.cnn.com/2020/02/20/australia/australia-fires-royal-commission-intl-hnk/index.html",
+                            "text": "-Australia's bushfire royal commission to focus on preparing for future emergencies, but not climate change policy Archived 15 November 2022 at the Wayback Machine By Helen Regan, CNN, 20 February 2020-",
+                            "dates": {
+                                "Archieved": "2022-11-15",
+                                "Retrieved": null,
+                                "Created": "2020-02-20"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20221115044732/https://edition.cnn.com/2020/02/20/australia/australia-fires-royal-commission-intl-hnk/index.html",
+                            "text": "-Australia's bushfire royal commission to focus on preparing for future emergencies, but not climate change policy Archived 15 November 2022 at the Wayback Machine By Helen Regan, CNN, 20 February 2020-",
+                            "dates": {
+                                "Archieved": "2022-11-15",
+                                "Retrieved": null,
+                                "Created": "2020-02-20"
+                            }
+                        },
+                        {
+                            "link": "https://www.pm.gov.au/media/national-royal-commission-black-summer-bushfires-established",
+                            "text": "-\"National Royal Commission into Black Summer bushfires established\". Prime Minister of Australia (Press release). 20 February 2020. Archived from the original on 5 March 2020. Retrieved 5 March 2020.-",
+                            "dates": {
+                                "Archieved": "2020-03-05",
+                                "Retrieved": "2020-03-05",
+                                "Created": "2020-02-20"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20200305165023/https://www.pm.gov.au/media/national-royal-commission-black-summer-bushfires-established",
+                            "text": "-\"National Royal Commission into Black Summer bushfires established\". Prime Minister of Australia (Press release). 20 February 2020. Archived from the original on 5 March 2020. Retrieved 5 March 2020.-",
+                            "dates": {
+                                "Archieved": "2020-03-05",
+                                "Retrieved": "2020-03-05",
+                                "Created": "2020-02-20"
+                            }
+                        }
+                    ],
+                    "start_date": "20/02/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "21 February  8 March  Australia won the 2020 ICC Women's T20 World Cup, defeating India by 85 runs.",
+                    "links": [],
+                    "start_date": "21/02/2020",
+                    "end_date": "08/03/2020"
+                },
+                {
+                    "event_text": "2019 NRL premiers Sydney Roosters defeat Super League XXIV champions St. Helens R.F.C. 2012 in the 2020 World Club Challenge, held at Totally Wicked Stadium in St Helens.",
+                    "links": [],
+                    "start_date": "22/02/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Māori All Stars defeat the Indigenous All Stars 3016 in the 2020 All Stars match. Māori hooker Brandon Smith, of Melbourne Storm, wins the Preston Campbell award for Man of the Match.",
+                    "links": [],
+                    "start_date": "22/02/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Indigenous Women's All Stars defeat the Māori Women's All Stars 104 in the 2020 Women's All Stars match. Nakia Davis-Welsh is named Player of the Match.",
+                    "links": [],
+                    "start_date": "22/02/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "24 February  The head of the Australian Security Intelligence Organisation (ASIO), Mike Burgess, says there is rising foreign and far-right interference in Australia, and that violent Islamist fundamentalism remains ASIO's primary concern.",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/australia-news/2020/feb/24/rightwing-extremism-a-real-and-growing-threat-asio-chief-says-in-annual-assessment",
+                            "text": "-\"Asio boss warns of rising foreign interference and far-right extremism in Australia | Australian security and counter-terrorism | The Guardian\". TheGuardian.com. 24 February 2020. Archived from the original on 15 November 2022. Retrieved 25 May 2020.-",
+                            "dates": {
+                                "Archieved": "2022-11-15",
+                                "Retrieved": "2020-05-25",
+                                "Created": "2020-02-24"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20221115044732/https://www.theguardian.com/australia-news/2020/feb/24/rightwing-extremism-a-real-and-growing-threat-asio-chief-says-in-annual-assessment",
+                            "text": "-\"Asio boss warns of rising foreign interference and far-right extremism in Australia | Australian security and counter-terrorism | The Guardian\". TheGuardian.com. 24 February 2020. Archived from the original on 15 November 2022. Retrieved 25 May 2020.-",
+                            "dates": {
+                                "Archieved": "2022-11-15",
+                                "Retrieved": "2020-05-25",
+                                "Created": "2020-02-24"
+                            }
+                        }
+                    ],
+                    "start_date": "24/02/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "26 February  Down to Earth bushfire relief benefit concert held at Sidney Myer Music Bowl in Melbourne.",
+                    "links": [],
+                    "start_date": "26/02/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "29 February  Former AFL footballer Joel Bowden wins the 2020 Johnston by-election, representing the Labor Party.",
+                    "links": [],
+                    "start_date": "29/02/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "1 March  Australia records its first death from the COVID-19 pandemic.",
+                    "links": [],
+                    "start_date": "01/03/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Australian Associated Press announces it will close its newswire service in June, after 85 years in operation.",
+                    "links": [
+                        {
+                            "link": "https://www.abc.net.au/news/2020-03-03/aap-newswire-closes-after-85-years/12020770",
+                            "text": "-Khadem, Nassim; Pupazzoni, Rachel (3 March 2020). \"AAP newswire service closes after 85 years with 500 job losses, blames free online content\". ABCNews. Archived from the original on 5 March 2020. Retrieved 5 March 2020.-",
+                            "dates": {
+                                "Archieved": "2020-03-05",
+                                "Retrieved": "2020-03-05",
+                                "Created": "2020-03-03"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20200305041819/https://www.abc.net.au/news/2020-03-03/aap-newswire-closes-after-85-years/12020770",
+                            "text": "-Khadem, Nassim; Pupazzoni, Rachel (3 March 2020). \"AAP newswire service closes after 85 years with 500 job losses, blames free online content\". ABCNews. Archived from the original on 5 March 2020. Retrieved 5 March 2020.-",
+                            "dates": {
+                                "Archieved": "2020-03-05",
+                                "Retrieved": "2020-03-05",
+                                "Created": "2020-03-03"
+                            }
+                        }
+                    ],
+                    "start_date": "03/03/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Major supermarket chains begin to ration toilet paper sales, after the COVID-19 pandemic in Australia triggers cases of panic buying across the country.",
+                    "links": [],
+                    "start_date": "03/03/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "11 March  Two people are killed and two others are injured following a series of stabbings in Melbourne, with the offender shot dead by police.",
+                    "links": [
+                        {
+                            "link": "https://www.9news.com.au/national/three-killed-in-melbourne-after-stabbings-police-shoot-dead-man/f2507dd5-381d-4e13-a3a4-d38a64978db8",
+                            "text": "-Wood, Richard (12 March 2020). \"Man who killed two people and left woman critically injured 'feared ISIS was out to kill him'\". Nine News. Archived from the original on 12 March 2020. Retrieved 13 March 2020.-",
+                            "dates": {
+                                "Archieved": "2020-03-12",
+                                "Retrieved": "2020-03-13",
+                                "Created": "2020-03-12"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20200312130416/https://www.9news.com.au/national/three-killed-in-melbourne-after-stabbings-police-shoot-dead-man/f2507dd5-381d-4e13-a3a4-d38a64978db8",
+                            "text": "-Wood, Richard (12 March 2020). \"Man who killed two people and left woman critically injured 'feared ISIS was out to kill him'\". Nine News. Archived from the original on 12 March 2020. Retrieved 13 March 2020.-",
+                            "dates": {
+                                "Archieved": "2020-03-12",
+                                "Retrieved": "2020-03-13",
+                                "Created": "2020-03-12"
+                            }
+                        }
+                    ],
+                    "start_date": "11/03/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Prime Minister Scott Morrison announces the formation of the National Cabinet, made up of the prime minister, premiers and chief ministers, to manage the lasting impacts of the pandemic.",
+                    "links": [],
+                    "start_date": "13/03/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The 2020 Australian Grand Prix is cancelled due to the COVID-19 pandemic.",
+                    "links": [],
+                    "start_date": "13/03/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The first NRL game to be played at North Queensland Stadium is held in Townsville when more than 22,000 spectators watch the Brisbane Broncos beat the North Queensland Cowboys.",
+                    "links": [
+                        {
+                            "link": "https://www.abc.net.au/news/2020-03-13/nrl-raiders-vs-titans-cowboys-vs-broncos/12055564",
+                            "text": "-\"Brisbane Broncos beat Cowboys, Canberra Raiders beat Gold Coast Titans in NRL Round 1\". ABC News. 13 March 2020. Archived from the original on 27 October 2021. Retrieved 12 June 2021.-",
+                            "dates": {
+                                "Archieved": "2021-10-27",
+                                "Retrieved": "2021-06-12",
+                                "Created": "2020-03-13"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20211027144148/https://www.abc.net.au/news/2020-03-13/nrl-raiders-vs-titans-cowboys-vs-broncos/12055564",
+                            "text": "-\"Brisbane Broncos beat Cowboys, Canberra Raiders beat Gold Coast Titans in NRL Round 1\". ABC News. 13 March 2020. Archived from the original on 27 October 2021. Retrieved 12 June 2021.-",
+                            "dates": {
+                                "Archieved": "2021-10-27",
+                                "Retrieved": "2021-06-12",
+                                "Created": "2020-03-13"
+                            }
+                        }
+                    ],
+                    "start_date": "13/03/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "15 March  Morrison announces that all travellers arriving in or returning to Australia from overseas must self-isolate for 14 days, mirroring a similar requirement imposed by New Zealand. Cruise ships will also be barred from docking in the country for 30 days.",
+                    "links": [
+                        {
+                            "link": "https://7news.com.au/travel/coronavirus/australias-coronavirus-death-toll-rises-c-746159",
+                            "text": "-\"Australia's coronavirus death toll rises\". 7NEWS.com.au. 1 March 2020. Archived from the original on 22 March 2020. Retrieved 15 March 2020.-",
+                            "dates": {
+                                "Archieved": "2020-03-22",
+                                "Retrieved": "2020-03-15",
+                                "Created": "2020-03-01"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20200322084148/https://7news.com.au/travel/coronavirus/australias-coronavirus-death-toll-rises-c-746159",
+                            "text": "-\"Australia's coronavirus death toll rises\". 7NEWS.com.au. 1 March 2020. Archived from the original on 22 March 2020. Retrieved 15 March 2020.-",
+                            "dates": {
+                                "Archieved": "2020-03-22",
+                                "Retrieved": "2020-03-15",
+                                "Created": "2020-03-01"
+                            }
+                        },
+                        {
+                            "link": "https://www.theguardian.com/world/2020/mar/15/all-overseas-arrivals-in-australia-must-self-isolate-for-14-days-amid-new-coronavirus-rules",
+                            "text": "-Karp, Paul (1 March 2020). \"All overseas arrivals in Australia must self-isolate for 14 days under new coronavirus rules\". The Guardian. ISSN 0261-3077. Archived from the original on 15 March 2020. Retrieved 15 March 2020.-",
+                            "dates": {
+                                "Archieved": "2020-03-15",
+                                "Retrieved": "2020-03-15",
+                                "Created": "2020-03-01"
+                            }
+                        },
+                        {
+                            "link": "https://search.worldcat.org/issn/0261-3077",
+                            "text": "-Karp, Paul (1 March 2020). \"All overseas arrivals in Australia must self-isolate for 14 days under new coronavirus rules\". The Guardian. ISSN 0261-3077. Archived from the original on 15 March 2020. Retrieved 15 March 2020.-",
+                            "dates": {
+                                "Archieved": "2020-03-15",
+                                "Retrieved": "2020-03-15",
+                                "Created": "2020-03-01"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20200315105650/https://www.theguardian.com/world/2020/mar/15/all-overseas-arrivals-in-australia-must-self-isolate-for-14-days-amid-new-coronavirus-rules",
+                            "text": "-Karp, Paul (1 March 2020). \"All overseas arrivals in Australia must self-isolate for 14 days under new coronavirus rules\". The Guardian. ISSN 0261-3077. Archived from the original on 15 March 2020. Retrieved 15 March 2020.-",
+                            "dates": {
+                                "Archieved": "2020-03-15",
+                                "Retrieved": "2020-03-15",
+                                "Created": "2020-03-01"
+                            }
+                        },
+                        {
+                            "link": "https://www.abc.net.au/news/2020-03-15/coronavirus-covid19-self-isolation-announced-for-australia/12057772",
+                            "text": "-Borys, Stephanie (1 March 2020). \"Australia enforces self-isolation on overseas arrivals, lockdowns on the table\". ABC News. Archived from the original on 15 March 2020. Retrieved 15 March 2020.-",
+                            "dates": {
+                                "Archieved": "2020-03-15",
+                                "Retrieved": "2020-03-15",
+                                "Created": "2020-03-01"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20200315082054/https://www.abc.net.au/news/2020-03-15/coronavirus-covid19-self-isolation-announced-for-australia/12057772",
+                            "text": "-Borys, Stephanie (1 March 2020). \"Australia enforces self-isolation on overseas arrivals, lockdowns on the table\". ABC News. Archived from the original on 15 March 2020. Retrieved 15 March 2020.-",
+                            "dates": {
+                                "Archieved": "2020-03-15",
+                                "Retrieved": "2020-03-15",
+                                "Created": "2020-03-01"
+                            }
+                        }
+                    ],
+                    "start_date": "15/03/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "18 March  Scott Morrison announces that all non-essential indoor gatherings of a hundred people or more will be banned. Schools, universities, workplaces and essential services such as retail stores will be exempt from the new measures.",
+                    "links": [
+                        {
+                            "link": "https://www.news.com.au/finance/small-business/tough-new-limits-on-pubs-clubs-restaurants-expected-amid-growing-virus-outbreak/news-story/1ed1a34d1eda2cc44afe2aa61e635339",
+                            "text": "-\"tough new limits on pubs clubs restaurants amid growing virus outbreak\". NEWS.com.au. 1 March 2020. Archived from the original on 18 March 2020. Retrieved 18 March 2020.-",
+                            "dates": {
+                                "Archieved": "2020-03-18",
+                                "Retrieved": "2020-03-18",
+                                "Created": "2020-03-01"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20200318170134/https://www.news.com.au/finance/small-business/tough-new-limits-on-pubs-clubs-restaurants-expected-amid-growing-virus-outbreak/news-story/1ed1a34d1eda2cc44afe2aa61e635339",
+                            "text": "-\"tough new limits on pubs clubs restaurants amid growing virus outbreak\". NEWS.com.au. 1 March 2020. Archived from the original on 18 March 2020. Retrieved 18 March 2020.-",
+                            "dates": {
+                                "Archieved": "2020-03-18",
+                                "Retrieved": "2020-03-18",
+                                "Created": "2020-03-01"
+                            }
+                        }
+                    ],
+                    "start_date": "18/03/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Premier of Tasmania Peter Gutwein announces that non-essential travellers arriving in Tasmania from must self-isolate for 14 days.",
+                    "links": [
+                        {
+                            "link": "https://www.abc.net.au/news/2020-03-19/coronavirus-tasmanian-premier-announces-border-restrictions/12069764",
+                            "text": "-\"Tasmania to enforce 'toughest border measures in the country' amid coronavirus pandemic\". abc.net.au. 1 March 2020. Archived from the original on 19 March 2020. Retrieved 19 March 2020.-",
+                            "dates": {
+                                "Archieved": "2020-03-19",
+                                "Retrieved": "2020-03-19",
+                                "Created": "2020-03-01"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20200319005844/https://amp.abc.net.au/article/12069764",
+                            "text": "-\"Tasmania to enforce 'toughest border measures in the country' amid coronavirus pandemic\". abc.net.au. 1 March 2020. Archived from the original on 19 March 2020. Retrieved 19 March 2020.-",
+                            "dates": {
+                                "Archieved": "2020-03-19",
+                                "Retrieved": "2020-03-19",
+                                "Created": "2020-03-01"
+                            }
+                        }
+                    ],
+                    "start_date": "19/03/2020",
+                    "end_date": "20/03/2020"
+                },
+                {
+                    "event_text": "Scott Morrison announces that from 20 March all non-residents will be forbidden from entering the country.",
+                    "links": [
+                        {
+                            "link": "https://mobile.abc.net.au/news/2020-03-19/coronavirus-non-resident-travel-ban-australia/12071640?pfmredir=sm",
+                            "text": "-\"coronavirus non resident travel ban Australia\". abc.net.au. 1 March 2020. Archived from the original on 10 May 2024. Retrieved 19 March 2020.-",
+                            "dates": {
+                                "Archieved": "2024-05-10",
+                                "Retrieved": "2020-03-19",
+                                "Created": "2020-03-01"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20240510042927/https://www.abc.net.au/news/2020-03-19/coronavirus-non-resident-travel-ban-australia/12071640?pfmredir=sm",
+                            "text": "-\"coronavirus non resident travel ban Australia\". abc.net.au. 1 March 2020. Archived from the original on 10 May 2024. Retrieved 19 March 2020.-",
+                            "dates": {
+                                "Archieved": "2024-05-10",
+                                "Retrieved": "2020-03-19",
+                                "Created": "2020-03-01"
+                            }
+                        }
+                    ],
+                    "start_date": "20/03/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The 2020 AFL season commences with Richmond taking on Carlton at the MCG.",
+                    "links": [],
+                    "start_date": "20/03/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "21 March  Chief minister of the Northern Territory, Michael Gunner announces the Northern Territory will introduce strict border controls from 400 pm on 24 March. Anyone arriving from interstate or overseas will have to self-isolate for 14 days.",
+                    "links": [
+                        {
+                            "link": "https://www.abc.net.au/news/2020-03-21/northern-territory-strict-new-covid-19-border-laws/12078048",
+                            "text": "-\"Northern Territory introduces strict new coronavirus border controls to halt COVID-19 spread\". abc.net.au. 2 March 2020. Archived from the original on 21 March 2020. Retrieved 21 March 2020.-",
+                            "dates": {
+                                "Archieved": "2020-03-21",
+                                "Retrieved": "2020-03-21",
+                                "Created": "2020-03-02"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20200321070947/https://amp.abc.net.au/article/12078048",
+                            "text": "-\"Northern Territory introduces strict new coronavirus border controls to halt COVID-19 spread\". abc.net.au. 2 March 2020. Archived from the original on 21 March 2020. Retrieved 21 March 2020.-",
+                            "dates": {
+                                "Archieved": "2020-03-21",
+                                "Retrieved": "2020-03-21",
+                                "Created": "2020-03-02"
+                            }
+                        }
+                    ],
+                    "start_date": "21/03/2020",
+                    "end_date": "24/03/2020"
+                },
+                {
+                    "event_text": "South Australia and Western Australia also follow suit of the Northern Territory and Tasmania to close off their borders starting from Tuesday 24 March. Anyone arriving from interstate and overseas will also have to self isolate for 14 days.",
+                    "links": [
+                        {
+                            "link": "https://7news.com.au/lifestyle/health-wellbeing/coronavirus-causes-temporary-closure-of-south-australian-borders-c-756758.amp",
+                            "text": "-Chapman, Alex (2 March 2020). \"Coronavirus causes temporary closure of South Australian borders\". 7news.com.au. Archived from the original on 22 March 2020. Retrieved 22 March 2020.-",
+                            "dates": {
+                                "Archieved": "2020-03-22",
+                                "Retrieved": "2020-03-22",
+                                "Created": "2020-03-02"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20200322035301/https://7news.com.au/lifestyle/health-wellbeing/coronavirus-causes-temporary-closure-of-south-australian-borders-c-756758.amp",
+                            "text": "-Chapman, Alex (2 March 2020). \"Coronavirus causes temporary closure of South Australian borders\". 7news.com.au. Archived from the original on 22 March 2020. Retrieved 22 March 2020.-",
+                            "dates": {
+                                "Archieved": "2020-03-22",
+                                "Retrieved": "2020-03-22",
+                                "Created": "2020-03-02"
+                            }
+                        },
+                        {
+                            "link": "https://www.9news.com.au/national/coronavirus-western-australia-to-close-its-borders-from-tuesday-covid-19/f4940453-d2bc-4f10-9199-482ee10a61c4",
+                            "text": "-Adams, Gabrielle (2 March 2020). \"Coronavirus: WA to shut its borders to non-residents amid COVID-19 outbreak\". 9news.com.au. Archived from the original on 22 March 2020. Retrieved 22 March 2020.-",
+                            "dates": {
+                                "Archieved": "2020-03-22",
+                                "Retrieved": "2020-03-22",
+                                "Created": "2020-03-02"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20200322085333/https://amp.9news.com.au/article/f4940453-d2bc-4f10-9199-482ee10a61c4",
+                            "text": "-Adams, Gabrielle (2 March 2020). \"Coronavirus: WA to shut its borders to non-residents amid COVID-19 outbreak\". 9news.com.au. Archived from the original on 22 March 2020. Retrieved 22 March 2020.-",
+                            "dates": {
+                                "Archieved": "2020-03-22",
+                                "Retrieved": "2020-03-22",
+                                "Created": "2020-03-02"
+                            }
+                        }
+                    ],
+                    "start_date": "24/03/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Scott Morrison announces that from midday Monday 23 March all pubs, clubs, restaurants, cinemas and indoor sporting venues across the country will shut down indefinitely in a bid to curb the spread of the coronavirus.",
+                    "links": [
+                        {
+                            "link": "https://www.news.com.au/lifestyle/food/restaurants-bars/coronavirus-in-australia-everything-that-shuts-on-monday-from-pubs-to-cafes-and-cinemas/news-story/ec4d2ebf4eb9f048f6572c5a943112d8",
+                            "text": "-Molloy, Shannon (2 March 2020). \"Coronavirus in Australia everything that shuts on Monday from pubs to cafes and cinemas\". news.com.au. Archived from the original on 22 March 2020. Retrieved 22 March 2020.-",
+                            "dates": {
+                                "Archieved": "2020-03-22",
+                                "Retrieved": "2020-03-22",
+                                "Created": "2020-03-02"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20200322110037/https://www.news.com.au/lifestyle/food/restaurants-bars/coronavirus-in-australia-everything-that-shuts-on-monday-from-pubs-to-cafes-and-cinemas/news-story/ec4d2ebf4eb9f048f6572c5a943112d8",
+                            "text": "-Molloy, Shannon (2 March 2020). \"Coronavirus in Australia everything that shuts on Monday from pubs to cafes and cinemas\". news.com.au. Archived from the original on 22 March 2020. Retrieved 22 March 2020.-",
+                            "dates": {
+                                "Archieved": "2020-03-22",
+                                "Retrieved": "2020-03-22",
+                                "Created": "2020-03-02"
+                            }
+                        }
+                    ],
+                    "start_date": "23/03/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The cruise ship Ruby Princess disembarked passengers in Sydney despite several of them, and some crew, showing symptoms of coronavirus. As of 6  at least 12 deaths and more than 700 cases of coronavirus in Australia in Australia are now linked to this incident.",
+                    "links": [],
+                    "start_date": "06/04/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The 2020 AFL season and 2020 AFL Women's season are suspended due to the COVID-19 pandemic. The 2020 AFL season has been scheduled to resume on 11 June 2020.",
+                    "links": [],
+                    "start_date": "06/04/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "As a result of the indefinite closure of venues within the hospitality, tourism, leisure, fitness and entertainment industries, the Centrelink and myGov websites crashed when too many people simultaneously try to apply online for unemployment benefits. Huge lines of newly unemployed people are seen outside Centrelink offices across the country.",
+                    "links": [
+                        {
+                            "link": "https://www.smh.com.au/politics/federal/huge-queues-at-centrelink-offices-after-website-crashes-20200323-p54cxl.html",
+                            "text": "-Bonyhady, Nick (2 March 2020). \"huge queues at Centrelink offices after website crashes\". smh.com.au. Archived from the original on 23 March 2020. Retrieved 22 March 2020.-",
+                            "dates": {
+                                "Archieved": "2020-03-23",
+                                "Retrieved": "2020-03-22",
+                                "Created": "2020-03-02"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20200323114625/https://amp.smh.com.au/politics/federal/huge-queues-at-centrelink-offices-after-website-crashes-20200323-p54cxl.html",
+                            "text": "-Bonyhady, Nick (2 March 2020). \"huge queues at Centrelink offices after website crashes\". smh.com.au. Archived from the original on 23 March 2020. Retrieved 22 March 2020.-",
+                            "dates": {
+                                "Archieved": "2020-03-23",
+                                "Retrieved": "2020-03-22",
+                                "Created": "2020-03-02"
+                            }
+                        }
+                    ],
+                    "start_date": "23/03/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Australian Parliament sits to debate and pass an economic stimulus package to attempt to mitigate the economic effect of the COVID-19 pandemic, then adjourns until August 2020.",
+                    "links": [],
+                    "start_date": "23/03/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The 2020 NRL season is suspended until 28 May due to the COVID-19 pandemic. Although Queensland has closed its borders, it has made an exemption for players and officials traveling to and from interstate for football. As a biosecurity measure, all players must also be vaccinated against influenza.",
+                    "links": [],
+                    "start_date": "23/03/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "From 12pm, Australia required that Australian citizens and permanent residents seek exemptions to leave the country.",
+                    "links": [
+                        {
+                            "link": "https://www.legislation.gov.au/Details/F2020L00306/Html/Text",
+                            "text": "-Biosecurity (Human Biosecurity Emergency) (Human Coronavirus with Pandemic Potential) (Overseas Travel Ban Emergency Requirements) Determination 2020 (Determination). Australia. 25 March 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2020-03-25"
+                            }
+                        }
+                    ],
+                    "start_date": "25/03/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "From midnight further measures and restrictions on social gatherings and certain businesses are put in place. Weddings will be limited to 5 people including the bride, groom and celebrant. Funerals will be limited to 10 people. All food court seating areas are to be closed. Social gatherings of more than 10 people are discouraged as well as house parties with police to enforce these new restrictions. Auctions that require persons to be present are now banned. Open houses within the property market are now banned. Beauty Parlours, tattoo Parlours and other businesses with the health and beauty industry that require close physical contact between individuals and are not deemed essential are now banned. Hairdressers are exempt from these new measures.",
+                    "links": [
+                        {
+                            "link": "https://www.dailytelegraph.com.au/news/national/coronavirus-community-noticeboard-what-you-need-to-know/news-story/16d24cfd6d025abcf4d16becd8b0e465",
+                            "text": "-\"coronavirus community noticeboard what you need to know\". dailytelegraph.com.au. 2 March 2020. Archived from the original on 25 March 2020. Retrieved 25 March 2020.-",
+                            "dates": {
+                                "Archieved": "2020-03-25",
+                                "Retrieved": "2020-03-25",
+                                "Created": "2020-03-02"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20200325081735/https://www.dailytelegraph.com.au/news/national/coronavirus-community-noticeboard-what-you-need-to-know/news-story/16d24cfd6d025abcf4d16becd8b0e465",
+                            "text": "-\"coronavirus community noticeboard what you need to know\". dailytelegraph.com.au. 2 March 2020. Archived from the original on 25 March 2020. Retrieved 25 March 2020.-",
+                            "dates": {
+                                "Archieved": "2020-03-25",
+                                "Retrieved": "2020-03-25",
+                                "Created": "2020-03-02"
+                            }
+                        }
+                    ],
+                    "start_date": "26/03/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Queensland follows other states and territories and closes its borders from midnight. Only those who work in essential services are permitted to enter. Exceptions are made for those who commute to work across the state border, such as residents of Tweed Heads.",
+                    "links": [
+                        {
+                            "link": "https://www.thechronicle.com.au/news/queensland/how-queenslands-coronavirus-border-lockdown-will-work/news-story/ed09a99996f437158c3f452ac10d9bd7?nk=81e453424e5c35af2be5c4a1512ab0ea-1737547872",
+                            "text": "-\"how Queenslands coronavirus boarder lockdown will work\". couriermail.com.au. 2 March 2020. Archived from the original on 25 March 2020. Retrieved 26 March 2020.-",
+                            "dates": {
+                                "Archieved": "2020-03-25",
+                                "Retrieved": "2020-03-26",
+                                "Created": "2020-03-02"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20200325121012/https://amp.couriermail.com.au/news/queensland/how-queenslands-coronavirus-border-lockdown-will-work/news-story/ed09a99996f437158c3f452ac10d9bd7",
+                            "text": "-\"how Queenslands coronavirus boarder lockdown will work\". couriermail.com.au. 2 March 2020. Archived from the original on 25 March 2020. Retrieved 26 March 2020.-",
+                            "dates": {
+                                "Archieved": "2020-03-25",
+                                "Retrieved": "2020-03-26",
+                                "Created": "2020-03-02"
+                            }
+                        }
+                    ],
+                    "start_date": "26/03/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "2020 Bundamba state by-election",
+                    "links": [],
+                    "start_date": "28/03/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "2020 Currumbin state by-election",
+                    "links": [],
+                    "start_date": "28/03/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "From midnight 31  new national restrictions to curb the spread of coronavirus are put in place through the Public Health Act 2010, via Sect 7 of the Act, where a Ministerial Order was signed by the Minister for Health, however, as it is only an order and not law it is up to the states and territories as to whether these are enforceable. The new measures include a two-person limit on public gatherings (excluding members of your own household), the banning of all indoor gatherings in households and the closure of playgrounds, skate parks and outdoor gyms.",
+                    "links": [
+                        {
+                            "link": "https://www.broadsheet.com.au/national/city-file/article/strict-new-coronavirus-measures-are-place-midnight-tonight-here-are-answers-your-questions",
+                            "text": "-\"Strict New Coronavirus Measures Are in Place From Midnight Tonight – Here Are The Answers To Your Questions\". broadsheet.com.au. 3 March 2020. Archived from the original on 1 April 2020. Retrieved 31 March 2020.-",
+                            "dates": {
+                                "Archieved": "2020-04-01",
+                                "Retrieved": "2020-03-31",
+                                "Created": "2020-03-03"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20200401042244/https://www.broadsheet.com.au/national/city-file/article/strict-new-coronavirus-measures-are-place-midnight-tonight-here-are-answers-your-questions",
+                            "text": "-\"Strict New Coronavirus Measures Are in Place From Midnight Tonight – Here Are The Answers To Your Questions\". broadsheet.com.au. 3 March 2020. Archived from the original on 1 April 2020. Retrieved 31 March 2020.-",
+                            "dates": {
+                                "Archieved": "2020-04-01",
+                                "Retrieved": "2020-03-31",
+                                "Created": "2020-03-03"
+                            }
+                        }
+                    ],
+                    "start_date": "31/03/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "7 April  The High Court unanimously quashes Cardinal George Pell's convictions and substitutes verdicts of acquittal; the Court's summary of its judgment states that there was \"a significant possibility that an innocent person has been convicted because the evidence did not establish guilt to the requisite standard of proof\".",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/australia-news/2020/apr/07/cardinal-george-pell-conviction-quashed-australia-high-court-freed-jail-appeal-upheld",
+                            "text": "-Davey, Melissa (7 April 2020). \"George Pell: Australian cardinal to be released from jail after high court quashes child sex abuse conviction\". The Guardian. Archived from the original on 7 April 2020. Retrieved 7 April 2020.-",
+                            "dates": {
+                                "Archieved": "2020-04-07",
+                                "Retrieved": "2020-04-07",
+                                "Created": "2020-04-07"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20200407005508/https://www.theguardian.com/australia-news/2020/apr/07/cardinal-george-pell-conviction-quashed-australia-high-court-freed-jail-appeal-upheld",
+                            "text": "-Davey, Melissa (7 April 2020). \"George Pell: Australian cardinal to be released from jail after high court quashes child sex abuse conviction\". The Guardian. Archived from the original on 7 April 2020. Retrieved 7 April 2020.-",
+                            "dates": {
+                                "Archieved": "2020-04-07",
+                                "Retrieved": "2020-04-07",
+                                "Created": "2020-04-07"
+                            }
+                        },
+                        {
+                            "link": "https://www.smh.com.au/national/pell-to-walk-free-after-high-court-overturns-conviction-20200407-p54hqe.html",
+                            "text": "-Le Grand, Chip (7 April 2020). \"Pell to walk free after High Court overturns conviction\". Sydney Morning Herald. Archived from the original on 7 April 2020. Retrieved 7 April 2020.-",
+                            "dates": {
+                                "Archieved": "2020-04-07",
+                                "Retrieved": "2020-04-07",
+                                "Created": "2020-04-07"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20200407012956/https://www.smh.com.au/national/pell-to-walk-free-after-high-court-overturns-conviction-20200407-p54hqe.html",
+                            "text": "-Le Grand, Chip (7 April 2020). \"Pell to walk free after High Court overturns conviction\". Sydney Morning Herald. Archived from the original on 7 April 2020. Retrieved 7 April 2020.-",
+                            "dates": {
+                                "Archieved": "2020-04-07",
+                                "Retrieved": "2020-04-07",
+                                "Created": "2020-04-07"
+                            }
+                        }
+                    ],
+                    "start_date": "07/04/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "14 April  The City of Wagga Wagga council voted to cut ties with its China's sister city Kunming city, a week later they would vote again joining Kunming as a sister city.",
+                    "links": [
+                        {
+                            "link": "https://www.abc.net.au/news/2020-04-15/wagga-council-cuts-china-sister-city-ties-due-to-covid-19/12149664",
+                            "text": "-\"City council severs China relations over 'death and destruction across the world with COVID-19'\". ABC News. 15 April 2020. Archived from the original on 16 July 2024. Retrieved 27 December 2022.-",
+                            "dates": {
+                                "Archieved": "2024-07-16",
+                                "Retrieved": "2022-12-27",
+                                "Created": "2020-04-15"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20240716064451/https://www.abc.net.au/news/2020-04-15/wagga-council-cuts-china-sister-city-ties-due-to-covid-19/12149664",
+                            "text": "-\"City council severs China relations over 'death and destruction across the world with COVID-19'\". ABC News. 15 April 2020. Archived from the original on 16 July 2024. Retrieved 27 December 2022.-",
+                            "dates": {
+                                "Archieved": "2024-07-16",
+                                "Retrieved": "2022-12-27",
+                                "Created": "2020-04-15"
+                            }
+                        },
+                        {
+                            "link": "https://www.theguardian.com/world/2020/apr/15/wagga-wagga-severs-ties-with-chinese-sister-city-over-death-and-destruction-from-coronavirus",
+                            "text": "-\"Wagga Wagga severs ties with Chinese sister city over 'death and destruction' from coronavirus\". TheGuardian.com. 15 April 2020. Archived from the original on 10 May 2024. Retrieved 10 May 2024.-",
+                            "dates": {
+                                "Archieved": "2024-05-10",
+                                "Retrieved": "2024-05-10",
+                                "Created": "2020-04-15"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20240510042921/https://www.theguardian.com/world/2020/apr/15/wagga-wagga-severs-ties-with-chinese-sister-city-over-death-and-destruction-from-coronavirus",
+                            "text": "-\"Wagga Wagga severs ties with Chinese sister city over 'death and destruction' from coronavirus\". TheGuardian.com. 15 April 2020. Archived from the original on 10 May 2024. Retrieved 10 May 2024.-",
+                            "dates": {
+                                "Archieved": "2024-05-10",
+                                "Retrieved": "2024-05-10",
+                                "Created": "2020-04-15"
+                            }
+                        },
+                        {
+                            "link": "https://www.abc.net.au/news/2020-04-22/coronavirus-wagga-rescinds-vote-to-cut-with-china/12173476",
+                            "text": "-\"Wagga council reverses controversial decision to cut ties with Chinese sister city\". ABC News. 22 April 2020. Archived from the original on 10 May 2024. Retrieved 10 May 2024.-",
+                            "dates": {
+                                "Archieved": "2024-05-10",
+                                "Retrieved": "2024-05-10",
+                                "Created": "2020-04-22"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20240510042922/https://www.abc.net.au/news/2020-04-22/coronavirus-wagga-rescinds-vote-to-cut-with-china/12173476",
+                            "text": "-\"Wagga council reverses controversial decision to cut ties with Chinese sister city\". ABC News. 22 April 2020. Archived from the original on 10 May 2024. Retrieved 10 May 2024.-",
+                            "dates": {
+                                "Archieved": "2024-05-10",
+                                "Retrieved": "2024-05-10",
+                                "Created": "2020-04-22"
+                            }
+                        }
+                    ],
+                    "start_date": "14/04/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "19 April  The Competition and Consumer Commission (ACCC) is working to create a mandatory code of conduct that would require Facebook, Google and other tech giants to pay news outlets when they use its content.",
+                    "links": [
+                        {
+                            "link": "https://www.engadget.com/australia-mandary-code-facebook-google-222054528.html",
+                            "text": "-\"Australia will make Facebook and Google pay for news content\". Engadget. 19 April 2020. Archived from the original on 20 April 2020. Retrieved 19 April 2020.-",
+                            "dates": {
+                                "Archieved": "2020-04-20",
+                                "Retrieved": "2020-04-19",
+                                "Created": "2020-04-19"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20200420030144/https://www.engadget.com/australia-mandary-code-facebook-google-222054528.html",
+                            "text": "-\"Australia will make Facebook and Google pay for news content\". Engadget. 19 April 2020. Archived from the original on 20 April 2020. Retrieved 19 April 2020.-",
+                            "dates": {
+                                "Archieved": "2020-04-20",
+                                "Retrieved": "2020-04-19",
+                                "Created": "2020-04-19"
+                            }
+                        }
+                    ],
+                    "start_date": "19/04/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "24 April  Perth Airport blocks runways with bulldozers to pressure Virgin Australia Airlines Pty Ltd to pay its $16 million debt.",
+                    "links": [
+                        {
+                            "link": "https://news.yahoo.com/perth-airport-resorted-blocking-virgin-231700756.html",
+                            "text": "-\"Perth Airport has resorted to blocking Virgin Australia planes with a bulldozer in an attempt to get the airline to pay its debt\". news.yahoo.com. 24 April 2020. Archived from the original on 29 April 2020. Retrieved 26 April 2020.-",
+                            "dates": {
+                                "Archieved": "2020-04-29",
+                                "Retrieved": "2020-04-26",
+                                "Created": "2020-04-24"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20200429131529/https://news.yahoo.com/perth-airport-resorted-blocking-virgin-231700756.html",
+                            "text": "-\"Perth Airport has resorted to blocking Virgin Australia planes with a bulldozer in an attempt to get the airline to pay its debt\". news.yahoo.com. 24 April 2020. Archived from the original on 29 April 2020. Retrieved 26 April 2020.-",
+                            "dates": {
+                                "Archieved": "2020-04-29",
+                                "Retrieved": "2020-04-26",
+                                "Created": "2020-04-24"
+                            }
+                        }
+                    ],
+                    "start_date": "24/04/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "May",
+            "Data": [
+                {
+                    "event_text": "1 May  South Hedland stabbing attack",
+                    "links": [],
+                    "start_date": "01/05/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "10 May  Jackie Trad resigns as Deputy Premier and Treasurer of Queensland and is replaced by Steven Miles and Cameron Dick, respectively.",
+                    "links": [
+                        {
+                            "link": "https://www.abc.net.au/news/2020-05-10/queensland-premier-annastacia-palaszczuk-responds-to-jackie-trad/12231616",
+                            "text": "-\"Jackie Trad resigns as Queensland's Deputy Premier and Treasurer, Steven Miles and Cameron Dick to take on portfolios – ABC News\". www.abc.net.au. 1 May 2020. Archived from the original on 10 May 2020. Retrieved 10 May 2020.-",
+                            "dates": {
+                                "Archieved": "2020-05-10",
+                                "Retrieved": "2020-05-10",
+                                "Created": "2020-05-01"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20200510090026/https://www.abc.net.au/news/2020-05-10/queensland-premier-annastacia-palaszczuk-responds-to-jackie-trad/12231616",
+                            "text": "-\"Jackie Trad resigns as Queensland's Deputy Premier and Treasurer, Steven Miles and Cameron Dick to take on portfolios – ABC News\". www.abc.net.au. 1 May 2020. Archived from the original on 10 May 2020. Retrieved 10 May 2020.-",
+                            "dates": {
+                                "Archieved": "2020-05-10",
+                                "Retrieved": "2020-05-10",
+                                "Created": "2020-05-01"
+                            }
+                        }
+                    ],
+                    "start_date": "10/05/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "19 May  A Queensland man is fined for saving the life of a whale.",
+                    "links": [
+                        {
+                            "link": "https://news.yahoo.com/australian-man-fined-rescuing-whale-074016862.html",
+                            "text": "-\"Australian man fined for rescuing whale from sea nets\". news.yahoo.com. Archived from the original on 20 May 2020. Retrieved 19 May 2020.-",
+                            "dates": {
+                                "Archieved": "2020-05-20",
+                                "Retrieved": "2020-05-19",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20200520090243/https://news.yahoo.com/australian-man-fined-rescuing-whale-074016862.html",
+                            "text": "-\"Australian man fined for rescuing whale from sea nets\". news.yahoo.com. Archived from the original on 20 May 2020. Retrieved 19 May 2020.-",
+                            "dates": {
+                                "Archieved": "2020-05-20",
+                                "Retrieved": "2020-05-19",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "19/05/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "26 May — Rio Tinto blows up the Juukan Gorge, a region inhabited by Australian Aborigines for 46,000 years, to expand an iron ore mine. The move quickly faces international backlash.",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/australia-news/2020/may/26/rio-tinto-blasts-46000-year-old-aboriginal-site-to-expand-iron-ore-mine",
+                            "text": "-\"Rio Tinto blasts 46,000-year-old Aboriginal site to expand iron ore mine\". The Guardian. 26 May 2020. Archived from the original on 10 May 2024. Retrieved 19 June 2021.-",
+                            "dates": {
+                                "Archieved": "2024-05-10",
+                                "Retrieved": "2021-06-19",
+                                "Created": "2020-05-26"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20240510042958/https://www.theguardian.com/australia-news/2020/may/26/rio-tinto-blasts-46000-year-old-aboriginal-site-to-expand-iron-ore-mine",
+                            "text": "-\"Rio Tinto blasts 46,000-year-old Aboriginal site to expand iron ore mine\". The Guardian. 26 May 2020. Archived from the original on 10 May 2024. Retrieved 19 June 2021.-",
+                            "dates": {
+                                "Archieved": "2024-05-10",
+                                "Retrieved": "2021-06-19",
+                                "Created": "2020-05-26"
+                            }
+                        },
+                        {
+                            "link": "https://www.theguardian.com/australia-news/2021/may/18/juukan-gorge-traditional-owners-demand-a-say-on-rio-tinto-iron-ore-mine",
+                            "text": "-\"Juukan Gorge traditional owners demand a say on Rio Tinto iron ore mine\". The Guardian. 18 May 2021. Archived from the original on 10 May 2024. Retrieved 19 June 2021.-",
+                            "dates": {
+                                "Archieved": "2024-05-10",
+                                "Retrieved": "2021-06-19",
+                                "Created": "2021-05-18"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20240510044644/https://www.theguardian.com/australia-news/2021/may/18/juukan-gorge-traditional-owners-demand-a-say-on-rio-tinto-iron-ore-mine",
+                            "text": "-\"Juukan Gorge traditional owners demand a say on Rio Tinto iron ore mine\". The Guardian. 18 May 2021. Archived from the original on 10 May 2024. Retrieved 19 June 2021.-",
+                            "dates": {
+                                "Archieved": "2024-05-10",
+                                "Retrieved": "2021-06-19",
+                                "Created": "2021-05-18"
+                            }
+                        }
+                    ],
+                    "start_date": "26/05/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "28 May  After a 2-month season suspension due to the COVID-19 pandemic, the 2020 NRL season resumes in its third round, with Parramatta Eels defeating Brisbane Broncos 346 at Suncorp Stadium.",
+                    "links": [],
+                    "start_date": "28/05/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "June",
+            "Data": [
+                {
+                    "event_text": "Protests are held in numerous Australian cities, part of a series of George Floyd protests around the world, with Aboriginal deaths in custody also a focus in the Australian context.",
+                    "links": [],
+                    "start_date": "06/06/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Sony Europe, the parent company of Sony Australia, is ordered by the Federal Court of Australia to pay its customers $3.5 million AUD / $2.4 Million USD in penalty charges, due to lawmakers saying the company made \"false and misleading representations on its website and in dealings with Australian consumers about their Australian Consumer Law (ACL) rights.\"",
+                    "links": [
+                        {
+                            "link": "https://www.ibtimes.com/playstation-ordered-federal-court-australia-settle-24-million-fine-2988736",
+                            "text": "-Lucas, Marco (6 June 2020). \"PlayStation Ordered By Federal Court In Australia To Settle $2.4 million Fine\". International Business Times (IBTimes). Archived from the original on 7 June 2020. Retrieved 7 June 2020.-",
+                            "dates": {
+                                "Archieved": "2020-06-07",
+                                "Retrieved": "2020-06-07",
+                                "Created": "2020-06-06"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20200607031552/https://www.ibtimes.com/playstation-ordered-federal-court-australia-settle-24-million-fine-2988736",
+                            "text": "-Lucas, Marco (6 June 2020). \"PlayStation Ordered By Federal Court In Australia To Settle $2.4 million Fine\". International Business Times (IBTimes). Archived from the original on 7 June 2020. Retrieved 7 June 2020.-",
+                            "dates": {
+                                "Archieved": "2020-06-07",
+                                "Retrieved": "2020-06-07",
+                                "Created": "2020-06-06"
+                            }
+                        },
+                        {
+                            "link": "https://www.gamespot.com/articles/sony-must-pay-24-million-over-playstation-refund-p/1100-6478081/",
+                            "text": "-O'Connor, James (6 June 2020). \"Sony Must Pay $2.4 Million Over PlayStation Refund Policy In Australia\". GameSpot. Archived from the original on 7 June 2020. Retrieved 7 June 2020.-",
+                            "dates": {
+                                "Archieved": "2020-06-07",
+                                "Retrieved": "2020-06-07",
+                                "Created": "2020-06-06"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20200607031552/https://www.gamespot.com/articles/sony-must-pay-24-million-over-playstation-refund-p/1100-6478081/",
+                            "text": "-O'Connor, James (6 June 2020). \"Sony Must Pay $2.4 Million Over PlayStation Refund Policy In Australia\". GameSpot. Archived from the original on 7 June 2020. Retrieved 7 June 2020.-",
+                            "dates": {
+                                "Archieved": "2020-06-07",
+                                "Retrieved": "2020-06-07",
+                                "Created": "2020-06-06"
+                            }
+                        }
+                    ],
+                    "start_date": "06/06/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "11 June  The 2020 AFL season resumes with Collingwood taking on Richmond at the MCG.",
+                    "links": [],
+                    "start_date": "11/06/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "19 June  A large-scale cyber attack against the Australian government is believed to have occurred; Scott Morrison holds a press conference at the Parliament House.",
+                    "links": [
+                        {
+                            "link": "https://www.news.com.au/technology/online/hacking/australian-government-and-private-sector-reportedly-hit-by-massive-cyber-attack/news-story/b570a8ab68574f42f553fc901fa7d1e9",
+                            "text": "-\"Australia hit by massive cyber attack\". NewsComAu. 1 June 2020. Archived from the original on 19 June 2020. Retrieved 18 June 2020.-",
+                            "dates": {
+                                "Archieved": "2020-06-19",
+                                "Retrieved": "2020-06-18",
+                                "Created": "2020-06-01"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20200619000519/https://www.news.com.au/technology/online/hacking/australian-government-and-private-sector-reportedly-hit-by-massive-cyber-attack/news-story/b570a8ab68574f42f553fc901fa7d1e9",
+                            "text": "-\"Australia hit by massive cyber attack\". NewsComAu. 1 June 2020. Archived from the original on 19 June 2020. Retrieved 18 June 2020.-",
+                            "dates": {
+                                "Archieved": "2020-06-19",
+                                "Retrieved": "2020-06-18",
+                                "Created": "2020-06-01"
+                            }
+                        }
+                    ],
+                    "start_date": "19/06/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "26 June  As part of an Australian Security Intelligence Organisation investigation, Australian federal police raided properties of NSW Labor MP Shaoquett Moselmane as part of an investigation into Chinese Communist Party influence in Australian politics.",
+                    "links": [
+                        {
+                            "link": "https://www.smh.com.au/politics/nsw/nsw-mp-s-sydney-home-raided-as-asio-probes-china-links-20200626-p556f6.html",
+                            "text": "-McKenzie, Nick; Tozer, Joel (26 June 2020). \"NSW MP's Sydney home raided as ASIO probes China links\". The Sydney Morning Herald. Archived from the original on 28 June 2020. Retrieved 6 July 2020.-",
+                            "dates": {
+                                "Archieved": "2020-06-28",
+                                "Retrieved": "2020-07-06",
+                                "Created": "2020-06-26"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20200628232913/https://www.smh.com.au/politics/nsw/nsw-mp-s-sydney-home-raided-as-asio-probes-china-links-20200626-p556f6.html",
+                            "text": "-McKenzie, Nick; Tozer, Joel (26 June 2020). \"NSW MP's Sydney home raided as ASIO probes China links\". The Sydney Morning Herald. Archived from the original on 28 June 2020. Retrieved 6 July 2020.-",
+                            "dates": {
+                                "Archieved": "2020-06-28",
+                                "Retrieved": "2020-07-06",
+                                "Created": "2020-06-26"
+                            }
+                        },
+                        {
+                            "link": "https://www.straitstimes.com/asia/australianz/aussie-lawmaker-targeted-in-china-spy-raid-insists-innocence",
+                            "text": "-Agence France-Presse (29 June 2020). \"Aussie lawmaker targeted in China spy raid insists innocence\". The Straits Times. Archived from the original on 7 July 2020. Retrieved 6 July 2020. Police and intelligence agents raided the home and office of New South Wales state legislator Shaoquett Moselmane at dawn on Friday (June 26), part of a months-long investigation into foreign political interference.-",
+                            "dates": {
+                                "Archieved": "2020-07-07",
+                                "Retrieved": "2020-07-06",
+                                "Created": "2020-06-29"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20200707052812/https://www.straitstimes.com/asia/australianz/aussie-lawmaker-targeted-in-china-spy-raid-insists-innocence",
+                            "text": "-Agence France-Presse (29 June 2020). \"Aussie lawmaker targeted in China spy raid insists innocence\". The Straits Times. Archived from the original on 7 July 2020. Retrieved 6 July 2020. Police and intelligence agents raided the home and office of New South Wales state legislator Shaoquett Moselmane at dawn on Friday (June 26), part of a months-long investigation into foreign political interference.-",
+                            "dates": {
+                                "Archieved": "2020-07-07",
+                                "Retrieved": "2020-07-06",
+                                "Created": "2020-06-29"
+                            }
+                        }
+                    ],
+                    "start_date": "26/06/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "27 June  More than 100 News Corp Australia newspapers are printed for the final time as the company either moves them to an online only format, or closes them completely.",
+                    "links": [
+                        {
+                            "link": "https://www.abc.net.au/news/2020-06-26/news-corp-printing-press-staff-mark-final-print-run-newspapers/12379718",
+                            "text": "-Hendry, Megan; Semmler, Erin (26 June 2020). \"News Corp printing presses roll one last time as more than 100 newspapers go online\". ABC News. Archived from the original on 17 July 2021. Retrieved 12 June 2021.-",
+                            "dates": {
+                                "Archieved": "2021-07-17",
+                                "Retrieved": "2021-06-12",
+                                "Created": "2020-06-26"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20210717045232/https://www.abc.net.au/news/2020-06-26/news-corp-printing-press-staff-mark-final-print-run-newspapers/12379718",
+                            "text": "-Hendry, Megan; Semmler, Erin (26 June 2020). \"News Corp printing presses roll one last time as more than 100 newspapers go online\". ABC News. Archived from the original on 17 July 2021. Retrieved 12 June 2021.-",
+                            "dates": {
+                                "Archieved": "2021-07-17",
+                                "Retrieved": "2021-06-12",
+                                "Created": "2020-06-26"
+                            }
+                        },
+                        {
+                            "link": "https://www.abc.net.au/news/2020-05-28/news-corp-makes-regional-papers-digital-only/12295408",
+                            "text": "-Gribbin, Caitlyn; Faa, Marian (28 May 2020). \"Regional Australia laments loss of print as News Corp titles go digital\". ABC News. Archived from the original on 12 June 2021. Retrieved 12 June 2021.-",
+                            "dates": {
+                                "Archieved": "2021-06-12",
+                                "Retrieved": "2021-06-12",
+                                "Created": "2020-05-28"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20210612064722/https://www.abc.net.au/news/2020-05-28/news-corp-makes-regional-papers-digital-only/12295408",
+                            "text": "-Gribbin, Caitlyn; Faa, Marian (28 May 2020). \"Regional Australia laments loss of print as News Corp titles go digital\". ABC News. Archived from the original on 12 June 2021. Retrieved 12 June 2021.-",
+                            "dates": {
+                                "Archieved": "2021-06-12",
+                                "Retrieved": "2021-06-12",
+                                "Created": "2020-05-28"
+                            }
+                        }
+                    ],
+                    "start_date": "27/06/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "July",
+            "Data": [
+                {
+                    "event_text": "1 July  2020 Eden-Monaro by-election. The Labor party retains the seat after Kristy McBain claimed victory in the by-election with an indicative two-party-preferred vote of 50.4%.",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/australia-news/2020/jul/05/labors-kristy-mcbain-claims-victory-in-eden-monaro-byelection",
+                            "text": "-\"Labor's Kristy McBain claims victory in Eden-Monaro byelection\". The Guardian. 5 July 2020. Archived from the original on 10 May 2024. Retrieved 5 July 2020.-",
+                            "dates": {
+                                "Archieved": "2024-05-10",
+                                "Retrieved": "2020-07-05",
+                                "Created": "2020-07-05"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20240510044532/https://www.theguardian.com/australia-news/2020/jul/05/labors-kristy-mcbain-claims-victory-in-eden-monaro-byelection",
+                            "text": "-\"Labor's Kristy McBain claims victory in Eden-Monaro byelection\". The Guardian. 5 July 2020. Archived from the original on 10 May 2024. Retrieved 5 July 2020.-",
+                            "dates": {
+                                "Archieved": "2024-05-10",
+                                "Retrieved": "2020-07-05",
+                                "Created": "2020-07-05"
+                            }
+                        },
+                        {
+                            "link": "https://www.abc.net.au/news/2020-07-04/eden-monaro-by-election-results-for-labor-and-liberal-candidates/12422736",
+                            "text": "-\"Labor to win Eden-Monaro by-election thanks to preference flows: Antony Green\". www.abc.net.au. 4 July 2020. Archived from the original on 5 July 2020. Retrieved 5 July 2020.-",
+                            "dates": {
+                                "Archieved": "2020-07-05",
+                                "Retrieved": "2020-07-05",
+                                "Created": "2020-07-04"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20200705015642/https://www.abc.net.au/news/2020-07-04/eden-monaro-by-election-results-for-labor-and-liberal-candidates/12422736",
+                            "text": "-\"Labor to win Eden-Monaro by-election thanks to preference flows: Antony Green\". www.abc.net.au. 4 July 2020. Archived from the original on 5 July 2020. Retrieved 5 July 2020.-",
+                            "dates": {
+                                "Archieved": "2020-07-05",
+                                "Retrieved": "2020-07-05",
+                                "Created": "2020-07-04"
+                            }
+                        }
+                    ],
+                    "start_date": "01/07/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "In response to the COVID-19 pandemic, the Victorian capital city of Melbourne and nearby Shire of Mitchell reintroduce stage three restrictions for at least six weeks after a surge in coronavirus case numbers with the majority of new cases stemming from community transmission. All other states and territories introduce strict quarantine measures or deny entry for any incoming travellers who have recently visited Victoria.",
+                    "links": [
+                        {
+                            "link": "https://www.theage.com.au/national/victoria/where-is-melbourne-s-lockdown-boundary-line-20200708-p55a6y.html",
+                            "text": "-\"Where is Melbourne's lockdown boundary line\". the Age. 8 July 2020. Archived from the original on 8 July 2020. Retrieved 9 July 2020.-",
+                            "dates": {
+                                "Archieved": "2020-07-08",
+                                "Retrieved": "2020-07-09",
+                                "Created": "2020-07-08"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20200708172912/https://amp.theage.com.au/national/victoria/where-is-melbourne-s-lockdown-boundary-line-20200708-p55a6y.html",
+                            "text": "-\"Where is Melbourne's lockdown boundary line\". the Age. 8 July 2020. Archived from the original on 8 July 2020. Retrieved 9 July 2020.-",
+                            "dates": {
+                                "Archieved": "2020-07-08",
+                                "Retrieved": "2020-07-09",
+                                "Created": "2020-07-08"
+                            }
+                        }
+                    ],
+                    "start_date": "08/07/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The border between New South Wales and Victoria is closed for the first time since the 191819 Spanish flu pandemic, after an increase in COVID-19 cases in Melbourne.",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/australia-news/2020/jul/08/hours-long-queues-as-more-than-50000-cross-nsw-victoria-border-after-covid-19-closure",
+                            "text": "-\"hours-long queues as more than 50,000 cross NSW-Victoria border after closure\". The Guardian. 8 July 2020. Archived from the original on 10 May 2024. Retrieved 9 July 2020.-",
+                            "dates": {
+                                "Archieved": "2024-05-10",
+                                "Retrieved": "2020-07-09",
+                                "Created": "2020-07-08"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20240510044656/https://amp.theguardian.com/australia-news/2020/jul/08/hours-long-queues-as-more-than-50000-cross-nsw-victoria-border-after-covid-19-closure",
+                            "text": "-\"hours-long queues as more than 50,000 cross NSW-Victoria border after closure\". The Guardian. 8 July 2020. Archived from the original on 10 May 2024. Retrieved 9 July 2020.-",
+                            "dates": {
+                                "Archieved": "2024-05-10",
+                                "Retrieved": "2020-07-09",
+                                "Created": "2020-07-08"
+                            }
+                        }
+                    ],
+                    "start_date": "08/07/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "15 July  An increase in COVID-19 community transmission cases in Sydney is traced back to a resident of Melbourne who traveled across the border before the Melbourne stage 3 restrictions came into effect with the initial outbreak arising from a hotel in the Western Sydney suburb of Casula. Despite the rise in case numbers, premier Gladys Berejiklian confirms NSW will not be going back to a lockdown scenario. Several other states and territories introduce strict quarantine measures or deny entry for any incoming travellers who have either recently visited greater Sydney or suburbs within the City of Liverpool, City of Fairfield and City of Campbelltown.",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/australia-news/2020/jul/15/coronavirus-nsw-crossroads-hotel-casula-pub-outbreak-victoria-genomic-testing-john-barilaro-covid-19-update",
+                            "text": "-\"Coronavirus NSW: Crossroads Hotel outbreak linked to Victoria via genomic testing\". The Guardian. 15 July 2020. Archived from the original on 10 May 2024. Retrieved 15 July 2020.-",
+                            "dates": {
+                                "Archieved": "2024-05-10",
+                                "Retrieved": "2020-07-15",
+                                "Created": "2020-07-15"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20240510044534/https://www.theguardian.com/australia-news/2020/jul/15/coronavirus-nsw-crossroads-hotel-casula-pub-outbreak-victoria-genomic-testing-john-barilaro-covid-19-update",
+                            "text": "-\"Coronavirus NSW: Crossroads Hotel outbreak linked to Victoria via genomic testing\". The Guardian. 15 July 2020. Archived from the original on 10 May 2024. Retrieved 15 July 2020.-",
+                            "dates": {
+                                "Archieved": "2024-05-10",
+                                "Retrieved": "2020-07-15",
+                                "Created": "2020-07-15"
+                            }
+                        }
+                    ],
+                    "start_date": "15/07/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "16 July  Tara June Winch wins the 2020 Miles Franklin Literary Award for her novel The Yield.",
+                    "links": [],
+                    "start_date": "16/07/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "17 July  Victoria records 428 new coronavirus cases, the state's highest daily total since the beginning of the pandemic.",
+                    "links": [
+                        {
+                            "link": "https://www.smh.com.au/national/victoria/three-more-deaths-as-victoria-reaches-high-of-428-new-coronavirus-cases-20200717-p55czg.html",
+                            "text": "-\"'A daily tragedy': Three deaths as Victoria reaches high of 428 new coronavirus cases\". The Sydney Morning Herald. 17 July 2020. Archived from the original on 18 July 2020. Retrieved 17 July 2020.-",
+                            "dates": {
+                                "Archieved": "2020-07-18",
+                                "Retrieved": "2020-07-17",
+                                "Created": "2020-07-17"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20200718001109/https://www.smh.com.au/national/victoria/three-more-deaths-as-victoria-reaches-high-of-428-new-coronavirus-cases-20200717-p55czg.html",
+                            "text": "-\"'A daily tragedy': Three deaths as Victoria reaches high of 428 new coronavirus cases\". The Sydney Morning Herald. 17 July 2020. Archived from the original on 18 July 2020. Retrieved 17 July 2020.-",
+                            "dates": {
+                                "Archieved": "2020-07-18",
+                                "Retrieved": "2020-07-17",
+                                "Created": "2020-07-17"
+                            }
+                        }
+                    ],
+                    "start_date": "17/07/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "19 July  With increasing numbers of coronavirus cases in parts of Victoria, Victorian Premier Daniel Andrews advises face coverings will be mandatory for all residents of Melbourne and the Mitchell Shire whenever they leave their homes from Thursday 23 July. Anyone in a public area without a mask will risk a $200 fine.",
+                    "links": [
+                        {
+                            "link": "https://www.9news.com.au/national/coronavirus-melbourne-masks-to-be-mandatory-from-thursday/71aa26f5-405c-43b3-8486-60153d28a120",
+                            "text": "-\"'Face masks to be mandatory in Melbourne from this week amid coronavirus spike\". Nine News. 17 July 2020. Archived from the original on 19 July 2020. Retrieved 19 July 2020.-",
+                            "dates": {
+                                "Archieved": "2020-07-19",
+                                "Retrieved": "2020-07-19",
+                                "Created": "2020-07-17"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20200719103146/https://amp.9news.com.au/article/71aa26f5-405c-43b3-8486-60153d28a120",
+                            "text": "-\"'Face masks to be mandatory in Melbourne from this week amid coronavirus spike\". Nine News. 17 July 2020. Archived from the original on 19 July 2020. Retrieved 19 July 2020.-",
+                            "dates": {
+                                "Archieved": "2020-07-19",
+                                "Retrieved": "2020-07-19",
+                                "Created": "2020-07-17"
+                            }
+                        }
+                    ],
+                    "start_date": "19/07/2020",
+                    "end_date": "23/07/2020"
+                },
+                {
+                    "event_text": "22 July  Australia records 502 new coronavirus cases. The highest number of new cases recorded since the beginning of the pandemic.",
+                    "links": [],
+                    "start_date": "22/07/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "23 July  Leonard Warwick is found guilty of carrying out the Family Court of Australia attacks in the early 1980s.",
+                    "links": [],
+                    "start_date": "23/07/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "29 July  CSIRO gave scientific names to 165 new species this year, naming five flies after Marvel Cinematic Universe superheroes Thor (Daptolestes bronteflavus), Loki (Daptolestes illusiolautus), Black Widow (Daptolestes feminategus), Deadpool (Humorolethalis sergius), and Stan Lee (Daptolestes leei).",
+                    "links": [
+                        {
+                            "link": "https://edition.cnn.com/2020/07/29/australia/australia-marvel-flies-intl-hnk-scli-scn/index.html",
+                            "text": "-Yeung, Jessie (29 July 2020). \"Australia names new species after Deadpool, Thor, and other Marvel favorites\". CNN. Archived from the original on 4 August 2020. Retrieved 6 August 2020.-",
+                            "dates": {
+                                "Archieved": "2020-08-04",
+                                "Retrieved": "2020-08-06",
+                                "Created": "2020-07-29"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20200804152604/https://edition.cnn.com/2020/07/29/australia/australia-marvel-flies-intl-hnk-scli-scn/index.html",
+                            "text": "-Yeung, Jessie (29 July 2020). \"Australia names new species after Deadpool, Thor, and other Marvel favorites\". CNN. Archived from the original on 4 August 2020. Retrieved 6 August 2020.-",
+                            "dates": {
+                                "Archieved": "2020-08-04",
+                                "Retrieved": "2020-08-06",
+                                "Created": "2020-07-29"
+                            }
+                        }
+                    ],
+                    "start_date": "29/07/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "August",
+            "Data": [
+                {
+                    "event_text": "2 August  Due to the COVID-19 pandemic and escalating numbers of infection rates, especially in the workplace, Victoria declares a state of disaster and stage four restrictions are put in place. This including a police-enforced curfew in metro Melbourne and Mitchell Shire between 8 pm and 5 am, the shutdown of a number of non-essential businesses, exercise only allowed for one hour a day and only one person per household allowed to go shopping once a day and within a 5 km radius of home. As a consequence of rising infection numbers imported from metropolitan Melbourne all other areas of regional Victoria are to enter stage three restrictions previously placed on Melbourne and Mitchell Shire on 5 August.",
+                    "links": [
+                        {
+                            "link": "https://www.9news.com.au/national/victoria-state-of-disaster-melbourne-curfew-introduced-coronavirus-stage-4-lockdown-restrictions-what-they-mean/2e508cdb-6cfe-4a6f-ad80-52af9601435a",
+                            "text": "-\"'Shock and awe': Victoria declares state of disaster, six-week Melbourne curfew and stage four restrictions\". nine News. 2 August 2020. Archived from the original on 2 August 2020. Retrieved 2 August 2020.-",
+                            "dates": {
+                                "Archieved": "2020-08-02",
+                                "Retrieved": "2020-08-02",
+                                "Created": "2020-08-02"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20200802064513/https://amp.9news.com.au/article/2e508cdb-6cfe-4a6f-ad80-52af9601435a",
+                            "text": "-\"'Shock and awe': Victoria declares state of disaster, six-week Melbourne curfew and stage four restrictions\". nine News. 2 August 2020. Archived from the original on 2 August 2020. Retrieved 2 August 2020.-",
+                            "dates": {
+                                "Archieved": "2020-08-02",
+                                "Retrieved": "2020-08-02",
+                                "Created": "2020-08-02"
+                            }
+                        }
+                    ],
+                    "start_date": "02/08/2020",
+                    "end_date": "05/08/2020"
+                },
+                {
+                    "event_text": "10 August  Parkes Observatory is added to the National Heritage List.",
+                    "links": [],
+                    "start_date": "10/08/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "12 August  World War II sailor Teddy Sheean is posthumously awarded the Victoria Cross.",
+                    "links": [],
+                    "start_date": "12/08/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "22 August  2020 Northern Territory general election Michael Gunner's Labor government is returned for a second four-year term.",
+                    "links": [],
+                    "start_date": "22/08/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "September",
+            "Data": [
+                {
+                    "event_text": "2 September  The Australian economy goes into recession for the first time in nearly thirty years, as the country's GDP falls 7 per cent in the June quarter.",
+                    "links": [],
+                    "start_date": "02/09/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "21 September  Around 250 pilot whales beach themselves at various locations on Tasmania's West Coast near Macquarie Heads. A further 200 whales are stranded two days later, making the event the largest cetacean stranding in Australia's recorded history.",
+                    "links": [],
+                    "start_date": "21/09/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "25 September  Vincent Namatjira wins the Archibald Prize for his portrait, Stand strong for who you are, a self-portrait with Adam Goodes.",
+                    "links": [
+                        {
+                            "link": "https://www.artgallery.nsw.gov.au/prizes/archibald/2020/30235/",
+                            "text": "-\"Archibald Prize Archibald 2020 finalist: Stand strong for who you are by Vincent Namatjira\". Art Gallery of New South Wales. Archived from the original on 10 May 2024. Retrieved 25 September 2020.-",
+                            "dates": {
+                                "Archieved": "2024-05-10",
+                                "Retrieved": "2020-09-25",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20240510044638/https://www.artgallery.nsw.gov.au/prizes/archibald/2020/30235/",
+                            "text": "-\"Archibald Prize Archibald 2020 finalist: Stand strong for who you are by Vincent Namatjira\". Art Gallery of New South Wales. Archived from the original on 10 May 2024. Retrieved 25 September 2020.-",
+                            "dates": {
+                                "Archieved": "2024-05-10",
+                                "Retrieved": "2020-09-25",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "25/09/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "27 September  Penrith Panthers win their first minor premiership since 2003 following the final main round of the 2020 NRL season. Brisbane Broncos finish in last position, claiming their first wooden spoon since the club's founding in 1988.",
+                    "links": [],
+                    "start_date": "27/09/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "October",
+            "Data": [
+                {
+                    "event_text": "411 October  The 5th Plenary Council of the Catholic Church in Australia was to be held in response to the report of the Royal Commission into Institutional Responses to Child Sexual Abuse. Both assemblies have since been delayed from their original schedule to 3–10  and 4–9 July 2022 due to the COVID-19 pandemic.",
+                    "links": [],
+                    "start_date": "11/10/2020",
+                    "end_date": "10/10/2020"
+                },
+                {
+                    "event_text": "17 October  2020 Australian Capital Territory election Andrew Barr's  Labor government is returned for a sixth four-year term.",
+                    "links": [],
+                    "start_date": "17/10/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "24 October  Richmond Tigers defeat Geelong Cats 12.9 (81) to  7.8 (50) at the 2020 AFL Grand Final at the Gabba, Brisbane.",
+                    "links": [],
+                    "start_date": "24/10/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Melbourne Storm defeat minor premiers Penrith Panthers 2620 to win the 2020 NRL Grand Final at ANZ Stadium. Storm fullback Ryan Papenhuyzen is awarded the Clive Churchill Medal for Man of the Match. Pre-match entertainment is headlined by Amy Shark, with guest appearances by former INXS members Andrew Farriss and Kirk Pengilly, as well as Blink-182 drummer Travis Barker via livestream.",
+                    "links": [],
+                    "start_date": "25/10/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Brisbane Broncos defeat Sydney Roosters 2010 to win the NRL Women's Premiership Grand Final, winning the title for the third year in a row.",
+                    "links": [],
+                    "start_date": "25/10/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "31 October  The 2020 Queensland state election is held. Annastacia Palaszczuk's Labor government is returned for a third term with an increased majority.",
+                    "links": [],
+                    "start_date": "31/10/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "November",
+            "Data": [
+                {
+                    "event_text": "4 November  Queensland defeat New South Wales 1814 at Adelaide Oval in the first match of the 2020 State of Origin series. Queensland halfback and captain Daly Cherry-Evans is awarded man of the match.",
+                    "links": [],
+                    "start_date": "04/11/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "11 November  New South Wales defeat Queensland 3410 at ANZ Stadium in the second match of the 2020 State of Origin series. NSW halfback Nathan Cleary is awarded man of the match.",
+                    "links": [],
+                    "start_date": "11/11/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "13 November  Queensland defeat New South Wales 2418 in the 2020 Women's State of Origin match, their first victory since 2014. Queensland five-eighth Tarryn Aiken is awarded the Nellie Doherty Medal for player of the match.",
+                    "links": [],
+                    "start_date": "13/11/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "18 November  Queensland clinch the 2020 State of Origin series, defeating New South Wales 2014 at Suncorp Stadium in the third match. Queensland five-eighth Cameron Munster is awarded both man of the match and the Wally Lewis Medal for player of the series.",
+                    "links": [],
+                    "start_date": "18/11/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "19 November  The Australian Defence Force releases the final report of the inquiry by Justice Paul Brereton into alleged war crimes during the War in Afghanistan. The inquiry found there was credible evidence of 23 incidents of unlawful killings and a further two instances of the war crime of \"cruel treatment\". The inquiry also found that Australian soldiers summarily executed non-combatants and prisoners.",
+                    "links": [],
+                    "start_date": "19/11/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "December",
+            "Data": [
+                {
+                    "event_text": "18 December   The 2020 Sydney to Hobart yacht race is cancelled for the first time in its history due to an outbreak of COVID-19 in Sydney, New South Wales, as the Tasmanian government declared Greater Sydney a \"medium risk\" zone, which would require all participants to quarantine for 14 days on arrival in Tasmania.",
+                    "links": [
+                        {
+                            "link": "https://www.abc.net.au/news/2020-12-19/sydney-to-hobart-yacht-race-cancelled-due-to-nsw-coronavirus/13001142",
+                            "text": "-\"Sydney to Hobart yacht race cancelled due to NSW coronavirus outbreak\". ABC News. 19 December 2020. Archived from the original on 19 December 2020. Retrieved 19 December 2020.-",
+                            "dates": {
+                                "Archieved": "2020-12-19",
+                                "Retrieved": "2020-12-19",
+                                "Created": "2020-12-19"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20201219101250/https://www.abc.net.au/news/2020-12-19/sydney-to-hobart-yacht-race-cancelled-due-to-nsw-coronavirus/13001142",
+                            "text": "-\"Sydney to Hobart yacht race cancelled due to NSW coronavirus outbreak\". ABC News. 19 December 2020. Archived from the original on 19 December 2020. Retrieved 19 December 2020.-",
+                            "dates": {
+                                "Archieved": "2020-12-19",
+                                "Retrieved": "2020-12-19",
+                                "Created": "2020-12-19"
+                            }
+                        }
+                    ],
+                    "start_date": "18/12/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "19 December  In response to a COVID-19 outbreak in the Northern Beaches area of Sydney, all other states and territories close their borders to all residents of greater Sydney, throwing interstate travel plans into chaos for those intent on visiting or leaving greater Sydney. The Northern Territory later relaxes its border restriction.",
+                    "links": [
+                        {
+                            "link": "https://www.news.com.au/travel/travel-updates/coronavirus-nsw-what-northern-beaches-outbreak-means-for-christmas-borders/news-story/9baecf89ee4b11c5b6a63fa9525d00d9",
+                            "text": "-\"NSW What northern beaches outbreak means for Christmas borders\". news.com.au. 19 December 2020. Archived from the original on 18 December 2020. Retrieved 19 December 2020.-",
+                            "dates": {
+                                "Archieved": "2020-12-18",
+                                "Retrieved": "2020-12-19",
+                                "Created": "2020-12-19"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20201218220650/https://www.news.com.au/travel/travel-updates/coronavirus-nsw-what-northern-beaches-outbreak-means-for-christmas-borders/news-story/9baecf89ee4b11c5b6a63fa9525d00d9",
+                            "text": "-\"NSW What northern beaches outbreak means for Christmas borders\". news.com.au. 19 December 2020. Archived from the original on 18 December 2020. Retrieved 19 December 2020.-",
+                            "dates": {
+                                "Archieved": "2020-12-18",
+                                "Retrieved": "2020-12-19",
+                                "Created": "2020-12-19"
+                            }
+                        }
+                    ],
+                    "start_date": "19/12/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "21 December  The final report from the inquiry into Victoria's botched hotel quarantine program which led to a second wave of COVID-19 in Victoria and over 800 deaths is released. The report is unable to determine who commissioned the use of private security and criticises the Andrews Government for failing to do \"proper analysis\" of the plan.",
+                    "links": [
+                        {
+                            "link": "https://www.abc.net.au/news/2020-12-21/final-victorian-hotel-quarantine-inquiry-report-released/13002882",
+                            "text": "-\"Victorian hotel quarantine inquiry report unable to determine who made private security decision\". 21 December 2020. Archived from the original on 27 December 2020. Retrieved 27 December 2020.-",
+                            "dates": {
+                                "Archieved": "2020-12-27",
+                                "Retrieved": "2020-12-27",
+                                "Created": "2020-12-21"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20201227210525/https://amp.abc.net.au/article/13002882",
+                            "text": "-\"Victorian hotel quarantine inquiry report unable to determine who made private security decision\". 21 December 2020. Archived from the original on 27 December 2020. Retrieved 27 December 2020.-",
+                            "dates": {
+                                "Archieved": "2020-12-27",
+                                "Retrieved": "2020-12-27",
+                                "Created": "2020-12-21"
+                            }
+                        }
+                    ],
+                    "start_date": "21/12/2020",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

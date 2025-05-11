@@ -1,0 +1,162 @@
+{
+    "Events": [
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "- Glencore agreed to pay Dan Gertler $534m (£407m) for his share of their joint mining interests in DR Congo.",
+                    "links": [],
+                    "start_date": null,
+                    "end_date": null
+                },
+                {
+                    "event_text": "14   The UN reveals that Congolese soldiers had killed 101 people including 30 women while fighting the Kamwina Nsapu rebels in Kasaï-Central.",
+                    "links": [
+                        {
+                            "link": "http://www.aljazeera.com/news/2017/02/soldiers-kill-101-clashes-kamwina-nsapu-170214110027063.html",
+                            "text": "-\"UN: Soldiers kill 101 in clashes with Kamwina Nsapu\".-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "14/02/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "23   2017 Congolese police decapitation attacks",
+                    "links": [],
+                    "start_date": "23/03/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "22  to 1 July 2017  2017 Democratic Republic of the Congo Ebola virus outbreak",
+                    "links": [],
+                    "start_date": "22/04/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "May",
+            "Data": [
+                {
+                    "event_text": "17 May  2017 Makala prison jailbreak results in 3,000 escapes and up to 100 deaths.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/world-africa-39964974",
+                            "text": "-\"'More than 3,000 escaped' Makala jail in DR Congo\". BBC. BBC News. 18 May 2017. Retrieved September 4, 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-09-04",
+                                "Created": "2017-05-18"
+                            }
+                        }
+                    ],
+                    "start_date": "17/05/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "July",
+            "Data": [
+                {
+                    "event_text": "- United Nations has documented 80 mass graves in Kasai unrest that began in",
+                    "links": [
+                        {
+                            "link": "https://reliefweb.int/report/democratic-republic-congo/keeping-watch-kasai-congo",
+                            "text": "-Caritas (8 November 2017). \"Keeping watch in Kasai in Congo\". ReliefWeb.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2017-11-08"
+                            }
+                        }
+                    ],
+                    "start_date": "17/05/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "August",
+            "Data": [
+                {
+                    "event_text": "7  -Congolese soldiers forces killed at least 14 Bundu dia Kongo (BDK) rebels in clashes in the capital Kinshasa and southwestern city of Matadi.A policeman also died.",
+                    "links": [
+                        {
+                            "link": "https://www.aljazeera.com/news/2017/08/congo-security-forces-kill-14-rebel-clashes-170807205559250.html",
+                            "text": "-\"Congo security forces kill at least 14 in rebel clashes: Clashes followed attack by BDK members on Kinshasa's main prison and protests by other members against President Kabila\". Al-Jazeera.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "07/08/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "16   2017 DR Congo landslide",
+                    "links": [],
+                    "start_date": "16/08/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "26   The Democratic Republic of the Congo gubernatorial elections, 2017, are held in 11 provinces.",
+                    "links": [],
+                    "start_date": "26/08/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "29   Three provinces have a second round of voting as part of the gubernatorial elections.",
+                    "links": [],
+                    "start_date": "29/08/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "November",
+            "Data": [
+                {
+                    "event_text": "6  - details emerge in Paradise Papers reporting of a loan from Glencore to Dan Gertler in 2008 when it needed to renegotiate its agreement with state mining company Gécamines for its Katanga mine.",
+                    "links": [],
+                    "start_date": "06/11/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "December",
+            "Data": [
+                {
+                    "event_text": "7   2017 Semuliki attack",
+                    "links": [],
+                    "start_date": "07/12/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "21   Delayed gubernatorial elections are held in three provinces (Kasaï-Central, Mongala, and Equateur).",
+                    "links": [],
+                    "start_date": "21/12/2017",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

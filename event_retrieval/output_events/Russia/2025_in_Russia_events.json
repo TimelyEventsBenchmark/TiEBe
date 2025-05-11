@@ -1,0 +1,616 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "11 January  Ukraine announces the capture of two North Korean soldiers during fighting in Russia's Kursk Oblast.",
+                    "links": [
+                        {
+                            "link": "https://www.aljazeera.com/news/2025/1/11/ukraine-questions-two-north-korean-soldiers-captured-in-kursk",
+                            "text": "-\"Ukraine says it captured two North Korean soldiers in Russia's Kursk\". Al Jazeera. Retrieved 12 January 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-01-12",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "11/01/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "17 January  Iran and Russia sign a \"comprehensive strategic partnership treaty\".",
+                    "links": [
+                        {
+                            "link": "https://www.aljazeera.com/news/2025/1/17/russia-and-iran-presidents-sign-partnership-treaty-in-moscow",
+                            "text": "-\"Russia and Iran presidents sign partnership treaty in Moscow\". Al Jazeera. 18 January 2025. Retrieved 18 January 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-01-18",
+                                "Created": "2025-01-18"
+                            }
+                        }
+                    ],
+                    "start_date": "17/01/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "23 January  The Russian spy vessel Kidin is reported to have caught fire off the coast of Syria.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/russia-nato-spy-ship-audio-mediterranean-syria-2e6c4d6fa184d7333a3001344f2ea58c",
+                            "text": "-\"A Russian spy ship caught fire off Syria's coast, officials say. Here's audio of its broadcasts\". AP News. 7 February 2025. Retrieved 7 February 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-07",
+                                "Created": "2025-02-07"
+                            }
+                        }
+                    ],
+                    "start_date": "23/01/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "29 January  An illegal logger opens fire at forest rangers trying to arrest him in Usokhi, Kaluga Oblast, killing three rangers and holding two others hostage before committing suicide.",
+                    "links": [
+                        {
+                            "link": "https://www.themoscowtimes.com/2025/01/29/illegal-logger-kills-3-forest-rangers-in-kaluga-region-before-taking-his-own-life-a87785",
+                            "text": "-\"Illegal Logger Kills 3 Forest Rangers in Kaluga Region Before Taking His Own Life\". The Moscow Times. 29 January 2025. Retrieved 29 January 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-01-29",
+                                "Created": "2025-01-29"
+                            }
+                        }
+                    ],
+                    "start_date": "29/01/2025",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "6 February  Yury Borisov is dismissed as director-general of Roscosmos by President Putin and is replaced by Gonets head Dmitry Bakanov.",
+                    "links": [
+                        {
+                            "link": "https://www.themoscowtimes.com/2025/02/06/putin-sacks-roscosmos-chief-yury-borisov-amid-setbacks-at-space-agency-a87881",
+                            "text": "-\"Putin Sacks Roscosmos Chief Yury Borisov Amid Setbacks at Space Agency\". The Moscow Times. 6 February 2025. Retrieved 6 February 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-06",
+                                "Created": "2025-02-06"
+                            }
+                        }
+                    ],
+                    "start_date": "06/02/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "An underwater cable in the Baltic Sea owned by Rostelecom is damaged following an \"external impact\".",
+                    "links": [
+                        {
+                            "link": "https://www.themoscowtimes.com/2025/02/08/russia-says-baltic-sea-cable-damaged-by-external-impact-a87917",
+                            "text": "-\"Russia Says Baltic Sea Cable Damaged by 'External Impact'\". The Moscow Times. 8 February 2025. Retrieved 9 February 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-09",
+                                "Created": "2025-02-08"
+                            }
+                        }
+                    ],
+                    "start_date": "08/02/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "At least eight people are injured in a fire at the former Elektrozavod building in Moscow.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/russia-moscow-building-fire-emergency-575a7750fc755e8fd67efd97298703b5",
+                            "text": "-\"Dozens rescued as fire at former electrical plant in Moscow leaves eight others injured\". AP News. 8 February 2025. Retrieved 9 February 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-09",
+                                "Created": "2025-02-08"
+                            }
+                        }
+                    ],
+                    "start_date": "08/02/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "9 February  A state of emergency is declared in Sakhalin Oblast after the Chinese cargo vessel An Ying 2 runs aground off the coast of Nevelsky District.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/russia-china-cargo-ship-tanker-oil-spill-sakhalin-007e0fc8c033e4d4d4f3e4b5f2f42f80",
+                            "text": "-\"Part of Russia's island of Sakhalin on high alert after Chinese cargo ship runs aground\". AP News. 9 February 2025. Retrieved 9 February 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-09",
+                                "Created": "2025-02-09"
+                            }
+                        }
+                    ],
+                    "start_date": "09/02/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The European Court of Human Rights rules that the Russian government had engaged in \"a coordinated effort to suppress dissent\" over its invasion of Ukraine.",
+                    "links": [
+                        {
+                            "link": "https://www.themoscowtimes.com/2025/02/11/echr-rules-that-russia-suppressed-dissent-over-ukraine-war-a87942",
+                            "text": "-\"ECHR Rules That Russia Suppressed Dissent Over Ukraine War\". The Moscow Times. 11 February 2025. Retrieved 11 February 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-11",
+                                "Created": "2025-02-11"
+                            }
+                        }
+                    ],
+                    "start_date": "11/02/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Marc Fogel, an American teacher detained in Russia for drugs charges since 2021, is released and repatriated to the United States as part of a prisoner exchange.",
+                    "links": [
+                        {
+                            "link": "https://www.aljazeera.com/news/2025/2/12/who-is-marc-fogel-the-us-teacher-released-by-russia",
+                            "text": "-\"Who is Marc Fogel, the US teacher released by Russia?\". Al Jazeera. Retrieved 12 February 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-12",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "11/02/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "12 February  US President Donald Trump announces the beginning of negotiations with Russia to end the war in Ukraine following a phone call with President Putin.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/articles/c04n622gzx7o",
+                            "text": "-\"Ukraine war talks start now, Trump says after Putin call\". BBC. 13 February 2025. Retrieved 13 February 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-13",
+                                "Created": "2025-02-13"
+                            }
+                        }
+                    ],
+                    "start_date": "12/02/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The FSB says that it had killed several members of a terrorist group plotting an attack on the Pskov train station following a shootout.",
+                    "links": [
+                        {
+                            "link": "https://www.themoscowtimes.com/2025/02/13/pskov-train-station-attack-plotters-killed-in-shootout-fsb-says-a87992",
+                            "text": "-\"Pskov Train Station Attack Plotters Killed in Shootout, FSB Says\". The Moscow Times. 13 February 2025. Retrieved 13 February 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-13",
+                                "Created": "2025-02-13"
+                            }
+                        }
+                    ],
+                    "start_date": "13/02/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Two miners are killed in a collapse at a potash mine operated by Uralkali in Solikamsk, Perm Krai.",
+                    "links": [
+                        {
+                            "link": "https://www.themoscowtimes.com/2025/02/13/2-workers-killed-in-accident-at-russian-potash-mine-a87984",
+                            "text": "-\"2 Workers Killed in Accident at Russian Potash Mine\". The Moscow Times. 13 February 2025. Retrieved 13 February 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-13",
+                                "Created": "2025-02-13"
+                            }
+                        }
+                    ],
+                    "start_date": "13/02/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Cryptocurrency exchange operator Alexander Vinnik, who had been imprisoned in the United States for a cybercrime conviction, is released and repatriated to Russia as part of a prisoner exchange.",
+                    "links": [
+                        {
+                            "link": "https://www.france24.com/en/americas/20250214-russian-cybercriminal-alexander-vinnik-returns-to-moscow-after-prisoner-swap-crypto-usa",
+                            "text": "-\"Russian cybercriminal Alexander Vinnik returns to Moscow after prisoner swap\". France 24. 14 February 2025. Retrieved 14 February 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-14",
+                                "Created": "2025-02-14"
+                            }
+                        }
+                    ],
+                    "start_date": "13/02/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "17 February  Konstantin Rachalovsky, the deputy governor of Rostov Oblast, is arrested on suspicion of abuse of power over the provision of state subsidies amounting to 155.2 million rubles ($1.7 million) to financially distressed companies that eventually went bankrupt.",
+                    "links": [
+                        {
+                            "link": "https://www.themoscowtimes.com/2025/02/17/rostov-region-deputy-governor-arrested-for-abuse-of-power-a88045",
+                            "text": "-\"Rostov Region Deputy Governor Arrested for Abuse of Power\". The Moscow Times. 17 February 2025. Retrieved 17 February 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-17",
+                                "Created": "2025-02-17"
+                            }
+                        }
+                    ],
+                    "start_date": "17/02/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "18 February  Russia and the United States began official discussions in Saudi Arabia on ending the war in Ukraine.",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/world/2025/feb/18/us-russia-ukraine-talks-riyadh-saudi-arabia",
+                            "text": "-Sauer, Pjotr; Harding, Luke; Smith, David (18 February 2025). \"US and Russia agree to explore mutual opportunities of end to Ukraine war\". The Guardian. Retrieved 19 February 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-19",
+                                "Created": "2025-02-18"
+                            }
+                        }
+                    ],
+                    "start_date": "18/02/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "26 February  Denis Alexeyev, the deputy governor of Vologda Oblast, is arrested along with Kirill Bocharov, head of the Vologda Oblast representative office in Moscow, on suspicion of receiving part of a 100 million ruble ($1.1 million) bribe.",
+                    "links": [
+                        {
+                            "link": "https://www.themoscowtimes.com/2025/02/26/vologda-region-officials-arrested-on-bribery-charges-amid-growing-pressure-on-governor-a88169",
+                            "text": "-\"Vologda Region Officials Arrested on Bribery Charges Amid Growing Pressure on Governor\". The Moscow Times. 26 February 2025. Retrieved 26 February 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-26",
+                                "Created": "2025-02-26"
+                            }
+                        }
+                    ],
+                    "start_date": "26/02/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "27 February  A man is arrested for throwing a grenade at the entrance to the regional administration office of Samara Oblast in Samara.",
+                    "links": [
+                        {
+                            "link": "https://www.themoscowtimes.com/2025/02/27/man-arrested-after-grenade-attack-on-samara-region-government-building-a88185",
+                            "text": "-\"Man Arrested After Grenade Attack on Samara Region Government Building\". The Moscow Times. 27 February 2025. Retrieved 27 February 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-27",
+                                "Created": "2025-02-27"
+                            }
+                        }
+                    ],
+                    "start_date": "27/02/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "28 February  The FSB arrests two church officials on suspicion of plotting to kill Russian Orthodox bishop Tikhon Shevkunov, who is close to Putin.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/europe/russia-says-it-foiled-ukrainian-assassination-plot-against-senior-putin-linked-2025-02-28/",
+                            "text": "-Lucy Papachristou. \"Russia arrests two church figures over alleged Ukrainian plot to kill priest close to Putin\". Reuters. Retrieved 28 February 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-28",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "28/02/2025",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "3 March  The FSB says it shot and killed a man who planned \"terrorist attacks\" on the Moscow metro and a Jewish religious institution in Moscow.",
+                    "links": [
+                        {
+                            "link": "https://english.alarabiya.net/News/world/2025/03/03/russia-s-fsb-says-it-shot-dead-a-man-planning-terrorist-attacks-in-moscow",
+                            "text": "-\"Russia's FSB says it shot dead a man planning 'terrorist attacks' in Moscow\". Reuters. 3 March 2025. Retrieved 3 March 2025 – via Al Arabiya.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-03-03",
+                                "Created": "2025-03-03"
+                            }
+                        }
+                    ],
+                    "start_date": "03/03/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "4 March  Nikolai Onishchenko, the head of Zavyalovsky District, Altai Krai, is shot dead while leaving a cafe in Zavyalovo.",
+                    "links": [
+                        {
+                            "link": "https://www.themoscowtimes.com/2025/03/04/altai-region-official-gunned-down-in-broad-daylight-a88240",
+                            "text": "-\"Altai Region Official Gunned Down in Broad Daylight\". The Moscow Times. 4 March 2025. Retrieved 4 March 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-03-04",
+                                "Created": "2025-03-04"
+                            }
+                        }
+                    ],
+                    "start_date": "04/03/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "5 March  Four suspected Islamic State militants are killed in an \"anti-terrorist operation\" in Makhachkala, Dagestan.",
+                    "links": [
+                        {
+                            "link": "https://www.themoscowtimes.com/2025/03/05/russian-security-forces-kill-4-suspected-islamic-state-militants-in-dagestan-a88253",
+                            "text": "-\"Russian Security Forces Kill 4 Suspected Islamic State Militants in Dagestan\". The Moscow Times. 5 March 2025. Retrieved 5 March 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-03-05",
+                                "Created": "2025-03-05"
+                            }
+                        }
+                    ],
+                    "start_date": "05/03/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "10 March  Two British diplomats are expelled from Russia for alleged spying.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/russia-britain-diplomats-expelled-spying-claims-adc91075a18cd6e71f59ea412bf8508e",
+                            "text": "-\"Russia expels 2 British diplomats from embassy in Moscow over espionage claims\". AP News. 10 March 2025. Retrieved 12 March 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-03-12",
+                                "Created": "2025-03-10"
+                            }
+                        }
+                    ],
+                    "start_date": "10/03/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "11 March  Two students are injured in a knife attack at a school in Nizhny Novgorod. The suspect, who is also a student, is arrested.",
+                    "links": [
+                        {
+                            "link": "https://www.themoscowtimes.com/2025/03/11/middle-school-student-stabs-classmates-in-nizhny-novgorod-a88318",
+                            "text": "-\"Middle School Student Stabs Classmates in Nizhny Novgorod\". The Moscow Times. 11 March 2025. Retrieved 12 March 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-03-12",
+                                "Created": "2025-03-11"
+                            }
+                        }
+                    ],
+                    "start_date": "11/03/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "13 March  The Russian defence ministry says its forces had retaken Sudzha, Kursk Oblast from Ukraine.",
+                    "links": [
+                        {
+                            "link": "https://www.themoscowtimes.com/2025/03/13/russian-army-liberates-sudzha-in-kursk-border-region-a88341",
+                            "text": "-\"Russian Army Liberates Sudzha in Kursk Border Region\". The Moscow Times. 13 March 2025. Retrieved 13 March 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-03-13",
+                                "Created": "2025-03-13"
+                            }
+                        }
+                    ],
+                    "start_date": "13/03/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Ukrainian military launches a major incursion into Belgorod Oblast.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/articles/cwy7dv6zk36o",
+                            "text": "-\"Zelensky confirms Ukraine troops in Russia's Belgorod region\". BBC. Retrieved 8 April 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-04-08",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "18/03/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Yury Bezdudny resigns as Governor of Nenets Autonomous Okrug.",
+                    "links": [
+                        {
+                            "link": "https://www.themoscowtimes.com/2025/03/18/governor-of-russias-nenets-region-resigns-a88401",
+                            "text": "-\"Governor of Russia's Nenets Region Resigns\". The Moscow Times. 18 March 2025. Retrieved 20 March 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-03-20",
+                                "Created": "2025-03-18"
+                            }
+                        }
+                    ],
+                    "start_date": "18/03/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A Mil Mi-28 helicopter of the Russian military crashes in Leningrad Oblast, killing its entire crew.",
+                    "links": [
+                        {
+                            "link": "https://english.news.cn/asiapacific/20250319/98d2f5810dcd4961983154568d911c23/c.html",
+                            "text": "-\"Urgent: Mi-28 helicopter crashes in Russia's Leningrad region, killing crew: reports\". Xinhua News Agency. 18 March 2025. Retrieved 19 March 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-03-19",
+                                "Created": "2025-03-18"
+                            }
+                        }
+                    ],
+                    "start_date": "18/03/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "31 March  Konstantin Rudnev, the founder of the Ashram Shambala sect, is arrested along with 13 of his followers in Argentina on human trafficking charges.",
+                    "links": [
+                        {
+                            "link": "https://www.themoscowtimes.com/2025/04/02/russian-cult-leader-nabbed-in-argentine-human-trafficking-swoop-a88578",
+                            "text": "-\"Russian Cult Leader Nabbed in Argentine Human-Trafficking Swoop\". The Moscow Times. Retrieved 3 April 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-04-03",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "31/03/2025",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "1 April  President Putin orders a ban on government, telecommunications and banking sector employees from using foreign messaging applications.",
+                    "links": [
+                        {
+                            "link": "https://www.themoscowtimes.com/2025/04/02/putin-bans-government-bank-employees-from-using-foreign-messaging-apps-a88580",
+                            "text": "-\"Putin Bans Government, Bank Employees From Using Foreign Messaging Apps\". The Moscow Times. Retrieved 3 April 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-04-03",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "01/04/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "2 April  A Tu-22M3 bomber crashes in Usolsky District, Irkutsk Oblast, killing one of its four crew.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/europe/russian-strategic-bomber-crashes-siberia-one-person-dead-agencies-report-2025-04-02/",
+                            "text": "-\"Russian strategic bomber crashes in Siberia, one person dead, governor says\". Reuters. 2 April 2025. Retrieved 2 April 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-04-02",
+                                "Created": "2025-04-02"
+                            }
+                        }
+                    ],
+                    "start_date": "02/04/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "3 April  The State Duma expels Yury Napso as a deputy of the Liberal Democratic Party of Russia for failing to attend its sessions without valid reason since 2023.",
+                    "links": [
+                        {
+                            "link": "https://www.themoscowtimes.com/2025/04/03/russian-lawmaker-stripped-of-seat-after-2-year-absence-a88597",
+                            "text": "-\"Russian Lawmaker Stripped of Seat After 2-Year Absence\". The Moscow Times. Retrieved 4 April 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-04-04",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "03/04/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "4 April  Three Moldovan diplomats are expelled from Russia in retaliation for Moldova expelling three Russian diplomats it accused of involvement in facilitating the escape of fugitive MP Alexandr Nesterovschi.",
+                    "links": [
+                        {
+                            "link": "https://www.themoscowtimes.com/2025/04/04/russia-expels-moldovan-diplomats-in-tit-for-tat-move-a88610",
+                            "text": "-\"Russia Expels Moldovan Diplomats in Tit-for-Tat Move\". The Moscow Times. Retrieved 4 April 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-04-04",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "04/04/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "8 April  Dual US-Russian national Ksenia Karelina, who had been imprisoned in Russia for donating to a charity providing humanitarian aid for Ukraine, is released and repatriated to the United States following a prisoner exchange in the United Arab Emirates that sees the release of Arthur Petrov, a dual German-Russian citizen arrested on suspicion of supplying manufacturers linked to the Russian military with microelectronics.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/articles/c0l005w2j86o",
+                            "text": "-\"Woman jailed over £39 donation to Ukraine freed in US-Russia prisoner swap\". BBC. Retrieved 10 April 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-04-10",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "08/04/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "9 April  The Romanian defense attaché and his deputy are expelled from Russia in retaliation for Romania expelling their Russian counterparts in March.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/russia-romania-diplomats-expelled-ukraine-tensions-c6678ae72cc4809d8f9052eba4aea19c",
+                            "text": "-\"Russia expels 2 Romanian diplomats in a tit-for-tat move\". AP News. Retrieved 10 April 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-04-10",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "09/04/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Supreme Court of Russia removes the Taliban from Russia's list of designated terrorist organizations.",
+                    "links": [
+                        {
+                            "link": "https://www.themoscowtimes.com/2025/04/17/russian-supreme-court-removes-taliban-from-list-of-terrorist-organizations-a88774",
+                            "text": "-\"Russian Supreme Court Removes Taliban From List of Terrorist Organizations\". The Moscow Times. Retrieved 17 April 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-04-17",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "17/04/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Vadim Shamarin, the former deputy chief of the Russian General Staff, is convicted and sentenced to seven years' imprisonment by a court martial for accepting 36 million rubles ($437,600) in bribes from a phone manufacturing plant in exchange for state contracts and “general patronage.”.",
+                    "links": [
+                        {
+                            "link": "https://www.themoscowtimes.com/2025/04/17/former-russian-army-general-sentenced-to-7-years-in-prison-for-bribery-a88770",
+                            "text": "-\"Former Russian Army General Sentenced to 7 Years in Prison for Bribery\". The Moscow Times. Retrieved 17 April 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-04-17",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "17/04/2025",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

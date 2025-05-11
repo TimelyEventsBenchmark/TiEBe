@@ -1,0 +1,199 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "CENAPRED reported that ash from recent explosions coats the snow on the Popocateptl volcano's upper slopes.",
+                    "links": [],
+                    "start_date": "07/01/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "An explosion occurred in a maternal hospital in Cuajimalpa, Mexico City, leaving 7 dead and 60 injured.",
+                    "links": [],
+                    "start_date": "29/01/2015",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "A bus crashes with a freight train in the Mexican state of Nuevo León, killing at least sixteen people and injuring 30.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/article/us-mexico-crash-idUSKBN0LI03R20150214",
+                            "text": "-\"Mexico train, bus crash kills at least 16\". Reuters.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "13/02/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Mexican security forces arrest drug lord Servando Gómez Martínez in Morelia, Michoacán.",
+                    "links": [
+                        {
+                            "link": "http://bigstory.ap.org/article/01a936bc4aed4932a334c38ae79c7935/mexico-official-top-capo-nabbed-western-michoacan-state",
+                            "text": "-\"Mexican police capture top cartel capo 'La Tuta' Gomez\".-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "28/02/2015",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "During the international tour, in search of foreign investment, President Enrique Peña Nieto, makes various economic, financial and cultural agreements with the Queen Elizabeth II.",
+                    "links": [],
+                    "start_date": "03/03/2015",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "Lunar Eclipse",
+                    "links": [],
+                    "start_date": "04/04/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Mexico issues a 100-year bond for 1.5 billion euros, equivalent to 620 million dollars.",
+                    "links": [],
+                    "start_date": "08/04/2015",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "May",
+            "Data": [
+                {
+                    "event_text": "Sebastián Lerdo de Tejada Covarrubias dies general director of ISSSTE",
+                    "links": [],
+                    "start_date": "22/05/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The SCT opens audits on contracts awarded to OHL",
+                    "links": [],
+                    "start_date": "27/05/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Nestora Salgado will be transferred to another prison, that of Tepepan.",
+                    "links": [],
+                    "start_date": "27/05/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Murder of coordinator of Panista candidate in the delegation Azcapotzalco.",
+                    "links": [],
+                    "start_date": "28/05/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The INE agrees to pay $10,000 to Rigoberta Menchú.",
+                    "links": [],
+                    "start_date": "28/05/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Santos champion by defeating the team of Querétaro (53).",
+                    "links": [],
+                    "start_date": "31/05/2015",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "June",
+            "Data": [
+                {
+                    "event_text": "Legislative elections take place to elect the 63rd Congress of the Union.",
+                    "links": [
+                        {
+                            "link": "http://www.ine.mx/docs/IFE-v2/DECEYEC/DECEYEC-ProcesosElectorales/Calendario-Docs/ISU_Cal_Elect-2015.pdf",
+                            "text": "-\"Calendario electoral 2015\" (PDF). INE. Retrieved 31 December 2014.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2014-12-31",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "05/06/2015",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "July",
+            "Data": [
+                {
+                    "event_text": "Joaquín \"El Chapo\" Guzmán, the notorious Mexican drug lord and leader of the Sinaloa Cartel, escaped from the maximum-security Altiplano Federal Prison in Almoloya de Juárez. This was his second escape from a Mexican prison, his first being in 2001.",
+                    "links": [
+                        {
+                            "link": "https://www.latimes.com/world/mexico-americas/la-fg-guzman-escape-20150716-story.html",
+                            "text": "-\"'El Chapo' escape: 'Sometimes I think they are searching to not find him'\". Los Angeles Times. 2015-07-15. Retrieved 2024-07-28.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-07-28",
+                                "Created": "2015-07-15"
+                            }
+                        }
+                    ],
+                    "start_date": "11/07/2015",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "November",
+            "Data": [
+                {
+                    "event_text": "20152016 Zika virus epidemic The first three cases of Zika fever are reported in Mexico.",
+                    "links": [
+                        {
+                            "link": "https://web.archive.org/web/20151209043506/http://www.who.int/csr/don/03-december-2015-zika-mexico/en/",
+                            "text": "-\"WHO | Zika virus infection – Mexico\". WHO. 3 Dec 2015. Archived from the original on December 9, 2015. Retrieved September 4, 2020.-",
+                            "dates": {
+                                "Archieved": "2020-09-04",
+                                "Retrieved": null,
+                                "Created": "2015-12-09"
+                            }
+                        },
+                        {
+                            "link": "https://www.who.int/csr/don/03-december-2015-zika-mexico/en/",
+                            "text": "-\"WHO | Zika virus infection – Mexico\". WHO. 3 Dec 2015. Archived from the original on December 9, 2015. Retrieved September 4, 2020.-",
+                            "dates": {
+                                "Archieved": "2020-09-04",
+                                "Retrieved": null,
+                                "Created": "2015-12-09"
+                            }
+                        }
+                    ],
+                    "start_date": "26/11/2015",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

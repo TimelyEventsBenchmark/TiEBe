@@ -1,0 +1,101 @@
+{
+    "Events": [
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "13 March 2022 Colombian parliamentary election",
+                    "links": [
+                        {
+                            "link": "https://www.wola.org/es/analisis/curules-de-victimas-en-el-congreso-pueden-promover-la-paz-en-colombia/",
+                            "text": "-Bocanumenth, Matthew; Puerta Cuartas, Felipe (11 March 2022). \"Curules de víctimas en el Congreso pueden promover la paz en Colombia\". Washington Office on Latin America (in Spanish). Retrieved 14 March 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-03-14",
+                                "Created": "2022-03-11"
+                            }
+                        }
+                    ],
+                    "start_date": "13/03/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "May",
+            "Data": [
+                {
+                    "event_text": "29 May First round of the 2022 Colombian presidential election",
+                    "links": [],
+                    "start_date": "29/05/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "June",
+            "Data": [
+                {
+                    "event_text": "19 June Runoff round in the 2022 Colombian presidential election",
+                    "links": [],
+                    "start_date": "19/06/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "26 June 2022 Colombia stadium collapse",
+                    "links": [
+                        {
+                            "link": "https://edition.cnn.com/2022/06/26/americas/colombia-stadium-collapse/index.html",
+                            "text": "-Pozzebon, Stefano (27 June 2022). \"At least 4 dead, hundreds injured after collapse at stadium in Colombia\". CNN. Retrieved 28 June 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-06-28",
+                                "Created": "2022-06-27"
+                            }
+                        }
+                    ],
+                    "start_date": "26/06/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "28 June Tuluá prison riot",
+                    "links": [],
+                    "start_date": "28/06/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "September",
+            "Data": [
+                {
+                    "event_text": "2 September 2022 Huila attack",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-latin-america-62775585",
+                            "text": "-\"Colombia: Seven police officers killed following president's push for peace\". BBC News. 2022-09-03. Retrieved 2022-09-03.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-09-03",
+                                "Created": "2022-09-03"
+                            }
+                        }
+                    ],
+                    "start_date": "02/09/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "December",
+            "Data": [
+                {
+                    "event_text": "5 December 2022 Risaralda landslide",
+                    "links": [],
+                    "start_date": "05/12/2022",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

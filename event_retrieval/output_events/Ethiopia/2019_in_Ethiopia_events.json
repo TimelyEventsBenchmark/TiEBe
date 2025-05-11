@@ -1,0 +1,257 @@
+{
+    "Events": [
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "10 March  Ethiopian Airlines Flight 302 from Addis Ababa Bole International Airport in Ethiopia to Jomo Kenyatta International Airport in Nairobi, Kenya crashed six minutes after takeoff near the town of Bishoftu, killing all 149 passengers and eight crew aboard.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-africa-47513508",
+                            "text": "-\"Ethiopian Airlines: 'No survivors' on crashed Boeing 737\". BBC News. 10 March 2019. Archived from the original on 10 March 2019. Retrieved 10 March 2019.-",
+                            "dates": {
+                                "Archieved": "2019-03-10",
+                                "Retrieved": "2019-03-10",
+                                "Created": "2019-03-10"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20190310141704/https://www.bbc.com/news/world-africa-47513508",
+                            "text": "-\"Ethiopian Airlines: 'No survivors' on crashed Boeing 737\". BBC News. 10 March 2019. Archived from the original on 10 March 2019. Retrieved 10 March 2019.-",
+                            "dates": {
+                                "Archieved": "2019-03-10",
+                                "Retrieved": "2019-03-10",
+                                "Created": "2019-03-10"
+                            }
+                        }
+                    ],
+                    "start_date": "10/03/2019",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "June",
+            "Data": [
+                {
+                    "event_text": "22 June  Factions of the Amhara Region's Peace and Security Bureau assassinated the Amhara Regional President Ambachew Mekonnen. An Amhara nationalist bodyguard also assassinated General Se'are Mekonnen, the Chief of General Staff of the Ethiopian National Defense Force, as well as his aide Major General Gizae Aberra.",
+                    "links": [
+                        {
+                            "link": "https://www.ethiopia-insight.com/2018/12/10/what-is-the-point-in-amhara-nationalism/",
+                            "text": "-Borago, Teshome M. (2018-12-10). \"What is the point in Amhara nationalism?\". Ethiopia Insight. Retrieved 2024-01-11.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-01-11",
+                                "Created": "2018-12-10"
+                            }
+                        }
+                    ],
+                    "start_date": "22/06/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "24 June  The Ethiopian state television announced that the Chief of the Amhara Region security Asaminew Tsige was shot to death after the government's accusation of plotting the 22 June Amhara Region coup.",
+                    "links": [
+                        {
+                            "link": "https://www.i24news.tv/en/news/international/africa/1561381510-ethiopian-coup-mastermind-shot-dead-after-36-hour-manhunt",
+                            "text": "-\"Alleged Ethiopian coup mastermind shot dead after 36-hour manhunt\". www.i24news.tv. Retrieved 2024-01-11.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-01-11",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "24/06/2019",
+                    "end_date": "22/06/2019"
+                }
+            ]
+        },
+        {
+            "Month": "July",
+            "Data": [
+                {
+                    "event_text": "29 July  Prime Minister Abiy Ahmed leads a reforestation effort that planted 350 million trees in one day, believed to be a world record.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-africa-49151523",
+                            "text": "-\"Ethiopia 'breaks' tree-planting record to tackle climate change\". BBC News. July 29, 2019. Archived from the original on 15 September 2021. Retrieved July 31, 2019.-",
+                            "dates": {
+                                "Archieved": "2019-07-29",
+                                "Retrieved": "2019-07-31",
+                                "Created": "2021-09-15"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20210915225004/https://www.bbc.com/news/world-africa-49151523",
+                            "text": "-\"Ethiopia 'breaks' tree-planting record to tackle climate change\". BBC News. July 29, 2019. Archived from the original on 15 September 2021. Retrieved July 31, 2019.-",
+                            "dates": {
+                                "Archieved": "2019-07-29",
+                                "Retrieved": "2019-07-31",
+                                "Created": "2021-09-15"
+                            }
+                        }
+                    ],
+                    "start_date": "29/07/2019",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "October",
+            "Data": [
+                {
+                    "event_text": "5 October  The first ever Irreechaa was celebrated in Addis Ababa's Meskel Square with hundreds of thousands Oromos attended.",
+                    "links": [
+                        {
+                            "link": "https://borkena.com/2019/10/05/irreecha-ethnic-oromo-religious-festival-celebrated-in-addis-ababa/",
+                            "text": "-Account (2019-10-05). \"Ethnic Oromo Irreecha religious festival celebrated in Addis Ababa\". Borkena Ethiopian News. Retrieved 2024-01-11.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-01-11",
+                                "Created": "2019-10-05"
+                            }
+                        }
+                    ],
+                    "start_date": "05/10/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "11 October  The Nobel Peace Prize was awarded to Prime Minister Abiy Ahmed for \"his efforts to achieve peace and international cooperation, and in particular for his decisive initiative to resolve the border conflict with neighbouring Eritrea\".",
+                    "links": [
+                        {
+                            "link": "https://www.nobelprize.org/prizes/peace/2019/summary/",
+                            "text": "-\"The Nobel Peace Prize 2019\". NobelPrize.org. Retrieved 2024-01-11.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-01-11",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "11/10/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "2328 October  Clashes erupted in Oromia Region and its vicinity after Oromo political activist Jawar Mohammed posting a Facebook page that claimed he was surrounded by police officers at his home. An ensuing violence between his supporting protestors and the federal security forces left 86 people died. 76 were killed in communal violence while 10 were from security officers.",
+                    "links": [
+                        {
+                            "link": "https://web.archive.org/web/20200313073445/https://sg.news.yahoo.com/ethiopian-pm-abiy-defends-response-ethnic-clashes-184529817.html",
+                            "text": "-\"Ethiopian PM Abiy defends response to ethnic clashes\". AFP News. 3 November 2019. Archived from the original on Mar 13, 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2019-11-03"
+                            }
+                        },
+                        {
+                            "link": "https://sg.news.yahoo.com/ethiopian-pm-abiy-defends-response-ethnic-clashes-184529817.html",
+                            "text": "-\"Ethiopian PM Abiy defends response to ethnic clashes\". AFP News. 3 November 2019. Archived from the original on Mar 13, 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2019-11-03"
+                            }
+                        },
+                        {
+                            "link": "https://www.hrw.org/world-report/2020/country-chapters/ethiopia",
+                            "text": "-Human Rights Watch (2020-01-07), \"Ethiopia: Events of 2019\", Facebook, retrieved 2024-01-11-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-01-11",
+                                "Created": "2020-01-07"
+                            }
+                        }
+                    ],
+                    "start_date": "28/10/2019",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "November",
+            "Data": [
+                {
+                    "event_text": "16 November  EPRDF members parties from Afar, Benishangul, Gambela and Somali Region merged into form a new party rebranded itself as Prosperity Party.",
+                    "links": [
+                        {
+                            "link": "https://borkena.com/2019/11/16/ethiopia-ruling-coalition-eprdf-approved-merger-now-a-united-national-party/",
+                            "text": "-Account (2019-11-16). \"Ethiopia's ruling coalition EPRDF approved merger, now a united national party\". Borkena Ethiopian News. Retrieved 2024-01-11.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-01-11",
+                                "Created": "2019-11-16"
+                            }
+                        },
+                        {
+                            "link": "https://www.aa.com.tr/en/africa/ethiopias-ruling-coalition-endorses-political-merger/1652742",
+                            "text": "-\"Ethiopia's ruling coalition endorses political merger\". www.aa.com.tr. Retrieved 2024-01-11.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-01-11",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://www.washingtonpost.com/politics/2019/12/23/ethiopias-president-wants-change-ruling-coalition-whos-getting-left-out/",
+                            "text": "-\"Analysis | Ethiopia's prime minister wants to change the ruling coalition. Who's getting left out?\". Washington Post. 2019-12-23. ISSN 0190-8286. Retrieved 2024-01-11.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-01-11",
+                                "Created": "2019-12-23"
+                            }
+                        },
+                        {
+                            "link": "https://search.worldcat.org/issn/0190-8286",
+                            "text": "-\"Analysis | Ethiopia's prime minister wants to change the ruling coalition. Who's getting left out?\". Washington Post. 2019-12-23. ISSN 0190-8286. Retrieved 2024-01-11.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-01-11",
+                                "Created": "2019-12-23"
+                            }
+                        }
+                    ],
+                    "start_date": "16/11/2019",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "December",
+            "Data": [
+                {
+                    "event_text": "1 December  The Prosperity Party was formally formed in Addis Ababa.",
+                    "links": [
+                        {
+                            "link": "https://borkena.com/2019/12/01/ethiopias-prosperity-party-officially-formed-in-the-capital-addis-ababa/",
+                            "text": "-Account (2019-12-01). \"Ethiopia's Prosperity Party officially formed in the capital Addis Ababa\". Borkena Ethiopian News. Retrieved 2024-01-11.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-01-11",
+                                "Created": "2019-12-01"
+                            }
+                        }
+                    ],
+                    "start_date": "01/12/2019",
+                    "end_date": null
+                },
+                {
+                    "event_text": "20 December  Ethiopia launches the first experimental satellite into space with the help of China from Taiyuan Satellite Launch Center.",
+                    "links": [
+                        {
+                            "link": "https://www.aljazeera.com/economy/2019/12/20/ethiopia-launches-its-first-satellite-with-help-of-china",
+                            "text": "-\"Ethiopia launches its first satellite with help of China\". Al Jazeera. Retrieved 2024-01-11.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-01-11",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "20/12/2019",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

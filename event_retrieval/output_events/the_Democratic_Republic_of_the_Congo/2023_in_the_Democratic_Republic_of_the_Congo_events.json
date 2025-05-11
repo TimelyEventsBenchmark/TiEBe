@@ -1,0 +1,504 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "Ten people are killed and 39 others are injured when a bomb explodes at a Pentecostal church in Kasindi, North Kivu, Democratic Republic of the Congo. The Islamic State has claimed responsibility for the attack.",
+                    "links": [
+                        {
+                            "link": "https://www.aljazeera.com/news/2023/1/15/several-killed-in-dr-congo-church-bomb-attack",
+                            "text": "-\"Several killed in DR Congo church bomb attack\". www.aljazeera.com. Retrieved 2023-01-16.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-01-16",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "16/01/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The United Nations reports the discovery of mass graves in Ituri Province, containing the bodies of 49 civilians. CODECO militants are suspected of being behind the killings.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/politics-democratic-republic-of-the-congo-united-nations-1d8ddf4706253b6a221df578062ae9a7",
+                            "text": "-\"Congo: 49 bodies found in mass graves after militia attacks\". AP NEWS. 2023-01-18. Retrieved 2023-01-18.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-01-18",
+                                "Created": "2023-01-18"
+                            }
+                        }
+                    ],
+                    "start_date": "18/01/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Allied Democratic Forces insurgents kill 23 people for consuming beer at a bar in North Kivu. The jihadists also torch several homes and shops in the village.",
+                    "links": [
+                        {
+                            "link": "https://www.france24.com/en/africa/20230123-islamic-state-group-claims-deadly-attack-in-east-dr-congo",
+                            "text": "-\"Islamic State group claims deadly attack in east DR Congo\". France 24. 2023-01-23. Retrieved 2023-01-24.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-01-24",
+                                "Created": "2023-01-23"
+                            }
+                        }
+                    ],
+                    "start_date": "23/01/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Pope Francis begins his first papal visit to the Democratic Republic of the Congo. He will also visit South Sudan on the same trip.",
+                    "links": [
+                        {
+                            "link": "https://news.rthk.hk/rthk/en/component/k2/1685959-20230131.htm?",
+                            "text": "-\"Pope Francis kicks off landmark Africa visit - RTHK\". news.rthk.hk. Retrieved 2023-02-01.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-02-01",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "31/01/2023",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "M23 insurgents capture the town of Kitshanga in North Kivu, after days of heavy fighting. The DRC's army confirm the withdrawal of its troops from the town, saying it was a \"tactical move to protect civilians\".",
+                    "links": [
+                        {
+                            "link": "https://www.aljazeera.com/news/2023/2/1/m23-rebels-take-control-of-kitshanga-in-eastern-dr-congo",
+                            "text": "-\"M23 rebels take control of eastern DR Congo town\". www.aljazeera.com. Retrieved 2023-02-01.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-02-01",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "01/02/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "M23 rebels seize the town of Rubaya and the Rubaya coltan mines in North Kivu, after government forces withdraw from the area.",
+                    "links": [
+                        {
+                            "link": "https://www.aa.com.tr/en/africa/congolese-m23-rebels-seize-major-mining-town-of-rubaya/2832658",
+                            "text": "-\"Congolese M23 rebels seize major mining town of Rubaya\". www.aa.com.tr. Retrieved 2023-02-27.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-02-27",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "27/02/2023",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "Kivu conflict Burundi deploys 100 troops to the eastern Democratic Republic of the Congo to help the country fight insurgencies by militias, including M23.",
+                    "links": [
+                        {
+                            "link": "https://www.theeastafrican.co.ke/tea/news/east-africa/burundi-to-deploy-troops-to-east-drc-4145612",
+                            "text": "-\"Burundi to deploy 100 soldiers to eastern DR Congo\". The East African. 2023-03-04. Retrieved 2023-03-06.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-03-06",
+                                "Created": "2023-03-04"
+                            }
+                        }
+                    ],
+                    "start_date": "04/03/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "During an attack at least 36 people are killed in Mukondi.",
+                    "links": [
+                        {
+                            "link": "https://www.aljazeera.com/news/2023/3/9/at-least-36-killed-in-east-congo-attack-officials",
+                            "text": "-\"At least 36 killed in eastern DR Congo attack\". www.aljazeera.com. Retrieved 2023-03-09.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-03-09",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "09/03/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Nineteen people are killed by suspected Islamist insurgents in Kirindera, North Kivu.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/africa/suspected-islamist-militants-kill-19-another-village-raid-east-congo-2023-03-12/",
+                            "text": "-\"Suspected Islamist militants kill 19 in another village raid in east Congo\". Reuters. 2023-03-12. Retrieved 2023-03-13.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-03-13",
+                                "Created": "2023-03-12"
+                            }
+                        }
+                    ],
+                    "start_date": "12/03/2023",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "South Sudanese troops arrive in Goma, becoming the fourth country to join a coalition of peacekeeping missions to fight insurgencies.",
+                    "links": [
+                        {
+                            "link": "https://english.news.cn/20230402/cf6d51c0abea44d48169ccdc66cd71ea/c.html",
+                            "text": "-\"South Sudanese troops arrive in DR Congo under EAC regional force mandate-Xinhua\". english.news.cn. Retrieved 2023-04-10.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-04-10",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "02/04/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "At least 21 people are dead and others are missing after a landslide in the locality of Bolowa (Bulwa village/Masisi Territory), North Kivu.",
+                    "links": [
+                        {
+                            "link": "https://www.aljazeera.com/news/2023/4/3/at-least-21-killed-several-missing-in-eastern-dr-congo-landslide",
+                            "text": "-\"At least 21 killed, several missing in eastern DR Congo landslide\". www.aljazeera.com. Retrieved 2023-04-10.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-04-10",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "02/04/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "3 April  Six people are killed and 64 others are missing after a boat capsizes in the Lake Kivu.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/africa/six-dead-64-missing-after-boat-sinks-congos-lake-kivu-local-official-2023-04-03/",
+                            "text": "-\"Six dead, 64 missing after boat sinks in Congo's Lake Kivu\". Reuters. 2023-04-03. Retrieved 2023-04-10.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-04-10",
+                                "Created": "2023-04-03"
+                            }
+                        }
+                    ],
+                    "start_date": "03/04/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Twenty people are killed after Islamic State members storm the village of Musandaba on the outskirts of the city of Beni, North Kivu.",
+                    "links": [
+                        {
+                            "link": "https://www.wionews.com/world/at-least-20-killed-after-attack-in-eastern-congo-islamic-state-claims-responsibility-580587/amp",
+                            "text": "-\"At least 20 killed in eastern Congo attack; Islamic State claims responsibility - World News\". www.wionews.com. Retrieved 2023-04-10.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-04-10",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "07/04/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Murder of Luca Attanasio A court in the Democratic Republic of the Congo sentences six men to life in prison for the assassination of Italian envoy Luca Attanasio in February 2021.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/africa/congo-sentences-six-life-prison-over-death-italian-envoy-2023-04-07/",
+                            "text": "-Rolley, Sonia (2023-04-07). \"Congo sentences six to life in prison for Italian envoy's death\". Reuters. Retrieved 2023-04-10.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-04-10",
+                                "Created": "2023-04-07"
+                            }
+                        }
+                    ],
+                    "start_date": "07/04/2023",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "May",
+            "Data": [
+                {
+                    "event_text": "5 May  2023 Africa floods At least 176 people are killed by floods in the villages of Bushushu and Nyamukubi in South Kivu.",
+                    "links": [
+                        {
+                            "link": "https://www.aljazeera.com/news/2023/5/5/at-least-72-bodies-recovered-in-flooded-villages-in-east-dr-congo",
+                            "text": "-\"At least 176 people killed in eastern DR Congo floods\". www.aljazeera.com. Retrieved 2023-05-11.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-05-11",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "05/05/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "7 May  2023 Africa floods The death toll from the 6 May floods in the villages of Bushushu and Nyamukubi in South Kivu, increases to 401 people.",
+                    "links": [
+                        {
+                            "link": "https://www.aljazeera.com/news/2023/5/7/dr-congo-floods-death-toll-surpasses-200",
+                            "text": "-\"DR Congo floods death toll surpasses 400\". www.aljazeera.com. Retrieved 2023-05-11.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-05-11",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "07/05/2023",
+                    "end_date": "06/05/2023"
+                },
+                {
+                    "event_text": "",
+                    "links": [],
+                    "start_date": "07/05/2023",
+                    "end_date": "06/05/2023"
+                },
+                {
+                    "event_text": "10 May  Ten people are killed in Lubero and six more are killed at the Rubaya mines, North Kivu during two landslides.",
+                    "links": [
+                        {
+                            "link": "https://www.aljazeera.com/news/2023/5/10/at-least-sixteen-killed-in-landslide-in-eastern-dr-congo",
+                            "text": "-\"At least 16 people killed in multiple landslides in eastern DRC\". www.aljazeera.com. Retrieved 2023-05-11.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-05-11",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "10/05/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "19 May  Four people are killed and six others are injured in an armed ambush on a convoy near the village of Kivandya, North Kivu.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/africa/three-rangers-killed-east-congo-convoy-ambush-near-gorilla-park-2023-05-18/",
+                            "text": "-\"Four killed in east Congo ambush near gorilla park\". Reuters. 2023-05-18. Retrieved 2023-05-19.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-05-19",
+                                "Created": "2023-05-18"
+                            }
+                        }
+                    ],
+                    "start_date": "19/05/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "28 May  Two rangers are killed in a shooting at Virunga National Park in North Kivu.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/africa/gunmen-kill-two-rangers-congos-virunga-national-park-2023-05-28/",
+                            "text": "-\"Gunmen kill two rangers in Congo's Virunga National Park\". Reuters. 2023-05-28. Retrieved 2023-05-30.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-05-30",
+                                "Created": "2023-05-28"
+                            }
+                        }
+                    ],
+                    "start_date": "28/05/2023",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "June",
+            "Data": [
+                {
+                    "event_text": "12 June  At least 46 people are killed by CODECO in an IDP camp in the Bahema Badjere district of Ituri.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/africa/least-40-killed-militia-attack-camp-displaced-people-congos-ituri-2023-06-12/",
+                            "text": "-Kambale, Erikas Mwisi (2023-06-12). \"Militias attack camp for displaced in Congo's Ituri, over 45 killed\". Reuters. Retrieved 2023-06-13.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-06-13",
+                                "Created": "2023-06-12"
+                            }
+                        }
+                    ],
+                    "start_date": "12/06/2023",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "July",
+            "Data": [
+                {
+                    "event_text": "5 July  At least eight people are killed in attacks in Bungushu, North Kivu.",
+                    "links": [
+                        {
+                            "link": "https://www.france24.com/en/live-news/20230705-at-least-8-dead-in-village-attack-in-eastern-dr-congo",
+                            "text": "-\"At least 8 dead in village attack in eastern DR Congo\". France 24. 2023-07-05. Retrieved 2023-07-06.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-07-06",
+                                "Created": "2023-07-05"
+                            }
+                        }
+                    ],
+                    "start_date": "05/07/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "19 July  An explosive device accidentally detonated in a field in Lubwe, killing 9 and wounding at least 16.",
+                    "links": [
+                        {
+                            "link": "https://www.theeastafrican.co.ke/tea/news/east-africa/nine-killed-in-east-dr-congo-bomb-blast-4310856",
+                            "text": "-\"Nine killed in east DR Congo bomb blast\". The East African.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "19/07/2023",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "October",
+            "Data": [
+                {
+                    "event_text": "30 October  2023 Democratic Republic of the Congo general election The Constitutional Court of the Democratic Republic of the Congo dismisses a case aiming to disqualify former Katanga governor Moïse Katumbi from the presidential election, asserting that Katumbi solely possesses Congolese nationality despite claims of dual citizenship, which the country does not recognize.",
+                    "links": [
+                        {
+                            "link": "https://ewn.co.za/2023/10/30/dr-congo-court-rejects-suit-questioning-opposition-leader-s-nationality",
+                            "text": "-AFP. \"DR Congo court rejects suit questioning opposition leader's nationality\". ewn.co.za. Retrieved 2023-10-31.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-10-31",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "30/10/2023",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "November",
+            "Data": [
+                {
+                    "event_text": "18 November  At least four civilians and three soldiers are killed, with 11 injured, in a mass shooting at a IDP camp in Nyiragongo, North Kivu, amid ongoing conflict between the army and M23 rebels.",
+                    "links": [
+                        {
+                            "link": "https://www.newvision.co.ug/articledetails/NV_175173",
+                            "text": "-\"Shooting in eastern DR Congo kills at least seven\". New Vision. Retrieved 2023-11-20.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-11-20",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "18/11/2023",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "December",
+            "Data": [
+                {
+                    "event_text": "20 December  2023 Democratic Republic of the Congo general election Voters in the Democratic Republic of the Congo elect the President, members of the National Assembly, provincial assemblies, and commune councils.",
+                    "links": [],
+                    "start_date": "20/12/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "26 December  Twenty-two people are killed by floods in Kasaï-Central. Several houses and structures are damaged, with a major road being cut off.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/congo-flooding-kasai-rainfall-cb521113d3f4ed3e5355890359646391",
+                            "text": "-\"Floods in a central province in Congo kill at least 22 people, a local official says\". AP News. 2023-12-26. Retrieved 2023-12-27.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-12-27",
+                                "Created": "2023-12-26"
+                            }
+                        }
+                    ],
+                    "start_date": "26/12/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "29 December  At least 20 people are killed during landslides caused by torrential rains in Mwenga Territory, South Kivu.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/congo-landslides-rains-floods-deaths-82c892e9d99ac2590d48fdcc473aec07",
+                            "text": "-\"At least 20 killed in Congo flooding and landslides, bringing this week's fatalities to over 60\". AP News. 2023-12-29. Retrieved 2023-12-29.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-12-29",
+                                "Created": "2023-12-29"
+                            }
+                        }
+                    ],
+                    "start_date": "29/12/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "31 December  2023 Democratic Republic of the Congo general election President Félix Tshisekedi is declared the winner of the general election.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-africa-67850563",
+                            "text": "-\"DR Congo election: President Felix Tshisekedi declared landslide winner\". 2023-12-31. Retrieved 2024-01-01.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-01-01",
+                                "Created": "2023-12-31"
+                            }
+                        }
+                    ],
+                    "start_date": "31/12/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "",
+                    "links": [],
+                    "start_date": "31/12/2023",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

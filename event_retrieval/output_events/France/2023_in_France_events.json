@@ -1,0 +1,987 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "11 January  Six people are injured in a mass stabbing at Paris' Gare du Nord train station.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-europe-64234281",
+                            "text": "-\"Gare du Nord: Six people injured in stabbing attack\". BBC News. 2023-01-11. Retrieved 2023-01-11.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-01-11",
+                                "Created": "2023-01-11"
+                            }
+                        }
+                    ],
+                    "start_date": "11/01/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Strikes and demonstrations begin throughout France against the government's pension reform project, which plans to raise the retirement age to 64.",
+                    "links": [
+                        {
+                            "link": "https://www.lepoint.fr/societe/en-direct-greve-du-19-janvier-une-journee-de-perturbations-et-de-manifestations-19-01-2023-2505389_23.php",
+                            "text": "-\"EN DIRECT. Grève du 19 janvier : forte mobilisation contre la réforme des retraites\". Le Point (in French). 2023-01-19. Retrieved 2023-01-19.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-01-19",
+                                "Created": "2023-01-19"
+                            }
+                        }
+                    ],
+                    "start_date": "19/01/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "21 January  RT France, the French arm of the Russian state media network RT, ceases operation following the freezing of their bank accounts by the Direction générale du Trésor.",
+                    "links": [
+                        {
+                            "link": "https://www.news18.com/news/world/russias-rt-france-to-close-after-accounts-frozen-channel-head-6887971.html",
+                            "text": "-\"Russia's RT France to Close After Bank Accounts Frozen: Channel Head\". News18. 2023-01-21. Retrieved 2023-01-23.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-01-23",
+                                "Created": "2023-01-21"
+                            }
+                        }
+                    ],
+                    "start_date": "21/01/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "25 January  France agrees to withdraw its 400 special forces from Burkina Faso, following the mandate from the ruling military junta that they withdraw within a month.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-africa-64397730",
+                            "text": "-\"Burkina Faso unrest: France agrees to pull its troops out\". BBC News. 2023-01-25. Retrieved 2023-01-25.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-01-25",
+                                "Created": "2023-01-25"
+                            }
+                        }
+                    ],
+                    "start_date": "25/01/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A second day of strikes and demonstrations occur throughout France against the government's pension reform project, which proposes to raise the retirement age to 64. According to the CGT union, 2.8 million people took part in the protests while the Ministry of Internal Affairs counted 1.272 million protesters.",
+                    "links": [
+                        {
+                            "link": "https://www.bfmtv.com/economie/economie-social/social/carte-greve-contre-la-reforme-des-retraites-ou-auront-lieu-les-manifestations-ce-mardi-31-janvier_AN-202301300127.html",
+                            "text": "-\"CARTE. Grève contre la réforme des retraites: où auront lieu les manifestations ce mardi 31 janvier?\". BFM BUSINESS (in French). 30 January 2023. Retrieved 2023-01-31.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-01-30",
+                                "Created": "2023-01-31"
+                            }
+                        },
+                        {
+                            "link": "https://www.bfmtv.com/economie/economie-social/social/retraites-la-cgt-annonce-2-8-millions-de-manifestants-en-france_AV-202301310684.html",
+                            "text": "-\"RETRAITES: LA CGT ANNONCE 2,8 MILLIONS DE MANIFESTANTS EN FRANCE, 1,272 MILLION SELON LA POLICE\". BFM (in French). 31 January 2023. Retrieved 2023-03-20.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-01-31",
+                                "Created": "2023-03-20"
+                            }
+                        }
+                    ],
+                    "start_date": "31/01/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "About 25% of teachers are on strike according to the Ministry of National Education. This figure is 55% according to the teachers' union SNES-fu.",
+                    "links": [
+                        {
+                            "link": "https://www.tf1info.fr/societe/en-direct-greve-du-31-janvier-2023-contre-la-reforme-des-retraites-perturbations-dans-les-transports-info-trafic-sncf-ratp-tgv-ter-metro-rer-avion-suivez-les-dernieres-informations-2246570.html",
+                            "text": "-\"EN DIRECT - Réforme des retraites : 36,5% de grévistes à la SNCF, en baisse par rapport au 19 janvier\". TF1 INFO (in French). 2023-01-30. Retrieved 2023-01-31.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-01-31",
+                                "Created": "2023-01-30"
+                            }
+                        }
+                    ],
+                    "start_date": "31/01/2023",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "A third day of national protests are held, attended by over 2 million strikers, 400,000 in Paris alone, according to the CGT, while the police estimate that around 757,000 strikers participated.",
+                    "links": [
+                        {
+                            "link": "https://www.liberation.fr/economie/social/reforme-des-retraites-des-manifestations-dune-ampleur-deja-historique-20230202_5MPJ5NZOARB65FLEF2BP2DLBRQ/",
+                            "text": "-Clair, Alice; Guillot, Julien (2 February 2023). \"Réforme des retraites : suivez l'ampleur de la mobilisation, manifestation après manifestation\" [Retirement Reform: follow the size of the mobilisation, protest after protest]. Libération (in French). Retrieved 20 March 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-03-20",
+                                "Created": "2023-02-02"
+                            }
+                        }
+                    ],
+                    "start_date": "07/02/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A fourth day of national protests are held, attended by over 2.5 million strikers, 500,000 of whom were in Paris, according to the CGT, whilst the Ministry of the Interior claims that 963,000 protested.",
+                    "links": [
+                        {
+                            "link": "https://www.lemonde.fr/politique/live/2023/02/11/manifestations-du-11-fevrier-en-direct-entre-963-000-et-2-5-millions-de-personnes-ont-manifeste-samedi-selon-le-ministere-de-l-interieur-et-la-cgt_6161405_823448.html",
+                            "text": "-Villechenon, Anna; Favier, Sandra; L’Hénoret, Solène (11 February 2023). \"Manifestations du 11 février, en direct : entre 963 000 et 2,5 millions de personnes ont manifesté samedi en France\" [11 February Protests: between 963,000 and 2,5 millions of people protested Saturday in France]. Le Monde (in French). Retrieved 20 March 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-03-20",
+                                "Created": "2023-02-11"
+                            }
+                        }
+                    ],
+                    "start_date": "11/02/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Unions said some 1.3 million people participated in strikes nationwide, with 30 percent of flights from Paris' Orly Airport being cancelled.",
+                    "links": [
+                        {
+                            "link": "https://www.france24.com/en/france/20230216-new-pension-strikes-grip-france-as-mps-wage-legislative-battle",
+                            "text": "-\"New pension strikes grip France as MPs wage legislative battle\". France 24. 2023-02-16. Retrieved 2023-03-20.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-03-20",
+                                "Created": "2023-02-16"
+                            }
+                        }
+                    ],
+                    "start_date": "16/02/2023",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "4 March  Twenty-one people are injured in a bus crash in Corps, Auvergne-Rhône-Alpes.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/french-alps-bus-crash-children-02319eed6c8ddb8722659219c6434483",
+                            "text": "-\"Bus with 40 children crashes in French Alps; 21 injured\". AP NEWS. 2023-03-04. Retrieved 2023-03-06.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-03-06",
+                                "Created": "2023-03-04"
+                            }
+                        }
+                    ],
+                    "start_date": "04/03/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Trains around the country continued to be affected by strikes and protests, with 1.1 to 1.4 million people believed to have participated in over 260 protests across the country.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-europe-64870836",
+                            "text": "-\"France pension protests: Fuel deliveries blocked by strikers\". BBC. 2023-03-07. Retrieved 2023-03-20.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-03-20",
+                                "Created": "2023-03-07"
+                            }
+                        }
+                    ],
+                    "start_date": "07/03/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "20 March   votes of no confidence in the government of Élisabeth Borne motions were voted down. The cross-party motion failed by a margin of just 9 votes.",
+                    "links": [],
+                    "start_date": "20/03/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "23 March  Palais Rohan in Bordeaux is set on fire by protesters.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/world-europe-65057249",
+                            "text": "-\"Bordeaux town hall set on fire in France pension protests\". BBC News. 23 March 2023. Retrieved 23 March 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-03-23",
+                                "Created": "2023-03-23"
+                            }
+                        }
+                    ],
+                    "start_date": "23/03/2023",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "2023 Marseille building collapse",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-middle-east-65225984",
+                            "text": "-\"Marseille: Four bodies found after building destroyed in explosion\". BBC News. 2023-04-09. Retrieved 2023-04-10.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-04-10",
+                                "Created": "2023-04-09"
+                            }
+                        }
+                    ],
+                    "start_date": "09/04/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Six people are killed and many others injured by an avalanche near Mont Blanc, in the French Alps.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-europe-65227410",
+                            "text": "-\"French Alps avalanche: Guides among five killed at Armancette glacier\". BBC News. 2023-04-09. Retrieved 2023-04-10.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-04-10",
+                                "Created": "2023-04-09"
+                            }
+                        }
+                    ],
+                    "start_date": "09/04/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "20 April  Operation Wuambushu",
+                    "links": [
+                        {
+                            "link": "https://www.lefigaro.fr/actualite-france/gerald-darmanin-a-mayotte-la-delinquance-ne-l-emportera-pas-sur-les-lois-de-la-republique-20230420",
+                            "text": "-\"Gérald Darmanin: \"À Mayotte, la délinquance ne l'emportera pas sur les lois de la République\"\". LEFIGARO (in French). 20 April 2023. Retrieved 30 April 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-04-30",
+                                "Created": "2023-04-20"
+                            }
+                        }
+                    ],
+                    "start_date": "20/04/2023",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "May",
+            "Data": [
+                {
+                    "event_text": "11 May  The National Assembly votes 130 to 109 for a bill that not only would town halls in have to fly both the French and European flags but also all town halls must display a presidential portrait. The bill goes to the Senate",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/world/2023/may/11/backlash-over-plan-to-force-french-town-halls-to-display-presidential-portrait-emmanuel-macron",
+                            "text": "-Chrisafis, Angelique (11 May 2023). \"Backlash over plan to force French town halls to display presidential portrait\". The Guardian.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2023-05-11"
+                            }
+                        },
+                        {
+                            "link": "https://www.euractiv.com/section/politics/news/les-deputes-valident-le-drapeau-europeen-obligatoire-devant-les-mairies-sans-reelle-conviction/",
+                            "text": "-\"French MPS approve compulsory European flag in front of town halls\". 11 May 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2023-05-11"
+                            }
+                        }
+                    ],
+                    "start_date": "11/05/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "21 May  Three people are killed in a gang shooting in the 11th arrondissement of Marseille.",
+                    "links": [
+                        {
+                            "link": "https://www.bfmtv.com/marseille/marseille-trois-morts-dans-une-fusillade-devant-une-boite-de-nuit-les-suspects-en-fuite_AN-202305210072.html",
+                            "text": "-\"Marseille: trois morts lors d'une fusillade devant une boîte de nuit, les suspects en fuite\". BFMTV (in French). 21 May 2023. Retrieved 2023-05-22.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-05-21",
+                                "Created": "2023-05-22"
+                            }
+                        }
+                    ],
+                    "start_date": "21/05/2023",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "June",
+            "Data": [
+                {
+                    "event_text": "8 June  Six children are injured during a mass stabbing in Lake Annecy, Haute-Savoie. The Syrian perpetrator, a failed asylum seeker, is arrested. A motive behind the attack is still unclear.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-europe-65841666",
+                            "text": "-\"France stabbing: Children attacked by knifeman in Annecy park\". BBC News. 2023-06-08. Retrieved 2023-06-08.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-06-08",
+                                "Created": "2023-06-08"
+                            }
+                        }
+                    ],
+                    "start_date": "08/06/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "16 June  A magnitude 4.8 earthquake strikes Niort, Deux-Sèvres, Nouvelle-Aquitaine, injuring two people and severely damaging hundreds of buildings.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-europe-65940654",
+                            "text": "-\"Rare earthquake damages French homes, schools and churches\". BBC News. 2023-06-17. Retrieved 2023-06-19.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-06-19",
+                                "Created": "2023-06-17"
+                            }
+                        }
+                    ],
+                    "start_date": "16/06/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "21 June  2023 Paris explosion Around 50 people are injured and one is missing after an explosion and fire on Rue Saint-Jacques in Paris.",
+                    "links": [
+                        {
+                            "link": "https://www.cnn.com/2023/06/22/europe/paris-gas-explosion-intl/index.html",
+                            "text": "-Xu, Joseph Ataman,Niamh Kennedy,Xiaofei (2023-06-22). \"One person remains missing after central Paris gas explosions leaves dozens injured\". CNN. Retrieved 2023-06-22.{{cite web}}:  CS1 maint: multiple names: authors list (link)-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-06-22",
+                                "Created": "2023-06-22"
+                            }
+                        }
+                    ],
+                    "start_date": "21/06/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "27 June  Killing of Nahel Merzouk A 17-year-old boy is shot dead by a police officer after an attempted traffic stop in Nanterre, Hauts-de-Seine, Île-de-France. Due to the incident, rioting breaks out.",
+                    "links": [
+                        {
+                            "link": "https://news.sky.com/video/paris-violent-clashes-break-out-after-teen-is-shot-dead-by-police-during-a-traffic-stop-12910817",
+                            "text": "-\"Paris: Violent clashes break out after teen is shot dead by police during a traffic stop\". Sky News. Retrieved 2023-06-28.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-06-28",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "27/06/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "28 June  Nahel Merzouk riots Riots occur in several towns following the killing of Merzouk by a police officer. At least 150 people are arrested, 24 police officers are injured, and 40 cars are set alight. Town halls, schools, and police stations are also set on fire or attacked.",
+                    "links": [
+                        {
+                            "link": "https://edition.cnn.com/2023/06/29/europe/nanterre-france-police-shooting-protests-intl-hnk/index.html",
+                            "text": "-\"150 arrested in second night of French protests after 17-year-old shot dead by police\". CNN.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "28/06/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "29 June  Nahel Merzouk riots Rioting continues for a third night across France with at least 100 people being arrested as 40,000 police officers are deployed to tackle the unrest. A town hall is set on fire in Clichy-sous-Bois, while supermarkets and other shops are looted by gangs in Nantes and Montreuil, Seine-Saint-Denis.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/live/world-europe-66049895",
+                            "text": "-\"France riots: Hundreds more arrested on fourth night\". BBC News. 2023-06-29. Retrieved 2023-07-03.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-07-03",
+                                "Created": "2023-06-29"
+                            }
+                        }
+                    ],
+                    "start_date": "29/06/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Killing of Nahel Merzouk The police officer involved in the killing of Merzouk is charged with homicide.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-europe-66061138",
+                            "text": "-\"France shooting: Policeman charged over teen's traffic stop death\". BBC.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "30/06/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Nahel Merzouk riots Rioters set fire to the main public library in Marseille as civil unrest continues across France. More than 900 people have been arrested and Interior Minister Gérald Darmanin deploys an additional 45,000 police officers to the streets.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/live/world-europe-66049895",
+                            "text": "-\"France riots: Hundreds more arrested on fourth night\". BBC News. 2023-06-29. Retrieved 2023-07-03.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-07-03",
+                                "Created": "2023-06-29"
+                            }
+                        }
+                    ],
+                    "start_date": "30/06/2023",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "July",
+            "Data": [
+                {
+                    "event_text": "Nahel Merzouk riots Riots continue across France. More than 1,300 arrests, and 79 police officers injured.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/live/world-europe-66073728",
+                            "text": "-\"Violence in French cities is 'not for Nahel', says family member\". BBC News. 2023-07-01. Retrieved 2023-07-03.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-07-03",
+                                "Created": "2023-07-01"
+                            }
+                        }
+                    ],
+                    "start_date": "01/07/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Looters raid a gun shop in Marseille, stealing eight hunting rifles and ammunition before police intervene.",
+                    "links": [
+                        {
+                            "link": "https://news.sky.com/story/france-suspends-all-bus-and-tram-services-amid-riots-over-police-shooting-12912490",
+                            "text": "-\"France riots: Looters break into gun shop as 1,300 arrested on fourth night of violence\". Sky News. Retrieved 2023-07-03.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-07-03",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "01/07/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "President Emmanuel Macron cancels a state visit to Germany, which would have been the first state visit in 23 years.",
+                    "links": [
+                        {
+                            "link": "https://www.cbsnews.com/news/nahel-buried-france-macron-cancels-germany-state-visit-riots/",
+                            "text": "-\"Mourners bury Nahel, teen shot by police, as Macron cancels first state visit to Germany in 23 years due to riots - CBS News\". www.cbsnews.com. 2023-07-01. Retrieved 2023-07-03.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-07-03",
+                                "Created": "2023-07-01"
+                            }
+                        }
+                    ],
+                    "start_date": "01/07/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "2 July  Nahel Merzouk riots Rioters ram-raid and set ablaze the residence of L'Haÿ-les-Roses mayor Vincent Jeanbrun, a member of the centre-right Republicans party, injuring the mayor's wife and child. Jeanbrun was at the town hall during the incident.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/europe/rioters-ram-raid-home-french-mayor-wife-injured-2023-07-02/",
+                            "text": "-Pineau, Elizabeth; Overstraeten, Benoit Van (2023-07-02). \"Rioters assault home of French mayor, injure his wife\". Reuters. Retrieved 2023-07-03.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-07-03",
+                                "Created": "2023-07-02"
+                            }
+                        }
+                    ],
+                    "start_date": "02/07/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "3 July  Hundreds march in support of Mayor Vincent Jeanbrun, whose house was set ablaze on Sunday morning.",
+                    "links": [
+                        {
+                            "link": "https://edition.cnn.com/2023/07/03/europe/france-mayor-protests-march-intl/index.html",
+                            "text": "-\"Hundreds march with French mayor whose house was attacked by a burning car\". CNN. 3 July 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2023-07-03"
+                            }
+                        }
+                    ],
+                    "start_date": "03/07/2023",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "August",
+            "Data": [
+                {
+                    "event_text": "9 August  Nine people are killed and two others are missing after a fire breaks out in a guesthouse accommodating disabled people in Wintzenheim, Alsace.",
+                    "links": [
+                        {
+                            "link": "https://www.lemonde.fr/societe/article/2023/08/09/incendie-dans-un-gite-en-alsace-neuf-corps-retrouves-elisabeth-borne-se-rend-sur-place_6184890_3225.html",
+                            "text": "-\"Incendie d'un gîte en Alsace : neuf corps retrouvés, deux personnes \" encore introuvables \" ; Elisabeth Borne attendue sur place\". Le Monde.fr (in French). 2023-08-09. Retrieved 2023-08-09.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-08-09",
+                                "Created": "2023-08-09"
+                            }
+                        }
+                    ],
+                    "start_date": "09/08/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "13 August  Three people are killed and eighteen are injured in a fire in an apartment complex in Grasse, Alpes-Maritimes.",
+                    "links": [
+                        {
+                            "link": "https://nos.nl/artikel/2486456-doden-en-gewonden-door-brand-in-wooncomplex-zuid-franse-stad-grasse",
+                            "text": "-\"Doden en gewonden door brand in wooncomplex Zuid-Franse stad Grasse\". nos.nl (in Dutch). 2023-08-13. Retrieved 2023-08-13.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-08-13",
+                                "Created": "2023-08-13"
+                            }
+                        }
+                    ],
+                    "start_date": "13/08/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "14 August  France announces that supermarket prices increased 13.1% in July according to the national statistics bureau.",
+                    "links": [
+                        {
+                            "link": "https://www.insee.fr/en/statistiques/7658084",
+                            "text": "-\"In July 2023, the prices of frequently purchased goods sold in hyper and supermarkets rose by 12.5% year on year - Informations rapides - 205 | Insee\". www.insee.fr. Retrieved 2023-08-15.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-08-15",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "14/08/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "27 August  France announces plans to ban the Islamic abaya dress in schools.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-europe-66634890",
+                            "text": "-\"France to ban female students from wearing abayas in state schools\". BBC News. 27 August 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2023-08-27"
+                            }
+                        },
+                        {
+                            "link": "https://www.theguardian.com/world/2023/aug/28/france-to-ban-girls-from-wearing-abayas-in-state-schools",
+                            "text": "-Chrisafis, Angelique (28 August 2023). \"France to ban girls from wearing abayas in state schools\". The Guardian.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2023-08-28"
+                            }
+                        },
+                        {
+                            "link": "https://www.aljazeera.com/news/2023/8/27/france-to-ban-wearing-abaya-dress-in-schools-minister",
+                            "text": "-\"France to ban wearing abaya dress in schools: Minister\".-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "27/08/2023",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "September",
+            "Data": [
+                {
+                    "event_text": "3 September  French Prime Minister Élisabeth Borne says that France will ban disposable vapes in an effort to combat smoking.",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/world/2023/sep/03/france-plans-to-ban-disposable-vapes",
+                            "text": "-O'Carroll, Lisa (3 September 2023). \"France planning to ban disposable vapes in effort to combat smoking | France | The Guardian\". amp.theguardian.com. Retrieved 2023-09-03.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-09-03",
+                                "Created": "2023-09-03"
+                            }
+                        }
+                    ],
+                    "start_date": "03/09/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "1922 September  State visit by Charles III to France",
+                    "links": [],
+                    "start_date": "22/09/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "24 September - 2023 French Senate election",
+                    "links": [
+                        {
+                            "link": "http://www.senat.fr/role/senate.html",
+                            "text": "-\"Mode d'élection des Sénateurs: Sénat\". www.senat.fr. Retrieved 2022-06-20.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-06-20",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://www.elections.interieur.gouv.fr/tous-scrutins/elections-senatoriales",
+                            "text": "-\"Les élections sénatoriales | Les élections en France\". www.elections.interieur.gouv.fr. Retrieved 2022-06-20.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-06-20",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "24/09/2023",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "October",
+            "Data": [
+                {
+                    "event_text": "4 October  The government bans Civitas an Traditionalist Catholic, integrist association and political party.",
+                    "links": [
+                        {
+                            "link": "https://www.euractiv.com/section/politics/news/french-government-dissolves-far-right-catholic-association/",
+                            "text": "-\"French government dissolves far-right Catholic association\". 4 October 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2023-10-04"
+                            }
+                        },
+                        {
+                            "link": "https://www.aa.com.tr/en/europe/french-government-dissolves-far-right-catholic-party-civitas/3008065",
+                            "text": "-\"French government dissolves far-right Catholic party Civitas\".-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "04/10/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "12 October  French Interior Minister Gérald Darmanin announces that France will ban all pro-Palestinian protests in the country.",
+                    "links": [
+                        {
+                            "link": "https://www.politico.eu/article/france-gerald-darmanin-aims-to-ban-all-pro-palestine-protests/",
+                            "text": "-\"France orders ban on all pro-Palestinian protests\". POLITICO. 2023-10-12. Retrieved 2023-10-12.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-10-12",
+                                "Created": "2023-10-12"
+                            }
+                        }
+                    ],
+                    "start_date": "12/10/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "13 October  Arras school stabbing A teacher is killed and another teacher and a security guard are seriously wounded in a stabbing attack at a high school in Arras, Hauts-de-France. The Ingush Russian Muslim immigrant attacker, heard shouting \"Allahu akbar\" during the attack, is arrested by police.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-europe-67101089",
+                            "text": "-\"Teacher killed in France school stabbing\". BBC News. 2023-10-13. Retrieved 2023-10-13.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-10-13",
+                                "Created": "2023-10-13"
+                            }
+                        }
+                    ],
+                    "start_date": "13/10/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "14 October  France raises its Vigipirate to the highest level and announces the deployment of 7,000 soldiers through Opération Sentinelle following the Arras stabbing, which President Emmanuel Macron describes as \"Islamist terror\".",
+                    "links": [
+                        {
+                            "link": "https://www.straitstimes.com/world/france-to-deploy-7000-soldiers-after-teachers-slaying",
+                            "text": "-\"France on top alert, deploys 7,000 soldiers after teacher's murder\". The Straits Times. 2023-10-14. ISSN 0585-3923. Retrieved 2023-10-15.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-10-15",
+                                "Created": "2023-10-14"
+                            }
+                        },
+                        {
+                            "link": "https://search.worldcat.org/issn/0585-3923",
+                            "text": "-\"France on top alert, deploys 7,000 soldiers after teacher's murder\". The Straits Times. 2023-10-14. ISSN 0585-3923. Retrieved 2023-10-15.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-10-15",
+                                "Created": "2023-10-14"
+                            }
+                        }
+                    ],
+                    "start_date": "14/10/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "18 October  The Palace of Versailles and three French airports are temporarily evacuated \"for security reasons\".",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/france-airports-evacuated-threats-e8ecfbf5b2dc0b7f24d467db64374259",
+                            "text": "-\"3 French airports, Palace of Versailles evacuated in latest security alerts\". AP News. 2023-10-18. Retrieved 2023-10-19.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-10-19",
+                                "Created": "2023-10-18"
+                            }
+                        }
+                    ],
+                    "start_date": "18/10/2023",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "November",
+            "Data": [
+                {
+                    "event_text": "6 November  French Armed Forces Minister Sébastien Lecornu announces that France will donate dozens of armoured vehicles to the Lebanese military to help it carry out patrol missions.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/middle-east/france-give-armoured-vehicles-lebanese-army-defence-minister-2023-11-06/",
+                            "text": "-\"France to give armoured vehicles to Lebanese army - defence minister\". Reuters. 2023-11-06. Retrieved 2023-11-07.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-11-07",
+                                "Created": "2023-11-06"
+                            }
+                        }
+                    ],
+                    "start_date": "06/11/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "13 November  Over 182,000 demonstrators march in cities across France, protesting the surge in antisemitic incidents since the outbreak of the Israel Hamas war.",
+                    "links": [
+                        {
+                            "link": "https://www.cnn.com/2023/11/13/europe/france-march-antisemitism-israel-hamas-war-intl-hnk/index.html",
+                            "text": "-Gigova, Radina (2023-11-13). \"More than 180,000 demonstrators march in France against antisemitism\". CNN. Retrieved 2023-11-14.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-11-14",
+                                "Created": "2023-11-13"
+                            }
+                        }
+                    ],
+                    "start_date": "13/11/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "15 November  France issues arrest warrants for Syrian president Bashar al-Assad and his brother Maher al-Assad on charges of crimes against humanity and complicity in war crimes, including the 2013 Ghouta chemical attack.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/france-issues-arrest-warrants-against-syrias-president-assad-source-2023-11-15/",
+                            "text": "-\"France issues arrest warrant for Syria's President Assad - source\". Reuters. 2023-11-15. Retrieved 2023-11-16.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-11-16",
+                                "Created": "2023-11-15"
+                            }
+                        }
+                    ],
+                    "start_date": "15/11/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "One of French emperor Napoleon's bicorne hats is sold for a record €1.93 million (around US$2.11 million) at an auction in France.",
+                    "links": [
+                        {
+                            "link": "https://www.kpvi.com/news/national_news/napoleons-hat-sells-for-record-sum-at-french-auction/article_b1866578-a5c6-529c-b87c-21e3debd03d8.html",
+                            "text": "-AFP (2023-11-19). \"Napoleon's hat sells for record sum at French auction\". KPVI. Retrieved 2023-11-20.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-11-20",
+                                "Created": "2023-11-19"
+                            }
+                        }
+                    ],
+                    "start_date": "19/11/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Crépol stabbing",
+                    "links": [],
+                    "start_date": "19/11/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "26 November  The Junior Eurovision Song Contest 2023 is held in Nice, France. France wins the competition with the song \"Cœur\" (\"Heart\"), performed by Zoé Clauzure.",
+                    "links": [
+                        {
+                            "link": "https://allaboutmusic.pl/znamy-date-i-miejsce-eurowizji-junior-2023/",
+                            "text": "-Korycińska, Zuzanna (2023-04-03). \"Znamy datę i miejsce Eurowizji Junior 2023\" [We know the date and venue of Junior Eurovision 2023]. All About Music (in Polish). Archived from the original on July 5, 2023. Retrieved 2023-07-05.-",
+                            "dates": {
+                                "Archieved": "2023-07-05",
+                                "Retrieved": "2023-07-05",
+                                "Created": "2023-04-03"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20230705223018/https://allaboutmusic.pl/znamy-date-i-miejsce-eurowizji-junior-2023/",
+                            "text": "-Korycińska, Zuzanna (2023-04-03). \"Znamy datę i miejsce Eurowizji Junior 2023\" [We know the date and venue of Junior Eurovision 2023]. All About Music (in Polish). Archived from the original on July 5, 2023. Retrieved 2023-07-05.-",
+                            "dates": {
+                                "Archieved": "2023-07-05",
+                                "Retrieved": "2023-07-05",
+                                "Created": "2023-04-03"
+                            }
+                        },
+                        {
+                            "link": "https://www.ebu.ch/news/2023/11/france-wins-junior-eurovision-song-contest-for-2nd-year-in-a-row-with-coeur",
+                            "text": "-Union (EBU), European Broadcasting (2023-11-26). \"France wins Junior Eurovision Song Contest for 2nd year in a row with \"Coeur\"\". www.ebu.ch. Archived from the original on 1 December 2023. Retrieved 2023-12-03.-",
+                            "dates": {
+                                "Archieved": "2023-12-03",
+                                "Retrieved": "2023-12-01",
+                                "Created": "2023-11-26"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20231201103210/https://www.ebu.ch/news/2023/11/france-wins-junior-eurovision-song-contest-for-2nd-year-in-a-row-with-coeur",
+                            "text": "-Union (EBU), European Broadcasting (2023-11-26). \"France wins Junior Eurovision Song Contest for 2nd year in a row with \"Coeur\"\". www.ebu.ch. Archived from the original on 1 December 2023. Retrieved 2023-12-03.-",
+                            "dates": {
+                                "Archieved": "2023-12-03",
+                                "Retrieved": "2023-12-01",
+                                "Created": "2023-11-26"
+                            }
+                        }
+                    ],
+                    "start_date": "26/11/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "28 November  Health Minister Aurélien Rousseau announces a ban on smoking on all beaches and public parks.",
+                    "links": [
+                        {
+                            "link": "https://www.cnn.com/2023/11/28/world/france-ban-smoking-beaches-public-parks/index.html",
+                            "text": "-Liakos, Maya Szaniecki, Chris (2023-11-28). \"France to ban smoking on beaches and public parks\". CNN. Retrieved 2023-11-29.{{cite web}}:  CS1 maint: multiple names: authors list (link)-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-11-29",
+                                "Created": "2023-11-28"
+                            }
+                        }
+                    ],
+                    "start_date": "28/11/2023",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "December",
+            "Data": [
+                {
+                    "event_text": "2 December  2023 Paris attack",
+                    "links": [],
+                    "start_date": "02/12/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "25 December - In Paris, was produced the Sportica Fire in Gravenilles, France, causing several damages",
+                    "links": [
+                        {
+                            "link": "https://www.eurohoops.net/en/proa/1602896/bcm-gravelines-dunkerque-arena-burned-to-the-ground/",
+                            "text": "-\"BCM Gravelines-Dunkerque arena burned to the ground\". Eurohoops.com. December 26, 2023. Retrieved December 26, 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-12-26",
+                                "Created": "2023-12-26"
+                            }
+                        }
+                    ],
+                    "start_date": "25/12/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "26 December  In Paris, a man is arrested for killing his four children and their mother. The mother and two daughters were stabbed several times, while the couple’s two sons were suffocated or drowned.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/france-family-killed-father-arrested-bdbd246a5acedc11ac64ed17a067c024",
+                            "text": "-\"4 young children and their mother were killed in their French home. The father is in custody\". AP News. 2023-12-26. Retrieved 2023-12-26.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-12-26",
+                                "Created": "2023-12-26"
+                            }
+                        }
+                    ],
+                    "start_date": "26/12/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "31 December  The Château du Grand-Serquigny in Normandy is destroyed by fire.",
+                    "links": [
+                        {
+                            "link": "https://www.thetimes.com/news/world/blaze-leaves-chateau-in-ruins-after-moat-hampers-firefighters-qz2zfm2sm",
+                            "text": "-Paris, Charles Bremner (2024-01-03). \"Fire leaves château in ruins after moat hampers firefighters\". The Times. ISSN 0140-0460. Retrieved 2024-01-03.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-01-03",
+                                "Created": "2024-01-03"
+                            }
+                        },
+                        {
+                            "link": "https://search.worldcat.org/issn/0140-0460",
+                            "text": "-Paris, Charles Bremner (2024-01-03). \"Fire leaves château in ruins after moat hampers firefighters\". The Times. ISSN 0140-0460. Retrieved 2024-01-03.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-01-03",
+                                "Created": "2024-01-03"
+                            }
+                        }
+                    ],
+                    "start_date": "31/12/2023",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

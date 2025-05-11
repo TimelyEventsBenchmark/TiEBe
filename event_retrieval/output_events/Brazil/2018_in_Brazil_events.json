@@ -1,0 +1,861 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "An apparent gang riot at Colônia Agroindustrial prison in Goiânia results in nine deaths and 14 inmates injured.  Authorities report 233 prisoners escaped; 29  were recaptured, and 109 prisoners returned voluntarily.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/article/us-brazil-prison-riot/nine-dead-in-latest-outbreak-of-brazilian-prison-violence-idUSKBN1EQ1AD?il=0",
+                            "text": "-\"Nine dead in latest outbreak of Brazilian prison violence\". Reuters. January 2018. Retrieved 2 January 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-01-02",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://www.theguardian.com/world/2018/jan/02/deaths-reported-after-inmates-battle-at-brazilian-prison",
+                            "text": "-\"Nine deaths reported after rival gangs battle in Brazilian prison: Attackers set mattresses on fire and burned bodies of those killed, authorities say\". The Guardian. Associated Press. January 1, 2018. Retrieved February 14, 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-02-14",
+                                "Created": "2018-01-01"
+                            }
+                        }
+                    ],
+                    "start_date": "01/01/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Petrobras announces it would pay $2.95 billion to settle a shareholder lawsuit in the United States stemming from the bribes and kickbacks in the Operation Car Wash scandal. The company said in a filing with the US Securities and Exchange Commission (SEC) that it had been a victim of dishonesty but that it had decided that it was in its best interest to settle and minimize uncertainty and risk.",
+                    "links": [
+                        {
+                            "link": "https://www.nytimes.com/2018/01/03/business/dealbook/brazil-petrobras-corruption-scandal.html",
+                            "text": "-\nChad Bray; Stanley Reed (January 3, 2018). \"Petrobras of Brazil to Pay $2.95 Billion Over Corruption Scandal\". Dealbook. New York Times. Retrieved February 9, 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-02-09",
+                                "Created": "2018-01-03"
+                            }
+                        }
+                    ],
+                    "start_date": "03/01/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Standard and Poor's reduces Brazil's credit rating from BB to BB−.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/article/us-brazil-sovereign-downgrade-idUSKBN1F101Q",
+                            "text": "-Jake Spring; Lisandra Paraguassu (11 January 2018). \"S&P cuts Brazil debt rating as pension reform doubts grow\". Retrieved 19 August 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-08-19",
+                                "Created": "2018-01-11"
+                            }
+                        }
+                    ],
+                    "start_date": "11/01/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The World Health Organization calculates the incidence of yellow fever cases, which includes the state of São Paulo in a risk area.",
+                    "links": [],
+                    "start_date": "16/01/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The public prosecutor in São Paulo files a civil suit against BNY Mellon alleging mishandling of postal worker retirement funds for Postalis.",
+                    "links": [
+                        {
+                            "link": "http://markets.businessinsider.com/news/interestrates/BRAZIL-Prosecutors-Want-BNY-Mellon-To-Pay-R-8-2-Billion-To-Postalis-1013249362",
+                            "text": "-\"BRAZIL: Prosecutors Want BNY Mellon To Pay R$ 8.2 Billion To Postalis\". RTTNews. January 18, 2018. Retrieved February 13, 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-02-13",
+                                "Created": "2018-01-18"
+                            }
+                        }
+                    ],
+                    "start_date": "18/01/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A car hits a group of pedestrians near Copacabana Beach in Rio de Janeiro, causing injuries to fifteen people and killing an infant. Police report that the driver had an epileptic seizure.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-latin-america-42742877",
+                            "text": "-\"Car hits pedestrians near Rio's Copacabana beach\". BBC News. 19 January 2018. Retrieved 19 January 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-01-19",
+                                "Created": "2018-01-19"
+                            }
+                        }
+                    ],
+                    "start_date": "19/01/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Workers' Party (PT) insists that former president Luiz Inácio Lula da Silva will be their candidate for the upcoming presidential election, even though a conviction for corruption bars him from participating.",
+                    "links": [
+                        {
+                            "link": "https://web.archive.org/web/20180125190248/https://uk.reuters.com/article/uk-brazil-politics-analysis/brazils-left-sticks-by-wounded-lula-no-plan-b-idUKKBN1FE2LE",
+                            "text": "-\"Brazil's left sticks by wounded Lula; 'no Plan B'\". Reuters. Archived from the original on January 25, 2018. Retrieved 25 January 2018.-",
+                            "dates": {
+                                "Archieved": "2018-01-25",
+                                "Retrieved": "2018-01-25",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://uk.reuters.com/article/uk-brazil-politics-analysis/brazils-left-sticks-by-wounded-lula-no-plan-b-idUKKBN1FE2LE",
+                            "text": "-\"Brazil's left sticks by wounded Lula; 'no Plan B'\". Reuters. Archived from the original on January 25, 2018. Retrieved 25 January 2018.-",
+                            "dates": {
+                                "Archieved": "2018-01-25",
+                                "Retrieved": "2018-01-25",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "25/01/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "An appeals court upholds the corruption conviction of Luiz Inácio Lula da Silva, by far the frontrunner in the upcoming presidential election. His sentence has also increased to twelve years and his lawyers plan to appeal. Lula has also expressed intentions of campaigning for office until physically prevented from doing so.",
+                    "links": [
+                        {
+                            "link": "https://theintercept.com/2018/01/24/lula-brazil-corruption-conviction-car-wash/",
+                            "text": "-Leandro Demori; Andrew Fishman (January 24, 2018). \"EX-PRESIDENT LULA'S CORRUPTION CONVICTION IS UPHELD BY BRAZILIAN APPEALS COURT. NOW WHAT?\". The Intercept. Retrieved February 9, 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-02-09",
+                                "Created": "2018-01-24"
+                            }
+                        }
+                    ],
+                    "start_date": "24/01/2018",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "Police announce that Postalis lost a billion reals ($1.9 billion) to embezzlement.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/article/brazil-corruption-postalis/brazil-police-probes-graft-involving-post-office-pension-fund-idUSL2N1PR0BY",
+                            "text": "-\"Brazil police probes graft involving post office pension fund\". Reuters. February 1, 2018. Retrieved February 13, 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-02-13",
+                                "Created": "2018-02-01"
+                            }
+                        }
+                    ],
+                    "start_date": "01/02/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Munduruku leaders accuse the Fundação Nacional do Índio (Funai) and Chico Mendes Institute for Biodiversity Conservation for failing to take action against illegal mining in their territory. Indigenous leaders say they will take matters into their own hands, as the group had previously taken over the Belo Monte Dam in 2013.",
+                    "links": [
+                        {
+                            "link": "http://www1.folha.uol.com.br/internacional/en/brazil/2018/02/1955440-native-brazilians-try-to-close-major-illegal-mining-site-polluting-river-in-para.shtml",
+                            "text": "-FABIANO MAISONNAVE (February 5, 2018). \"Native Brazilians Try to Close Major Illegal Mining Site Polluting River in Pará\". Retrieved February 13, 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-02-13",
+                                "Created": "2018-02-05"
+                            }
+                        }
+                    ],
+                    "start_date": "05/02/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "State-owned oil company Petrobras announces plans to sell an oil refinery in Pasadena, Texas, whose purchase was featured prominently in the Operation Car Wash investigation.",
+                    "links": [
+                        {
+                            "link": "https://www.chron.com/business/energy/article/Petrobras-to-sell-Pasadena-refinery-12558002.php",
+                            "text": "-Katherine Blunt (February 7, 2018). \"Petrobras to sell Pasadena refinery\". YASUYOSHI CHIBA (photo). Houston Chronicle. Retrieved February 10, 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-02-10",
+                                "Created": "2018-02-07"
+                            }
+                        }
+                    ],
+                    "start_date": "07/02/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Police say they have found no evidence to support the charge that Michel Temer caused a benefit to Rodrimar SA, who operate the Port of Santos, Latin America's busiest port. A refusal was also shown, after a video made by cooperating witness Rocha Loures of a conversation on the subject with Temer's legal advisor.",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/world/2018/feb/11/brazilian-president-michel-temer-will-escape-bribery-charges-say-police",
+                            "text": "-\"Brazilian president Michel Temer will escape bribery charges, say police: The inquiry into payments from a port operator is the only remaining case against the corruption-hit leader\". The Guardian. Reuters. 10 February 2018. Retrieved 24 April 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-04-24",
+                                "Created": "2018-02-10"
+                            }
+                        }
+                    ],
+                    "start_date": "10/02/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "President Temer pledges assistance to a massive influx of refugees from Venezuela in the northern state of Roraima. It's reported that there are 40,000 displaced Venezuelans in Boa Vista, where many are living in the streets.",
+                    "links": [
+                        {
+                            "link": "http://www.dw.com/en/desperate-venezuelans-pouring-into-brazil/a-42558289",
+                            "text": "-\"Desperate Venezuelans pouring into Brazil: Officials in northern Brazil are demanding federal aid to help manage the influx of people seeking food and shelter. The president promised help while vowing that the country wouldn't turn its back on the Venezuelans\". Deutsche Welle. February 12, 2018. Retrieved February 13, 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-02-13",
+                                "Created": "2018-02-12"
+                            }
+                        }
+                    ],
+                    "start_date": "11/02/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "BNDES announces that it has extended a $2 billion line of credit to Angola for economic development.",
+                    "links": [
+                        {
+                            "link": "https://worldview.stratfor.com/situation-report/angola-brazil-extends-2-billion-line-credit-economic-development",
+                            "text": "-\"Angola: Brazil Extends $2 Billion Line Of Credit For Economic Development\". Stratfor.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "12/02/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Kinross Gold Corporation acquires two hydroelectric power plants in Brazil and reports a profit for 4th quarter 2017.",
+                    "links": [
+                        {
+                            "link": "http://www.kitco.com/news/2018-02-14/Kinross-Lists-4Q-Profit-Acquires-Power-Plants-For-Brazilian-Mine.html",
+                            "text": "-Allen Sykora (February 14, 2018). \"Kinross Lists 4Q Profit, Acquires Power Plants For Brazilian Mine\". Retrieved February 14, 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-02-14",
+                                "Created": "2018-02-14"
+                            }
+                        }
+                    ],
+                    "start_date": "14/02/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Federal intervention begins in Rio de Janeiro. This is the first federal intervention since the 1988 constitution, as General Walter Braga Netto is appointed state intervenor.",
+                    "links": [
+                        {
+                            "link": "https://g1.globo.com/politica/noticia/temer-assina-decreto-de-intervencao-federal-na-seguranca-do-rio-de-janeiro.ghtml",
+                            "text": "-\"Temer assina decreto de intervenção federal na segurança do Rio de Janeiro\". G1. 16 January 2018. Retrieved 16 January 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-01-16",
+                                "Created": "2018-01-16"
+                            }
+                        }
+                    ],
+                    "start_date": "16/02/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The federal government decides to suspend the progress of the pension reform.",
+                    "links": [
+                        {
+                            "link": "https://oglobo.globo.com/economia/governo-decide-suspender-tramitacao-da-reforma-da-previdencia-22412096",
+                            "text": "-\"Governo decide suspender tramitação da Reforma da Previdência\". O Globo. 19 February 2018. Retrieved 4 March 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-03-04",
+                                "Created": "2018-02-19"
+                            }
+                        }
+                    ],
+                    "start_date": "19/02/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Reports show that North Korean leader Kim Jong-un and his father Kim Jong-il used fraudulently-obtained Brazilian passports in order to apply for visas to visit Western countries in the 1990s.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/article/us-northkorea-kim-passports-exclusive/exclusive-north-korean-leaders-used-brazilian-passports-to-apply-for-western-visas-sources-idUSKCN1GB2AY",
+                            "text": "-\"North Korean leaders used Brazilian passports to apply for Western visas - sources\". Reuters. 27 February 2018. Retrieved 28 February 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-02-28",
+                                "Created": "2018-02-27"
+                            }
+                        }
+                    ],
+                    "start_date": "28/02/2018",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "Minister Edson Fachin includes President Michel Temer in an inquiry into Operation Lava Jato, which is also investigating ministers Eliseu Padilha and Moreira Franco. According to the investigation, indications of bribes being paid at the Secretariat of Civil Aviation of the Presidency of the Republic are being investigated, according to Odebrecht's statements .",
+                    "links": [
+                        {
+                            "link": "https://g1.globo.com/politica/operacao-lava-jato/noticia/fachin-inclui-temer-em-investigacao-sobre-eliseu-padilha-e-moreira-franco.ghtml",
+                            "text": "-\"Fachin inclui Temer em inquérito da Lava Jato que investiga Padilha e Moreira Franco\". G1. 2 March 2018. Retrieved 2 April 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-04-02",
+                                "Created": "2018-03-02"
+                            }
+                        }
+                    ],
+                    "start_date": "02/03/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Rio de Janeiro city councilor and outspoken police critic Marielle Franco (PSOL) is shot dead, along with her driver, Anderson Gomes, in a drive-by shooting around 930 PM in the Estácio neighborhood. Franco was the fifth most voted candidate in the city's last election, with more than 46,000 votes.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-latin-america-43414527",
+                            "text": "-\"Brazil: Big rallies held after Rio politician is shot dead\". BBC News. 15 March 2018. Retrieved 16 March 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-03-16",
+                                "Created": "2018-03-15"
+                            }
+                        },
+                        {
+                            "link": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2018/03/14/marielle-franco-vereadora-do-psol-e-assassinada-no-rio.htm",
+                            "text": "-\"Vereadora Marielle Franco é assassinada no Rio\". Uol. 14 March 2018. Retrieved 16 March 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-03-16",
+                                "Created": "2018-03-14"
+                            }
+                        }
+                    ],
+                    "start_date": "14/03/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A blackout that lasts more than 5 hours affects the Northeast Region and the North Region, as well as some cities in all regions partially. The electric energy collapse is caused by human error, after programming an erroneous circuit breaker at the Belo Monte substation.",
+                    "links": [
+                        {
+                            "link": "https://www1.folha.uol.com.br/mercado/2018/04/apagao-que-deixou-norte-e-nordeste-sem-luz-foi-causado-por-falha-humana-diz-ons.shtml",
+                            "text": "-\"Apagão que deixou Norte e Nordeste sem luz foi causado por falha humana, diz ONS\". Folha. 6 April 2018. Retrieved 11 April 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-04-11",
+                                "Created": "2018-04-06"
+                            }
+                        }
+                    ],
+                    "start_date": "21/03/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "During a visit to Guarapuava, Paraná, two caravan buses belonging to former president Luiz Inácio Lula da Silva is attacked. Consequently, the local event is cancelled.",
+                    "links": [
+                        {
+                            "link": "https://www1.folha.uol.com.br/poder/2018/03/ataque-a-caravana-de-lula-foi-coisa-localizada-diz-governador-do-parana.shtml",
+                            "text": "-\"Ataque a caravana de Lula foi coisa localizada, diz governador do Paraná\". Folha. 29 March 2018. Retrieved 1 March 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-03-01",
+                                "Created": "2018-03-29"
+                            }
+                        },
+                        {
+                            "link": "http://politica.estadao.com.br/blogs/fausto-macedo/ataque-a-caravana-de-lula-e-um-atentado-a-democracia-diz-ministro-do-tse/",
+                            "text": "-\"'Ataque à caravana de Lula é um atentado à democracia', diz ministro do TSE\". Estadão. 28 March 2018. Retrieved 2 April 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-04-02",
+                                "Created": "2018-03-28"
+                            }
+                        }
+                    ],
+                    "start_date": "28/03/2018",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "An earthquake with a 6.8 magnitude that hit Bolivia is felt in numerous Brazilian cities. The Federal District, Avenida Paulista, Santos, Marília, Tupã, São Carlos, Araxá, Belo Horizonte, Uberlândia, Paraná, Rio Grande do Sul, and Santa Catarina are all affected by the earthquake.",
+                    "links": [
+                        {
+                            "link": "https://www.metropoles.com/distrito-federal/terremoto-na-bolivia-e-sentido-em-brasilia-e-deixa-pessoas-em-panico",
+                            "text": "-\"Terremoto na Bolívia é sentido em Brasília e deixa pessoas em pânico\". Metrópoles. 2 April 2018. Retrieved 2 April 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-04-02",
+                                "Created": "2018-04-02"
+                            }
+                        },
+                        {
+                            "link": "https://g1.globo.com/df/distrito-federal/noticia/predios-do-centro-de-brasilia-sao-evacuados-apos-tremor.ghtml",
+                            "text": "-\"Prédios do centro de Brasília são esvaziados após tremor de terra\". G1. 2 April 2018. Retrieved 2 April 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-04-02",
+                                "Created": "2018-04-02"
+                            }
+                        }
+                    ],
+                    "start_date": "01/04/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The habeas corpus requested by the defense of former president Luiz Inácio Lula da Silva is rejected by the Supreme Federal Court, with 6 votes to 5.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/portuguese/brasil-43639714",
+                            "text": "-\"Por 6 votos a 5, STF nega habeas corpus e abre caminho para prisão de Lula\". BBC. 4 April 2018. Retrieved 6 April 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-04-06",
+                                "Created": "2018-04-04"
+                            }
+                        }
+                    ],
+                    "start_date": "04/04/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "After rejecting the request for habeas corpus, federal judge Sergio Moro orders the arrest of former President Luiz Inácio Lula da Silva. The sentence is 12 years and 1 month in prison by the TRF-4, due to the crimes of passive corruption and money laundering in the case of a triplex of Guarujá.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/article/us-brazil-politics-lula-prison/brazil-judge-orders-ex-president-lula-jailed-by-friday-afternoon-idUSKCN1HC2TJ",
+                            "text": "-\"Brazil judge orders ex-president Lula jailed by Friday afternoon\". Reuters. 5 April 2018. Retrieved 6 April 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-04-06",
+                                "Created": "2018-04-05"
+                            }
+                        },
+                        {
+                            "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2018/04/05/moro-decreta-prisao-de-lula-e-determina-que-ele-se-apresente-ate-amanha.htm",
+                            "text": "-\"Moro decreta prisão de Lula e determina que ele se apresente até sexta (6)\". UOL. 5 April 2018. Retrieved 6 April 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-04-06",
+                                "Created": "2018-04-05"
+                            }
+                        }
+                    ],
+                    "start_date": "05/04/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Former President Luiz Inácio Lula da Silva gives a public address alongside his impeached successor Dilma Rousseff at a steelworkers' union building  in Sao Bernardo do Campo, saying he will comply with an arrest warrant, despite maintining his innocence. Lula surrenders to police and arrives in Curitiba to begin a 12-year sentence for corruption, after two failed appeals to have the warrant withdrawn.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-latin-america-43684332",
+                            "text": "-\"Supporters of Brazil's Lula stop him surrendering\". BBC News. 7 April 2018. Retrieved 8 April 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-04-08",
+                                "Created": "2018-04-07"
+                            }
+                        },
+                        {
+                            "link": "https://www.bbc.co.uk/news/world-latin-america-43686174",
+                            "text": "-\"Lula: Former Brazilian president surrenders to police\". BBC News. 7 April 2018. Retrieved 8 April 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-04-08",
+                                "Created": "2018-04-07"
+                            }
+                        }
+                    ],
+                    "start_date": "07/04/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "FIFA hands a lifetime ban to Brazilian Football Confederation President Marco Polo Del Nero, for taking bribes. He is also fined one million Swiss francs.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/sport/football/43925205",
+                            "text": "-\"Marco Polo del Nero: Fifa ban Brazilian FA president for life over taking bribes\". BBC Sport. Retrieved 28 April 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-04-28",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "27/04/2018",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "May",
+            "Data": [
+                {
+                    "event_text": "Edifício Wilton Paes de Almeida, a 26-story tower block in São Paulo, is destroyed by a fire and consequent collapse. Neighbouring buildings are also damaged by fire.  Occupied by about 90 families, firefighters point to at least one victim in the rubble and 34 missing. Authorities warn the casualty toll is \"likely to be high\".",
+                    "links": [
+                        {
+                            "link": "http://metro.co.uk/2018/05/01/residential-tower-block-collapses-huge-fire-rips-building-7511628/",
+                            "text": "-\"Block of flats collapses in Sao Paulo, Brazil, after fire rips through building\". Metro. May 2018. Retrieved 1 May 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-05-01",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://g1.globo.com/sp/sao-paulo/ao-vivo/incendio-de-grandes-proporcoes-atinge-predios-no-centro-de-sp.ghtml",
+                            "text": "-\"Prédio de 24 andares desaba em incêndio no Centro de SP\". G1. 1 May 2018. Retrieved 1 May 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-05-01",
+                                "Created": "2018-05-01"
+                            }
+                        },
+                        {
+                            "link": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2018/05/01/bombeiros-apontam-ao-menos-uma-vitima-sob-escombros-de-incendio-45-pessoas-sao-procuradas.htm",
+                            "text": "-\"Bombeiros apontam ao menos uma vítima sob escombros de incêndio; 34 pessoas são procuradas\". UOL. 1 May 2018. Retrieved 1 May 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-05-01",
+                                "Created": "2018-05-01"
+                            }
+                        }
+                    ],
+                    "start_date": "01/05/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "- Truck drivers go on a national strike for five straight days. Drivers are protesting against the increase in fuel prices, the end of tolls for suspended axles, and tax reform related to truck driving. The stoppage has affected public and private bodies.",
+                    "links": [
+                        {
+                            "link": "https://g1.globo.com/economia/ao-vivo/greve-de-caminhoneiros-maio-de-2018.ghtml",
+                            "text": "-\"Greve de caminhoneiros, no 5º dia, causa reflexos pelo país\". G1. Globo.com. 25 May 2018. Retrieved 25 May 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-05-25",
+                                "Created": "2018-05-25"
+                            }
+                        },
+                        {
+                            "link": "https://oglobo.globo.com/economia/lider-dos-caminhoneiros-diz-que-greve-so-sera-suspensa-com-fim-do-piscofins-sobre-diesel-22711191",
+                            "text": "-\"Líder dos caminhoneiros diz que greve só será suspensa com fim do PIS/Cofins sobre diesel\". O Globo. 24 May 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2018-05-24"
+                            }
+                        },
+                        {
+                            "link": "https://g1.globo.com/economia/noticia/greve-dos-caminhoneiros-afeta-abastecimento-de-pereciveis-em-supermercados-e-paralisa-producao-de-frigorificos.ghtml",
+                            "text": "-\"Greve dos caminhoneiros afeta abastecimento de perecíveis em supermercados e paralisa produção de frigoríficos\". G1. 24 May 2018. Retrieved 24 May 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-05-24",
+                                "Created": "2018-05-24"
+                            }
+                        }
+                    ],
+                    "start_date": "21/05/2018",
+                    "end_date": "25/05/2018"
+                }
+            ]
+        },
+        {
+            "Month": "June",
+            "Data": [
+                {
+                    "event_text": "The Temer administration creates the Unified Public Security System (SUSP) to integrate security and intelligence bodies; standardize information, statistics and procedures; among several other measures aimed at integrating the security forces.",
+                    "links": [
+                        {
+                            "link": "https://g1.globo.com/economia/noticia/balanca-comercial-tem-superavit-us-67-bilhoes-em-2017-o-maior-em-29-anos.ghtml",
+                            "text": "-\"Com superávit de US$ 67 bilhões, balança comercial registra em 2017 o melhor resultado em 29 anos\". G1 (in Brazilian Portuguese). 2018-01-02. Retrieved 2023-06-11.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-06-11",
+                                "Created": "2018-01-02"
+                            }
+                        }
+                    ],
+                    "start_date": "11/06/2018",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "August",
+            "Data": [
+                {
+                    "event_text": "The Superior Electoral Court rules that former President and Workers' Party (PT) presidential candidate Luiz Inácio Lula da Silva cannot run in the election because he does not qualify under the Clean Slate law. The Court also rules that PT cannot run political ads featuring Lula.",
+                    "links": [
+                        {
+                            "link": "https://www.nytimes.com/2018/08/31/world/americas/lula-president-brazil.html",
+                            "text": "-Darlington, Shasta (September 2018). \"Brazilian Court Rules That 'Lula' Cannot Run for President\". The New York Times. Retrieved 1 September 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-09-01",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "31/08/2018",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "September",
+            "Data": [
+                {
+                    "event_text": "A massive fire destroys most of the Paço de São Cristóvão, which houses the National Museum of Brazil, in Rio de Janeiro. The museum holds important archaeological and anthropological objects, including the remains of the Luzia Woman, Marajoara vases and Egyptian mummies. It is estimated that 80% of the museum's collection was lost in the incident.",
+                    "links": [
+                        {
+                            "link": "https://g1.globo.com/google/amp/rj/rio-de-janeiro/noticia/2018/09/02/incendio-atinge-a-quinta-da-boa-vista-rio.ghtml",
+                            "text": "-\"Incêndio de grandes proporções destrói o Museu Nacional, na Quinta da Boa Vista\". G1 (in Portuguese). Retrieved 3 September 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-09-03",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://archive.today/20180903042012/https://uk.reuters.com/article/uk-brazil-fire-museum/rios-200-year-old-national-museum-hit-by-massive-fire-idUKKCN1LJ00C",
+                            "text": "-\"Brazil mourns blaze at National Museum, seeks answers to 'tragedy foretold'\". Reuters. 3 September 2018. Archived from the original on September 3, 2018. Retrieved 3 September 2018.-",
+                            "dates": {
+                                "Archieved": "2018-09-03",
+                                "Retrieved": "2018-09-03",
+                                "Created": "2018-09-03"
+                            }
+                        },
+                        {
+                            "link": "https://uk.reuters.com/article/uk-brazil-fire-museum/rios-200-year-old-national-museum-hit-by-massive-fire-idUKKCN1LJ00C",
+                            "text": "-\"Brazil mourns blaze at National Museum, seeks answers to 'tragedy foretold'\". Reuters. 3 September 2018. Archived from the original on September 3, 2018. Retrieved 3 September 2018.-",
+                            "dates": {
+                                "Archieved": "2018-09-03",
+                                "Retrieved": "2018-09-03",
+                                "Created": "2018-09-03"
+                            }
+                        }
+                    ],
+                    "start_date": "02/09/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Presidential candidate Jair Bolsonaro is stabbed in the abdomen, while campaigning and interacting with supporters in Juiz de Fora, Minas Gerais.",
+                    "links": [],
+                    "start_date": "06/09/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Workers' Party announces Fernando Haddad's candidacy for the presidency, after Lula da Silva's candidacy was rejected by the Superior Electoral Court on August 31.",
+                    "links": [],
+                    "start_date": "11/09/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Popular demonstrations take place in more than 100 cities across Brazil against presidential candidate Jair Bolsonaro.",
+                    "links": [
+                        {
+                            "link": "https://brasil.elpais.com/brasil/2018/09/29/politica/1538226863_062834.html",
+                            "text": "-\"Mulheres lideram multidão contra Bolsonaro em São Paulo, Rio e Recife\". El País. 30 September 2018. Retrieved 30 September 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-09-30",
+                                "Created": "2018-09-30"
+                            }
+                        }
+                    ],
+                    "start_date": "29/09/2018",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "October",
+            "Data": [
+                {
+                    "event_text": "First round of general elections take place. For president, candidates Jair Bolsonaro (PSL) and Fernando Haddad (PT) go to the second round, which will be held on .",
+                    "links": [
+                        {
+                            "link": "https://www1.folha.uol.com.br/poder/2018/10/bolsonaro-e-haddad-se-enfrentarao-no-segundo-turno-projeta-datafolha.shtml",
+                            "text": "-\"Bolsonaro e Haddad se enfrentarão no segundo turno\". Folha de S.Paulo. Uol. 7 October 2018. Retrieved 30 October 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-10-30",
+                                "Created": "2018-10-07"
+                            }
+                        }
+                    ],
+                    "start_date": "07/10/2018",
+                    "end_date": "28/10/2018"
+                },
+                {
+                    "event_text": "The second round of general elections take place. With just over 55% of the votes, PSL candidate Jair Bolsonaro defeats Fernando Haddad (PT) and is elected president of Brazil.",
+                    "links": [
+                        {
+                            "link": "https://web.archive.org/web/20171124102701/http://www.2018eleicoes.com.br/calendario-eleitoral-2018/",
+                            "text": "-\"Eleições 2018 Brasil TSE Apuração e Resultados\". Eleições 2018 (in Portuguese). Archived from the original on 24 November 2017. Retrieved 7 December 2017.-",
+                            "dates": {
+                                "Archieved": "2017-11-24",
+                                "Retrieved": "2017-12-07",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "http://www.2018eleicoes.com.br/calendario-eleitoral-2018/",
+                            "text": "-\"Eleições 2018 Brasil TSE Apuração e Resultados\". Eleições 2018 (in Portuguese). Archived from the original on 24 November 2017. Retrieved 7 December 2017.-",
+                            "dates": {
+                                "Archieved": "2017-11-24",
+                                "Retrieved": "2017-12-07",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://www.bbc.com/news/world-latin-america-46013408",
+                            "text": "-\"Jair Bolsonaro: Far-right candidate wins Brazil poll\". BBC News. 28 October 2018. Retrieved 28 October 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-10-28",
+                                "Created": "2018-10-28"
+                            }
+                        }
+                    ],
+                    "start_date": "28/10/2018",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "November",
+            "Data": [
+                {
+                    "event_text": "The president-elect of Brazil, Jair Bolsonaro, states that he will honor his campaign pledge, by moving the country's embassy in Israel from Tel Aviv to Jerusalem.",
+                    "links": [
+                        {
+                            "link": "https://www.dw.com/en/brazils-jair-bolsonaro-to-move-embassy-to-jerusalem/a-46126040",
+                            "text": "-\"Brazil's Jair Bolsonaro to move embassy to Jerusalem\". AP via Deutsche Welle. Retrieved 3 November 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-11-03",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "02/11/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A landslide in Niterói leaves at least 10 people dead, while eleven others are injured.",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/world/2018/nov/10/brazil-mudslide-rio-de-janeiro",
+                            "text": "-\"Multiple fatalities in mudslide near Rio de Janeiro\". The Guardian. 10 November 2018. Retrieved 12 November 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-11-12",
+                                "Created": "2018-11-10"
+                            }
+                        }
+                    ],
+                    "start_date": "10/11/2018",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "December",
+            "Data": [
+                {
+                    "event_text": "Eleven people die, including five hostages, as armed police battle robbers who tried to raid two banks in Milagres.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-latin-america-46487147",
+                            "text": "-\"Hostages die in foiled Brazil bank robberies\". BBC News. 7 December 2018. Retrieved 8 December 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-12-08",
+                                "Created": "2018-12-07"
+                            }
+                        }
+                    ],
+                    "start_date": "07/12/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A gunman kills five people and injures three others during a mass at a Catholic cathedral in Campinas. Afterwards, the gunman commits suicide in front of the altar.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-latin-america-46529733",
+                            "text": "-\"Brazil shooting: Five dead as gunman opens fire in cathedral\". BBC News. 11 December 2018. Retrieved 11 December 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-12-11",
+                                "Created": "2018-12-11"
+                            }
+                        },
+                        {
+                            "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2018/12/13/ataque-na-catedral-indaiatuba-recebe-velorio-da-quinta-vitima-do-atirador-de-campinas.ghtml",
+                            "text": "-Bom Dia Cidade (13 December 2018). \"Ataque na Catedral: quinta vítima do atirador de Campinas é velada em Indaiatuba\". G1. Retrieved 13 December 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-12-13",
+                                "Created": "2018-12-13"
+                            }
+                        }
+                    ],
+                    "start_date": "11/12/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "After receiving more than 300 complaints, the Public Prosecutor's Office of Goiás orders the arrest of medium John of God, over allegations of sexual abuse.",
+                    "links": [
+                        {
+                            "link": "https://g1.globo.com/go/goias/noticia/2018/12/14/justica-decreta-prisao-de-joao-de-deus-apos-denuncias-de-abusos-sexuais-em-abadiania.ghtml",
+                            "text": "-\"Justiça decreta prisão de João de Deus após denúncias de abusos sexuais em Abadiânia\". g1. 14 December 2018. Retrieved 31 December 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-12-31",
+                                "Created": "2018-12-14"
+                            }
+                        }
+                    ],
+                    "start_date": "14/12/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "John of God surrenders himself to the police.",
+                    "links": [
+                        {
+                            "link": "https://g1.globo.com/go/goias/noticia/2018/12/16/medium-joao-de-deus-e-preso-suspeito-de-abusos-sexuais.ghtml",
+                            "text": "-\"João de Deus, suspeito de abusos sexuais, se entrega à polícia em Goiás\". g1. 16 December 2018. Retrieved 31 December 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-12-31",
+                                "Created": "2018-12-16"
+                            }
+                        }
+                    ],
+                    "start_date": "16/12/2018",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

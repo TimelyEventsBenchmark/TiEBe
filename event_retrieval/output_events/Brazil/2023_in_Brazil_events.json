@@ -1,0 +1,2100 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "28 December-15 January Ten members of a family are kidnapped and murdered in the Federal District.",
+                    "links": [],
+                    "start_date": "15/01/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Luiz Inácio Lula da Silva is sworn in as the 39th President of Brazil after defeating incumbent president Jair Bolsonaro in a runoff election held on 30 October 2022, receiving 50.90% of the total votes to Bolsonaro's 49.10%",
+                    "links": [
+                        {
+                            "link": "https://g1.globo.com/politica/noticia/2023/01/01/lula-chega-ao-congresso-para-tomar-posse-como-39o-presidente-do-brasil.ghtml",
+                            "text": "-\"'DEMOCRACIA PARA SEMPRE'\". Globo (in Brazilian Portuguese). January 2023. Retrieved 2023-01-03.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-01-03",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "01/01/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Lula declares three days of national mourning for footballer Pelé, who died on 29 December 2022.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/sport/football/64151618",
+                            "text": "-\"Thousands line Santos streets for Pele's funeral\". BBC Sport. Retrieved 2023-01-03.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-01-03",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://wwos.nine.com.au/football/pele-death-2022-three-days-of-mourning-declared-in-brazil-craig-foster-pays-tribute-to-legend/cf65b82e-6015-4d03-b0d9-a2097e753b92",
+                            "text": "-\"Three days of mourning declared after Pele's death\". wwos.nine.com.au. 29 December 2022. Retrieved 2023-01-03.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-12-29",
+                                "Created": "2023-01-03"
+                            }
+                        }
+                    ],
+                    "start_date": "01/01/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "3 January Wake and burial of Pelé at Vila Belmiro in Santos.",
+                    "links": [
+                        {
+                            "link": "https://g1.globo.com/sp/santos-regiao/noticia/2023/01/03/funeral-de-pele-veja-a-despedida-ao-idolo-do-futebol-em-11-imagens.ghtml",
+                            "text": "-\"Funeral de Pelé: veja a despedida ao ídolo do futebol em 11 imagens\". Globo (in Brazilian Portuguese). 3 January 2023. Retrieved 2023-02-01.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-01-03",
+                                "Created": "2023-02-01"
+                            }
+                        }
+                    ],
+                    "start_date": "03/01/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "8 January Supporters of the previous president, Jair Bolsonaro, invade the Supreme Court of Brazil, National Congress of Brazil, and the Planalto Presidential Palace in the Praça dos Três Poderes in Brasília. A federal intervention in public security in the Federal District is decreed.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-latin-america-64204860",
+                            "text": "-\"Bolsonaro supporters storm Brazilian Congress\". BBC News. 2023-01-08. Retrieved 2023-01-08.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-01-08",
+                                "Created": "2023-01-08"
+                            }
+                        },
+                        {
+                            "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2023/01/08/bolsonaristas-congresso-policia.htm",
+                            "text": "-\"Terroristas bolsonaristas invadem e depredam Congresso, Planalto e STF\". Uol (in Brazilian Portuguese). 2023-01-08. Retrieved 2023-01-08.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-01-08",
+                                "Created": "2023-01-08"
+                            }
+                        }
+                    ],
+                    "start_date": "08/01/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "9 January STF justice Alexandre de Moraes suspends Ibaneis Rocha, Governor of the Federal District, for 90 days for allowing the invasion of government buildings by Bolsonaro supporters.",
+                    "links": [
+                        {
+                            "link": "https://www.correiobraziliense.com.br/cidades-df/2023/01/5064733-alexandre-de-moraes-determina-afastamento-de-ibaneis-do-governo-do-df.html",
+                            "text": "-\"Alexandre de Moraes determina afastamento de Ibaneis do governo do DF\". Correio Braziliense (in Brazilian Portuguese). 2023-01-09. Retrieved 2023-01-09.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-01-09",
+                                "Created": "2023-01-09"
+                            }
+                        }
+                    ],
+                    "start_date": "09/01/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "14 January Former Minister of Justice and Public Security, Anderson Torres, is arrested in Brasília on charges of facilitating the actions of Bolsonaro supporters during the invasion of the Praça dos Três Poderes.",
+                    "links": [
+                        {
+                            "link": "https://g1.globo.com/df/distrito-federal/noticia/2023/01/14/anderson-torres-chega-em-brasilia-para-se-entregar-a-policia-federal.ghtml",
+                            "text": "-\"Anderson Torres é preso pela Polícia Federal após chegar a Brasília\". Globo (in Brazilian Portuguese). 2023-01-14. Retrieved 2023-01-15.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-01-15",
+                                "Created": "2023-01-14"
+                            }
+                        }
+                    ],
+                    "start_date": "14/01/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "18 January Lula dismisses 13 more military personnel from the presidential cabinet, whom he blames for the attack in Brasília.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/americas/lula-dismisses-more-military-personnel-security-detail-after-brazil-riots-2023-01-18/",
+                            "text": "-\"Lula dismisses more military personnel from security detail after Brazil riots\". Reuters. 2023-01-18. Retrieved 2023-01-18.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-01-18",
+                                "Created": "2023-01-18"
+                            }
+                        }
+                    ],
+                    "start_date": "18/01/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "19 January The retail chain Lojas Americanas files for bankruptcy protection after discovering a financial deficit of R$20 million (US$3.88 billion) and blocking part of its accounts due to debts with creditors.",
+                    "links": [
+                        {
+                            "link": "https://g1.globo.com/economia/noticia/2023/01/19/americanas-entra-com-pedido-de-recuperacao-judicial.ghtml",
+                            "text": "-\"Americanas pede recuperação judicial, com dívida de R$ 43 bilhões\". Globo (in Brazilian Portuguese). 2023-01-19. Retrieved 2023-01-20.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-01-20",
+                                "Created": "2023-01-19"
+                            }
+                        }
+                    ],
+                    "start_date": "19/01/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Footballer Dani Alves is arrested in Spain on charges of sexual assault.",
+                    "links": [
+                        {
+                            "link": "https://ge.globo.com/futebol/futebol-internacional/noticia/2023/01/20/daniel-alves-e-detido-na-espanha-por-suspeita-de-agressao-sexual.ghtml",
+                            "text": "-\"Daniel Alves é detido na Espanha por suspeita de agressão sexual\". Globo (in Brazilian Portuguese). 2023-01-20. Retrieved 2023-01-23.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-01-23",
+                                "Created": "2023-01-20"
+                            }
+                        }
+                    ],
+                    "start_date": "20/01/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Ministry of Health declares a public health emergency in the Yanomami Indigenous Territory.",
+                    "links": [
+                        {
+                            "link": "https://web.archive.org/web/20230127055054/https://www.gov.br/saude/pt-br/assuntos/noticias/2023/janeiro/ministerio-da-saude-declara-emergencia-em-saude-publica-em-territorio-yanomami",
+                            "text": "-\"Ministério da Saúde declara emergência em saúde pública em território Yanomami\". Ministério da Saúde (in Brazilian Portuguese). 2023-01-21. Archived from the original on 2023-01-27. Retrieved 2023-01-27.-",
+                            "dates": {
+                                "Archieved": "2023-01-27",
+                                "Retrieved": "2023-01-27",
+                                "Created": "2023-01-21"
+                            }
+                        },
+                        {
+                            "link": "https://www.gov.br/saude/pt-br/assuntos/noticias/2023/janeiro/ministerio-da-saude-declara-emergencia-em-saude-publica-em-territorio-yanomami",
+                            "text": "-\"Ministério da Saúde declara emergência em saúde pública em território Yanomami\". Ministério da Saúde (in Brazilian Portuguese). 2023-01-21. Archived from the original on 2023-01-27. Retrieved 2023-01-27.-",
+                            "dates": {
+                                "Archieved": "2023-01-27",
+                                "Retrieved": "2023-01-27",
+                                "Created": "2023-01-21"
+                            }
+                        }
+                    ],
+                    "start_date": "20/01/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "21 January Commander of the Brazilian Army Júlio César de Arruda is fired by Lula in the aftermath of the Brasília attack and is replaced by Tomás Miguel Ribeiro Paiva.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/jair-bolsonaro-politics-brazil-government-caribbean-luiz-inacio-lula-da-silva-42151a9c0ea511391b990a9527754c1e",
+                            "text": "-\"Brazil's army chief fired in aftermath of capital uprising\". AP News. 2023-01-21. Retrieved 2023-01-23.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-01-23",
+                                "Created": "2023-01-21"
+                            }
+                        }
+                    ],
+                    "start_date": "21/01/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "28 January The Press Vehicle Consortium, which was created in 2020 to disseminate data on the COVID-19 pandemic in Brazil, officially closes.",
+                    "links": [
+                        {
+                            "link": "https://g1.globo.com/bemestar/coronavirus/noticia/2023/01/28/criado-para-divulgar-dados-sobre-covid-consorcio-de-veiculos-de-imprensa-chega-ao-fim.ghtml",
+                            "text": "-\"Criado para divulgar dados sobre Covid, consórcio de veículos de imprensa chega ao fim\". Globo (in Brazilian Portuguese). 2023-01-28. Retrieved 2023-01-30.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-01-30",
+                                "Created": "2023-01-28"
+                            }
+                        }
+                    ],
+                    "start_date": "28/01/2023",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "2 February Former federal deputy Daniel Silveira is arrested in Petrópolis for failing to comply with precautionary measures defined by the Supreme Federal Court.",
+                    "links": [
+                        {
+                            "link": "https://g1.globo.com/politica/noticia/2023/02/02/daniel-silveira-e-preso.ghtml",
+                            "text": "-\"Daniel Silveira é preso em Petrópolis, no Rio, um dia após ficar sem mandato de deputado\". G1 (in Brazilian Portuguese). 2023-02-02. Retrieved 2023-02-02.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-02-02",
+                                "Created": "2023-02-02"
+                            }
+                        }
+                    ],
+                    "start_date": "02/02/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "3 February The navy scuttles the decommissioned aircraft carrier São Paulo into the Atlantic Ocean, following the rejections of injunctions from the Ministry of the Environment and the Federal Public Ministry.",
+                    "links": [
+                        {
+                            "link": "https://www.rfi.fr/en/international-news/20230204-brazil-scuttles-warship-in-atlantic-despite-pollution-concerns",
+                            "text": "-\"Brazil scuttles warship in Atlantic despite pollution concerns\". RFI. 2023-02-04. Retrieved 2023-02-04.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-02-04",
+                                "Created": "2023-02-04"
+                            }
+                        }
+                    ],
+                    "start_date": "03/02/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "5 February A vessel with 14 people on board sinks in Guanabara Bay, leaving 3 dead and 5 missing.",
+                    "links": [
+                        {
+                            "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2023/02/05/embarcacao-afunda-na-baia-de-guanabara.ghtml",
+                            "text": "-\"Naufrágio na Baía de Guanabara deixa 3 mortos e 5 desaparecidos\". Globo (in Brazilian Portuguese). 2023-02-05. Retrieved 2023-02-12.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-02-12",
+                                "Created": "2023-02-05"
+                            }
+                        }
+                    ],
+                    "start_date": "05/02/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "13 February Heavy rains cause flooding and landslides in São Gonçalo, Rio de Janeiro.",
+                    "links": [
+                        {
+                            "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2023/02/14/prefeitura-de-sao-goncalo-decreta-situacao-de-emergencia-apos-temporal.ghtml",
+                            "text": "-\"Prefeitura de São Gonçalo decreta situação de emergência após temporal; 'Nós somos esquecidos aqui', diz moradora\". Globo (in Brazilian Portuguese). 2023-02-14. Retrieved 2023-02-15.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-02-15",
+                                "Created": "2023-02-14"
+                            }
+                        }
+                    ],
+                    "start_date": "13/02/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "1823 February Heavy rains cause flooding and landslides in the coastal municipalities of São Paulo. At least 65 people have been killed, of which 64 were in São Sebastião.",
+                    "links": [
+                        {
+                            "link": "https://www.aljazeera.com/news/2023/2/21/death-toll-from-flooding-in-brazil-rises-to-44",
+                            "text": "-\"Death toll from flooding in Brazil rises to 44\". Al Jazeera. 21 February 2023. Retrieved 21 February 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-02-21",
+                                "Created": "2023-02-21"
+                            }
+                        }
+                    ],
+                    "start_date": "23/02/2023",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "8 March Part of the roof of the Osasco Plaza Shopping mall in Greater São Paulo collapses, with no one injured.",
+                    "links": [
+                        {
+                            "link": "https://g1.globo.com/jornal-nacional/noticia/2023/03/08/parte-de-teto-de-shopping-desaba-em-osasco-na-grande-sao-paulo.ghtml",
+                            "text": "-\"Parte de teto de shopping desaba em Osasco, na Grande São Paulo\". G1 (in Brazilian Portuguese). 2023-03-08. Retrieved 2023-03-14.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-03-14",
+                                "Created": "2023-03-08"
+                            }
+                        }
+                    ],
+                    "start_date": "08/03/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "12 March At least eight people are killed after a landslide hits homes in the East Zone of Manaus.",
+                    "links": [
+                        {
+                            "link": "https://g1.globo.com/am/amazonas/noticia/2023/03/13/deslizamento-de-terra-atinge-casas-no-jorge-teixeira-e-deixa-desaparecidos-em-manaus.ghtml",
+                            "text": "-\"Deslizamento de terra atinge casas no Jorge Teixeira e deixa ao menos 8 mortos, em Manaus\". G1 (in Brazilian Portuguese). 2023-03-12. Retrieved 2023-03-14.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-03-14",
+                                "Created": "2023-03-12"
+                            }
+                        }
+                    ],
+                    "start_date": "12/03/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "14 March A wave of criminal attacks begin in 14 cities in Rio Grande do Norte. The attacks are believed to have been orchestrated by a local crime syndicate after police killed members of the group.",
+                    "links": [
+                        {
+                            "link": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2023/03/14/cidades-do-rn-tem-madrugada-de-ataques-a-tiros-e-incendios-em-comercios-veiculos-e-orgaos-publicos.ghtml",
+                            "text": "-\"Cidades do RN têm madrugada de ataques a tiros e incêndios em comércios, veículos e órgãos públicos\". G1 Globo (in Brazilian Portuguese). 2023-03-14. Retrieved 2023-03-14.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-03-14",
+                                "Created": "2023-03-14"
+                            }
+                        }
+                    ],
+                    "start_date": "14/03/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Over 220 Brazilian National Guardsmen are deployed to the northeastern states of Rio Grande do Norte and Paraíba after imprisoned gang members riot, causing three deaths and class cancellations in both states.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/brazil-rioting-prison-gang-violence-d9ab671d2e9face86bd817599699c0b6",
+                            "text": "-\"3 dead in rioting blamed on gangs in Brazil's northeast\". AP News. 2023-03-16. Retrieved 2023-04-07.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-04-07",
+                                "Created": "2023-03-16"
+                            }
+                        }
+                    ],
+                    "start_date": "16/03/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "After being away for 66 days, Ibaneis Rocha returns as Governor of the Federal District after authorization from STF justice Alexandre de Moraes.",
+                    "links": [
+                        {
+                            "link": "https://www.cnnbrasil.com.br/politica/moraes-autoriza-retorno-de-ibaneis-rocha-ao-governo-do-distrito-federal/",
+                            "text": "-\"Moraes autoriza retorno de Ibaneis Rocha ao governo do Distrito Federal\". CNN Brasil (in Brazilian Portuguese). 2023-03-15. Retrieved 2023-03-27.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-03-27",
+                                "Created": "2023-03-15"
+                            }
+                        }
+                    ],
+                    "start_date": "16/03/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "17 March  A helicopter crashes in Barra Funda (East Zone of São Paulo), killing 4 people.",
+                    "links": [
+                        {
+                            "link": "https://g1.globo.com/sp/sao-paulo/noticia/2023/03/17/helicoptero-cai-na-zona-oeste-de-sp.ghtml",
+                            "text": "-\"Helicóptero cai na Zona Oeste de SP, e 4 pessoas morreram\". G1 (in Brazilian Portuguese). 2023-03-17. Retrieved 2023-03-19.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-03-19",
+                                "Created": "2023-03-17"
+                            }
+                        }
+                    ],
+                    "start_date": "17/03/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "23 March 13 people are dead after a police raid in a favela in São Gonçalo, Rio de Janeiro. Two of the Comando Vermelho gang leaders from the northern states of Pará and Sergipe are also captured.",
+                    "links": [
+                        {
+                            "link": "https://www.barrons.com/news/brazil-police-raid-leaves-11-dead-in-favela-near-rio-media-9d18ff81",
+                            "text": "-Presse, AFP-Agence France. \"Brazil Police Raid Leaves 13 Dead In Favela Near Rio: Media\". www.barrons.com. Retrieved 2023-04-05.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-04-05",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "23/03/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "24 March  Heavy rains cause flooding in six states in the North and Northeast regions.",
+                    "links": [
+                        {
+                            "link": "https://g1.globo.com/ac/acre/noticia/2023/03/25/chuvas-causam-estragos-em-ao-menos-5-estados-do-norte-acre-tem-mais-de-32-mil-atingidos-e-amazonas-tem-casas-arrastadas-pela-agua.ghtml",
+                            "text": "-\"Chuvas causam estragos em 6 estados do Norte e do Nordeste; AC tem mais de 32 mil atingidos e AM tem casas arrastadas pela água\". Globo (in Brazilian Portuguese). 2023-03-25. Retrieved 2023-03-26.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-03-26",
+                                "Created": "2023-03-25"
+                            }
+                        }
+                    ],
+                    "start_date": "24/03/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "24-26 March The tenth edition of Lollapalooza.",
+                    "links": [
+                        {
+                            "link": "https://cultura.uol.com.br/entretenimento/noticias/2023/03/24/6304_lollapalooza-comeca-nesta-sexta-24-com-billie-eilish-e-lil-nas-x-entre-os-destaques.html",
+                            "text": "-\"Lollapalooza começa nesta sexta (24) com Billie Eilish e Lil Nas X entre os destaques\". TV Cultura (in Brazilian Portuguese). Retrieved 2023-03-24.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-03-24",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "26/03/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "25 March The inauguration of the São Paulo ePrix.",
+                    "links": [
+                        {
+                            "link": "https://the-race.com/formula-e/formula-e-2023-calendar/",
+                            "text": "-Sam Smith (2022-06-29). \"Calendar for Formula E's first Gen3 season revealed\". The Race. Retrieved 2022-07-31.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-07-31",
+                                "Created": "2022-06-29"
+                            }
+                        }
+                    ],
+                    "start_date": "25/03/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "26 March After 32 years, the band Skank perform their last show in front of 50,000 people at the Mineirão Stadium in Belo Horizonte.",
+                    "links": [
+                        {
+                            "link": "https://www1.folha.uol.com.br/ilustrada/2023/03/skank-faz-ultimo-show-para-mineirao-com-50-mil-pessoas-e-encerra-turne-de-despedida.shtml",
+                            "text": "-\"Skank canta com Milton Nascimento em último show no Mineirão e encerra turnê\". Folha de S. Paulo. March 26, 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2023-03-26"
+                            }
+                        }
+                    ],
+                    "start_date": "26/03/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "27 March A 13-year-old student carries out a knife attack at a public school in Vila Sônia, São Paulo, resulting in a teacher being killed and five others injured.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/americas/brazilian-teen-stabs-teacher-death-wounds-five-others-school-2023-03-27/",
+                            "text": "-\"Brazilian teen stabs teacher to death, wounds five others at school\". Reuters. 2023-03-27. Retrieved 2023-04-07.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-04-07",
+                                "Created": "2023-03-27"
+                            }
+                        },
+                        {
+                            "link": "https://g1.globo.com/sp/sao-paulo/noticia/2023/03/27/professores-e-alunos-sao-esfaqueados-dentro-de-escola-estadual-na-zona-sul-de-sp-diz-pm.ghtml",
+                            "text": "-\"Uma professora morre e três ficam feridas em ataque a escola estadual em SP; aluno também se feriu\". G1 (in Brazilian Portuguese). 2023-03-27. Retrieved 2023-03-27.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-03-27",
+                                "Created": "2023-03-27"
+                            }
+                        }
+                    ],
+                    "start_date": "27/03/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "28 March Brazil reaches the 700,000 mark of deaths from COVID-19.",
+                    "links": [
+                        {
+                            "link": "https://www.cnnbrasil.com.br/saude/com-reducao-no-ritmo-brasil-ultrapassa-marca-de-700-mil-mortes-por-covid-19/",
+                            "text": "-\"Com redução no ritmo, Brasil ultrapassa marca de 700 mil mortes por Covid-19\". CNN Brasil. 2023-03-28. Retrieved 2023-04-02.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-04-02",
+                                "Created": "2023-03-28"
+                            }
+                        }
+                    ],
+                    "start_date": "28/03/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "29 March Brazil and China sign an agreement to trade in their own currencies, ceasing the usage of the United States dollar as an intermediary.",
+                    "links": [
+                        {
+                            "link": "https://www.straitstimes.com/world/china-brazil-strike-deal-to-ditch-dollar-for-trade",
+                            "text": "-cue (2023-03-30). \"China, Brazil strike deal to ditch dollar for trade | The Straits Times\". www.straitstimes.com. Retrieved 2023-04-07.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-04-07",
+                                "Created": "2023-03-30"
+                            }
+                        }
+                    ],
+                    "start_date": "29/03/2023",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "5 April Four children are killed and five others are injured after a man attacks a kindergarten with a hatchet in Blumenau, Santa Catarina.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-latin-america-65192957",
+                            "text": "-\"Brazil kindergarten attack: Man kills four children in Blumenau\". BBC News. 2023-04-05. Retrieved 2023-04-10.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-04-10",
+                                "Created": "2023-04-05"
+                            }
+                        },
+                        {
+                            "link": "https://g1.globo.com/sc/santa-catarina/noticia/2023/04/05/ataque-creche-blumenau.ghtml",
+                            "text": "-\"Quatro crianças são mortas em ataque a creche em Blumenau; homem foi preso\". Globo (in Brazilian Portuguese). 2023-04-05. Retrieved 2023-04-05.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-04-05",
+                                "Created": "2023-04-05"
+                            }
+                        }
+                    ],
+                    "start_date": "05/04/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A boat carrying tourists sinks in Bertioga, São Paulo, killing two people.",
+                    "links": [
+                        {
+                            "link": "https://g1.globo.com/sp/santos-regiao/porto-mar/noticia/2023/04/08/naufragio-no-litoral-de-sp-causa-morte-e-deixa-pessoas-desaparecidas-video.ghtml",
+                            "text": "-\"Barco com turistas afunda no litoral de SP e deixa um morto; há dois desaparecidos\". Globo (in Brazilian Portuguese). 2023-04-08. Retrieved 2023-04-11.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-04-11",
+                                "Created": "2023-04-08"
+                            }
+                        }
+                    ],
+                    "start_date": "08/04/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Heavy rains cause flooding in 64 municipalities in Maranhão.",
+                    "links": [
+                        {
+                            "link": "https://www.cnnbrasil.com.br/nacional/chuvas-no-maranhao-afetam-35-mil-pessoas-defesa-civil-confirma-6-mortes/",
+                            "text": "-\"Chuvas no Maranhão afetam 35 mil pessoas; Defesa Civil confirma 6 mortes\". CNN Brasil (in Brazilian Portuguese). 2023-04-11. Retrieved 2023-04-11.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-04-11",
+                                "Created": "2023-04-11"
+                            }
+                        }
+                    ],
+                    "start_date": "08/04/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "18 April The Public Prosecutor's Office of Goiás opens an investigation against football players, betting houses, and betters from Santos FC, S.C. Corinthians Paulista, Red Bull Bragantino, Esporte Clube Juventude, and  Cuiabá Esporte Clube under suspicion of manipulation. Arrest and search and seizure warrants are issued in six states.",
+                    "links": [
+                        {
+                            "link": "https://ge.globo.com/go/futebol/noticia/2023/04/18/o-problema-da-manipulacao-de-resultados-tambem-e-de-atletas-clubes-casas-de-aposta-e-cbf-diz-ministerio-publico-de-goias.ghtml",
+                            "text": "-\"Manipulação na Série A: veja quais são os clubes investigados\". ge - Globo Esporte (in Portuguese). Grupo Globo. 2023-04-18. Retrieved 19 April 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-04-19",
+                                "Created": "2023-04-18"
+                            }
+                        }
+                    ],
+                    "start_date": "18/04/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "19 April Gonçalves Dias resigns as Secretary of Institutional Security (GSI) after CNN Brazil releases footage of him and GSI employees guiding Bolsonaro supporters inside the Palácio do Planalto during the Brazilian Congress attack on January 8.",
+                    "links": [
+                        {
+                            "link": "https://www.cnnbrasil.com.br/politica/apos-videos-revelados-pela-cnn-goncalves-dias-pede-afastamento-do-gsi/",
+                            "text": "-Falcão, Tainá. \"Após vídeos revelados pela CNN, Gonçalves Dias pede demissão do GSI\". CNN Brasil (in Brazilian Portuguese). Retrieved 2024-08-01.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-08-01",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "19/04/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Telegram is blocked again in Brazil after failing to comply with a court ruling by the Espírito Santo Court of Justice (TJES) after failing to hand over evidence of crimes committed by groups considered as neo-Nazi by the Federal Police.",
+                    "links": [
+                        {
+                            "link": "https://www.cnnbrasil.com.br/nacional/justica-federal-manda-suspender-telegram-temporariamente-e-aplica-multa-de-r-1-milhao-por-dia/",
+                            "text": "-\"Justiça Federal manda suspender Telegram temporariamente e aplica multa de R$ 1 milhão por dia\". CNN Brasil (in Brazilian Portuguese). Retrieved 2024-08-01.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-08-01",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "26/04/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The 8 January CPMI is installed in the National Congress of Brazil, which investigates the January 8th attack of the Praça dos Três Poderes.",
+                    "links": [
+                        {
+                            "link": "https://www.metropoles.com/brasil/veja-qual-sera-a-composicao-da-cpi-mista-do-8-1-no-congresso-nacional",
+                            "text": "-\"Veja qual será a composição da CPI mista do 8/1 no Congresso Nacional\". Metropoles (in Brazilian Portuguese). 26 April 2023. Retrieved 2024-08-05.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-04-26",
+                                "Created": "2024-08-05"
+                            }
+                        }
+                    ],
+                    "start_date": "26/04/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "27 April A building collapses in Olinda, Pernambuco, killing three people.",
+                    "links": [
+                        {
+                            "link": "https://www.folhape.com.br/noticias/terceiro-obito-e-confirmado-no-desabamento-em-olinda/268296/",
+                            "text": "-\"Terceiro óbito é confirmado no desabamento de prédio em Olinda\". Folha de Pernambuco (in Brazilian Portuguese). 2023-04-28. Retrieved 2023-04-28.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-04-28",
+                                "Created": "2023-04-28"
+                            }
+                        }
+                    ],
+                    "start_date": "27/04/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "28 April President Luiz Inácio Lula da Silva signs a law recognizing six indigenous lands.",
+                    "links": [
+                        {
+                            "link": "https://www.pbs.org/newshour/world/brazilian-president-lula-resumes-recognition-of-indigenous-land-areas",
+                            "text": "-\"Brazilian President Lula resumes recognition of Indigenous land areas\". PBS. 28 April 2023. Retrieved 2024-08-03.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-04-28",
+                                "Created": "2024-08-03"
+                            }
+                        }
+                    ],
+                    "start_date": "28/04/2023",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "May",
+            "Data": [
+                {
+                    "event_text": "9-10 May Football clubs participating in the Campeonato Brasileiro Série A remove players who are under investigation per Operation Maximum Penalty.",
+                    "links": [
+                        {
+                            "link": "https://placar.abril.com.br/brasileirao/seis-clubes-da-serie-a-afastam-atletas-citados-em-esquema-de-apostas",
+                            "text": "-\"Seis clubes da Série A afastam atletas citados em esquema de apostas\". Placar (in Brazilian Portuguese). 2023-05-10. Retrieved 2023-05-11.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-05-11",
+                                "Created": "2023-05-10"
+                            }
+                        }
+                    ],
+                    "start_date": "10/05/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "By unanimous decision, the Superior Electoral Court revokes Deltan Dallagnol's (Podemos-PR) term as federal deputy due to fraud against the Clean Record Act.",
+                    "links": [
+                        {
+                            "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2023/05/16/processo-tse-cassacao-deltan-dallagnol.htm",
+                            "text": "-\"Por unanimidade, TSE derruba registro e cassa mandato de Deltan Dallagnol\". UOL (in Brazilian Portuguese). 2023-05-16. Retrieved 2023-05-17.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-05-17",
+                                "Created": "2023-05-16"
+                            }
+                        }
+                    ],
+                    "start_date": "16/05/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Superior Court of Sports Justice (STJD) suspends eight players investigated in Operation Maximum Penalty for fraud in sports betting.",
+                    "links": [
+                        {
+                            "link": "https://g1.globo.com/jornal-nacional/noticia/2023/05/16/stjd-suspende-oito-jogadores-investigados-por-fraudes-em-apostas-esportivas-por-30-dias.ghtml",
+                            "text": "-\"STJD suspende oito jogadores investigados por fraudes em apostas esportivas por 30 dias\". G1 (in Brazilian Portuguese). 2023-05-16. Retrieved 2023-05-17.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-05-17",
+                                "Created": "2023-05-16"
+                            }
+                        }
+                    ],
+                    "start_date": "16/05/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Ministry of Health declares a state of zoosanitary emergency due to an increase in cases of avian influenza.",
+                    "links": [
+                        {
+                            "link": "https://www.cnnbrasil.com.br/economia/governo-decreta-estado-de-emergencia-em-todo-o-pais-apos-casos-de-gripe-aviaria/",
+                            "text": "-\"Ministério da Saúde declara emergência em saúde pública em território Yanomami\" (in Brazilian Portuguese). CNN Brasil. 2023-05-22. Retrieved 2023-05-31.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-05-31",
+                                "Created": "2023-05-22"
+                            }
+                        }
+                    ],
+                    "start_date": "22/05/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Rio de Janeiro Police find the body of actor Jeff Machado, who has been missing since the end of January.",
+                    "links": [
+                        {
+                            "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2023/05/24/corpo-do-ator-jeff-machado-e-encontrado.ghtml",
+                            "text": "-\"Polícia encontra corpo do ator Jeff Machado enterrado em baú e concretado em terreno na Zona Oeste do Rio\" (in Brazilian Portuguese). G1. 2023-05-22. Retrieved 2023-05-31.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-05-31",
+                                "Created": "2023-05-22"
+                            }
+                        }
+                    ],
+                    "start_date": "22/05/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "31 May The Supreme Federal Court sentences former President Fernando Collor to 8 years and 10 months in prison for passive corruption and money laundering.",
+                    "links": [
+                        {
+                            "link": "https://www.cnnbrasil.com.br/politica/fernando-collor-e-condenado-a-8-anos-e-10-meses-de-prisao-pelo-stf/",
+                            "text": "-\"Fernando Collor é condenado a 8 anos e 10 meses de prisão pelo STF\". CNN Brasil (in Brazilian Portuguese). 2023-05-31. Retrieved 2023-05-31.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-05-31",
+                                "Created": "2023-05-31"
+                            }
+                        }
+                    ],
+                    "start_date": "31/05/2023",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "June",
+            "Data": [
+                {
+                    "event_text": "8 June A tanker truck carrying fuel overturns and catches fire in Serra de Petrópolis, Rio de Janeiro, killing the driver of the vehicle.",
+                    "links": [
+                        {
+                            "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2023/06/08/caminhao-pega-fogo-e-motorista-morre-na-subida-da-serra-de-petropolis.ghtml",
+                            "text": "-\"Motorista morre após caminhão tombar e pegar fogo na Serra de Petrópolis; VÍDEO mostra explosão\". Globo (in Brazilian Portuguese). 2023-06-08. Retrieved 2023-06-08.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-06-08",
+                                "Created": "2023-06-08"
+                            }
+                        }
+                    ],
+                    "start_date": "08/06/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "15 June An extratropical cyclone hits Rio Grande do Sul, killing 16 people and leaving around 14,000 homeless.",
+                    "links": [
+                        {
+                            "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2023/06/16/ciclone-no-rio-grande-do-sul.ghtml",
+                            "text": "-\"Ciclone no RS: temporais causam alagamentos, bloqueio de estradas, cancelamento de voos e falta de luz\". G1 (in Brazilian Portuguese). 2023-06-16. Retrieved 2023-06-16.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-06-16",
+                                "Created": "2023-06-16"
+                            }
+                        }
+                    ],
+                    "start_date": "15/06/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "16 June An earthquake with an estimated magnitude of 4.7 hits municipalities on the coast of São Paulo and the Ribeira Valley.",
+                    "links": [
+                        {
+                            "link": "https://www1.folha.uol.com.br/cotidiano/2023/06/tremor-de-terra-e-sentido-por-moradores-do-litoral-paulista-e-vale-do-ribeira.shtml",
+                            "text": "-\"Terremoto é sentido por moradores do litoral paulista e Vale do Ribeira\". Folha de S. Paulo (in Brazilian Portuguese). 2023-06-16. Retrieved 2023-06-17.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-06-17",
+                                "Created": "2023-06-16"
+                            }
+                        }
+                    ],
+                    "start_date": "16/06/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "17 June At least eight people are killed and 19 others are missing after a severe storm in Rio Grande do Sul.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/hurricane-southern-brazil-missing-deaths-075a24871fd10497e888b97a543d190a",
+                            "text": "-\"A severe storm in southern Brazil has killed 8 people and left 19 others missing\". AP News. 2023-06-16. Retrieved 2023-06-19.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-06-19",
+                                "Created": "2023-06-16"
+                            }
+                        }
+                    ],
+                    "start_date": "17/06/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "19 June A gunman kills two people at a public school in Cambé, Paraná.",
+                    "links": [
+                        {
+                            "link": "https://www.tribunapr.com.br/noticias/parana/ataque-a-colegio-no-interior-do-parana-deixa-feridos-e-um-morto/",
+                            "text": "-Klisiewicz, Eduardo Luiz (2023-06-19). \"Ataque a colégio em Cambé, interior do Paraná deixa aluno morto\". Tribuna do Paraná (in Brazilian Portuguese). Retrieved 2023-06-19.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-06-19",
+                                "Created": "2023-06-19"
+                            }
+                        },
+                        {
+                            "link": "https://g1.globo.com/pr/norte-noroeste/noticia/2023/06/20/morre-segundo-estudante-vitima-de-atirador-em-escola-do-parana.ghtml",
+                            "text": "-\"Morre segundo estudante vítima de assassino em colégio do Paraná\". G1 (in Brazilian Portuguese). 2023-06-20. Retrieved 2023-06-20.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-06-20",
+                                "Created": "2023-06-20"
+                            }
+                        },
+                        {
+                            "link": "https://g1.globo.com/pr/norte-noroeste/noticia/2023/06/21/criminoso-que-matou-duas-pessoas-em-colegio-de-cambe-e-encontrado-morto-nesta-quarta-21.ghtml",
+                            "text": "-\"Assassino de colégio em Cambé é encontrado morto na prisão\". G1 (in Brazilian Portuguese). 2023-06-21. Retrieved 2023-06-21.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-06-21",
+                                "Created": "2023-06-21"
+                            }
+                        }
+                    ],
+                    "start_date": "19/06/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "26 June A fire breaks out at a landfill in Teresópolis, Rio de Janeiro, covering the city with smoke.",
+                    "links": [
+                        {
+                            "link": "https://g1.globo.com/rj/regiao-serrana/noticia/2023/06/26/aterro-sanitario-e-atingido-por-incendio-em-teresopolis-na-serra-do-rio.ghtml",
+                            "text": "-\"Lixão em Teresópolis é atingido por incêndio e cidade fica encoberta por fumaça\". G1 (in Brazilian Portuguese). 2023-06-26. Retrieved 2023-06-30.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-06-30",
+                                "Created": "2023-06-26"
+                            }
+                        }
+                    ],
+                    "start_date": "26/06/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "28 June Data is released from the 2022 Brazilian census, with the country officially having 203,602,512 inhabitants.",
+                    "links": [
+                        {
+                            "link": "https://g1.globo.com/jornal-nacional/noticia/2023/06/28/censo-populacao-brasileira-passa-de-203-milhoes-de-pessoas-taxa-de-crescimento-e-a-menor-da-historia.ghtml",
+                            "text": "-\"Censo: população brasileira passa de 203 milhões de pessoas; taxa de crescimento é a menor da história\". G1 (in Brazilian Portuguese). 28 June 2023. Retrieved 2023-06-30.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-06-28",
+                                "Created": "2023-06-30"
+                            }
+                        }
+                    ],
+                    "start_date": "28/06/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "30 June By a vote of 5 to 2, the Superior Electoral Court renders former president Jair Bolsonaro ineligible to run for political office for 8 years.",
+                    "links": [
+                        {
+                            "link": "https://g1.globo.com/politica/noticia/2023/06/30/tse-retoma-julgamento-bolsonaro-sexta-feira.ghtml",
+                            "text": "-\"Após voto de Moraes, TSE fecha placar em 5 a 2 para condenar Bolsonaro e torná-lo inelegível\". Globo (in Brazilian Portuguese). 2023-06-30. Retrieved 2023-06-30.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-06-30",
+                                "Created": "2023-06-30"
+                            }
+                        }
+                    ],
+                    "start_date": "30/06/2023",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "July",
+            "Data": [
+                {
+                    "event_text": "6 July The Chamber of Deputies approves the basic text of the tax reform bill; goes to the Senate.",
+                    "links": [
+                        {
+                            "link": "https://www.camara.leg.br/noticias/978334-camara-aprova-reforma-tributaria-em-dois-turnos-texto-vai-ao-senado",
+                            "text": "-\"Câmara aprova reforma tributária em dois turnos; texto vai ao Senado\". Câmara dos Deputados (in Brazilian Portuguese). 2023-07-07. Retrieved 2023-07-08.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-07-08",
+                                "Created": "2023-07-07"
+                            }
+                        }
+                    ],
+                    "start_date": "06/07/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "8 July A building collapses in Paulista, Pernambuco, leaving at least 14 people, including four children, dead.",
+                    "links": [
+                        {
+                            "link": "https://edition.cnn.com/2023/07/08/americas/brazil-building-collapse-intl-latam/index.html",
+                            "text": "-\"At least 11 killed in building collapse in Brazil\". CNN.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://www1.folha.uol.com.br/cotidiano/2023/07/chega-a-nove-numero-de-mortos-em-desabamento-na-grande-recife.shtml",
+                            "text": "-\"Desabamento de prédios no Grande Recife deixa 14 mortos\". Folha de S. Paulo (in Brazilian Portuguese). 2023-07-08. Retrieved 2023-07-08.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-07-08",
+                                "Created": "2023-07-08"
+                            }
+                        }
+                    ],
+                    "start_date": "08/07/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "12 July Rio Grande do Sul is hit again with an extratropical cyclone, also reaching cities in Santa Catarina.",
+                    "links": [
+                        {
+                            "link": "https://www.cnnbrasil.com.br/nacional/ciclone-castiga-sul-e-mau-tempo-deve-atingir-sudeste-hoje/",
+                            "text": "-\"Ciclone extratropical castiga Sul e mau tempo deve atingir Sudeste nesta quinta-feira (13)\". CNN Brasil (in Brazilian Portuguese). 2023-07-13. Retrieved 2023-07-13.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-07-13",
+                                "Created": "2023-07-13"
+                            }
+                        }
+                    ],
+                    "start_date": "12/07/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A silo of a grain cooperative in Palotina, Paraná, explodes, leaving 8 dead, 11 injured, and one missing. Among the fatal victims are 7 Haitians.",
+                    "links": [
+                        {
+                            "link": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2023/07/27/video-mostra-momento-da-explosao-em-cooperativa-em-palotina-pessoas-morreram.ghtml",
+                            "text": "-\"Vídeo mostra momento da explosão em cooperativa de Palotina; 8 pessoas morreram\". G1 (in Brazilian Portuguese). 2023-07-27. Retrieved 2023-07-27.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-07-27",
+                                "Created": "2023-07-27"
+                            }
+                        },
+                        {
+                            "link": "https://www.cnnbrasil.com.br/nacional/explosao-no-parana-sete-das-oito-vitimas-tinham-nacionalidade-haitiana/",
+                            "text": "-\"Explosão no Paraná: sete das oito vítimas tinham nacionalidade haitiana\". CNN Brasil. 27 July 2023. Retrieved 27 July 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-07-27",
+                                "Created": "2023-07-27"
+                            }
+                        }
+                    ],
+                    "start_date": "26/07/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Another extratropical cyclone, of lesser intensity, hits the South Region, being the fourth to hit the area since June.",
+                    "links": [
+                        {
+                            "link": "https://www.cnnbrasil.com.br/nacional/novo-ciclone-extratropical-atinge-o-rio-grande-do-sul-hoje-veja-onde-vai-passar/",
+                            "text": "-\"Novo ciclone extratropical atinge hoje o RS, dizem meteorologistas; veja onde deve passar\". CNN Brasil. July 26, 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2023-07-26"
+                            }
+                        }
+                    ],
+                    "start_date": "26/07/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "27-31 July A police operation in Guarujá, São Paulo is launched after the death of a ROTA soldier, resulting in sixteen people being killed.",
+                    "links": [
+                        {
+                            "link": "https://g1.globo.com/sp/santos-regiao/noticia/2023/08/02/ssp-confirma-16-mortes-em-operacao-da-policia-no-litoral-de-sp.ghtml",
+                            "text": "-\"SSP confirma 16 mortes em operação da polícia no litoral de SP\". G1 (in Brazilian Portuguese). 2023-08-02. Retrieved 2023-08-03.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-08-03",
+                                "Created": "2023-08-02"
+                            }
+                        },
+                        {
+                            "link": "https://www1.folha.uol.com.br/cotidiano/2023/07/policial-da-rota-e-morto-a-tiros-no-guaruja.shtml",
+                            "text": "-\"Policial da Rota é morto a tiros em Guarujá, no litoral paulista\". Folha de S.Paulo (in Brazilian Portuguese). 2023-07-28. Retrieved 2023-08-01.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-08-01",
+                                "Created": "2023-07-28"
+                            }
+                        }
+                    ],
+                    "start_date": "31/07/2023",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "August",
+            "Data": [
+                {
+                    "event_text": "2 August At least 10 people are killed during a police raid on a favela in Complexo da Penha, Rio de Janeiro.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-latin-america-66387599",
+                            "text": "-\"Brazil police raids leave at least 43 people dead\". BBC News. 2023-08-02. Retrieved 2023-08-02.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-08-02",
+                                "Created": "2023-08-02"
+                            }
+                        },
+                        {
+                            "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2023/08/02/policias-militar-e-civil-fazem-operacao-no-complexo-da-penha-moradores-relatam-intenso-confronto.ghtml",
+                            "text": "-\"Operação no Complexo da Penha deixa 10 mortos e cinco feridos\". G1 (in Brazilian Portuguese). 2023-08-02. Retrieved 2023-08-03.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-08-03",
+                                "Created": "2023-08-02"
+                            }
+                        }
+                    ],
+                    "start_date": "02/08/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "3 August Cristiano Zanin, former lawyer of Lula, takes seat as Justice of the Supreme Federal Court.",
+                    "links": [
+                        {
+                            "link": "https://www.clickorlando.com/gallery/news/2023/08/04/brazilian-presidents-former-lawyer-takes-seat-as-supreme-court-justice/",
+                            "text": "-\"Brazilian president's former lawyer takes seat as Supreme Court justice\". Click Orlando. 2023-08-03. Retrieved 2024-08-16.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-08-16",
+                                "Created": "2023-08-03"
+                            }
+                        }
+                    ],
+                    "start_date": "03/08/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "8 August A Navy helicopter crashes during training in Formosa, Goiás, leaving 2 dead and 12 injured.",
+                    "links": [
+                        {
+                            "link": "https://www.aeroflap.com.br/en/Brazilian-Navy-helicopter-crashes-in-Formosa-Go-leaving-two-dead/",
+                            "text": "-\"Brazilian Navy helicopter crashes in Formosa-GO, leaving two dead\". Aeroflap. 2023-08-08. Retrieved 2023-08-08.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-08-08",
+                                "Created": "2023-08-08"
+                            }
+                        }
+                    ],
+                    "start_date": "08/08/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Former director of the Federal Highway Police, Silvinei Vasques, is arrested in Florianópolis due to an ongoing investigation with interference in the 2022 elections.",
+                    "links": [
+                        {
+                            "link": "https://www.cnnbrasil.com.br/politica/ex-diretor-da-prf-silvinei-vasques-e-preso-em-investigacao-sobre-interferencia-nas-eleicoes-de-2022/",
+                            "text": "-Rodrigues, Basília; Maia, Elijonas (August 9, 2023). \"Ex-diretor da PRF, Silvinei Vasques é preso em investigação sobre interferência nas eleições de 2022\". CNN Brasil (in Brazilian Portuguese). Retrieved 2023-08-09.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-08-09",
+                                "Created": "2023-08-09"
+                            }
+                        }
+                    ],
+                    "start_date": "09/08/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Luís Roberto Barroso is elected President of the Supreme Federal Court .",
+                    "links": [
+                        {
+                            "link": "https://www.cnnbrasil.com.br/nacional/ministro-roberto-barroso-e-eleito-presidente-do-stf-fachin-sera-o-vice/",
+                            "text": "-Mendes, Lucas (August 9, 2023). \"Cristiano Zanin toma posse como novo ministro do Supremo Tribunal Federal\". CNN Brasil (in Brazilian Portuguese). Retrieved 2023-08-15.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-08-09",
+                                "Created": "2023-08-15"
+                            }
+                        }
+                    ],
+                    "start_date": "09/08/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "15 August A nationwide blackout ensues, as all of the states are connected to the national energy system. Roraima is the only state that is unaffected, due to its own energy system. The cause of the outage is still unknown.",
+                    "links": [
+                        {
+                            "link": "https://brazilian.report/liveblog/politics-insider/2023/08/15/mystery-power-outage/",
+                            "text": "-Audi, Amanda (2023-08-15). \"Mystery power outage affects all but one Brazilian states\". The Brazilian Report. Retrieved 2023-08-15.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-08-15",
+                                "Created": "2023-08-15"
+                            }
+                        }
+                    ],
+                    "start_date": "15/08/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "17 August Quilombola leader and ialorixá, Mother Bernadette, is assassinated in Simões Filho, Bahia.",
+                    "links": [
+                        {
+                            "link": "https://g1.globo.com/ba/bahia/noticia/2023/08/18/bernadete-pacifico-lideranca-quilombola-da-bahia-e-assassinada.ghtml",
+                            "text": "-Bischoff, Wesley (August 18, 2023). \"Bernadete Pacífico, liderança quilombola da Bahia, é assassinada\". G1 (in Brazilian Portuguese). Retrieved August 20, 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-08-20",
+                                "Created": "2023-08-18"
+                            }
+                        }
+                    ],
+                    "start_date": "17/08/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "20 August A bus carrying Corinthians fans overturns on the Fernão Dias Highway (near Igarapé, Minas Gerais), killing seven people.",
+                    "links": [
+                        {
+                            "link": "https://g1.globo.com/mg/minas-gerais/noticia/2023/08/20/onibus-com-torcedores-do-corinthians-capota-na-rodovia-fernao-dias-em-igarape-na-grande-bh.ghtml",
+                            "text": "-Santiago, Francielly (2023-08-20). \"Ônibus com torcedores do Corinthians capota e deixa 8 mortos na Grande BH\". G1 (in Brazilian Portuguese). Retrieved 2023-08-20.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-08-20",
+                                "Created": "2023-08-20"
+                            }
+                        }
+                    ],
+                    "start_date": "20/08/2023",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "September",
+            "Data": [
+                {
+                    "event_text": "1 September Four people are killed and at least 30 others are injured in a boiler explosion at a metal factory in Cabreuva, São Paulo.",
+                    "links": [
+                        {
+                            "link": "https://abcnews.go.com/International/wireStory/metal-factory-explosion-brazil-kills-2-people-injures-102867535",
+                            "text": "-\"Metal factory explosion in Brazil kills 4 and injures at least 30\". ABC News. Associated Press. Retrieved 2023-09-02.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-09-02",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2023/09/02/explosao-de-metalurgica-em-cabreuva-veja-quem-sao-as-vitimas.ghtml",
+                            "text": "-\"Explosão de metalúrgica em Cabreúva: veja quem são as vítimas\". Globo (in Brazilian Portuguese). 2023-09-02. Retrieved 2023-09-02.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-09-02",
+                                "Created": "2023-09-02"
+                            }
+                        }
+                    ],
+                    "start_date": "01/09/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "2 September Actor Kayky Brito has been run over by a car while crossing a street in Rio de Janeiro. The actor has been hospitalized and is said to be in serious condition after suffering multiple fractures.",
+                    "links": [
+                        {
+                            "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2023/09/02/ator-e-atropelado-na-barra-da-tijuca-zona-oeste-do-rio.ghtml?_gl=1*mhxrbw*_ga*YW1wLTFvREVaOTBEZkN2RDNjak5PeHJIUmdFQXNsOWFMMlVKVHlpNkF1YVFiYkhYNUFteU5RWXJuMmJ0eHFuUlMwRVY.",
+                            "text": "-\"Ator Kayky Brito é atropelado na Barra da Tijuca, Zona Oeste do Rio, e estado de saúde é gravíssimo\". g1 (in Portuguese). Grupo Globo. 2 September 2023. Retrieved 7 September 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-09-07",
+                                "Created": "2023-09-02"
+                            }
+                        }
+                    ],
+                    "start_date": "02/09/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "3 September Ultraje a Rigor member Mingau, is shot in the head during an attempted robbery in Paraty, Rio de Janeiro.",
+                    "links": [
+                        {
+                            "link": "https://www.uol.com.br/splash/noticias/2023/09/03/mingau-baixista-do-ultraje-a-rigor-e-baleado-na-cabeca.htm",
+                            "text": "-\"Mingau, baixista do Ultraje a Rigor, é baleado na cabeça em Paraty (RJ)\". UOL (in Brazilian Portuguese). 2023-09-03. Retrieved 2023-09-03.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-09-03",
+                                "Created": "2023-09-03"
+                            }
+                        }
+                    ],
+                    "start_date": "03/09/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "4 September A disastrous extratropical cyclone hits the state of Rio Grande do Sul (for the third time) and Santa Catarina, leaving at least 47 dead,  940 injured, 46 missing, 3,800 homeless, and 25,855 displaced.",
+                    "links": [
+                        {
+                            "link": "https://www.poder360.com.br/brasil/ciclone-deixa-dezenas-de-mortos-e-milhares-de-desabrigados-no-rs/",
+                            "text": "-\"Ciclone deixa dezenas de mortos e milhares de desabrigados no RS\". Poder360. The Trust Project. 5 September 2023. Retrieved 7 September 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-09-07",
+                                "Created": "2023-09-05"
+                            }
+                        },
+                        {
+                            "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2023/09/15/ciclone-no-rs-numero-de-vitimas-sobe-para-48-aponta-defesa-civil.ghtml",
+                            "text": "-\"Ciclone no RS: número de vítimas sobe para 48, aponta Defesa Civil\". Globo (in Brazilian Portuguese). 2023-09-15. Retrieved 2023-09-16.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-09-16",
+                                "Created": "2023-09-15"
+                            }
+                        }
+                    ],
+                    "start_date": "04/09/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "8 September Neymar Jr. surpasses Pelé as the top scorer of the Brazilian national team after scoring his 78th goal against Bolivia.",
+                    "links": [
+                        {
+                            "link": "https://www.nytimes.com/athletic/4844995/2023/09/09/neymar-brazil-top-goalscorer/",
+                            "text": "-\"Neymar breaks Pele record to become Brazil's record goalscorer – but FIFA, Brazil numbers differ\". NY Times. 2023-09-09. Retrieved 2024-07-19.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-07-19",
+                                "Created": "2023-09-09"
+                            }
+                        }
+                    ],
+                    "start_date": "08/09/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "14 September The Supreme Federal Court sentences three people to at least 14 years in prison, for their involvement in storming the buildings of all three branches of government on January 8.",
+                    "links": [
+                        {
+                            "link": "https://g1.globo.com/jornal-nacional/noticia/2023/09/14/supremo-condena-a-prisao-os-3-primeiros-reus-da-tentativa-de-golpe-de-estado-em-janeiro-penas-vao-de-14-a-17-anos.ghtml",
+                            "text": "-\"Supremo condena à prisão os 3 primeiros réus da tentativa de golpe de Estado em janeiro; penas vão de 14 a 17 anos\". Globo (in Brazilian Portuguese). 15 September 2023. Retrieved 2023-09-15.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-09-15",
+                                "Created": "2023-09-15"
+                            }
+                        },
+                        {
+                            "link": "https://www.reuters.com/world/americas/brazils-supreme-court-convicts-first-defendant-january-8th-trial-2023-09-14/",
+                            "text": "-\"Brazil sentences three to over 14 years for storming government buildings\". Reuters. 2023-09-14. Retrieved 2024-07-19.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-07-19",
+                                "Created": "2023-09-14"
+                            }
+                        }
+                    ],
+                    "start_date": "14/09/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "16 September A plane crash in Barcelos, Amazonas kills 14 people.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-latin-america-66835213",
+                            "text": "-\"Fourteen dead after plane crash in Brazilian Amazon\". BBC News. 2023-09-17. Retrieved 2023-09-18.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-09-18",
+                                "Created": "2023-09-17"
+                            }
+                        },
+                        {
+                            "link": "https://g1.globo.com/am/amazonas/noticia/2023/09/16/aviao-cai-no-interior-do-amazonas.ghtml",
+                            "text": "-\"Avião cai no Amazonas e mata 14 pessoas, dz Defesa Civil\". G1. 16 September 2023. Retrieved 19 September 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-09-19",
+                                "Created": "2023-09-16"
+                            }
+                        }
+                    ],
+                    "start_date": "16/09/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A strong heat wave begins in Brazil, with temperatures recorded at above 40 °C in several states.",
+                    "links": [
+                        {
+                            "link": "https://tempoagora.uol.com.br/noticia/2023/09/19/onda-de-calor-muito-forte-se-espalha-sobre-o-brasil-2297",
+                            "text": "-Agora, Tempo (2023-09-19). \"Onda de calor muito forte se espalha sobre o Brasil | Climatempo\". tempoagora.uol.com.br. Retrieved 2023-09-25.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-09-25",
+                                "Created": "2023-09-19"
+                            }
+                        }
+                    ],
+                    "start_date": "17/09/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A 3-year-old girl, named Heloisa, dies from irreversible cardiorespiratory arrest after being shot nine days prior by a Federal Highway Police in Rio de Janeiro.",
+                    "links": [
+                        {
+                            "link": "https://www1.folha.uol.com.br/internacional/en/brazil/2023/09/3-year-old-girl-shot-by-federal-highway-police-dies-in-rio.shtml",
+                            "text": "-\"3-Year-Old Girl Shot by Federal Highway Police Dies in Rio\". UOL. 2023-09-17. Retrieved 2024-07-15.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-07-15",
+                                "Created": "2023-09-17"
+                            }
+                        }
+                    ],
+                    "start_date": "17/09/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "19 September The São Paulo City Council revokes the mandate of councilman Camilo Cristófaro (Avante) with 45 votes in favor, five abstentions, and no votes against the loss of the mandate, due to a racist speech he gave.",
+                    "links": [
+                        {
+                            "link": "https://g1.globo.com/sp/sao-paulo/noticia/2023/09/19/camara-municipal-de-sp-cassa-camilo-cristofaro-por-racismo.ghtml",
+                            "text": "-Rodrigues, Rodrigo; Quaresma, Camila; Guedes, Phillipe (2023-09-19). \"Câmara Municipal de SP cassa Camilo Cristófaro; vereador é 1º da cidade a perder mandato por racismo\". G1 (in Brazilian Portuguese). Archived from the original on September 19, 2023. Retrieved 2023-09-20.-",
+                            "dates": {
+                                "Archieved": "2023-09-20",
+                                "Retrieved": "2023-09-19",
+                                "Created": "2023-09-19"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20230919223146/https://g1.globo.com/sp/sao-paulo/noticia/2023/09/19/camara-municipal-de-sp-cassa-camilo-cristofaro-por-racismo.ghtml",
+                            "text": "-Rodrigues, Rodrigo; Quaresma, Camila; Guedes, Phillipe (2023-09-19). \"Câmara Municipal de SP cassa Camilo Cristófaro; vereador é 1º da cidade a perder mandato por racismo\". G1 (in Brazilian Portuguese). Archived from the original on September 19, 2023. Retrieved 2023-09-20.-",
+                            "dates": {
+                                "Archieved": "2023-09-20",
+                                "Retrieved": "2023-09-19",
+                                "Created": "2023-09-19"
+                            }
+                        }
+                    ],
+                    "start_date": "19/09/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "21 September By 9 votes to 2, the STF plenary session overturns the temporal framework for indigenous lands.",
+                    "links": [
+                        {
+                            "link": "https://www1.folha.uol.com.br/cotidiano/2023/09/stf-retoma-julgamento-do-marco-temporal-placar-esta-5-a-2-contra-a-tese.shtml",
+                            "text": "-\"Por 9 a 2, STF derruba marco temporal das terras indígenas\". Folha de S.Paulo (in Brazilian Portuguese). 2023-09-21. Retrieved 2023-09-21.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-09-21",
+                                "Created": "2023-09-21"
+                            }
+                        }
+                    ],
+                    "start_date": "21/09/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "27 September Due to the encounter of a cold front with a heat wave, heavy storms hit several cities the state of São Paulo, with records of intense winds and hail.",
+                    "links": [
+                        {
+                            "link": "https://www.climatempo.com.br/noticia/2023/09/27/virada-no-tempo-em-sp-temporais-e-ventania-2406",
+                            "text": "-Climatempo (2023-09-27). \"Virada no tempo em SP: temporais e ventania | Climatempo\". www.climatempo.com.br. Retrieved 2023-10-01.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-10-01",
+                                "Created": "2023-09-27"
+                            }
+                        },
+                        {
+                            "link": "https://g1.globo.com/sp/sao-paulo/noticia/2023/09/27/cidade-de-sp-tem-chuva-de-granizo-e-estado-de-atencao-para-alagamentos-apos-dias-de-calorao-e-recordes-de-temperatura.ghtml",
+                            "text": "-\"Cidade de SP tem chuva de granizo e estado de atenção para alagamentos após dias de calorão e recordes de temperatura\". G1 (in Brazilian Portuguese). 2023-09-27. Retrieved 2023-10-01.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-10-01",
+                                "Created": "2023-09-27"
+                            }
+                        },
+                        {
+                            "link": "https://sampi.net.br/ovale/noticias/2790304/vale-do-paraiba/2023/09/temporal-desta-quartafeira-causa-estragos-em-cidades-do-vale",
+                            "text": "-\"Temporal desta quarta-feira causa estragos em cidades do Vale\". sampi (in Brazilian Portuguese). 27 September 2023. Retrieved 2023-10-01.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-09-27",
+                                "Created": "2023-10-01"
+                            }
+                        },
+                        {
+                            "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2023/09/28/prefeitura-registra-queda-de-120-arvores-durante-temporal-em-piracicaba.ghtml",
+                            "text": "-\"Prefeitura registra queda de 120 árvores durante temporal em Piracicaba; veja balanço\". G1 (in Brazilian Portuguese). 2023-09-28. Retrieved 2023-10-01.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-10-01",
+                                "Created": "2023-09-28"
+                            }
+                        }
+                    ],
+                    "start_date": "27/09/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "28 September Luís Roberto Barroso assumes the Presidency of the Supreme Federal Court.",
+                    "links": [
+                        {
+                            "link": "https://g1.globo.com/politica/noticia/2023/09/28/barroso-posse-stf.ghtml",
+                            "text": "-\"Ao assumir o comando do STF, Barroso defende direitos de minorias e maior participação de mulheres e negros no Judiciário\". G1 (in Brazilian Portuguese). 2023-09-28. Retrieved 2023-10-05.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-10-05",
+                                "Created": "2023-09-28"
+                            }
+                        }
+                    ],
+                    "start_date": "28/09/2023",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "October",
+            "Data": [
+                {
+                    "event_text": "2 October The Brazilian government begins expelling non-indigenous residents off the Apyterewa and Trincheira Bacajá indigenous territories in Pará.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/brazil-indigenous-territories-expulsion-lands-amazon-removal-8f4ee1bd8c1b87a90303182c6547500a",
+                            "text": "-\"Brazil's government starts expelling non-Indigenous people from two native territories in the Amazon\". AP News. 2023-10-02. Retrieved 2023-10-03.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-10-03",
+                                "Created": "2023-10-02"
+                            }
+                        }
+                    ],
+                    "start_date": "02/10/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "3 October Employees of CPTM, São Paulo Metro, and Sabesp go on strike for 24 hours, to protest the privatization of the companies.",
+                    "links": [
+                        {
+                            "link": "https://g1.globo.com/sp/sao-paulo/noticia/2023/10/03/funcionarios-de-metro-cptm-e-sabesp-decidem-encerrar-greve-as-23h59-desta-terca.ghtml",
+                            "text": "-\"Funcionários de Metrô, CPTM e Sabesp decidem encerrar greve\". G1 (in Brazilian Portuguese). 2023-10-03. Retrieved 2023-10-05.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-10-05",
+                                "Created": "2023-10-03"
+                            }
+                        }
+                    ],
+                    "start_date": "03/10/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "5 October Three doctors are shot dead at a kiosk in Barra da Tijuca, Rio de Janeiro.",
+                    "links": [
+                        {
+                            "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2023/10/05/tiros-quiosque-barra.ghtml",
+                            "text": "-\"Médicos são mortos a tiros em quiosque na Barra da Tijuca\". Globo (in Brazilian Portuguese). 2023-10-05. Retrieved 2023-10-05.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-10-05",
+                                "Created": "2023-10-05"
+                            }
+                        }
+                    ],
+                    "start_date": "05/10/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "11 October The city of Manaus is covered in smoke, due to Amazon rainforest wildfires.",
+                    "links": [
+                        {
+                            "link": "https://g1.globo.com/am/amazonas/noticia/2023/10/11/fumaca-de-queimadas-encobre-teatro-amazonas-e-outros-predios-de-manaus.ghtml",
+                            "text": "-\"Fumaça de queimadas encobre Teatro Amazonas e outros prédios de Manaus\". G1 (in Brazilian Portuguese). 2023-10-11. Retrieved 2023-10-20.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-10-20",
+                                "Created": "2023-10-11"
+                            }
+                        }
+                    ],
+                    "start_date": "11/10/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "14 October The annular solar eclipse occurs in Brazil and other countries in the Americas. This is the 44th solar eclipse of Solar Saros 134.",
+                    "links": [
+                        {
+                            "link": "https://www.timeanddate.com/eclipse/solar/2023-october-14",
+                            "text": "-\"14 October 2023 — Great American Eclipse (Annular Solar Eclipse)\".-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2023-10-14"
+                            }
+                        },
+                        {
+                            "link": "https://g1.globo.com/ciencia/ao-vivo/eclipse-solar-no-brasil-mundo-fotos-video-transmisao-ao-vivo.ghtml",
+                            "text": "-\"Eclipse solar anular: veja como foi o fenômeno no Brasil\". G1 (in Brazilian Portuguese). Retrieved 2023-10-19.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-10-19",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "14/10/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A 16-year-old carries out a school shooting in Sapopemba (East Zone of São Paulo), where one student died and three others were injured.",
+                    "links": [
+                        {
+                            "link": "https://g1.globo.com/sp/sao-paulo/noticia/2023/10/23/policia-atende-ocorrencia-de-disparo-de-arma-de-fogo-dentro-de-escola-na-zona-leste-de-sp.ghtml",
+                            "text": "-\"Ataque a tiros em escola estadual na Zona Leste deixa uma estudante morta e outros três feridos; adolescente foi detido\". G1 (in Brazilian Portuguese). 2023-10-23. Retrieved 2023-10-24.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-10-24",
+                                "Created": "2023-10-23"
+                            }
+                        }
+                    ],
+                    "start_date": "23/10/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A wave of violent attacks occurs throughout neighborhoods in the West Zone of Rio de Janeiro after a militia member was killed in a police operation. 35 buses and a train are set on fire.",
+                    "links": [
+                        {
+                            "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2023/10/23/onibus-do-brt-e-incendiado-apos-sobrinho-de-zinho-ser-baleado-em-troca-de-tiros-com-a-policia.ghtml",
+                            "text": "-\"Morte de sobrinho do miliciano Zinho leva terror à Zona Oeste, com 35 ônibus e 1 trem queimados\". G1 (in Brazilian Portuguese). 2023-10-23. Retrieved 2023-10-24.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-10-24",
+                                "Created": "2023-10-23"
+                            }
+                        },
+                        {
+                            "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2023/10/23/rio-tem-dia-com-mais-onibus-incendiados-na-historia-diz-rio-onibus.ghtml",
+                            "text": "-\"Rio tem dia com mais ônibus incendiados na história, diz Rio Ônibus\". G1 (in Brazilian Portuguese). 2023-10-23. Retrieved 2023-10-24.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-10-24",
+                                "Created": "2023-10-23"
+                            }
+                        }
+                    ],
+                    "start_date": "23/10/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "29 October A plane crashes in Rio Branco, Acre, killing all 12 people on board.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/brazil-plane-crash-fc487d48956faff6f842f6e80a05f7c7",
+                            "text": "-\"12 people die in a plane crash in the Brazilian Amazon\". AP News. 2023-10-29. Retrieved 2023-10-30.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-10-30",
+                                "Created": "2023-10-29"
+                            }
+                        },
+                        {
+                            "link": "https://www.poder360.com.br/brasil/aviao-de-pequeno-porte-cai-no-acre-e-mata-12-pessoas/",
+                            "text": "-Nadir, Patrícia (2023-10-29). \"Avião de pequeno porte cai no Acre e mata 12 pessoas\". Poder360 (in Brazilian Portuguese). Retrieved 2023-10-30.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-10-30",
+                                "Created": "2023-10-29"
+                            }
+                        }
+                    ],
+                    "start_date": "29/10/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Former senator Telmário Mota is arrested in Nerópolis, Goiás, after being accused of ordering his ex-wife's murder.",
+                    "links": [
+                        {
+                            "link": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2023/10/31/ex-senador-telmario-mota-e-preso-em-go.htm",
+                            "text": "-\"Ex-senador Telmário Mota é preso suspeito de mandar matar mãe da filha\". UOL (in Brazilian Portuguese). 2023-10-30. Retrieved 2023-10-31.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-10-31",
+                                "Created": "2023-10-30"
+                            }
+                        }
+                    ],
+                    "start_date": "31/10/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Superior Electoral Court (TSE) sentences former President Jair Bolsonaro and former Defence Minister Walter Braga Netto to ineligibility for eight years, due to political use of the bicentennial celebrations of Brazil's Independence in 2022.",
+                    "links": [
+                        {
+                            "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2023-10/maioria-do-tse-condena-bolsonaro-por-uso-politico-do-7-de-setembro",
+                            "text": "-\"TSE condena Bolsonaro e Braga Netto por uso político do 7 de setembro\". Agência Brasil. October 31, 2023. Retrieved November 1, 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-11-01",
+                                "Created": "2023-10-31"
+                            }
+                        }
+                    ],
+                    "start_date": "31/10/2023",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "November",
+            "Data": [
+                {
+                    "event_text": "3 November , 2023 Brazil storm Strong windstorm with gusts up to 150 kph hit several cities of the state of São Paulo. At least 8 were death.",
+                    "links": [
+                        {
+                            "link": "https://g1.globo.com/sp/sao-paulo/noticia/2023/11/07/numero-de-mortes-em-decorrencia-das-chuvas-de-sexta-sobe-para-8-no-estado-diz-governo-de-sp.ghtml",
+                            "text": "-\"Número de mortes em decorrência das chuvas de sexta sobe para 8 no estado, diz governo de SP\". G1 (in Brazilian Portuguese). 2023-11-07. Retrieved 2024-09-14.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-09-14",
+                                "Created": "2023-11-07"
+                            }
+                        }
+                    ],
+                    "start_date": "03/11/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "4 November Fluminense FC win their first ever Copa Libertadores after defeating Boca Juniors 2-1 in extra time.",
+                    "links": [
+                        {
+                            "link": "https://conmebollibertadores.com/cards/NewsReaderWeb/fluminense-campeon-de-la-conmebol-libertadores",
+                            "text": "-\"¡Fluminense campeón de la CONMEBOL Libertadores!\" [Fluminense champion of the CONMEBOL Libertadores!] (in Spanish). CONMEBOL Libertadores. 4 November 2023. Retrieved 4 November 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-11-04",
+                                "Created": "2023-11-04"
+                            }
+                        },
+                        {
+                            "link": "https://www.theguardian.com/football/2023/nov/04/boca-juniors-fluminense-copa-libertadores-final-match-report",
+                            "text": "-\"Fluminense beat Boca Juniors in extra time to win first Copa Libertadores title\". Guardian. 4 November 2023. Retrieved 6 November 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-11-06",
+                                "Created": "2023-11-04"
+                            }
+                        },
+                        {
+                            "link": "https://www.bbc.com/sport/football/67324231",
+                            "text": "-\"Boca Juniors 1 Fluminense 2\". BBC Sport. 4 November 2023. Retrieved 6 November 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-11-06",
+                                "Created": "2023-11-04"
+                            }
+                        }
+                    ],
+                    "start_date": "04/11/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "8 November A new heat wave in Brazil begins, where several states are hit with record temperatures above 40 °C (104 °F).",
+                    "links": [
+                        {
+                            "link": "https://www.cnnbrasil.com.br/nacional/nova-onda-de-calor-chega-ao-brasil-nesta-quarta-feira-veja-temperaturas/",
+                            "text": "-\"Nova onda de calor chega ao Brasil nesta quarta-feira; veja temperaturas\". CNN Brasil. 2023-11-08. Retrieved 2023-11-17.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-11-17",
+                                "Created": "2023-11-08"
+                            }
+                        }
+                    ],
+                    "start_date": "08/11/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "17 November Around a thousand people fainted due to intense heat during the first concert of Taylor Swift's The Eras Tour at the Estádio Olímpico Nilton Santos in Rio de Janeiro. A fan named Ana Clara Benevides Machado suffers cardiorespiratory arrest and dies during the concert.",
+                    "links": [
+                        {
+                            "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2023/11/18/fa-que-morreu-em-show-de-taylor-swift-entrou-em-estadio-e-comecou-a-passar-mal-em-2a-musica-diz-amiga.ghtml",
+                            "text": "-\"Fã que morreu em show de Taylor Swift começou a passar mal durante 2ª música, diz amiga\". Globo (in Brazilian Portuguese). 2023-11-18. Retrieved 2023-11-18.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-11-18",
+                                "Created": "2023-11-18"
+                            }
+                        },
+                        {
+                            "link": "https://archive.today/20231119173203/https://www.bbc.com/news/entertainment-arts-67461445",
+                            "text": "-BBC News (18 November 2023). \"Taylor Swift 'devastated' as fan dies before show\". Archived from the original on 19 November 2023. Retrieved 19 November 2023.-",
+                            "dates": {
+                                "Archieved": "2023-11-19",
+                                "Retrieved": "2023-11-19",
+                                "Created": "2023-11-18"
+                            }
+                        },
+                        {
+                            "link": "https://www.bbc.com/news/entertainment-arts-67461445",
+                            "text": "-BBC News (18 November 2023). \"Taylor Swift 'devastated' as fan dies before show\". Archived from the original on 19 November 2023. Retrieved 19 November 2023.-",
+                            "dates": {
+                                "Archieved": "2023-11-19",
+                                "Retrieved": "2023-11-19",
+                                "Created": "2023-11-18"
+                            }
+                        },
+                        {
+                            "link": "https://archive.today/20231119173218/https://www.theguardian.com/music/2023/nov/18/taylor-swift-fan-dies-before-brazil-concert-amid-sweltering-conditions",
+                            "text": "-Harry Taylor (18 November 2023). \"Taylor Swift fan dies before Brazil concert amid sweltering conditions\". The Observer. Archived from the original on 19 November 2023. Retrieved 19 November 2023.-",
+                            "dates": {
+                                "Archieved": "2023-11-19",
+                                "Retrieved": "2023-11-19",
+                                "Created": "2023-11-18"
+                            }
+                        },
+                        {
+                            "link": "https://www.theguardian.com/music/2023/nov/18/taylor-swift-fan-dies-before-brazil-concert-amid-sweltering-conditions",
+                            "text": "-Harry Taylor (18 November 2023). \"Taylor Swift fan dies before Brazil concert amid sweltering conditions\". The Observer. Archived from the original on 19 November 2023. Retrieved 19 November 2023.-",
+                            "dates": {
+                                "Archieved": "2023-11-19",
+                                "Retrieved": "2023-11-19",
+                                "Created": "2023-11-18"
+                            }
+                        }
+                    ],
+                    "start_date": "17/11/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "19 November Brazil records its hottest temperature ever at 44.8 °C (112.6 °F), in Araçuaí, Minas Gerais.",
+                    "links": [
+                        {
+                            "link": "https://agenciasertao.com/2023/11/20/cidade-de-minas-gerais-registrou-448oc-maior-temperatura-ja-medida-no-brasil/",
+                            "text": "-Marques, Tiago (2023-11-20). \"Cidade de Minas Gerais registrou 44,8 °C, maior temperatura já medida no Brasil\". Agência Sertão (in Brazilian Portuguese). Retrieved 2023-11-20.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-11-20",
+                                "Created": "2023-11-20"
+                            }
+                        }
+                    ],
+                    "start_date": "19/11/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "30 November The Maceió City Hall declares a state of emergency due to the \"imminent collapse\" of a mine belonging to Braskem in the area of Mundaú Lagoon, in the Mutange neighborhood.",
+                    "links": [
+                        {
+                            "link": "https://www.sbtnews.com.br/noticia/brasil/267353-maceio-decreta-situacao-de-emergencia-por-risco-de-colapso-em-mina-da-braskem",
+                            "text": "-\"Maceió decreta situação de emergência por risco de colapso em mina da Braskem - SBT News\". www.sbtnews.com.br (in Brazilian Portuguese). 30 November 2023. Retrieved 2023-12-01.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-11-30",
+                                "Created": "2023-12-01"
+                            }
+                        }
+                    ],
+                    "start_date": "30/11/2023",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "December",
+            "Data": [
+                {
+                    "event_text": "4 December Singer Alexandre Pires is the target of an investigation by the Federal Police for having received almost R$1.4 million from a company linked to illegal mining in the Yanomami Indigenous Land. Alexandre's manager, Matheus Possebon, was arrested by federal agents along with Christian Costa dos Santos, who is involved in illegal mining.",
+                    "links": [
+                        {
+                            "link": "https://g1.globo.com/rr/roraima/noticia/2023/12/05/alexandre-pires-e-investigado-pela-pf-por-ter-recebido-quase-r-14-milhao-de-empresa-investigada-por-garimpo-ilegal-na-terra-yanomami.ghtml",
+                            "text": "-\"Alexandre Pires é investigado pela PF por ter recebido quase R$ 1,4 milhão de empresa ligada a garimpo ilegal na Terra Yanomami\". G1 (in Brazilian Portuguese). 2023-12-05. Retrieved 2023-12-05.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-12-05",
+                                "Created": "2023-12-05"
+                            }
+                        }
+                    ],
+                    "start_date": "04/12/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "5 December Heavy rain causes flooding, a blackout, and cars stranded in Uberlândia, Minas Gerais.",
+                    "links": [
+                        {
+                            "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2023/12/05/tempestade-atinge-uberlandia-e-carros-ficam-ilhados-avenidas-intransitaveis-e-centro-tem-apagao.ghtml",
+                            "text": "-\"Tempestade em Uberlândia deixa carros ilhados em alagamentos e causa apagão\". G1 (in Brazilian Portuguese). 2023-12-05. Retrieved 2023-12-07.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-12-07",
+                                "Created": "2023-12-05"
+                            }
+                        }
+                    ],
+                    "start_date": "05/12/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A fire caused by a short circuit in the electrical grid of a camp of the Landless Workers' Movement in Parauapebas, Pará, leaves nine dead.",
+                    "links": [
+                        {
+                            "link": "https://abcnews.go.com/International/wireStory/fire-breaks-encampment-landless-workers-brazils-amazon-killing-105534864",
+                            "text": "-\"Fire breaks out in an encampment of landless workers in Brazil's Amazon, killing 9\". ABC News. Retrieved 2023-12-11.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-12-11",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2023-12/incendio-em-acampamento-do-mst-deixa-9-mortos-no-sul-do-para",
+                            "text": "-Gandra, Alana (2023-12-10). \"Incêndio em acampamento do MST deixa 9 mortos, no Sul do Pará\". Agência Brasil (in Brazilian Portuguese). Retrieved 2023-12-11.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-12-11",
+                                "Created": "2023-12-10"
+                            }
+                        }
+                    ],
+                    "start_date": "10/12/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A part of the Braskem mine collapses in Maceió.",
+                    "links": [
+                        {
+                            "link": "https://www.gazetaweb.com/noticias/maceio/mina-18-da-braskem-acaba-de-registrar-rompimento-alerta-defesa-civil/",
+                            "text": "-\"Mina 18 da Braskem acaba de registrar rompimento, alerta Defesa Civil\". GazetaWeb (in Brazilian Portuguese). 10 December 2023. Retrieved 2023-12-10.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-12-10",
+                                "Created": "2023-12-10"
+                            }
+                        }
+                    ],
+                    "start_date": "10/12/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "13 December A Rio de Janeiro court acquits Fábio Raposo Barbosa and convicts Caio Silva de Souza to 12 years in prison for the death of Santiago Andrade, a cameraman for TV Bandeirantes who was hit by a firework during a protest in downtown Rio de Janeiro in 2014.",
+                    "links": [
+                        {
+                            "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2023/12/13/morte-de-santiago-andrade-resultado-juri.ghtml",
+                            "text": "-Mariana Bispo, Henrique Coelho, Raoni Alves e Wesley Bischoff (13 December 2023). \"Morte de Santiago Andrade: Justiça absolve um dos réus e condena outro a 12 anos de prisão\" (in Portuguese). G1. Retrieved 13 December 2023.{{cite web}}:  CS1 maint: multiple names: authors list (link)-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-12-13",
+                                "Created": "2023-12-13"
+                            }
+                        }
+                    ],
+                    "start_date": "13/12/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "17 December Former soccer player Marcelinho Carioca is kidnapped in Itaquaquecetuba, São Paulo. Later in the afternoon, police find and rescue him. Five people are arrested, suspected of being involved in the crime.",
+                    "links": [
+                        {
+                            "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2023/12/18/marcelinho-carioca-e-encontrado-pela-policia-apos-desaparecimento.htm",
+                            "text": "-\"Marcelinho Carioca é encontrado pela polícia após desaparecimento\". UOL. 18 December 2023. Retrieved 18 December 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-12-18",
+                                "Created": "2023-12-18"
+                            }
+                        },
+                        {
+                            "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2023/12/18/marcelinho-fala-pela-1-vez-apos-sequestro-me-forcaram-a-fazer-o-video.htm",
+                            "text": "-\"Marcelinho se emociona e diz que foi obrigado a falar com arma na cabeça\". UOL. 18 December 2023. Retrieved 18 December 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-12-18",
+                                "Created": "2023-12-18"
+                            }
+                        }
+                    ],
+                    "start_date": "17/12/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "18 December Paulo Gonet officially takes office as the Prosecutor General of the Republic.",
+                    "links": [
+                        {
+                            "link": "https://g1.globo.com/politica/noticia/2023/12/18/gonet-discurso-posse-pgr.ghtml",
+                            "text": "-\"'Somos corresponsáveis pela preservação da democracia' e 'não buscamos palco nem holofotes', diz Gonet em posse como PGR\". G1 (in Brazilian Portuguese). 2023-12-18. Retrieved 2023-12-19.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-12-19",
+                                "Created": "2023-12-18"
+                            }
+                        }
+                    ],
+                    "start_date": "18/12/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "20 December The National Congress approves bill on tax reform.",
+                    "links": [
+                        {
+                            "link": "https://economia.uol.com.br/noticias/redacao/2023/12/20/congresso-promulgacao-reforma-tributaria.htm",
+                            "text": "-\"Congresso promulga reforma tributária com presença de Lula\". UOL (in Brazilian Portuguese). 2023-12-20. Retrieved 2023-12-22.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-12-22",
+                                "Created": "2023-12-20"
+                            }
+                        }
+                    ],
+                    "start_date": "20/12/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The roof of a church collapses in Montezuma, Minas Gerais, injuring around 80 people.",
+                    "links": [
+                        {
+                            "link": "https://g1.globo.com/mg/grande-minas/noticia/2023/12/22/parte-de-telhado-de-igreja-desaba-durante-celebracao-e-deixa-feridos-no-norte-de-minas.ghtml",
+                            "text": "-\"Parte de telhado de igreja desaba durante celebração e deixa feridos no Norte de Minas\". G1 (in Brazilian Portuguese). 2023-12-22. Retrieved 2023-12-22.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-12-22",
+                                "Created": "2023-12-22"
+                            }
+                        }
+                    ],
+                    "start_date": "21/12/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "President Luiz Inácio Lula da Silva officially signs a law that makes Black Consciousness Day a federal holiday on November 20.",
+                    "links": [
+                        {
+                            "link": "https://g1.globo.com/politica/noticia/2023/12/21/lula-sanciona-lei-que-torna-nacional-o-feriado-da-consciencia-negra-em-20-de-novembro.ghtml",
+                            "text": "-\"Lula sanciona lei que torna nacional o feriado da Consciência Negra, em 20 de novembro\". Globo (in Brazilian Portuguese). 2023-12-21. Retrieved 2023-12-22.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-12-22",
+                                "Created": "2023-12-21"
+                            }
+                        }
+                    ],
+                    "start_date": "21/12/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "American singer Beyoncé makes a surprise visit to Salvador, Bahia, to perform at a fan event.",
+                    "links": [
+                        {
+                            "link": "https://gshow.globo.com/tudo-mais/tv-e-famosos/noticia/beyonce-esta-em-salvador-para-festa-com-fas.ghtml",
+                            "text": "-\"Beyoncé se apresenta no evento Club Renaissance, em Salvador\". Globo (in Brazilian Portuguese). 22 December 2023. Retrieved 2023-12-22.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-12-22",
+                                "Created": "2023-12-22"
+                            }
+                        }
+                    ],
+                    "start_date": "21/12/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "23 December A small plane crashes in Jaboticabal, São Paulo, killing five people (three adults, a teenager, and child).",
+                    "links": [
+                        {
+                            "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2023/12/23/aviao-de-pequeno-porte-cai-e-mata-uma-pessoa-em-jaboticabal-sp.ghtml",
+                            "text": "-\"Monomotor cai em praça e mata 5 pessoas em Jaboticabal; avião estava acima da capacidade autorizada pela Anac\". Globo (in Brazilian Portuguese). 2023-12-23. Retrieved 2023-12-24.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-12-24",
+                                "Created": "2023-12-23"
+                            }
+                        }
+                    ],
+                    "start_date": "23/12/2023",
+                    "end_date": null
+                },
+                {
+                    "event_text": "31 December A gas explosion causes a residential building to partially collapse in Aracaju, Sergipe, killing at least five people and injuring fourteen.",
+                    "links": [
+                        {
+                            "link": "https://www.poder360.com.br/brasil/3-morrem-em-desabamento-provocado-por-explosao-em-aracaju/",
+                            "text": "-\"Death toll from landslide in Aracaju rises to 5\". Poder 360 (in Portuguese). January 2024. Retrieved 2024-01-01.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-01-01",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "31/12/2023",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,208 @@
+{
+    "Events": [
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "14 February - Saint-Laurent-de-la-Salanque explosion",
+                    "links": [],
+                    "start_date": "14/02/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "9 March - 2022 Corsica unrest",
+                    "links": [],
+                    "start_date": "09/03/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "20 March - 2022 Wallis and Futuna Territorial Assembly election, 2022 Saint Barthélemy Territorial Council election, 2022 Saint Martin Territorial Council election, 2022 Saint Pierre and Miquelon legislative election",
+                    "links": [
+                        {
+                            "link": "https://la1ere.francetvinfo.fr/elections-territoriales-pour-plusieurs-collectivites-d-outre-mer-le-20-mars-1196617.html",
+                            "text": "-\"Elections territoriales pour plusieurs collectivités d'Outre-mer le 20 mars\". Outre-mer la 1ère (in French). 5 January 2022. Retrieved 2022-01-27.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-01-05",
+                                "Created": "2022-01-27"
+                            }
+                        }
+                    ],
+                    "start_date": "20/03/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "10 April - The first round of the 2022 French presidential election is held.",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/world/ng-interactive/2022/apr/10/french-election-2022-projected-result-and-latest-results",
+                            "text": "-Voce, Antonio; Clarke, Seán. \"French election 2022: full first-round results\". the Guardian. Retrieved 2022-05-16.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-05-16",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "10/04/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "24 April - The second round of the 2022 French presidential election is held and incumbent president Emmanuel Macron is reelected, defeating  Marine Le Pen.",
+                    "links": [
+                        {
+                            "link": "https://www.resultats-elections.interieur.gouv.fr/presidentielle-2022/FE.html",
+                            "text": "-\"Election présidentielle 2022\". www.resultats-elections.interieur.gouv.fr. Retrieved 2022-05-16.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-05-16",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://www.france24.com/en/france/20220424-macron-beats-le-pen-again-as-france-rallies-once-more-against-the-far-right",
+                            "text": "-\"Macron re-elected as French voters hold off Le Pen's far right once more\". France 24. 2022-04-24. Retrieved 2022-05-16.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-05-16",
+                                "Created": "2022-04-24"
+                            }
+                        },
+                        {
+                            "link": "https://www.bbc.com/news/world-europe-61209058",
+                            "text": "-\"French election result: Macron defeats Le Pen and vows to unite divided France\". BBC News. 2022-04-25. Retrieved 2022-05-16.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-05-16",
+                                "Created": "2022-04-25"
+                            }
+                        }
+                    ],
+                    "start_date": "24/04/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "May",
+            "Data": [
+                {
+                    "event_text": "16 May - Prime minister Jean Castex resigns and president Macron appoints Minister of Labour, Employment and Economic Inclusion Élisabeth Borne to replace him.",
+                    "links": [
+                        {
+                            "link": "https://www.bfmtv.com/politique/elections/legislatives/en-direct-la-demission-de-jean-castex-imminente-vers-la-nomination-d-un-nouveau-premier-ministre_LN-202205160051.html",
+                            "text": "-\"EN DIRECT - Elisabeth Borne dédie sa nomination à Matignon à \"toutes les petites filles\"\". BFMTV (in French). Retrieved 2022-05-16.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-05-16",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "16/05/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "June",
+            "Data": []
+        },
+        {
+            "Month": "July",
+            "Data": [
+                {
+                    "event_text": "12 July onwards - 2022 Gironde wildfires",
+                    "links": [],
+                    "start_date": "12/07/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "November",
+            "Data": [
+                {
+                    "event_text": "3 November - during the government question period, National Rally deputy Grégoire de Fournas interrupts Black deputy Carlos Martens Bilongo's remarks on the situation of migrants on the SOS Méditerranée ship Ocean Viking, shouting \"go back to Africa!\" De Fournas's outburst was deemed racist, though it was unclear whether he was referring to Bilongo or the African migrants. The president of the National Assembly suspended parliament. De Fournas received a 15-day ban from the National Assembly and had his pay docked.",
+                    "links": [
+                        {
+                            "link": "https://www.euronews.com/my-europe/2022/11/04/racism-row-over-french-far-right-mps-go-back-to-africa-outburst",
+                            "text": "-\"Racism row over French far-right MP's 'go back to Africa' outburst\". euronews. 2022-11-04. Retrieved 2022-11-04.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-11-04",
+                                "Created": "2022-11-04"
+                            }
+                        },
+                        {
+                            "link": "https://www.lemonde.fr/politique/article/2022/11/03/la-presidente-de-l-assemblee-nationale-met-fin-a-la-seance-apres-des-propos-a-teneur-raciste-d-un-depute-rn-dans-l-hemicycle_6148382_823448.html",
+                            "text": "-\"Séance interrompue à l'Assemblée nationale après des propos à teneur raciste d'un député RN\" [Session interrupted in the National Assembly after racist remarks by an RN deputy]. LeMonde.fr (in French). 3 November 2022. Retrieved 3 November 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-11-03",
+                                "Created": "2022-11-03"
+                            }
+                        },
+                        {
+                            "link": "https://www.bbc.co.uk/news/world-asia-63507371",
+                            "text": "-Jackson, Patrick; Thomas, Merlyn (4 November 2022). \"French parliament stopped over 'racist' remark\". British Broadcasting Corporation. Retrieved 4 November 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-11-04",
+                                "Created": "2022-11-04"
+                            }
+                        },
+                        {
+                            "link": "https://www.reuters.com/world/europe/french-far-right-mp-temporarily-suspended-shouting-go-back-africa-2022-11-04/",
+                            "text": "-\"French far-right MP temporarily suspended for shouting \"Go back to Africa\"\". Reuters. 4 November 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2022-11-04"
+                            }
+                        }
+                    ],
+                    "start_date": "03/11/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "5 November - Jordan Bardella is elected president of National Rally, ending Le Pen era as president of the party.",
+                    "links": [
+                        {
+                            "link": "https://www.dw.com/en/frances-far-right-picks-jordan-bardella-to-succeed-marine-le-pen-as-party-chief/a-63659047",
+                            "text": "-\"France's far right replaces Le Pen with Jordan Bardella – DW – 11/05/2022\". dw.com. Retrieved 2022-11-05.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-05-11",
+                                "Created": "2022-11-05"
+                            }
+                        }
+                    ],
+                    "start_date": "05/11/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "December",
+            "Data": [
+                {
+                    "event_text": "23 December - 2022 Paris shooting",
+                    "links": [],
+                    "start_date": "23/12/2022",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

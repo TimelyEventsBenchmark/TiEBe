@@ -1,0 +1,455 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "to 21  2018 Canadian Junior Curling Championships.",
+                    "links": [],
+                    "start_date": "13/01/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The New Democratic Party of Quebec leadership election resulted in Raphael Fortin being chosen as the new leader for the New Democratic Party of Quebec.",
+                    "links": [
+                        {
+                            "link": "https://montrealgazette.com/news/ndp-quebec-to-elect-new-leader-in-january",
+                            "text": "-\"NDP-Quebec to elect new leader in January\". Montreal Gazette. The Canadian Press. 7 July 2017. Retrieved 11 October 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-10-11",
+                                "Created": "2017-07-07"
+                            }
+                        }
+                    ],
+                    "start_date": "21/01/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Saskatchewan Party leadership election resulted in Scott Moe being chosen as the new leader for the Saskatchewan Party.",
+                    "links": [
+                        {
+                            "link": "http://www.cbc.ca/news/canada/saskatchewan/saskatchewan-party-leadership-1.4254456",
+                            "text": "-\"Sask. Party to elect new leader in January 2018\". CBC News. 19 August 2017. Retrieved 11 October 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-10-11",
+                                "Created": "2017-08-19"
+                            }
+                        }
+                    ],
+                    "start_date": "27/01/2018",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "The British Columbia Liberal Party leadership election resulted in Andrew Wilkinson being chosen as the new leader of the British Columbia Liberal Party",
+                    "links": [
+                        {
+                            "link": "https://vancouversun.com/news/politics/b-c-liberals-open-leadership-race-set-rules",
+                            "text": "-.Shaw, Rob (30 August 2017). \"B.C. Liberals open leadership race and set the rules\". Vancouver Sun. Retrieved 11 October 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-10-11",
+                                "Created": "2017-08-30"
+                            }
+                        }
+                    ],
+                    "start_date": "03/02/2018",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "The Saskatchewan New Democratic Party leadership election resulted in Ryan Meili being chosen as the new leader for the Saskatchewan New Democratic Party.",
+                    "links": [
+                        {
+                            "link": "http://www.cbc.ca/news/canada/saskatchewan/saskatchewan-new-democrats-new-leader-election-1.4293668",
+                            "text": "-\"Sask. NDP to elect a new leader on March 3, 2018\". CBC News. 16 September 2017. Retrieved 11 October 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-03-03",
+                                "Created": "2017-09-16"
+                            }
+                        }
+                    ],
+                    "start_date": "03/03/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "York University strike starts.",
+                    "links": [],
+                    "start_date": "05/03/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Ontario Progressive Conservative Party leadership election resulted in Doug Ford being chosen as the new leader for the Progressive Conservative Party of Ontario.",
+                    "links": [],
+                    "start_date": "10/03/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Daylight saving time goes into effect.",
+                    "links": [],
+                    "start_date": "11/03/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "25  2018 Ford World Women's Curling Championship in North Bay.",
+                    "links": [],
+                    "start_date": "17/03/2018",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "16 are killed in the Humboldt Broncos bus crash involving the team bus for the Humboldt Broncos, a junior hockey team in the Saskatchewan Junior Hockey League, and a semi-trailer truck.",
+                    "links": [],
+                    "start_date": "06/04/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The New Democratic Party of Prince Edward Island leadership election resulted in Joe Byrne being chosen as the new leader for the New Democratic Party of Prince Edward Island.",
+                    "links": [],
+                    "start_date": "07/04/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A van strikes a group of pedestrians in Toronto, killing ten and injuring at least 15. The driver then flees the scene but is later arrested, according to Toronto Police, who are still handling the investigation. Terrorist involvement has not been ruled out. (BBC) (Globe News) (The Guardian)",
+                    "links": [],
+                    "start_date": "23/04/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Progressive Conservative Party of Newfoundland and Labrador leadership election resulted in Ches Crosbie being chosen as the new leader of the Progressive Conservative Party of Newfoundland and Labrador.",
+                    "links": [],
+                    "start_date": "29/04/2018",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "May",
+            "Data": [
+                {
+                    "event_text": "United Nations announces it is concerned Canada is not doing enough for Indigenous people's status.",
+                    "links": [
+                        {
+                            "link": "http://www.cbc.ca/news/politics/un-raybould-indigenous-treatment-1.4659893",
+                            "text": "-\"Canada not doing enough on issues facing Indigenous women, UN human rights council says - CBC News\".-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "11/05/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A massive fire destroys several buildings in downtown Brandon, Manitoba.",
+                    "links": [],
+                    "start_date": "18/05/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "to 27  2018 Memorial Cup, was held at the Brandt Centre in Regina, Saskatchewan.",
+                    "links": [
+                        {
+                            "link": "http://www.sportsnet.ca/hockey/juniors/regina-host-100th-memorial-cup-2018/",
+                            "text": "-\"Regina to host 100th Memorial Cup in 2018\". Sportsnet. 18 February 2017. Retrieved 11 October 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-10-11",
+                                "Created": "2017-02-18"
+                            }
+                        }
+                    ],
+                    "start_date": "18/05/2018",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "June",
+            "Data": [
+                {
+                    "event_text": "A teenage girl is sentenced to 40 months imprisonment after being convicted of the murder of Serena McKay in Sagkeeng First Nation, Lake Winnipeg. McKay had been severely beaten by two female classmates and then left to die of hypothermia. The attack was videoed and posted to social media.",
+                    "links": [
+                        {
+                            "link": "https://www.thestar.com/news/canada/2018/06/04/manitoba-teen-who-took-part-in-fatal-beating-gets-more-than-three-years-in-prison.html",
+                            "text": "-\"Manitoba teen who took part in fatal beating gets more than three years in prison\". Toronto Star. 4 June 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2018-06-04"
+                            }
+                        }
+                    ],
+                    "start_date": "04/06/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "In the Ontario general election, the  Progressive Conservative Party of Ontario gain a majority, the NDP becoming the official opposition and Green Party leader Mike Schreiner won the first ever elected seat for that party in the Ontario parliament.",
+                    "links": [
+                        {
+                            "link": "https://www.thestar.com/news/queenspark/2016/10/19/ontario-moves-election-date-to-june-7-2018.html",
+                            "text": "-Ferguson, Rob (October 19, 2016). \"Ontario moves election date to June 7, 2018\". The Toronto Star. ISSN 0319-0781. Retrieved December 31, 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-12-31",
+                                "Created": "2016-10-19"
+                            }
+                        },
+                        {
+                            "link": "https://search.worldcat.org/issn/0319-0781",
+                            "text": "-Ferguson, Rob (October 19, 2016). \"Ontario moves election date to June 7, 2018\". The Toronto Star. ISSN 0319-0781. Retrieved December 31, 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-12-31",
+                                "Created": "2016-10-19"
+                            }
+                        }
+                    ],
+                    "start_date": "07/06/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "and 9  The 44th G7 summit is held in La Malbaie, Quebec, Canada.",
+                    "links": [
+                        {
+                            "link": "https://www.thestar.com/news/canada/2017/05/25/canada-to-host-2018-meeting-of-g7-leaders-in-charlevoix-quebec.html",
+                            "text": "-\"Canada to host 2018 meeting of G7 leaders in Charlevoix, Quebec\". Toronto Star. The Canadian Press. 25 May 2017. Retrieved 11 October 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-10-11",
+                                "Created": "2017-05-25"
+                            }
+                        }
+                    ],
+                    "start_date": "08/06/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "to 17  2018 FIBA Under-18 Americas Championship were held in St. Catharines, Ontario.",
+                    "links": [
+                        {
+                            "link": "https://web.archive.org/web/20171011233007/http://www.stcatharinesstandard.ca/2017/04/12/st-catharines-nets-2018-fiba-under-18-boys-americas-championships",
+                            "text": "-Frankie, Bernd (12 April 2017). \"St. Catharines nets 2018 FIBA under-18 boys Americas championships\". St. Catharines Standard. Postmedia News. Archived from the original on 11 October 2017. Retrieved 11 October 2017.-",
+                            "dates": {
+                                "Archieved": "2017-10-11",
+                                "Retrieved": "2017-10-11",
+                                "Created": "2017-04-12"
+                            }
+                        },
+                        {
+                            "link": "http://www.stcatharinesstandard.ca/2017/04/12/st-catharines-nets-2018-fiba-under-18-boys-americas-championships",
+                            "text": "-Frankie, Bernd (12 April 2017). \"St. Catharines nets 2018 FIBA under-18 boys Americas championships\". St. Catharines Standard. Postmedia News. Archived from the original on 11 October 2017. Retrieved 11 October 2017.-",
+                            "dates": {
+                                "Archieved": "2017-10-11",
+                                "Retrieved": "2017-10-11",
+                                "Created": "2017-04-12"
+                            }
+                        }
+                    ],
+                    "start_date": "11/06/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Parliament of Canada passes the final version of the Cannabis Act to legalize recreational use of cannabis. It will take effect on October 17.",
+                    "links": [
+                        {
+                            "link": "https://www.vox.com/policy-and-politics/2018/6/19/17438154/canada-marijuana-legalization-cannabis-act-bill-c-45",
+                            "text": "-\"Canada just legalized marijuana. That has big implications for US drug policy\". 19 June 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2018-06-19"
+                            }
+                        }
+                    ],
+                    "start_date": "19/06/2018",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "July",
+            "Data": [
+                {
+                    "event_text": "The 2018 North American heat wave took place.",
+                    "links": [
+                        {
+                            "link": "https://www.nytimes.com/2018/07/05/world/canada/canada-quebec-heat-wave.html",
+                            "text": "-Bilefsky, Dan (5 July 2018). \"Record-Smashing Heat Wave Kills 33 in Quebec\". The New York Times.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2018-07-05"
+                            }
+                        },
+                        {
+                            "link": "https://www.cbsnews.com/news/heat-wave-fourth-of-july-weekend-2018-06-29/",
+                            "text": "-\"Dangerous heat wave hitting U.S. over Fourth of July weekend\". www.cbsnews.com.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "05/07/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The 2018 Canadian cabinet reshuffle took place.",
+                    "links": [],
+                    "start_date": "18/07/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A gunman kills two people and injures thirteen others in a shooting rampage in Toronto, Ontario.",
+                    "links": [],
+                    "start_date": "22/07/2018",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "August",
+            "Data": [
+                {
+                    "event_text": "Saudi Arabia withdraws its Ambassador from Canada and orders the expulsion of the Canadian Ambassador, in response to Canadian criticism of its poor human rights record.",
+                    "links": [
+                        {
+                            "link": "https://twitter.com/KSAmofaEN/status/1026278561399889926",
+                            "text": "-\"Foreign Ministry 🇸🇦 on Twitter\".-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "06/08/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Four people are killed in a mass shooting in Fredericton.",
+                    "links": [],
+                    "start_date": "10/08/2018",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "September",
+            "Data": [
+                {
+                    "event_text": "22  2018 CS Autumn Classic International in Oakville.",
+                    "links": [],
+                    "start_date": "20/09/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "New Brunswick general election, Blaine Higgs and the Progressive Conservatives win the most seats, but not a majority. Premier Brian Gallant and the Liberals continue in power as a minority government (though having one less seat then the PCs) at the invitation of the lieutenant governor.",
+                    "links": [],
+                    "start_date": "24/09/2018",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "October",
+            "Data": [
+                {
+                    "event_text": "Quebec general election, Francois Legault and the Coalition Avenir Québec win a majority of seats, easily defeating Premier Philippe Couillard and the Liberals, Jean-Francois Lisee and the Parti Québécois. The CAQ is the first political party since 1970 to win a Quebec provincial election, that was neither Liberal or PQ.",
+                    "links": [],
+                    "start_date": "01/10/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Donna Strickland, an associate professor at the University of Waterloo, shares the award for the Nobel Prize in Physics for the co-invention of chirped pulse amplification.",
+                    "links": [],
+                    "start_date": "02/10/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "20  2018 World Mixed Curling Championship in Kelowna.",
+                    "links": [],
+                    "start_date": "13/10/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Yukon municipal elections.",
+                    "links": [],
+                    "start_date": "16/10/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "British Columbia municipal elections.",
+                    "links": [],
+                    "start_date": "20/10/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Ontario municipal elections.",
+                    "links": [],
+                    "start_date": "22/10/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Manitoba municipal elections.",
+                    "links": [],
+                    "start_date": "24/10/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "28  2018 Skate Canada International in Laval",
+                    "links": [],
+                    "start_date": "26/10/2018",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "November",
+            "Data": [
+                {
+                    "event_text": "Daylight saving time ends.",
+                    "links": [],
+                    "start_date": "04/11/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Prince Edward Island municipal elections.",
+                    "links": [],
+                    "start_date": "05/11/2018",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "December",
+            "Data": [
+                {
+                    "event_text": "9  2018–19 Grand Prix of Figure Skating Final in Vancouver.",
+                    "links": [],
+                    "start_date": "06/12/2018",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,253 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "1 January  Consumers are concerned about abrupt increases in gasoline prices, known as el gasolinazo.",
+                    "links": [
+                        {
+                            "link": "https://www.excelsior.com.mx/comunidad/esta-es-la-razon-por-la-que-dejo-de-existir-el-distrito-federal/1362415",
+                            "text": "-\"Esta es la razón por la que dejó de existir el Distrito Federal\". Excélsior (in Spanish). 5 February 2020. Retrieved September 3, 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-09-03",
+                                "Created": "2020-02-05"
+                            }
+                        }
+                    ],
+                    "start_date": "01/01/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "18 January  Colegio Americano del Noreste shooting; a 15-year-old student shoots a teacher and three classmates in Monterrey.",
+                    "links": [],
+                    "start_date": "18/01/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "12 March  Former Interim governor Flavino Ríos Alvarado of Veracruz is arrested for covering up his predecessor's, Javier Duarte de Ochoa, crimes and helping him escape.",
+                    "links": [],
+                    "start_date": "12/03/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "13 March  SEP announces educational reform measures.",
+                    "links": [
+                        {
+                            "link": "https://www.foxnews.com/world/15-year-old-student-shoots-teacher-3-classmates-at-american-school-in-mexico",
+                            "text": "-\"15-year-old student shoots teacher, 3 classmates at American school in Mexico\". Fox News. 18 January 2017. Retrieved September 3, 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-09-03",
+                                "Created": "2017-01-18"
+                            }
+                        }
+                    ],
+                    "start_date": "13/03/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "14 March  A mass grave site of more than 250 people is discovered in Palmas de Abajo, Veracruz.",
+                    "links": [
+                        {
+                            "link": "https://www.animalpolitico.com/2017/03/detienen-flavino-rios-ex-gobernador-veracruz/",
+                            "text": "-\"Juez da un año de prisión preventiva a Flavino Ríos; lo acusan de encubrir a Javier Duarte\". Animal Político (in Spanish). 13 March 2017. Retrieved September 3, 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-09-03",
+                                "Created": "2017-03-13"
+                            }
+                        }
+                    ],
+                    "start_date": "14/03/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "16 March  Prison escape in Culiacán.",
+                    "links": [
+                        {
+                            "link": "https://www.milenio.com/politica/pena-nieto-presenta-nuevo-modelo-educativo",
+                            "text": "-\"Peña Nieto presenta nuevo modelo educativo\". www.milenio.com (in Mexican Spanish). March 13, 2017. Retrieved September 3, 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-09-03",
+                                "Created": "2017-03-13"
+                            }
+                        }
+                    ],
+                    "start_date": "16/03/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "31 March  A driver crashes after driving his car 200 kilometres (120 mi) per hour on Paseo de la Reforma, Mexico City.",
+                    "links": [
+                        {
+                            "link": "https://www.excelsior.com.mx/comunidad/esta-es-la-razon-por-la-que-dejo-de-existir-el-distrito-federal/1362415",
+                            "text": "-\"Esta es la razón por la que dejó de existir el Distrito Federal\". Excélsior (in Spanish). 5 February 2020. Retrieved September 3, 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-09-03",
+                                "Created": "2020-02-05"
+                            }
+                        }
+                    ],
+                    "start_date": "31/03/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "10 April  Former Tamaulipas governor Tomás Yarrington, (PRI), is arrested in Italy, charged with plotting the murder of gubnatorial candidate Rodolfo Torre Cantú in 2010.",
+                    "links": [
+                        {
+                            "link": "https://www.nbcnews.com/news/latino/investigators-find-more-250-skulls-mexico-graves-n733916",
+                            "text": "-\"Investigators Find More Than 250 skulls in Mexico Graves\". nbcnews.com. 15 March 2017. Retrieved 15 March 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-03-15",
+                                "Created": "2017-03-15"
+                            }
+                        }
+                    ],
+                    "start_date": "10/04/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "15 April  Former Veracruz governor Javier Duarte, (PRI, 20102016) is arrested in Panajachel, Sololá Department, Guatemala.",
+                    "links": [
+                        {
+                            "link": "https://www.eluniversal.com.mx/articulo/estados/2017/03/16/reportan-fuga-de-hijo-de-el-azul-de-penal-de-sinaloa",
+                            "text": "-\"Hijo de \"El Azul\" se fuga de penal en Sinaloa\". El Universal (in Spanish). 16 March 2017. Retrieved September 3, 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-09-03",
+                                "Created": "2017-03-16"
+                            }
+                        }
+                    ],
+                    "start_date": "15/04/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "May",
+            "Data": [
+                {
+                    "event_text": "21 May  A 42-year-old Russian Nazi kills a 19-year-old man in Cancun after a mob tries to lynch the Russian. He had earlier posted anti-Mexican racist comments on YouTube, but authorities refused to deport him.",
+                    "links": [
+                        {
+                            "link": "https://www.excelsior.com.mx/nacional/2017/04/10/1156879",
+                            "text": "-\"Cae Yarrington; fue detenido en Italia: PGR\". Excélsior (in Spanish). 10 April 2017. Retrieved September 3, 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-09-03",
+                                "Created": "2017-04-10"
+                            }
+                        }
+                    ],
+                    "start_date": "21/05/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "August",
+            "Data": [
+                {
+                    "event_text": "21 August  A partial solar eclipse is visible.",
+                    "links": [
+                        {
+                            "link": "https://www.excelsior.com.mx/comunidad/esta-es-la-razon-por-la-que-dejo-de-existir-el-distrito-federal/1362415",
+                            "text": "-\"Esta es la razón por la que dejó de existir el Distrito Federal\". Excélsior (in Spanish). 5 February 2020. Retrieved September 3, 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-09-03",
+                                "Created": "2020-02-05"
+                            }
+                        }
+                    ],
+                    "start_date": "21/08/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "September",
+            "Data": [
+                {
+                    "event_text": "19 September  A magnitude 7.1 earthquake strikes central Mexico, killing more than 200 people.",
+                    "links": [
+                        {
+                            "link": "https://www.foxnews.com/world/powerful-earthquake-hits-mexicos-coast-tsunami-waves-reported",
+                            "text": "-\"Powerful earthquake hits Mexico's coast, tsunami waves reported\". Fox News. September 8, 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2017-09-08"
+                            }
+                        },
+                        {
+                            "link": "https://politico.mx/minuta-politica/minuta-politica-congreso/san-l%C3%A1zaro-sesiona-para-definir-futuro-de-mesa-directiva/",
+                            "text": "-\"Termina parálisis en San Lázaro, PRI y PAN-PRD-MC logran acuerdo\" (in Spanish). Sep 7, 2020. Retrieved September 3, 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2020-09-03"
+                            }
+                        }
+                    ],
+                    "start_date": "19/09/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "November",
+            "Data": [
+                {
+                    "event_text": "10 November — At 725 local time, eruption of Popocateptl continues.[citation needed]",
+                    "links": [],
+                    "start_date": "10/11/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "18 to 20 November  Sales for El Buen Fin are less than anticipated.",
+                    "links": [
+                        {
+                            "link": "https://www.excelsior.com.mx/comunidad/esta-es-la-razon-por-la-que-dejo-de-existir-el-distrito-federal/1362415",
+                            "text": "-\"Esta es la razón por la que dejó de existir el Distrito Federal\". Excélsior (in Spanish). 5 February 2020. Retrieved September 3, 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-09-03",
+                                "Created": "2020-02-05"
+                            }
+                        }
+                    ],
+                    "start_date": "20/11/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "December",
+            "Data": [
+                {
+                    "event_text": "25 December  An earthquake in Acapulco of 5.0 magnitude triggers the alarm in Mexico City, but no injuries or damages are reported.",
+                    "links": [],
+                    "start_date": "25/12/2017",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

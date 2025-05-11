@@ -1,0 +1,139 @@
+{
+    "Events": [
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "20 March  The presidential and legislative is postponed",
+                    "links": [],
+                    "start_date": "20/03/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "26 March  Voting is held for the gubernatorial elections in 20 out of 21 reformed provinces of the DRC.",
+                    "links": [],
+                    "start_date": "26/03/2016",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "24 April - Darryl Lewis, an American citizen and a US military veteran, is arrested at a rally for Moïse Katumbi in Lubumbashi. He was held for six weeks accused of being a mercenary, and released after diplomatic intervention.",
+                    "links": [],
+                    "start_date": "24/04/2016",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "July",
+            "Data": [
+                {
+                    "event_text": "10 July - Violence breaks out again between Bantu and Pygmies",
+                    "links": [
+                        {
+                            "link": "http://www.lemonde.fr/afrique/article/2016/08/09/rdc-la-violence-reprend-entre-bantous-et-pygmees_4980383_3212.html",
+                            "text": "-Habibou Bangré. \"RDC : la violence reprend entre Bantous et Pygmées\". Le Monde Afrique (in French). Kinshasa.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "10/07/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "29 July -Lewis files suit against Congolese Justice Minister Alexis Thambwe Mwamba and Kalev Mutond, head of the Agence Nationale de Renseignements (ANR), the secret services, under the Torture Victim Protection Act.",
+                    "links": [],
+                    "start_date": "29/07/2016",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "August",
+            "Data": [
+                {
+                    "event_text": "16 August - Beni massacre",
+                    "links": [],
+                    "start_date": "16/08/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "18 August - Protests about Beni massacre.",
+                    "links": [],
+                    "start_date": "18/08/2016",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "October",
+            "Data": [
+                {
+                    "event_text": "18 October - 20 people are killed in Tanganyika Province after clashes between Pygmy and Bantu militias.",
+                    "links": [
+                        {
+                            "link": "http://www.africanews.com/2016/10/18/dr-congo-20-dead-in-3-days-of-ethnic-clashes-in-katanga/",
+                            "text": "-\"DR Congo: 20 dead in 3 days of ethnic clashes in Katanga\". 18 October 2016. Retrieved 6 December 2016.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2016-12-06",
+                                "Created": "2016-10-18"
+                            }
+                        }
+                    ],
+                    "start_date": "18/10/2016",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "November",
+            "Data": [
+                {
+                    "event_text": "27 November - 30 civilians, mostly Hutus, are killed by an ethnic Nande militia in the east of the country.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/article/us-congo-killings-idUSKBN13M0BP",
+                            "text": "-\"East Congo militia kills 30 civilians, most from rival ethnic group\". Reuters. 27 November 2016. Retrieved 6 December 2016.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2016-12-06",
+                                "Created": "2016-11-27"
+                            }
+                        }
+                    ],
+                    "start_date": "27/11/2016",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "December",
+            "Data": [
+                {
+                    "event_text": "5 December - 31 people are killed in clashes between government and militia forces in Kasai Province.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/article/us-congo-violence-idUSKBN13U2PR",
+                            "text": "-\"Clashes between Congo tribal militia, government kill 31\". Reuters. 5 December 2016. Retrieved 6 December 2016.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2016-12-06",
+                                "Created": "2016-12-05"
+                            }
+                        }
+                    ],
+                    "start_date": "05/12/2016",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

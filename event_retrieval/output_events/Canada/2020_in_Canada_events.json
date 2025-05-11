@@ -1,0 +1,549 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "Quebec raises its minimum cannabis age from 18 to 21, the highest minimum cannabis age in Canada.",
+                    "links": [
+                        {
+                            "link": "https://web.archive.org/web/20210110022842/https://www.cbc.ca/news/canada/montreal/legal-age-cannabis-edibles-1.5399211",
+                            "text": "-\"Legal age to buy cannabis in Quebec is now 21, the highest in Canada | CBC News\". January 10, 2021. Archived from the original on 10 January 2021.-",
+                            "dates": {
+                                "Archieved": "2021-01-10",
+                                "Retrieved": null,
+                                "Created": "2021-01-10"
+                            }
+                        },
+                        {
+                            "link": "https://www.cbc.ca/news/canada/montreal/legal-age-cannabis-edibles-1.5399211",
+                            "text": "-\"Legal age to buy cannabis in Quebec is now 21, the highest in Canada | CBC News\". January 10, 2021. Archived from the original on 10 January 2021.-",
+                            "dates": {
+                                "Archieved": "2021-01-10",
+                                "Retrieved": null,
+                                "Created": "2021-01-10"
+                            }
+                        }
+                    ],
+                    "start_date": "01/01/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Canada defeats Russia 43 to win gold at the 2020 World Junior Ice Hockey Championships.",
+                    "links": [
+                        {
+                            "link": "https://www.iihf.com/pdf/422/ihm422131_74_4_0",
+                            "text": "-\"Game Summary\". International Ice Hockey Federation.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "05/01/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Fifty-seven Canadians, as well as approximately 80 others ultimately travelling to Canada, are killed after Ukraine International Airlines Flight 752 was shot down by Iran shortly after takeoff from Tehran Imam Khomeini Airport.",
+                    "links": [
+                        {
+                            "link": "https://nationalpost.com/news/cp-newsalert-iran-state-tv-says-ukrainian-jet-was-unintentionally-shot-down",
+                            "text": "-\"'Our profound regrets': Iran state TV says Ukrainian jet was 'unintentionally' shot down | National Post\". January 11, 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2020-01-11"
+                            }
+                        }
+                    ],
+                    "start_date": "08/01/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A nuclear alert is erroneously sent out to all Ontario residents, after the Pickering Nuclear Generating Station experiences anomalies.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-us-canada-51084859",
+                            "text": "-\"Canada nuclear plant incident alert sent in error\". January 12, 2020. Retrieved January 12, 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-01-12",
+                                "Created": "2020-01-12"
+                            }
+                        }
+                    ],
+                    "start_date": "12/01/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "North American storm complex St. John's, Newfoundland and Labrador goes into a state of emergency after 76 centimetres of snow fell during a bomb cyclone. The Canadian Armed Forces were called in to help with the cleanup.",
+                    "links": [
+                        {
+                            "link": "https://weather.com/storms/winter/news/2020-01-18-newfoundland-blizzard-record-daily-snow-st-johns",
+                            "text": "-Erdman, Jonathan (January 18, 2020). \"Crippling Newfoundland, Canada, Blizzard From Bomb Cyclone Smashes All-Time Daily Snow Record\". The Weather Channel. Retrieved April 18, 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-04-18",
+                                "Created": "2020-01-18"
+                            }
+                        },
+                        {
+                            "link": "https://globalnews.ca/news/6435874/armed-forces-arrive-in-st-johns-as-state-of-emergency-stretches-into-fourth-day/",
+                            "text": "-McKenzie-Sutter, Holly (January 20, 2020). \"Armed Forces arrive in St. John's as state of emergency stretches into fourth day\". Global News. Retrieved April 18, 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-04-18",
+                                "Created": "2020-01-20"
+                            }
+                        }
+                    ],
+                    "start_date": "17/01/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Start of national pipeline protests across the country.",
+                    "links": [],
+                    "start_date": "20/01/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The country confirms its first COVID-19 case in Toronto.",
+                    "links": [
+                        {
+                            "link": "https://www.cp24.com/news/man-who-flew-to-toronto-from-china-is-canada-s-first-coronavirus-case-1.4783476",
+                            "text": "-\"Man who flew to Toronto from China is Canada's first coronavirus case\". CP24. Archived from the original on February 29, 2020. Retrieved January 26, 2020.-",
+                            "dates": {
+                                "Archieved": "2020-02-29",
+                                "Retrieved": "2020-01-26",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20200229094929/https://www.cp24.com/news/man-who-flew-to-toronto-from-china-is-canada-s-first-coronavirus-case-1.4783476",
+                            "text": "-\"Man who flew to Toronto from China is Canada's first coronavirus case\". CP24. Archived from the original on February 29, 2020. Retrieved January 26, 2020.-",
+                            "dates": {
+                                "Archieved": "2020-02-29",
+                                "Retrieved": "2020-01-26",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "25/01/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "The Quebec CAQ government pass Bill 40. The Bill abolish's The French and English school boards and turns them into school service centres.",
+                    "links": [
+                        {
+                            "link": "https://theconversation.com/quebecs-bill-40-further-undermines-the-provinces-english-language-school-system-131595",
+                            "text": "-Bourhis, Richard. \"Québec's Bill 40 further undermines the province's English-language school system\". The Conversation. Retrieved 2020-03-27.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-03-27",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://www.cbc.ca/news/canada/montreal/quebec-education-reform-school-boards-1.5457100",
+                            "text": "-\"Quebec passes education reforms abolishing school boards\". CBC News. February 8, 2020. Retrieved 2020-04-06.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-02-08",
+                                "Created": "2020-04-06"
+                            }
+                        }
+                    ],
+                    "start_date": "08/02/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Ontario teachers held a one-day province wide strike.",
+                    "links": [
+                        {
+                            "link": "https://globalnews.ca/news/6575272/ontario-wide-teachers-strike/",
+                            "text": "-Rocca, Ryan (February 21, 2020). \"Entire Ontario public school system closed, millions out of class Friday as teachers strike\". Global News. Retrieved April 18, 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-04-18",
+                                "Created": "2020-02-21"
+                            }
+                        }
+                    ],
+                    "start_date": "21/02/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "Canada's first COVID-19 death is recorded in North Vancouver.",
+                    "links": [
+                        {
+                            "link": "https://www.cbc.ca/news/canada/british-columbia/covid-19-coronavirus-update-bc-march-9-1.5483932",
+                            "text": "-Larsen, Karin (March 9, 2020). \"1st COVID-19-related death in Canada recorded in B.C.\" CBC News. Retrieved March 18, 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-03-18",
+                                "Created": "2020-03-09"
+                            }
+                        }
+                    ],
+                    "start_date": "06/03/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Yukon permanently ends Daylight Saving Time.",
+                    "links": [
+                        {
+                            "link": "https://www.yukon-news.com/news/yukon-government-ends-seasonal-time-change/",
+                            "text": "-Waddell, Stephanie (March 6, 2020). \"Yukon government ends seasonal time change\". Yukon News. Retrieved April 18, 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-04-18",
+                                "Created": "2020-03-06"
+                            }
+                        }
+                    ],
+                    "start_date": "08/03/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Canada closes its border with the United States to non-essential travel due to the COVID-19 pandemic.",
+                    "links": [
+                        {
+                            "link": "https://www.theglobeandmail.com/canada/article-trump-confirms-canada-us-to-close-border-to-non-essential-travel/",
+                            "text": "-Walsh, Marieke; Morrow, Adrian; Dickson, Janice (18 March 2020). \"Canada-U.S. border to close except for essential supply chains\". The Globe and Mail. Retrieved 30 December 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-12-30",
+                                "Created": "2020-03-18"
+                            }
+                        }
+                    ],
+                    "start_date": "21/03/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "19  A series of shootings and arson attacks takes place in various Nova Scotia locations, with 23 people killed.",
+                    "links": [
+                        {
+                            "link": "https://blackburnnews.com/windsor/windsor-news/2020/04/21/nova-scotia-death-toll-now-23/",
+                            "text": "-Brown, Mark (April 21, 2020). \"Nova Scotia death toll now at 23\". BlackburnNews.com. Retrieved April 21, 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-04-21",
+                                "Created": "2020-04-21"
+                            }
+                        }
+                    ],
+                    "start_date": "18/04/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A large flood hits Fort McMurray, forcing 13,000 people to evacuate.",
+                    "links": [
+                        {
+                            "link": "https://www.nationalobserver.com/2020/04/29/news/flooding-forces-13000-downtown-fort-mcmurray",
+                            "text": "-Derworiz, Colette (April 29, 2020). \"Flooding forces 13,000 from downtown Fort McMurray\". National Observer. Retrieved April 29, 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-04-29",
+                                "Created": "2020-04-29"
+                            }
+                        }
+                    ],
+                    "start_date": "26/04/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "May",
+            "Data": [
+                {
+                    "event_text": "Protests across Canada begin in solidarity with Americans protesting the murder of George Floyd, and against police issues and racism in Canada.",
+                    "links": [
+                        {
+                            "link": "https://toronto.ctvnews.ca/thousands-rally-in-toronto-against-anti-black-racism-after-woman-falls-from-balcony-1.4961725",
+                            "text": "-Aguilar, Bryann (May 31, 2020). \"Thousands rally in Toronto against anti-black racism after woman falls from balcony\". CTV News. Retrieved June 7, 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-06-07",
+                                "Created": "2020-05-31"
+                            }
+                        },
+                        {
+                            "link": "https://toronto.ctvnews.ca/thousands-fill-downtown-toronto-streets-to-protest-anti-black-racism-1.4970641",
+                            "text": "-Tsekouras, Phil (June 5, 2020). \"Thousands fill downtown Toronto streets to protest anti-Black racism\". CTV News. Retrieved June 7, 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-06-07",
+                                "Created": "2020-06-05"
+                            }
+                        }
+                    ],
+                    "start_date": "30/05/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "August",
+            "Data": [
+                {
+                    "event_text": "A tornado in southern Manitoba kills two and causes damage near Virden and Scarth.",
+                    "links": [
+                        {
+                            "link": "https://globalnews.ca/news/7259020/tornado-touches-down-western-manitoba/",
+                            "text": "-Hirschfield, Kevin. \"Two dead following tornado in Western Manitoba\". Global News. Retrieved August 9, 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-08-09",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "07/08/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Wildfire Red Lake 49 ignites near Red Lake, Ontario which advances within 2 km of the west-end of the town, forcing the evacuation of 95 percent of the 4000 residents of the community.  Though small by comparison to the Fort McMurray fire of 2016 which was 800 times the size of this fire, it is unusual in the fire's proximity to the community.",
+                    "links": [
+                        {
+                            "link": "https://www.iheartradio.ca/98-3-fly-fm/local-news/uncontrolled-forest-fire-creeping-even-closer-to-red-lake-ont-mayor-says-1.13229963/",
+                            "text": "-Flanigan, Ryan (August 13, 2020). \"Uncontrolled forest fire creeping even closer to Red Lake, Ont., mayor says\". 1HeartRadio. Retrieved August 13, 2020.[permanent dead link]-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-08-13",
+                                "Created": "2020-08-13"
+                            }
+                        }
+                    ],
+                    "start_date": "10/08/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Canadian Football League cancels the 2020 CFL season.",
+                    "links": [
+                        {
+                            "link": "https://www.tsn.ca/cfl-cancels-2020-season-1.1510345",
+                            "text": "-The Canadian Press (August 17, 2020). \"CFL cancels 2020 season, 'committed' to 2021\". TSN. Retrieved August 19, 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-08-19",
+                                "Created": "2020-08-17"
+                            }
+                        }
+                    ],
+                    "start_date": "17/08/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Quebec's Minister of Justice and French Language Simon Jolin-Barrette announced plans for 2021 that he will be strengthening Bill 101, the French language in the province of Quebec.",
+                    "links": [
+                        {
+                            "link": "https://montrealgazette.com/news/local-news/on-bill-101-anniversary-jolin-barrette-pledges-to-strengthen-role-of-french",
+                            "text": "-\"On Bill 101 anniversary, Jolin-Barrette pledges to strengthen role of French | Montreal Gazette\".-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "26/08/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "September",
+            "Data": [
+                {
+                    "event_text": "New Brunswick general election is held, resulting in a Progressive Conservative majority government.",
+                    "links": [],
+                    "start_date": "14/09/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "21  2020 Toronto International Film Festival.",
+                    "links": [],
+                    "start_date": "10/09/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Yukon stops the twice yearly changing of clocks, committing to UTC−0700. This puts solar noon around 1400, effectively double daylight saving time year-round.",
+                    "links": [],
+                    "start_date": "20/09/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Tampa Bay Lightning win the Stanley Cup in Edmonton after defeating the Dallas Stars in Game 6 of the 2020 Stanley Cup Finals.",
+                    "links": [],
+                    "start_date": "28/09/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "October",
+            "Data": [
+                {
+                    "event_text": "2020 Polaris Music Prize awarded.",
+                    "links": [],
+                    "start_date": "19/10/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Trudeau minority government survives confidence vote 180 to 146, in the House of Commons.",
+                    "links": [],
+                    "start_date": "21/10/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "British Columbia general election is held, resulting in a New Democratic majority government.",
+                    "links": [],
+                    "start_date": "24/10/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Saskatchewan general election is held, resulting in a fourth consecutive Saskatchewan Party majority government.",
+                    "links": [],
+                    "start_date": "26/10/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Two people are killed and five injured in the Quebec City stabbing.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/world-us-canada-54766208",
+                            "text": "-\"Quebec stabbing: Two dead after attack by man in medieval clothes\". BBC News. November 1, 2020. Retrieved November 1, 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-11-01",
+                                "Created": "2020-11-01"
+                            }
+                        }
+                    ],
+                    "start_date": "31/10/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "November",
+            "Data": [
+                {
+                    "event_text": "Daylight saving time ends",
+                    "links": [],
+                    "start_date": "01/11/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "/25  Prince Edward Island and Newfoundland and Labrador will temporarily leave the Atlantic Bubble, due the latest wave in the pandemic.",
+                    "links": [],
+                    "start_date": "24/11/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "December",
+            "Data": [
+                {
+                    "event_text": "Yukon officials announce a mask mandate and urges people to stay home amid a rise of cases.",
+                    "links": [
+                        {
+                            "link": "https://www.cbc.ca/news/canada/north/yukon-officials-covid-19-update-1.5822703",
+                            "text": "-\"Officials stress mandatory mask rules, urge Yukoners to stay home to prevent spread of COVID-19 | CBC News\".-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "01/12/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Quebec government cancels a plan to allow Christmas gatherings of up to 10 people amid a rise of cases.",
+                    "links": [
+                        {
+                            "link": "https://www.theglobeandmail.com/canada/article-quebec-government-cancels-plan-to-allow-christmas-gatherings-as-covid/",
+                            "text": "-Banerjee, Sidhartha (December 3, 2020). \"Quebec government cancels plan to allow Christmas gatherings as COVID-19 cases rise – The Globe and Mail\". The Globe and Mail.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2020-12-03"
+                            }
+                        }
+                    ],
+                    "start_date": "03/12/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Alberta reports 1,854 new COVID-19 cases, a single-day record.",
+                    "links": [
+                        {
+                            "link": "https://www.cbc.ca/news/canada/edmonton/alberta-coronavirus-covid-19-deena-hinshaw-1.5826900",
+                            "text": "-\"Alberta once again shatters COVID-19 record with 1,854 new cases | CBC News\".-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "03/12/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Prime Minister Trudeau says that the country will receive 240,000 doses of Pfizer and BioNTech’s vaccine candidate by the end of the year.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/justin-trudeau-canada-coronavirus-pandemic-ace90d898020fe5035c2b605bdb58a5e",
+                            "text": "-\"Trudeau: Canada to get Pfizer vaccine by end of this year\". AP NEWS. December 7, 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2020-12-07"
+                            }
+                        }
+                    ],
+                    "start_date": "07/12/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The 2021 Canadian Honours List is announced.",
+                    "links": [
+                        {
+                            "link": "https://www.newswire.ca/news-releases/governor-general-announces-61-new-appointments-to-the-order-of-canada-819394524.html",
+                            "text": "-Canada, Governor General of. \"Governor General Announces 61 New Appointments to the Order of Canada\". www.newswire.ca. Retrieved 2021-01-19.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-01-19",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "30/12/2020",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

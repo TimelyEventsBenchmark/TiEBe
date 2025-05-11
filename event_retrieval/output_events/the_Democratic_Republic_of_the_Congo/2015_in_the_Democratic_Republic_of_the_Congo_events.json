@@ -1,0 +1,105 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "- The Congolese military held a press conference announcing the destruction of 4 out of the 20 militant factions operating in South Kivu. Furthermore, the  Raïa Mutomboki armed group will undergo disarmament. A total of 39 rebels were killed and 24 captured since the start of the Sokola 2 operation in October 2014, 55 weapons and large quantities of ammunition were also seized. FARDC casualties amounted to 8 killed and 4 wounded.",
+                    "links": [],
+                    "start_date": "13/01/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "- Police in Kinshasa open fire on protesters opposing efforts by President Joseph Kabila to delay presidential and parliamentary elections due in 2016 leaving at least four people dead and ten injured.",
+                    "links": [
+                        {
+                            "link": "http://www.aljazeera.com/news/africa/2015/01/dr-congo-rocked-anti-government-protests-20151192254459896.html",
+                            "text": "-\"DR Congo rocked by anti-government protests\". 20 January 2015. Retrieved 28 January 2015.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2015-01-28",
+                                "Created": "2015-01-20"
+                            }
+                        }
+                    ],
+                    "start_date": "19/01/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "- 85 Raïa Mutomboki rebels surrendered to the authorities in the town of Mubambiro, North Kivu, the former militants will be gradually integrated into FARDC. Earlier in January Raïa Mutomboki founder Nyanderema approached the town of Luizi with a group of 9 fighters, announcing their abandonment of armed struggle. 24 rifles, 2 grenades and other military equipment was transferred to FARDC during the two incidents.",
+                    "links": [
+                        {
+                            "link": "http://radiookapi.net/actualite/2015/01/25/sud-kivu-85-raia-mukombozi-se-rendent-aux-fardc/",
+                            "text": "-\"Sud-Kivu: 85 Raïa Mukombozi se rendent aux FARDC\". Radio Okapi. 25 January 2015. Retrieved 28 January 2015.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2015-01-28",
+                                "Created": "2015-01-25"
+                            }
+                        }
+                    ],
+                    "start_date": "25/01/2015",
+                    "end_date": null
+                },
+                {
+                    "event_text": "- The Democratic Republic of the Congo declares a campaign against Hutu rebels.",
+                    "links": [
+                        {
+                            "link": "https://news.yahoo.com/dr-congo-says-offensive-against-hutu-rebels-underway-161230672.html",
+                            "text": "-\"DR Congo says offensive against Hutu rebels underway\". 31 January 2015. Retrieved 1 February 2015.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2015-02-01",
+                                "Created": "2015-01-31"
+                            }
+                        }
+                    ],
+                    "start_date": "31/01/2015",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "- The Congolese Army launches an offensive against FDLR rebels in South Kivu.",
+                    "links": [
+                        {
+                            "link": "https://abcnews.go.com/International/wireStory/congo-army-launch-offensive-rebels-south-kivu-29191544",
+                            "text": "-\"Congo Army Launch Offensive Against Rebels in South Kivu\". ABC News. 24 February 2015. Retrieved 28 February 2015.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2015-02-28",
+                                "Created": "2015-02-24"
+                            }
+                        }
+                    ],
+                    "start_date": "24/02/2015",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "- Three UN peacekeepers in the DRC have been reported kidnapped.",
+                    "links": [
+                        {
+                            "link": "https://news.yahoo.com/three-members-un-mission-kidnapped-eastern-dr-congo-201336937.html",
+                            "text": "-\"Kidnapped trio in DR Congo are subcontractors to UN mission: UN\". 24 April 2015. Retrieved 25 April 2015.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2015-04-25",
+                                "Created": "2015-04-24"
+                            }
+                        }
+                    ],
+                    "start_date": "24/04/2015",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

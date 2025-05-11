@@ -1,0 +1,310 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "4 January    202122 Tour de Ski ends.",
+                    "links": [],
+                    "start_date": "04/01/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "6 January    202122 Four Hills Tournament ends.",
+                    "links": [],
+                    "start_date": "06/01/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "1416 January    2022 European Short Track Speed Skating Championships",
+                    "links": [],
+                    "start_date": "16/01/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "24 January    Heidelberg University shooting",
+                    "links": [],
+                    "start_date": "24/01/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "2430 January    2022 IBU Open European Championships",
+                    "links": [],
+                    "start_date": "30/01/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "2630 January    2022 German Masters snooker tournament",
+                    "links": [],
+                    "start_date": "30/01/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "31 January    2022 Kusel shooting; two officers are shot and killed at a traffic stop.",
+                    "links": [
+                        {
+                            "link": "https://www.dw.com/en/germany-suspect-in-shooting-death-of-2-cops-on-rural-road-charged/a-61750437",
+                            "text": "-\"Germany: Suspect in shooting death of 2 cops on rural road charged\". DW. 10 May 2022. Retrieved 8 June 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-06-08",
+                                "Created": "2022-05-10"
+                            }
+                        }
+                    ],
+                    "start_date": "31/01/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "1020 February    The 72nd Berlin International Film Festival is held; Carla Simón's film Alcarràs wins the top prize.",
+                    "links": [
+                        {
+                            "link": "https://variety.com/2021/film/global/berlin-film-festival-2022-edition-set-as-in-person-event-dates-revealed-1235083013/",
+                            "text": "-Ramachandran, Naman (7 October 2021). \"Berlin Film Festival 2022 Edition Set as In-Person Event, Dates Revealed\". Variety. Retrieved 15 December 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-12-15",
+                                "Created": "2021-10-07"
+                            }
+                        }
+                    ],
+                    "start_date": "20/02/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "13 February    The 2022 German presidential election Frank-Walter Steinmeier is re-elected.",
+                    "links": [
+                        {
+                            "link": "https://www.dw.com/en/german-presidential-election-a-foregone-conclusion-in-a-moment-of-crisis/a-60714233",
+                            "text": "-Welle (www.dw.com), Deutsche. \"German presidential election: A foregone conclusion in a moment of crisis | DW | 12.02.2022\". DW.COM. Retrieved 17 February 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-02-17",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "13/02/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "17 February    The 58th Munich Security Conference is held.",
+                    "links": [],
+                    "start_date": "17/02/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "27 March    2022 Saarland state election The SPD wins a landslide victory.",
+                    "links": [
+                        {
+                            "link": "https://www.sr.de/sr/home/nachrichten/dossiers/wahlen/landtagswahl_2022/rehlinger_kuendigt_alleinregierung_an_100.html",
+                            "text": "-\"SPD will im Saarland alleine regieren\" [SPD wants to govern alone in Saarland]. Saarländischer Rundfunk (in German). 28 March 2022. Retrieved 29 March 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-03-29",
+                                "Created": "2022-03-28"
+                            }
+                        }
+                    ],
+                    "start_date": "27/03/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "21 April  1 May    2022 IIHF World U18 Championships",
+                    "links": [],
+                    "start_date": "21/04/2022",
+                    "end_date": "01/05/2022"
+                },
+                {
+                    "event_text": "25 April  Anke Rehlinger is elected Minister-President of Saarland by the Landtag.",
+                    "links": [
+                        {
+                            "link": "https://www.zdf.de/nachrichten/politik/rehlinger-saarland-ministerpraesidentin-100.html",
+                            "text": "-\"Rehlinger elected Minister-President\". ZDF (in German). 25 April 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2022-04-25"
+                            }
+                        }
+                    ],
+                    "start_date": "25/04/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "May",
+            "Data": [
+                {
+                    "event_text": "8 May    2022 Schleswig-Holstein state election; the CDU wins in a landslide while the SDP suffers a blowout loss and is reduced to the third largest party.",
+                    "links": [],
+                    "start_date": "08/05/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "15 May    2022 North Rhine-Westphalia state election; the CDU remains as the largest party while The Greens nearly triple their vote share and become the state's third largest party.",
+                    "links": [],
+                    "start_date": "15/05/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "June",
+            "Data": [
+                {
+                    "event_text": "35 June    2022 Judo Grand Slam Düsseldorf",
+                    "links": [],
+                    "start_date": "05/06/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "8 June    The 2022 Berlin car attack kills one and injures 17 others.",
+                    "links": [],
+                    "start_date": "08/06/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "18 June    Documenta fifteen starts.",
+                    "links": [],
+                    "start_date": "18/06/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "26-28 June    48th G7 summit",
+                    "links": [],
+                    "start_date": "28/06/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "August",
+            "Data": [
+                {
+                    "event_text": "1121 August    2022 European Championships",
+                    "links": [],
+                    "start_date": "21/08/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "September",
+            "Data": [
+                {
+                    "event_text": "1 September Poland's Jarosław Kaczyński, leader of the Law and Justice party, announced the Polish government's intent to officially demand that the German government pay 6.2 trillion zł in World War II reparations.",
+                    "links": [
+                        {
+                            "link": "https://www.politico.eu/article/poland-germany-pay-up/",
+                            "text": "-\"Poland to Germany: Pay up!\". POLITICO. 1 September 2022. Retrieved 1 September 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-09-01",
+                                "Created": "2022-09-01"
+                            }
+                        }
+                    ],
+                    "start_date": "01/09/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "October",
+            "Data": [
+                {
+                    "event_text": "9 October    2022 Lower Saxony state election. The SPD expanded its plurality in the state's Landtag by two seats.",
+                    "links": [],
+                    "start_date": "09/10/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "December",
+            "Data": [
+                {
+                    "event_text": "2 December  2022 FIFA World Cup the German men's football national team, despite defeating Costa Rica 42, is knocked out of the World Cup due to Japan's upset win over Spain.",
+                    "links": [
+                        {
+                            "link": "https://www.france24.com/en/sport/20221201-germany-knocked-out-of-the-world-cup-despite-win-japan-advances-to-final-16",
+                            "text": "-\"Germany knocked out of the World Cup despite win, Japan advances to final 16\". France 24. 1 December 2022. Retrieved 7 December 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-12-07",
+                                "Created": "2022-12-01"
+                            }
+                        }
+                    ],
+                    "start_date": "02/12/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "7 December    2022 Germany coup d'état plot German police arrest 25 members of the Reichsbürger movement accused of planning a coup d'état.",
+                    "links": [
+                        {
+                            "link": "https://www.dw.com/en/german-police-arrest-25-suspects-over-plot-to-overthrow-state/a-64011136",
+                            "text": "-\"German police arrest 25 suspects in plot to overthrow state – DW – 12/07/2022\". dw.com. Retrieved 7 December 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-12-07",
+                                "Created": "2022-07-12"
+                            }
+                        }
+                    ],
+                    "start_date": "07/12/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "16 December    The AquaDom aquarium in Berlin, Germany, home to 1,500 tropical fish of more than 100 different species, bursts, flooding local streets. The majority of the fish die during the incident, and two people are injured.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-europe-63996982",
+                            "text": "-\"Berlin's giant AquaDom hotel aquarium containing 1,500 fish explodes\". BBC News. 16 December 2022. Retrieved 22 December 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-12-22",
+                                "Created": "2022-12-16"
+                            }
+                        }
+                    ],
+                    "start_date": "16/12/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "17 December   Dresden Green Vault burglary German authorities recover 31 royal jewellery items that were stolen from the Green Vault museum at Dresden Castle in Dresden, Saxony, Germany, in 2019.",
+                    "links": [
+                        {
+                            "link": "https://www.scmp.com/news/world/europe/article/3203714/germany-finds-most-items-stolen-2019-dresden-jewellery-robbery-police-say",
+                            "text": "-\"Germany finds most items stolen in 2019 jewellery robbery, police say\". South China Morning Post. 18 December 2022. Retrieved 22 December 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-12-22",
+                                "Created": "2022-12-18"
+                            }
+                        }
+                    ],
+                    "start_date": "17/12/2022",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

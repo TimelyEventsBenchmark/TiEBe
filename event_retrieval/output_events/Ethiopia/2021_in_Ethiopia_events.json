@@ -1,0 +1,782 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "3 January  Sudan, Egypt, and Ethiopia agree to hold further talks this month to resolve their dispute over the Grand Ethiopian Renaissance Dam on the Blue Nile.",
+                    "links": [
+                        {
+                            "link": "https://www.aljazeera.com/news/2021/1/3/nile-dam-dispute-sudan-egypt-ethiopia-agree-to-hold-more-talks",
+                            "text": "-\"Nile dam dispute: Sudan, Egypt, Ethiopia agree to hold more talks\". Al Jazeera English. 3 January 2021. Retrieved 5 January 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-01-05",
+                                "Created": "2021-01-03"
+                            }
+                        }
+                    ],
+                    "start_date": "03/01/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "5 January  The government promises to repair the centuries-old Al Nejashi Mosque and the Orthodox Christian of Saint Emmanuel in Wukro that were damaged in December 2020 during the Tigray conflict in the Tigray conflict.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-africa-55530355",
+                            "text": "-\"Tigray crisis: Ethiopia to repair al-Nejashi mosque\". BBC World News. 5 January 2021. Retrieved 5 January 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-01-05",
+                                "Created": "2021-01-05"
+                            }
+                        }
+                    ],
+                    "start_date": "05/01/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Major General Belay Seyoum admits that troops from the Eritrean Army entered Tigray Region in December 2020.",
+                    "links": [
+                        {
+                            "link": "https://www.thecitizen.co.tz/tanzania/news/africa/ethiopian-general-admits-eritrean-troops-entered-tigray-3249882",
+                            "text": "-\"Ethiopian general admits Eritrean troops entered Tigray\". The Citizen. Agence France-Presse. 6 January 2021. Archived from the original on 7 January 2021. Retrieved 8 January 2021.-",
+                            "dates": {
+                                "Archieved": "2021-01-07",
+                                "Retrieved": "2021-01-08",
+                                "Created": "2021-01-06"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20210107082724/https://www.thecitizen.co.tz/tanzania/news/africa/ethiopian-general-admits-eritrean-troops-entered-tigray-3249882",
+                            "text": "-\"Ethiopian general admits Eritrean troops entered Tigray\". The Citizen. Agence France-Presse. 6 January 2021. Archived from the original on 7 January 2021. Retrieved 8 January 2021.-",
+                            "dates": {
+                                "Archieved": "2021-01-07",
+                                "Retrieved": "2021-01-08",
+                                "Created": "2021-01-06"
+                            }
+                        }
+                    ],
+                    "start_date": "06/01/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "An Italian company apologizes for naming a type of pasta \"Abissine,\" reminiscent of the colonial-era fascist name for Ethiopia.",
+                    "links": [
+                        {
+                            "link": "https://www.telegraph.co.uk/news/2021/01/06/italian-pasta-company-apologises-fascist-rigatoni-named-former/",
+                            "text": "-Squires, Nick (6 January 2021). \"Italian pasta company apologises for 'fascist' rigatoni named after former colony Ethiopia\". The Telegraph. Retrieved 6 January 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-01-06",
+                                "Created": "2021-01-06"
+                            }
+                        }
+                    ],
+                    "start_date": "06/01/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "9 January  at least 750 people are killed in an Ethiopian Orthodox Tewahedo church in Tigray. Locals blame raiders of the Lost Ark of the Covenant.",
+                    "links": [
+                        {
+                            "link": "https://www.catholicnewsagency.com/news/246179/hundreds-reportedly-dead-after-massacre-at-oriental-orthodox-church-in-ethiopia",
+                            "text": "-\"Hundreds reportedly dead after massacre at Oriental Orthodox church in Ethiopia\". Catholic News Agency. 20 January 2021. Retrieved 22 January 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-01-22",
+                                "Created": "2021-01-20"
+                            }
+                        }
+                    ],
+                    "start_date": "09/01/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Approximately 80 civilians were killed around the village of Daletti in Metekel Zone, with opposition politicians blaming Gumuz militias.",
+                    "links": [
+                        {
+                            "link": "https://www.africanews.com/2021/01/13/more-than-80-killed-in-west-ethiopia-attack/",
+                            "text": "-\"More than 80 killed in west Ethiopia attack\". Africanews. Agence France-Presse. 13 January 2021. Archived from the original on 27 January 2021.-",
+                            "dates": {
+                                "Archieved": "2021-01-27",
+                                "Retrieved": null,
+                                "Created": "2021-01-13"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20210127211941/https://www.africanews.com/2021/01/13/more-than-80-killed-in-west-ethiopia-attack/",
+                            "text": "-\"More than 80 killed in west Ethiopia attack\". Africanews. Agence France-Presse. 13 January 2021. Archived from the original on 27 January 2021.-",
+                            "dates": {
+                                "Archieved": "2021-01-27",
+                                "Retrieved": null,
+                                "Created": "2021-01-13"
+                            }
+                        }
+                    ],
+                    "start_date": "12/01/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Tigray The government says it has killed former Foreign Minister Seyoum Mesfin and two other members of the Tigray Region′s former ruling party.",
+                    "links": [],
+                    "start_date": "13/01/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "United States Senators Chris Murphy, Patrick Leahy, and Ben Cardin call for the government of Ethiopia to release journalists who have been arrested and to restore press freedom.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/article/us-usa-ethiopia-journalists-idUSKBN29I2L6",
+                            "text": "-Brunnstrom, David (13 January 2021). \"U.S. senators call for release of journalists in Ethiopia\". Reuters. Retrieved 13 January 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-01-13",
+                                "Created": "2021-01-13"
+                            }
+                        }
+                    ],
+                    "start_date": "13/01/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "At least 80 civilians, including children as young as two, are killed in Benishangul-Gumuz Region in what is believed to be ethnic fighting.",
+                    "links": [
+                        {
+                            "link": "https://www.aljazeera.com/news/2021/1/13/over-80-killed-in-west-ethiopia-attack-rights-commission",
+                            "text": "-\"Over 80 civilians killed in latest west Ethiopia attack\". Al Jazeera English. 14 January 2021. Retrieved 14 January 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-01-14",
+                                "Created": "2021-01-14"
+                            }
+                        }
+                    ],
+                    "start_date": "13/01/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "22 January  The UN says it has received reports of rape in Tigray.",
+                    "links": [
+                        {
+                            "link": "https://www.yahoo.com/news/disturbing-allegations-rape-ethiopias-tigray-092045017.html",
+                            "text": "-Corey-Boulet, Robbie (22 January 2021). \"'Disturbing' allegations of rape in Ethiopia's Tigray conflict: UN\". Agence France-Presse. Retrieved 22 January 2021 – via Yahoo! News.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-01-22",
+                                "Created": "2021-01-22"
+                            }
+                        }
+                    ],
+                    "start_date": "22/01/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "13 February  Demonstrators protest in Oromia Region against the deteriorating health of Bekele Gerba, Jawar Mohammed, and 18 other members of the Oromo Federalist Congress (OFC) who have been on hunger strike since 27 January. Prison officials refuse to transfer them to a hospital.",
+                    "links": [
+                        {
+                            "link": "https://www.aljazeera.com/news/2021/2/13/ethiopia-concern-grows-over-health-of-jailed-political-leaders",
+                            "text": "-Zelalem, Zecharias (13 February 2021). \"Ethiopia: Concern grows over health of jailed political leaders\". Al Jazeera English. Retrieved 13 February 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-02-13",
+                                "Created": "2021-02-13"
+                            }
+                        },
+                        {
+                            "link": "https://addisstandard.com/news-medical-team-of-prisoners-on-hunger-strike-quit-over-inability-to-transfer-bekele-gerba-to-private-hospital/",
+                            "text": "-\"News: Medical team of prisoners on hunger strike quit over inability to transfer Bekele Gerba to private hospital\". Addis Standard. 13 February 2021. Archived from the original on 2 March 2021. Retrieved 13 February 2021.-",
+                            "dates": {
+                                "Archieved": "2021-03-02",
+                                "Retrieved": "2021-02-13",
+                                "Created": "2021-02-13"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20210302131553/https://addisstandard.com/news-medical-team-of-prisoners-on-hunger-strike-quit-over-inability-to-transfer-bekele-gerba-to-private-hospital/",
+                            "text": "-\"News: Medical team of prisoners on hunger strike quit over inability to transfer Bekele Gerba to private hospital\". Addis Standard. 13 February 2021. Archived from the original on 2 March 2021. Retrieved 13 February 2021.-",
+                            "dates": {
+                                "Archieved": "2021-03-02",
+                                "Retrieved": "2021-02-13",
+                                "Created": "2021-02-13"
+                            }
+                        }
+                    ],
+                    "start_date": "27/01/2021",
+                    "end_date": "13/02/2021"
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "2 February  The opposition in Tigray says 50,000 civilians have been killed in the last three months.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/world-news-abiy-ahmed-ethiopia-united-nations-kenya-36b23637c04d177470443e23b4413f80",
+                            "text": "-Anna, Cara (2 February 2021). \"Tigray opposition parties assert 50,000-plus civilian deaths\". Associated Press. Retrieved 2 February 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-02-02",
+                                "Created": "2021-02-02"
+                            }
+                        }
+                    ],
+                    "start_date": "02/02/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "11 February  Filsan Abdullahi Ahmed, minister for women, confirms widespread rape in the Tigray War. She noted a lack of rape kits and HIV/AIDS drugs to test and treat victims.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/kenya-ethiopia-sexual-assault-crime-0b3c5d965f2b14e5ce247f5744c6a325",
+                            "text": "-Anna, Cara (12 February 2021). \"Ethiopia confirms rapes 'without a doubt' in Tigray conflict\". Associated Press. Archived from the original on 12 August 2021. Retrieved 13 February 2021.-",
+                            "dates": {
+                                "Archieved": "2021-08-12",
+                                "Retrieved": "2021-02-13",
+                                "Created": "2021-02-12"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20210812175810/https://apnews.com/article/kenya-ethiopia-sexual-assault-crime-0b3c5d965f2b14e5ce247f5744c6a325",
+                            "text": "-Anna, Cara (12 February 2021). \"Ethiopia confirms rapes 'without a doubt' in Tigray conflict\". Associated Press. Archived from the original on 12 August 2021. Retrieved 13 February 2021.-",
+                            "dates": {
+                                "Archieved": "2021-08-12",
+                                "Retrieved": "2021-02-13",
+                                "Created": "2021-02-12"
+                            }
+                        }
+                    ],
+                    "start_date": "11/02/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "13 February  Demonstrators protest in Oromia Region against the deteriorating health of Bekele Gerba, Jawar Mohammed, and 18 other members of the Oromo Federalist Congress (OFC) who have been on hunger strike since 27 January. Prison officials refuse to transfer them to a hospital.",
+                    "links": [
+                        {
+                            "link": "https://www.aljazeera.com/news/2021/2/13/ethiopia-concern-grows-over-health-of-jailed-political-leaders",
+                            "text": "-Zelalem, Zecharias (13 February 2021). \"Ethiopia: Concern grows over health of jailed political leaders\". Al Jazeera English. Retrieved 13 February 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-02-13",
+                                "Created": "2021-02-13"
+                            }
+                        },
+                        {
+                            "link": "https://addisstandard.com/news-medical-team-of-prisoners-on-hunger-strike-quit-over-inability-to-transfer-bekele-gerba-to-private-hospital/",
+                            "text": "-\"News: Medical team of prisoners on hunger strike quit over inability to transfer Bekele Gerba to private hospital\". Addis Standard. 13 February 2021. Archived from the original on 2 March 2021. Retrieved 13 February 2021.-",
+                            "dates": {
+                                "Archieved": "2021-03-02",
+                                "Retrieved": "2021-02-13",
+                                "Created": "2021-02-13"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20210302131553/https://addisstandard.com/news-medical-team-of-prisoners-on-hunger-strike-quit-over-inability-to-transfer-bekele-gerba-to-private-hospital/",
+                            "text": "-\"News: Medical team of prisoners on hunger strike quit over inability to transfer Bekele Gerba to private hospital\". Addis Standard. 13 February 2021. Archived from the original on 2 March 2021. Retrieved 13 February 2021.-",
+                            "dates": {
+                                "Archieved": "2021-03-02",
+                                "Retrieved": "2021-02-13",
+                                "Created": "2021-02-13"
+                            }
+                        }
+                    ],
+                    "start_date": "13/02/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "17 February  A power outage attributed to the TPLF hits Tigray. In an unrelated event, the Tigray council of religious institutions  representing Ethiopian Orthodox, Catholic, Islamic and evangelical churches – calls for the withdrawal of Eritrean forces.",
+                    "links": [
+                        {
+                            "link": "https://www.barrons.com/news/ethiopia-s-tigray-region-hit-by-power-blackout-01613583005",
+                            "text": "-\"Ethiopia's Tigray region hit by power blackout\". Barron's. Agence France-Presse. 17 February 2021. Archived from the original on 21 October 2021. Retrieved 18 February 2021.-",
+                            "dates": {
+                                "Archieved": "2021-10-21",
+                                "Retrieved": "2021-02-18",
+                                "Created": "2021-02-17"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20211021014124/https://www.barrons.com/news/ethiopia-s-tigray-region-hit-by-power-blackout-01613583005",
+                            "text": "-\"Ethiopia's Tigray region hit by power blackout\". Barron's. Agence France-Presse. 17 February 2021. Archived from the original on 21 October 2021. Retrieved 18 February 2021.-",
+                            "dates": {
+                                "Archieved": "2021-10-21",
+                                "Retrieved": "2021-02-18",
+                                "Created": "2021-02-17"
+                            }
+                        }
+                    ],
+                    "start_date": "17/02/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "19 February  The United States says it will \"de-link\" its suspension of millions of dollars of aid from the Grand Ethiopian Renaissance Dam. The statement implied that developments in Tigray will be considered.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/donald-trump-egypt-humanitarian-assistance-ethiopia-kenya-e3f47fc14084da52daea64fe078deaa6",
+                            "text": "-Anna, Cara (19 February 2021). \"US: Aid pause to Ethiopia no longer linked to dam dispute\". Associated Press. Archived from the original on 25 September 2021. Retrieved 22 February 2021.-",
+                            "dates": {
+                                "Archieved": "2021-09-25",
+                                "Retrieved": "2021-02-22",
+                                "Created": "2021-02-19"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20210925235028/https://apnews.com/article/donald-trump-egypt-humanitarian-assistance-ethiopia-kenya-e3f47fc14084da52daea64fe078deaa6",
+                            "text": "-Anna, Cara (19 February 2021). \"US: Aid pause to Ethiopia no longer linked to dam dispute\". Associated Press. Archived from the original on 25 September 2021. Retrieved 22 February 2021.-",
+                            "dates": {
+                                "Archieved": "2021-09-25",
+                                "Retrieved": "2021-02-22",
+                                "Created": "2021-02-19"
+                            }
+                        }
+                    ],
+                    "start_date": "19/02/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "20 February  The TPLF lays out eight conditions for peace in Tigray, including the appointment of an international mediator and unimpeded access for humanitarian aid.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/article/us-ethiopia-conflict-idUSKBN2AJ2AX",
+                            "text": "-\"Ethiopia's regional Tigray forces name conditions for peace with government\". Reuters. 19 February 2021. Archived from the original on 8 March 2021. Retrieved 20 February 2021.-",
+                            "dates": {
+                                "Archieved": "2021-03-08",
+                                "Retrieved": "2021-02-20",
+                                "Created": "2021-02-19"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20210308060530/https://www.reuters.com/article/us-ethiopia-conflict-idUSKBN2AJ2AX",
+                            "text": "-\"Ethiopia's regional Tigray forces name conditions for peace with government\". Reuters. 19 February 2021. Archived from the original on 8 March 2021. Retrieved 20 February 2021.-",
+                            "dates": {
+                                "Archieved": "2021-03-08",
+                                "Retrieved": "2021-02-20",
+                                "Created": "2021-02-19"
+                            }
+                        }
+                    ],
+                    "start_date": "20/02/2021",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "1 March  Four media workers in Tigray Region, including a translator for Agence France-Presse, are arrested.",
+                    "links": [
+                        {
+                            "link": "https://www.barrons.com/news/afp-financial-times-translators-arrested-in-ethiopia-s-tigray-01614616523",
+                            "text": "-\"Four media workers arrested in Ethiopia's Tigray\". Barron's. Agence France-Presse. 1 March 2021. Archived from the original on 3 March 2021. Retrieved 2 March 2021.-",
+                            "dates": {
+                                "Archieved": "2021-03-03",
+                                "Retrieved": "2021-03-02",
+                                "Created": "2021-03-01"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20210303054916/https://www.barrons.com/news/afp-financial-times-translators-arrested-in-ethiopia-s-tigray-01614616523",
+                            "text": "-\"Four media workers arrested in Ethiopia's Tigray\". Barron's. Agence France-Presse. 1 March 2021. Archived from the original on 3 March 2021. Retrieved 2 March 2021.-",
+                            "dates": {
+                                "Archieved": "2021-03-03",
+                                "Retrieved": "2021-03-02",
+                                "Created": "2021-03-01"
+                            }
+                        }
+                    ],
+                    "start_date": "01/03/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The government declares there were \"credible allegations of atrocities and human rights abuses\" at the Aksum massacre last November.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/abiy-ahmed-ethiopia-massacres-belgium-kenya-4e5eda7bb2753973951269039d5ab802",
+                            "text": "-Anna, Cara (3 March 2021). \"Ethiopia now calls Axum massacre allegations 'credible'\". Associated Press. Archived from the original on 16 March 2021. Retrieved 3 March 2021.-",
+                            "dates": {
+                                "Archieved": "2021-03-16",
+                                "Retrieved": "2021-03-03",
+                                "Created": "2021-03-03"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20210316020851/https://apnews.com/article/abiy-ahmed-ethiopia-massacres-belgium-kenya-4e5eda7bb2753973951269039d5ab802",
+                            "text": "-Anna, Cara (3 March 2021). \"Ethiopia now calls Axum massacre allegations 'credible'\". Associated Press. Archived from the original on 16 March 2021. Retrieved 3 March 2021.-",
+                            "dates": {
+                                "Archieved": "2021-03-16",
+                                "Retrieved": "2021-03-03",
+                                "Created": "2021-03-03"
+                            }
+                        }
+                    ],
+                    "start_date": "03/03/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The four media workers in the Tigray Region are freed.",
+                    "links": [
+                        {
+                            "link": "https://www.france24.com/en/live-news/20210303-four-media-workers-freed-after-being-held-in-ethiopia",
+                            "text": "-\"Four media workers freed after being held in Ethiopia\". France 24. Agence France-Presse. 3 March 2021. Archived from the original on 4 March 2021.-",
+                            "dates": {
+                                "Archieved": "2021-03-04",
+                                "Retrieved": null,
+                                "Created": "2021-03-03"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20210304081900/https://www.france24.com/en/live-news/20210303-four-media-workers-freed-after-being-held-in-ethiopia",
+                            "text": "-\"Four media workers freed after being held in Ethiopia\". France 24. Agence France-Presse. 3 March 2021. Archived from the original on 4 March 2021.-",
+                            "dates": {
+                                "Archieved": "2021-03-04",
+                                "Retrieved": null,
+                                "Created": "2021-03-03"
+                            }
+                        }
+                    ],
+                    "start_date": "03/03/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "4 March  The United Nations Security Council fails to reach a consensus on a resolution to end the Tigray War.",
+                    "links": [
+                        {
+                            "link": "https://allafrica.com/stories/202103060090.html",
+                            "text": "-\"Ethiopia: Exclusive - How the UN Drops Tigray Resolution After Second Attempt Failed\". allAfrica.com. Addis Standard. 6 March 2021. Retrieved 6 March 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-03-06",
+                                "Created": "2021-03-06"
+                            }
+                        }
+                    ],
+                    "start_date": "04/03/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "10 March  Berhane Kidanemariam, the deputy chief of mission at the Ethiopian embassy in Washington, resigns because of disagreements over policies in Tigray.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/ethiopia-fugitives-uganda-abiy-ahmed-8568411bce180b7297b7093ae3933fef",
+                            "text": "-Muhumuza, Rodney (10 March 2021). \"Ethiopia diplomat quits US post, cites atrocities in Tigray\". Associated Press. Archived from the original on 27 June 2021. Retrieved 10 March 2021.-",
+                            "dates": {
+                                "Archieved": "2021-06-27",
+                                "Retrieved": "2021-03-10",
+                                "Created": "2021-03-10"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20210627031139/https://apnews.com/article/ethiopia-fugitives-uganda-abiy-ahmed-8568411bce180b7297b7093ae3933fef",
+                            "text": "-Muhumuza, Rodney (10 March 2021). \"Ethiopia diplomat quits US post, cites atrocities in Tigray\". Associated Press. Archived from the original on 27 June 2021. Retrieved 10 March 2021.-",
+                            "dates": {
+                                "Archieved": "2021-06-27",
+                                "Retrieved": "2021-03-10",
+                                "Created": "2021-03-10"
+                            }
+                        }
+                    ],
+                    "start_date": "10/03/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "11 March  Amhara Region spokesperson Gizachew Muluneh denies that its forces are engaged in ethnic cleansing in the Western Zone of Tigray Region, one day after United States Secretary of State Antony Blinken uses the phrase in tesimony.",
+                    "links": [
+                        {
+                            "link": "https://www.barrons.com/news/ethiopia-s-amhara-region-rejects-charge-of-ethnic-cleansing-in-tigray-01615461615",
+                            "text": "-Corey-Boulet, Robbie (12 March 2021). \"Ethiopia's Amhara region rejects charge of 'ethnic cleansing' in Tigray\". Barron's. Agence France-Presse. Archived from the original on 11 March 2021. Retrieved 12 March 2021.-",
+                            "dates": {
+                                "Archieved": "2021-03-11",
+                                "Retrieved": "2021-03-12",
+                                "Created": "2021-03-12"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20210311155933/https://www.barrons.com/news/ethiopia-s-amhara-region-rejects-charge-of-ethnic-cleansing-in-tigray-01615461615",
+                            "text": "-Corey-Boulet, Robbie (12 March 2021). \"Ethiopia's Amhara region rejects charge of 'ethnic cleansing' in Tigray\". Barron's. Agence France-Presse. Archived from the original on 11 March 2021. Retrieved 12 March 2021.-",
+                            "dates": {
+                                "Archieved": "2021-03-11",
+                                "Retrieved": "2021-03-12",
+                                "Created": "2021-03-12"
+                            }
+                        }
+                    ],
+                    "start_date": "11/03/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "15 March  Médecins Sans Frontières (MSF) reports that 70% of medical facilities in Tigray have been vandalized and looted.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-africa-56399882",
+                            "text": "-\"Ethiopia's Tigray crisis: Hospitals 'vandalised and looted'\". BBC World News. 15 March 2021. Retrieved 15 March 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-03-15",
+                                "Created": "2021-03-15"
+                            }
+                        }
+                    ],
+                    "start_date": "15/03/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "18 March  Senator Chris Coons (D-DL) is sent to Ethiopia to express United States' concerns about ethnic cleansing in Tigray.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/article/us-ethiopia-conflict-biden-idUSKBN2BB0JX",
+                            "text": "-Psaledakis, Daphne (18 March 2021). \"Biden dispatches U.S. senator to Ethiopia over humanitarian crisis\". Reuters. Archived from the original on 25 March 2021. Retrieved 18 March 2021.-",
+                            "dates": {
+                                "Archieved": "2021-03-25",
+                                "Retrieved": "2021-03-18",
+                                "Created": "2021-03-18"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20210325184306/https://www.reuters.com/article/us-ethiopia-conflict-biden-idUSKBN2BB0JX",
+                            "text": "-Psaledakis, Daphne (18 March 2021). \"Biden dispatches U.S. senator to Ethiopia over humanitarian crisis\". Reuters. Archived from the original on 25 March 2021. Retrieved 18 March 2021.-",
+                            "dates": {
+                                "Archieved": "2021-03-25",
+                                "Retrieved": "2021-03-18",
+                                "Created": "2021-03-18"
+                            }
+                        }
+                    ],
+                    "start_date": "18/03/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "23 March  MSF says its members witnessed four civilians being dragged from a bus and murdered on the road from Mekelle to Adigrat, Tigray.",
+                    "links": [
+                        {
+                            "link": "https://www.aljazeera.com/news/2021/3/24/horrific-msf-witness-execution-of-at-least-four-men-in-tigray",
+                            "text": "-\"'Horrific': MSF says Ethiopian troops executed 4 men in Tigray\". Al Jazeera English. 23 March 2021. Retrieved 24 March 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-03-24",
+                                "Created": "2021-03-23"
+                            }
+                        }
+                    ],
+                    "start_date": "23/03/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "31 March  Militants related to the Oromo Liberation Army (OLA) are accused of killing dozens of civilians in Oromia Region.",
+                    "links": [
+                        {
+                            "link": "https://www.yahoo.com/news/ethiopian-rebels-blamed-terror-attack-164319017.html",
+                            "text": "-Corey-Boulet, Robbie (31 March 2021). \"Ethiopian rebels blamed for 'terror attack' in restive west\". Agence France-Presse. Retrieved 1 April 2021 – via Yahoo! News.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-04-01",
+                                "Created": "2021-03-31"
+                            }
+                        }
+                    ],
+                    "start_date": "31/03/2021",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "June",
+            "Data": [
+                {
+                    "event_text": "8 June  Ethiopia begins filling the Grand Renaissance Dam (GERD).",
+                    "links": [
+                        {
+                            "link": "https://allafrica.com/stories/202106090061.html",
+                            "text": "-Tekle, Tesfa-Alem (9 June 2021). \"Egypt Fumes as Ethiopia Plans Second Filling of Nile Dam\". Daily Nation. Archived from the original on 10 June 2021. Retrieved 10 June 2021 – via AllAfrica.-",
+                            "dates": {
+                                "Archieved": "2021-06-10",
+                                "Retrieved": "2021-06-10",
+                                "Created": "2021-06-09"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20210610204317/https://allafrica.com/stories/202106090061.html",
+                            "text": "-Tekle, Tesfa-Alem (9 June 2021). \"Egypt Fumes as Ethiopia Plans Second Filling of Nile Dam\". Daily Nation. Archived from the original on 10 June 2021. Retrieved 10 June 2021 – via AllAfrica.-",
+                            "dates": {
+                                "Archieved": "2021-06-10",
+                                "Retrieved": "2021-06-10",
+                                "Created": "2021-06-09"
+                            }
+                        }
+                    ],
+                    "start_date": "08/06/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "18 June  Operation Alula begins",
+                    "links": [],
+                    "start_date": "18/06/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "30 June - Ethiopian forces retreat from Mekelle, the capital of Tigray, ahead of the advancing Tigrayan troops.",
+                    "links": [
+                        {
+                            "link": "https://www.irishtimes.com/news/world/africa/jubilant-capital-of-tigray-greets-insurgents-after-ethiopian-forces-retreat-1.4607785",
+                            "text": "-Walsh, Declan (30 June 2021). \"Jubilant capital of Tigray greets insurgents after Ethiopian forces retreat\". The Irish Times. Archived from the original on 30 June 2021. Retrieved 11 August 2021.-",
+                            "dates": {
+                                "Archieved": "2021-06-30",
+                                "Retrieved": "2021-08-11",
+                                "Created": "2021-06-30"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20210630125204/https://www.irishtimes.com/news/world/africa/jubilant-capital-of-tigray-greets-insurgents-after-ethiopian-forces-retreat-1.4607785",
+                            "text": "-Walsh, Declan (30 June 2021). \"Jubilant capital of Tigray greets insurgents after Ethiopian forces retreat\". The Irish Times. Archived from the original on 30 June 2021. Retrieved 11 August 2021.-",
+                            "dates": {
+                                "Archieved": "2021-06-30",
+                                "Retrieved": "2021-08-11",
+                                "Created": "2021-06-30"
+                            }
+                        }
+                    ],
+                    "start_date": "30/06/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "5 June  Scheduled date for the 2021 Ethiopian general election.",
+                    "links": [
+                        {
+                            "link": "http://www.xinhuanet.com/english/2020-12/25/c_139618907.htm",
+                            "text": "-\"Ethiopian electoral board sets June 5 for national polls\". Xinhua News Agency. Retrieved 2 January 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-01-02",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "05/06/2021",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "July",
+            "Data": [
+                {
+                    "event_text": "29 July  Tigray conflict begins to spread as intense fighting is being reported in Ethiopia's Amhara state.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-africa-58013100",
+                            "text": "-\"Ethiopia's Tigray crisis: Fighting escalates despite ceasefire\". BBC World News. Retrieved 11 August 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-08-11",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "29/07/2021",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "August",
+            "Data": [
+                {
+                    "event_text": "5 August  Tigrayan rebels capture the city of Lalibela.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-africa-58101912",
+                            "text": "-\"Lalibela: Ethiopia's Tigray rebels take Unesco world heritage town\". BBC World News. Retrieved 11 August 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-08-11",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "05/08/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "10 August  Ethiopian Prime Minister Abiy Ahmed calls on civilians to join the war in Tigray.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-africa-58163641",
+                            "text": "-\"Ethiopia PM Abiy Ahmed calls on civilians to join Tigray war\". BBC World News. Retrieved 11 August 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-08-11",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "10/08/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "11 August  Ethiopian rebels TPLF and Oromo Liberation Army agree on a military alliance to fight federal Ethiopian forces.",
+                    "links": [
+                        {
+                            "link": "https://www.bloomberg.com/news/articles/2021-08-11/new-armed-alliance-challenges-ethiopia-premier-as-crisis-worsens",
+                            "text": "-Marks, Simon (11 August 2021). \"New Armed Alliance Challenges Ethiopia Premier as Crisis Worsens\". Bloomberg News. Retrieved 14 August 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-08-14",
+                                "Created": "2021-08-11"
+                            }
+                        }
+                    ],
+                    "start_date": "11/08/2021",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "December",
+            "Data": [
+                {
+                    "event_text": "11 December - 22 members of Kawarja Islamists are reportedly arrested in the Bale Zone of Oromia regional state of Ethiopia. According to a report by Ethiopian Broadcasting Corporation (EBC), which cited police authority from the zone, they were captured in a joint security forces operation. They have been engaged in providing training, under the cover of preaching faith, for unspecified terrorist mission.  The source also cited Oromia Broadcasting network to report that the group has members who took military training in Puntland. Kawarja Islamists terrorists were said to have been operating at least since 2011. In that year, they were linked to the destruction of 50 churches in Asendabo, South West Ethiopia.",
+                    "links": [
+                        {
+                            "link": "https://borkena.com/2021/12/10/ethiopia-says-it-has-arrested-22-kawarja-islamist-radicals/",
+                            "text": "-\"Ethiopia says it has arrested 22 Kawarja Islamist radicals\". 11 December 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2021-12-11"
+                            }
+                        }
+                    ],
+                    "start_date": "11/12/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Major General Belay Seyoum admits that troops from the Eritrean Army entered Tigray Region in .",
+                    "links": [
+                        {
+                            "link": "https://www.thecitizen.co.tz/tanzania/news/africa/ethiopian-general-admits-eritrean-troops-entered-tigray-3249882",
+                            "text": "-\"Ethiopian general admits Eritrean troops entered Tigray\". The Citizen. Agence France-Presse. 6 January 2021. Archived from the original on 7 January 2021. Retrieved 8 January 2021.-",
+                            "dates": {
+                                "Archieved": "2021-01-07",
+                                "Retrieved": "2021-01-08",
+                                "Created": "2021-01-06"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20210107082724/https://www.thecitizen.co.tz/tanzania/news/africa/ethiopian-general-admits-eritrean-troops-entered-tigray-3249882",
+                            "text": "-\"Ethiopian general admits Eritrean troops entered Tigray\". The Citizen. Agence France-Presse. 6 January 2021. Archived from the original on 7 January 2021. Retrieved 8 January 2021.-",
+                            "dates": {
+                                "Archieved": "2021-01-07",
+                                "Retrieved": "2021-01-08",
+                                "Created": "2021-01-06"
+                            }
+                        }
+                    ],
+                    "start_date": "06/01/2021",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

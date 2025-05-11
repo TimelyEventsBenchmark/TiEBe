@@ -1,0 +1,280 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "Chinese Premier Li Keqiang has urged efforts to prevent and control Coronavirus disease 2019.",
+                    "links": [],
+                    "start_date": "20/01/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Leading group on the prevention and control of Coronavirus disease 2019 was established, led by Li Keqiang. The leading group has decided to extend Spring Festival holiday to contain the COVID-19 pandemic.",
+                    "links": [],
+                    "start_date": "26/01/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Li Keqiang visited Wuhan, center of what became the COVID-19 pandemic, to direct the epidemic prevention work.",
+                    "links": [],
+                    "start_date": "27/01/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The opening of Dabie Mountain Regional Medical Centre in Huangzhou District, Huanggang, Hubei.",
+                    "links": [],
+                    "start_date": "28/01/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "At the World Health Organization's second meeting of the Emergency Committee declared the Wuhan outbreak of novel coronavirus a Public Health Emergency of International Concern (PHEIC).",
+                    "links": [
+                        {
+                            "link": "https://www.who.int/news-room/detail/30-01-2020-statement-on-the-second-meeting-of-the-international-health-regulations-(2005)-emergency-committee-regarding-the-outbreak-of-novel-coronavirus-(2019-ncov)",
+                            "text": "-\"Statement on the second meeting of the International Health Regulations (2005) Emergency Committee regarding the outbreak of novel coronavirus (2019-nCoV)\". www.who.int. Retrieved January 31, 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-01-31",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "30/01/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "Huoshenshan Hospital accepted patients after a speedy construction build period.",
+                    "links": [],
+                    "start_date": "03/02/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Leishenshan Hospital passed evaluations and will begin accepting patients soon.",
+                    "links": [
+                        {
+                            "link": "https://www.chinadaily.com.cn/a/202002/06/WS5e3c15c3a31012821727591f.html",
+                            "text": "-刘明. \"2nd new hospital for Wuhan virus patients passes evaluation – Chinadaily.com.cn\". www.chinadaily.com.cn. Retrieved February 7, 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-02-07",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "06/02/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "An advance World Health Organization team of medical experts has arrived in China, led by Dr. Bruce Aylward, who coordinated the WHO's Ebola Response in 2016.",
+                    "links": [
+                        {
+                            "link": "https://www.jpost.com/Breaking-News/World-Health-Organization-experts-arrive-in-China-for-coronavirus-probe-617118",
+                            "text": "-\"World Health Organization experts arrive in China for coronavirus probe\". The Jerusalem Post | JPost.com. Retrieved February 11, 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-02-11",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/media-resources/press-briefings",
+                            "text": "-\"Press briefings\". www.who.int. Retrieved February 11, 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-02-11",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "10/02/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Three time Chinese Olympic swimming champion, Sun Yang, has been given an 8-year ban for missing a doping test in September 2018 by the Court of Arbitration for Sport.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/sport/swimming/51670931",
+                            "text": "-\"Sun Yang: Eight-year ban for Chinese Olympic champion\". BBC Sport. February 28, 2020. Retrieved February 28, 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-02-28",
+                                "Created": "2020-02-28"
+                            }
+                        }
+                    ],
+                    "start_date": "28/02/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "Collapse of Xinjia Express Hotel",
+                    "links": [],
+                    "start_date": "07/03/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Chinese Communist Party general secretary Xi Jinping visits Wuhan, the origin of the COVID-19 pandemic, after an unprecedented lockdown of the central city of 11 million people.",
+                    "links": [
+                        {
+                            "link": "http://www.xinhuanet.com/politics/leaders/2020-03/11/c_1125693204.htm",
+                            "text": "-赵承 (March 11, 2020). 顾天成 (ed.). \"习近平总书记武汉之行传递战\"疫\"新信号\". Xinhua News Agency (in Chinese (China)). Retrieved March 11, 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-03-11",
+                                "Created": "2020-03-11"
+                            }
+                        }
+                    ],
+                    "start_date": "10/03/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Chinese Premier Li Keqiang reported that spread of the domestically transmitted epidemic has been basically blocked and the COVID-19 pandemic has been controlled in China.",
+                    "links": [
+                        {
+                            "link": "http://english.scio.gov.cn/m/topnews/2020-03/24/content_75852078.htm",
+                            "text": "-\"China deploys measures to curb imported COVID-19 cases, rebound in indigenous cases\". State Council Information Office of China. March 24, 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2020-03-24"
+                            }
+                        }
+                    ],
+                    "start_date": "24/03/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A tailings dam fails at the Yichun Luming mine",
+                    "links": [
+                        {
+                            "link": "https://blogs.agu.org/landslideblog/2020/04/02/luming-mine-accident/",
+                            "text": "-\"High resolution Planet Labs imagery of the Luming Mine accident\". April 2, 2020. Retrieved June 26, 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-06-26",
+                                "Created": "2020-04-02"
+                            }
+                        }
+                    ],
+                    "start_date": "28/03/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "Coinciding with the Qingming Festival, a national day of mourning was declared followed by a three-minute silence to honor 3,300+ people who died of COVID-19.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-asia-china-52162004",
+                            "text": "-\"China holds three-minute silence for virus victims\". BBC News. April 4, 2020. Retrieved April 7, 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-04-07",
+                                "Created": "2020-04-04"
+                            }
+                        }
+                    ],
+                    "start_date": "04/04/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "May",
+            "Data": [
+                {
+                    "event_text": "Several Indian and Chinese soldiers were injured in a cross-border clash at the Nathu La crossing. Around one hundred and fifty troops clashed in a \"standoff\" that included fistfights and stone-throwing.",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/world/2020/may/11/indian-and-chinese-soldiers-injured-in-cross-border-fistfight-says-delhi",
+                            "text": "-\"Indian and Chinese soldiers injured in cross-border fistfight, says Delhi\". the Guardian. Agence France-Presse. May 11, 2020. Retrieved May 12, 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-05-12",
+                                "Created": "2020-05-11"
+                            }
+                        }
+                    ],
+                    "start_date": "09/05/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "June",
+            "Data": [
+                {
+                    "event_text": "Nearly 50 independent United Nations Human Rights experts highlighted their concern on the situation in China. They voiced concern for many actions including but not limited to allegations of forced labor; arbitrary interferences with the right to privacy; restrictive cybersecurity, anti-terrorism, and sedition laws; the retaliation against journalists, medical workers and others speaking out about COVID-19; the repression of ethnic minorities in Xinjiang and Tibet; and the repression of protests and democracy advocacy in the Hong Kong Special Administrative Region (SAR). They urged China to \"withdraw the draft national security law for Hong Kong\".",
+                    "links": [
+                        {
+                            "link": "https://ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=26006&LangID=E",
+                            "text": "-\"OHCHR | UN experts call for decisive measures to protect fundamental freedoms in China\". ohchr.org. Retrieved July 1, 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-07-01",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://news.un.org/en/story/2020/06/1067312",
+                            "text": "-\"Independent UN rights experts call for decisive measures to protect 'fundamental freedoms' in China\". UN News. June 26, 2020. Retrieved July 1, 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-07-01",
+                                "Created": "2020-06-26"
+                            }
+                        }
+                    ],
+                    "start_date": "26/06/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "July",
+            "Data": [
+                {
+                    "event_text": "Anshun bus crash",
+                    "links": [],
+                    "start_date": "07/07/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "September",
+            "Data": [
+                {
+                    "event_text": "During the 2020 United Nations General Assembly, President Xi Jinping announces that China will aim to hit peak emissions before 2030 and for carbon neutrality by 2060.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/science-environment-54256826",
+                            "text": "-\"Climate change: China aims for 'carbon neutrality by 2060'\". BBC News. September 22, 2020. Retrieved November 23, 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-11-23",
+                                "Created": "2020-09-22"
+                            }
+                        }
+                    ],
+                    "start_date": "22/09/2020",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

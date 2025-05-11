@@ -1,0 +1,200 @@
+{
+    "Events": [
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "6 February  Prime Minister James Marape tests positive for COVID-19 and returns home after attending the 2022 Winter Olympics opening ceremony.",
+                    "links": [
+                        {
+                            "link": "https://www.voanews.com/a/papua-new-guinea-pm-tests-positive-for-covid-at-beijing-olympics/6430447.html",
+                            "text": "-\"Papua New Guinea PM Tests Positive for COVID at Beijing Olympics\". VOA. Retrieved 2022-09-21.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-09-21",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "06/02/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "13 April  A 6.3 magnitude earthquake hits the Papua New Guinean island of New Britain.",
+                    "links": [
+                        {
+                            "link": "https://www.canberratimes.com.au/story/7698787/magnitude-63-quake-strikes-png/",
+                            "text": "-\"Magnitude 6.3 quake strikes PNG\". The Canberra Times. 2022-04-13. Retrieved 2022-09-21.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-09-21",
+                                "Created": "2022-04-13"
+                            }
+                        }
+                    ],
+                    "start_date": "13/04/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "July",
+            "Data": [
+                {
+                    "event_text": "4 July  2022 Papua New Guinean general election Papua New Guineans go to the polls to elect their new government in a heavily guarded election.",
+                    "links": [
+                        {
+                            "link": "https://www.barrons.com/news/png-votes-in-heavily-guarded-elections-01656882307",
+                            "text": "-Presse, AFP-Agence France. \"PNG Votes In Heavily Guarded Elections\". www.barrons.com. Retrieved 2022-09-21.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-09-21",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "04/07/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "22 July  Prime Minister James Marape's Pangu Pati wins the general election.",
+                    "links": [
+                        {
+                            "link": "https://www.onepng.com/2022/07/2022-png-election-results-declared-seats.html",
+                            "text": "-\"2022 PNG Election Results : Declared Seats\". One Papua New Guinea. Retrieved 2022-09-21.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-09-21",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "22/07/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "August",
+            "Data": [
+                {
+                    "event_text": "10 August  James Marape is re-elected unopposed as Prime Minister by the Parliament after his party Pangu Pati won the general election in July.",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/world/2022/aug/10/james-marape-returned-as-prime-minister-in-papua-new-guinea-after-fraught-election",
+                            "text": "-\"James Marape returned as prime minister in Papua New Guinea after fraught election\". the Guardian. 2022-08-09. Retrieved 2022-09-21.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-09-21",
+                                "Created": "2022-08-09"
+                            }
+                        }
+                    ],
+                    "start_date": "10/08/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "September",
+            "Data": [
+                {
+                    "event_text": "8 September  Accession of Charles III as King of Papua New Guinea following the death of Queen Elizabeth II.",
+                    "links": [
+                        {
+                            "link": "https://www.rnz.co.nz/news/world/474449/charles-is-now-king-after-queen-elizabeth-s-death",
+                            "text": "-Charles is now King after Queen Elizabeth's death-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "08/09/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "11 September  2022 Papua New Guinea earthquake At least eight people are killed and 24 others are injured after a magnitude 7.6 earthquake strikes Morobe Province, Papua New Guinea.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/asia-pacific/deaths-papua-new-guinea-earthquake-rise-seven-police-2022-09-12/",
+                            "text": "-\"Deaths from Papua New Guinea earthquake rise to seven, police say\". Reuters. 2022-09-12. Retrieved 2022-09-21.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-09-21",
+                                "Created": "2022-09-12"
+                            }
+                        }
+                    ],
+                    "start_date": "11/09/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "13 September  Charles III is officially proclaimed King of Papua New Guinea at National Parliament House, Port Moresby.",
+                    "links": [
+                        {
+                            "link": "https://news.pngfacts.com/2022/09/papua-new-guinea-proclaims-king-charles.html",
+                            "text": "-Papua New Guinea Proclaims King Charles III as Head of State-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "13/09/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "19 September  A national holiday is observed to mourn the passing of Elizabeth II, Queen of Papua New Guinea.",
+                    "links": [
+                        {
+                            "link": "https://news.pngfacts.com/2022/09/papua-new-guinea-proclaims-king-charles.html",
+                            "text": "-Papua New Guinea Proclaims King Charles III as Head of State-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "19/09/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "19 September  Papua New Guinean representatives attend the funeral of Queen Elizabeth II in London.",
+                    "links": [],
+                    "start_date": "19/09/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "October",
+            "Data": [
+                {
+                    "event_text": "25 October -  Tribal Clashes Erupted on the Island of Kiriwina killing at least 30 people.",
+                    "links": [
+                        {
+                            "link": "https://www.benarnews.org/english/news/pacific/papua-new-guinea-tribal-clash-10252022215138.html",
+                            "text": "-\"At least 30 dead in Papua New Guinea clashes, official says\". Benar News. 25 October 2022. Retrieved 18 April 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-04-18",
+                                "Created": "2022-10-25"
+                            }
+                        }
+                    ],
+                    "start_date": "25/10/2022",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

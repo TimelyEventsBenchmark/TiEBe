@@ -1,0 +1,434 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "Russia is seen as the tenth most corrupt country in the world.",
+                    "links": [
+                        {
+                            "link": "https://www.msn.com/es-mx/noticias/mexico/m%c3%a9xico-es-se%c3%b1alado-como-el-segundo-pa%c3%ads-m%c3%a1s-corrupto-del-mundo-a-pesar-del-discurso-de-l%c3%b3pez-obrador/ar-BBZbCtO",
+                            "text": "-\"México es señalado como el segundo país más corrupto del mundo, a pesar del discurso de López Obrador\" [Mexico is designated as the second most corrupt country in the world, despite López Obrador's speech]. Infobae (in Spanish). Jan 22, 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "22/01/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Russia closes its land border with the People's Republic of China to prevent the spread of COVID-19.",
+                    "links": [
+                        {
+                            "link": "https://www.cnbc.com/2020/01/30/coronavirus-russia-closes-border-with-china-to-prevent-spread.html",
+                            "text": "-Ellyatt, Holly (2020-01-30). \"Russia closes border with China to prevent spread of the coronavirus\". CNBC. Retrieved 2020-02-19.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-02-19",
+                                "Created": "2020-01-30"
+                            }
+                        }
+                    ],
+                    "start_date": "30/01/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "Russian authorities suspend the entry of Chinese citizens to Russia for employment, private, educational and tourist purposes, due to fears of the COVID-19 Outbreak.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/article/us-china-health-russia-entry-idUSKBN20C2BU",
+                            "text": "-\"Russia bars entry of Chinese citizens amid coronavirus threat\". Reuters. 2020-02-18. Retrieved 2020-02-19.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-02-19",
+                                "Created": "2020-02-18"
+                            }
+                        }
+                    ],
+                    "start_date": "20/02/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "COVID-19 pandemic Moscow Mayor Sergey Sobyanin told President Putin at a meeting that \"a serious situation is unfolding\" and that the relatively low number of confirmed cases could be due to a low level of testing, saying that \"there are far more people who are infected\" and that the number of people in Moscow suspected of having the coronavirus was about 500. A number of venues and parks in Russia including Crocus Expo in Krasnoyarsk, Exhibition of Achievements of National Economy and Patriot Park in Moscow and Lenexpo in Saint Petersburg were turned into temporary hospitals.",
+                    "links": [
+                        {
+                            "link": "https://tass.com/society/1134701",
+                            "text": "-\"No real picture of COVID-2019 situation in Russian regions — Moscow mayor\". TASS. 24 March 2020. Archived from the original on 24 March 2020. Retrieved 24 March 2020.-",
+                            "dates": {
+                                "Archieved": "2020-03-24",
+                                "Retrieved": "2020-03-24",
+                                "Created": "2020-03-24"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20200324215306/https://tass.com/society/1134701",
+                            "text": "-\"No real picture of COVID-2019 situation in Russian regions — Moscow mayor\". TASS. 24 March 2020. Archived from the original on 24 March 2020. Retrieved 24 March 2020.-",
+                            "dates": {
+                                "Archieved": "2020-03-24",
+                                "Retrieved": "2020-03-24",
+                                "Created": "2020-03-24"
+                            }
+                        },
+                        {
+                            "link": "https://tass.com/society/1134671",
+                            "text": "-\"About 500 people in Moscow suspected of having COVID\". TASS. 24 March 2020. Archived from the original on 24 March 2020. Retrieved 24 March 2020.-",
+                            "dates": {
+                                "Archieved": "2020-03-24",
+                                "Retrieved": "2020-03-24",
+                                "Created": "2020-03-24"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20200324215321/https://tass.com/society/1134671",
+                            "text": "-\"About 500 people in Moscow suspected of having COVID\". TASS. 24 March 2020. Archived from the original on 24 March 2020. Retrieved 24 March 2020.-",
+                            "dates": {
+                                "Archieved": "2020-03-24",
+                                "Retrieved": "2020-03-24",
+                                "Created": "2020-03-24"
+                            }
+                        },
+                        {
+                            "link": "https://ria.ru/20200430/1570844968.html",
+                            "text": "-\"В Москве на ВДНХ и в Сокольниках оборудуют временные госпитали\". RIA.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://www.vedomosti.ru/society/news/2020/04/27/829110-statsionari-dlya-bolnih-covid-19",
+                            "text": "-\"Стационары для больных COVID-19 откроют в парке \"Патриот\" и \"Крокус экспо\"\". Vedomosti. 27 April 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2020-04-27"
+                            }
+                        },
+                        {
+                            "link": "https://ria.ru/20200503/1570923096.html",
+                            "text": "-\"Временный госпиталь в \"Ленэкспо\" принял первых пациентов с коронавирусом\". RIA.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "24/03/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "the government decided to close all automobile, railway, pedestrian, river, or other border checkpoints, including on the Belarus border, with exceptions similar to that of the air travel restrictions.",
+                    "links": [
+                        {
+                            "link": "http://government.ru/docs/39307/",
+                            "text": "-\"Принято решение о временном ограничении движения через автомобильные, железнодорожные, пешеходные, речные и смешанные пункты пропуска через государственную границу Российской Федерации, а также через сухопутный участок российско-белорусской государственной границы\". Government of Russia (in Russian). 28 March 2020. Archived from the original on 28 March 2020. Retrieved 28 March 2020.-",
+                            "dates": {
+                                "Archieved": "2020-03-28",
+                                "Retrieved": "2020-03-28",
+                                "Created": "2020-03-28"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20200328141249/http://government.ru/docs/39307/",
+                            "text": "-\"Принято решение о временном ограничении движения через автомобильные, железнодорожные, пешеходные, речные и смешанные пункты пропуска через государственную границу Российской Федерации, а также через сухопутный участок российско-белорусской государственной границы\". Government of Russia (in Russian). 28 March 2020. Archived from the original on 28 March 2020. Retrieved 28 March 2020.-",
+                            "dates": {
+                                "Archieved": "2020-03-28",
+                                "Retrieved": "2020-03-28",
+                                "Created": "2020-03-28"
+                            }
+                        }
+                    ],
+                    "start_date": "28/03/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "2020 RussiaSaudi Arabia oil price war Russia and Saudi Arabia, when implementing the new OPEC+ agreement from May to the end of June 2020, will have to produce no more than 8.5 million barrels of oil per day.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/article/us-oil-opec-idUSKBN23A1OU",
+                            "text": "-\"Saudi, Russia agree oil cuts extension, raise pressure for compliance\". Reuters. 2020-06-03. Retrieved 2022-10-12.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-10-12",
+                                "Created": "2020-06-03"
+                            }
+                        }
+                    ],
+                    "start_date": "10/04/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Russia announced there are more than 100,000 people infected by the coronavirus; Russian Prime Minister Mikhail Mishustin said that his tests for coronavirus showed positive results, his First Deputy Andrey Belousov was appointed as Acting Prime Minister.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/russian/news-52473238",
+                            "text": "-\"В России зафиксирован рекордный прирост заразившихся коронавирусом\". BBC News Русская служба (in Russian). Retrieved 2022-10-12.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-10-12",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://tass.ru/obschestvo/8380247",
+                            "text": "-\"Михаил Мишустин заразился коронавирусом. И.о. премьера будет Белоусов - ТАСС\". TACC. Retrieved 2022-10-12.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-10-12",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "30/04/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "May",
+            "Data": [
+                {
+                    "event_text": "Vladimir Yakushev Minister of Construction Industry, Housing and Utilities Sector, was hospitalized after he was diagnosed with coronavirus. His deputy was appointed as acting minister.",
+                    "links": [
+                        {
+                            "link": "https://tass.ru/obschestvo/8386125",
+                            "text": "-\"Владимир Якушев госпитализирован с коронавирусом - ТАСС\". TACC. Retrieved 2022-10-12.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-10-12",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "01/05/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "June",
+            "Data": [
+                {
+                    "event_text": "Russian President Putin agreed to declare a national emergency after the 20,000 tons of diesel spill near Norilsk.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-europe-52915807",
+                            "text": "-\"Arctic Circle oil spill prompts Putin to declare state of emergency\". BBC News. 4 June 2020. Archived from the original on 2020-06-05. Retrieved 2020-06-05.-",
+                            "dates": {
+                                "Archieved": "2020-06-05",
+                                "Retrieved": "2020-06-04",
+                                "Created": "2020-06-05"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20200605180709/https://www.bbc.com/news/world-europe-52915807",
+                            "text": "-\"Arctic Circle oil spill prompts Putin to declare state of emergency\". BBC News. 4 June 2020. Archived from the original on 2020-06-05. Retrieved 2020-06-05.-",
+                            "dates": {
+                                "Archieved": "2020-06-05",
+                                "Retrieved": "2020-06-04",
+                                "Created": "2020-06-05"
+                            }
+                        }
+                    ],
+                    "start_date": "04/06/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "July",
+            "Data": [
+                {
+                    "event_text": "The 2020 Russian constitutional referendum, Due to Yes Vote, The amendments include sweeping changes to the constitution, including allowing Putin to run again for two more six-year presidential terms, constitutionally banning same-sex marriage, enshrine the status of the Russian language, placing the constitution above international law, the minimal residency requirement for presidential candidates will be raised from 10 years to 25; and may not have ever in their life held foreign citizenship or residency.",
+                    "links": [
+                        {
+                            "link": "https://www.golosameriki.com/a/putin-constitution-amendments-terms-power/5501434.html",
+                            "text": "-\"Эксперты: Путин может не остаться у власти до 2036 года\". ГОЛОС АМЕРИКИ (in Russian). 14 July 2020. Retrieved 2022-10-12.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-07-14",
+                                "Created": "2022-10-12"
+                            }
+                        },
+                        {
+                            "link": "https://tass.ru/obschestvo/11894725",
+                            "text": "-\"Песков заявил, что Конституция РФ не позволяет выполнить решение ЕСПЧ по однополым бракам - ТАСС\". TACC. Retrieved 2022-10-12.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-10-12",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "01/07/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "August",
+            "Data": [
+                {
+                    "event_text": "A Russian opposition leader Alexei Navalny felt unwell while being on a place from Tomsk to Moscow. The plane made an emergency landing in Omsk, and Navalny was taken to the hospital, where he fell into a coma. He was transported to Germany shortly after. The German government later announced that the politician was poisoned.",
+                    "links": [
+                        {
+                            "link": "https://meduza.io/live/2020/08/21/otravlenie-alekseya-navalnogo-hronika",
+                            "text": "-\"Отравление Алексея Навального. Хроника Врачи разрешили отправить политика в немецкую клинику\". Meduza (in Russian). Retrieved 2022-10-12.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-10-12",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://www.theguardian.com/world/2020/sep/02/alexei-navalny-poisoned-with-novichok-says-german-government-russia",
+                            "text": "-\"Alexei Navalny novichok finding prompts calls for answers from Moscow\". the Guardian. 2020-09-03. Retrieved 2022-10-12.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-10-12",
+                                "Created": "2020-09-03"
+                            }
+                        }
+                    ],
+                    "start_date": "20/08/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "September",
+            "Data": [
+                {
+                    "event_text": "Local elections were held including the election of the heads of 17 Republics and the election of deputies of legislative bodies in 11 districts of the Russian Federation. In regions where governors resigned after June 13, 2020, elections were held on a single voting day in 2021. A new governor was elected in Sevastopol, Leningrad Oblast.",
+                    "links": [
+                        {
+                            "link": "https://www.kommersant.ru/",
+                            "text": "-\"Единый день голосования – 2020: Последние новости России и мира - Коммерсантъ\". www.kommersant.ru (in Russian). Retrieved 2022-10-12.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-10-12",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "13/09/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Caucasus 2020 (also called Kavkaz 2020) multinational command post exercise will start",
+                    "links": [
+                        {
+                            "link": "http://eng.mil.ru/en/news_page/country/more.htm?id=12313110@egNews",
+                            "text": "-Russian Defence Ministry (2020-09-08). \"Russian Defence Minister General of the Army Sergei Shoigu holds teleconference with leadership of Armed Forces\". Retrieved 2020-09-10.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-09-10",
+                                "Created": "2020-09-08"
+                            }
+                        }
+                    ],
+                    "start_date": "21/09/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "October",
+            "Data": []
+        },
+        {
+            "Month": "November",
+            "Data": [
+                {
+                    "event_text": "President of Azerbaijan, Prime Minister of Armenia, and President of Russia signed a ceasefire agreement to stop the military conflict the Nagorno-Karabakh region.",
+                    "links": [
+                        {
+                            "link": "http://en.kremlin.ru/events/president/news/64384",
+                            "text": "-\"Statement by President of the Republic of Azerbaijan, Prime Minister of the Republic of Armenia and President of the Russian Federation\". President Of Russia. Retrieved 2022-10-12.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-10-12",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "10/11/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "December",
+            "Data": [
+                {
+                    "event_text": "President Vladimir Putin launched the COVID-19 vaccination campaign with the Sputnik V vaccine developed at the Gamaleya Research Institute of Epidemiology and Microbiology.",
+                    "links": [
+                        {
+                            "link": "https://tass.ru/obschestvo/10152965",
+                            "text": "-\"Путин поручил начать масштабную вакцинацию от коронавируса - ТАСС\". TACC. Retrieved 2022-11-02.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-11-02",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "02/12/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The press service of TNT TV channel announced the closure of the Russian longest-running reality show Dom-2.",
+                    "links": [
+                        {
+                            "link": "https://meduza.io/news/2020/12/18/tnt-zakroet-shou-dom-2",
+                            "text": "-\"ТНТ закроет шоу «Дом-2»\". Meduza (in Russian). Retrieved 2022-11-02.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-11-02",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "18/12/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Alexei Navalny's team published the politic's phone conversation with FSB officer Kudryavtsev. According to the recording, the officer admitted that Navalny was poisoned with the nerve agent Novichok. The Federal Security office called it a provocation.",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/world/2020/dec/21/what-does-alexei-navalny-say-the-duped-russian-spy-admitted-about-his-poisoning",
+                            "text": "-\"'Do you remember the underwear's colour?' - Navalny's call with duped spy\". the Guardian. 2020-12-21. Retrieved 2022-11-02.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-11-02",
+                                "Created": "2020-12-21"
+                            }
+                        }
+                    ],
+                    "start_date": "21/12/2020",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

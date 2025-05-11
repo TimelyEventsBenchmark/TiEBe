@@ -1,0 +1,1163 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "The Queensland State Archives releases 1985 Cabinet documents in accordance with the 30-year embargo.",
+                    "links": [],
+                    "start_date": "01/01/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The National Archives of Australia releases selected key cabinet records for the years 199091 after a 25-year embargo.",
+                    "links": [],
+                    "start_date": "01/01/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A palliative care patient tests positive for Legionnaire's disease at the Wesley Hospital (Brisbane), which was at the centre of a fatal 2013 outbreak.",
+                    "links": [],
+                    "start_date": "01/01/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "3 January  Brisbane teenager, Cole Miller, is severely injured in a one-punch attack in Fortitude Valley, Brisbane and dies in hospital on 4 January.  A funeral is held in Brisbane City Hall on 13 January.",
+                    "links": [],
+                    "start_date": "03/01/2016",
+                    "end_date": "04/01/2016"
+                },
+                {
+                    "event_text": "Australia Post raises the basic postage rate from 70 cents to $1, in addition to instituting a priority delivery service for an extra 50 cents.",
+                    "links": [],
+                    "start_date": "04/01/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Immigration Minister Peter Dutton apologises for a text message in which he referred to a female reporter as a \"mad f—ing witch\".",
+                    "links": [],
+                    "start_date": "04/01/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Australian stock exchange suffers after the Shanghai Industrial Index loses 7 per cent, rocking global markets.",
+                    "links": [],
+                    "start_date": "04/01/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "5 January  Electronics retailer Dick Smith goes into voluntary administration.",
+                    "links": [],
+                    "start_date": "05/01/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "6 January  Three days of heavy rain causes widespread flooding, the worst hit area being the Hunter Region, New South Wales, forcing home evacuations.",
+                    "links": [],
+                    "start_date": "06/01/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Bushfires in Western Australia destroy many homes and other buildings, especially in the town of Yarloop.",
+                    "links": [],
+                    "start_date": "07/01/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Australian share market plunges after the Chinese government devalues its currency then shuts down trade for the second time in a week.",
+                    "links": [],
+                    "start_date": "07/01/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "10 January  Prisoner, Jake Devenney-Gill, escapes from the low security section of Adelaide's Yatala Prison.  The State Opposition raises concerns that prison overcrowding may have contributed to the escape.",
+                    "links": [],
+                    "start_date": "10/01/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Chinese steel maker Ansteel signals its intent to withdraw funding from the ailing Karara magnetite project, in Western Australia's north-west.",
+                    "links": [],
+                    "start_date": "12/01/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Victorian Premier Daniel Andrews publishes a response to Victorian Coroner Ian Gray's 29 recommendations from the Luke Batty inquest, agreeing to implement all the recommendations relevant to the government.",
+                    "links": [],
+                    "start_date": "12/01/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "14 January   New South Wales Labor Party general secretary Jamie Clements resigns after denying allegations from political staffer Stefanie Jones that he sexually harassed her.  Federal Opposition Leader Bill Shorten orders a report into the New South Wales Labor Party.",
+                    "links": [],
+                    "start_date": "14/01/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "16 January  V/Line initiates a ban on V/Line trains running on Melbourne railway tracks, with the exception of the Ballarat and Geelong lines, forcing passengers to switch to Metro services in the city's outer suburbs.  The ban is initiated because a V/Line train failed to trigger boom gates at Dandenong on 13 January.",
+                    "links": [],
+                    "start_date": "16/01/2016",
+                    "end_date": "13/01/2016"
+                },
+                {
+                    "event_text": "Clive Palmer's Queensland Nickel refinery is placed into voluntary administration.",
+                    "links": [],
+                    "start_date": "18/01/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Immigration Minister Peter Dutton announces in the Daily Telegraph newspaper that 72 children will be returned to immigration detention on Nauru within weeks.",
+                    "links": [],
+                    "start_date": "18/01/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "19 January  Billionaire mining magnate Andrew Forrest pledges to support the reconstruction of Yarloop.",
+                    "links": [],
+                    "start_date": "19/01/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The West Australian Government announces an independent investigation into fire that destroyed 90 per cent of the historic town of Yarloop. The former chief of the Victorian Country Fire Authority, Euan Ferguson, will head the investigation.",
+                    "links": [],
+                    "start_date": "20/01/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Tasmania turns the Combined Cycle Gas Turbine at the Tamar Valley Power Station back on to cope with hydroelectric power dams at only 20 per cent capacity after record low rainfall.",
+                    "links": [],
+                    "start_date": "20/01/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Victorian Agriculture Minister Jaala Pulford announces a full-length duck hunting season for 2016 with modified bag and species limits, causing some internal dissent within members of the Labor Party, some of whom want a permanent ban.",
+                    "links": [],
+                    "start_date": "22/01/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Queensland Government begins processing compensation claims for Indigenous workers who had their wages stolen.",
+                    "links": [],
+                    "start_date": "22/01/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Tasmanian Premier Will Hodgman announces that the Government will change the Tasmanian criteria for Aboriginality to bring the state in line with all other states.",
+                    "links": [],
+                    "start_date": "22/01/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The New South Wales Government pays compensation to victims of abuse within the Parramatta Girls Home for the first time.",
+                    "links": [],
+                    "start_date": "22/01/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "24 January  An eight-day construction blitz to remove three dangerous and congested level crossings in Melbourne's south-east begins.",
+                    "links": [],
+                    "start_date": "24/01/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Victorian Transport Minister Jacinta Allan announces that the CEO of V/Line has resigned due to disruptions across the V/Line network.",
+                    "links": [],
+                    "start_date": "28/01/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "South Australian Premier Jay Weatherill unveils the Northern Economic Plan to create 15,000 jobs and kick start other industries in the wake of the impending closure of Adelaide's Holden manufacturing plant.",
+                    "links": [],
+                    "start_date": "28/01/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "29 January  The Federal Government announces that it will set up a national framework to offer compensation to victims of institutional sexual abuse following recommendations from the Royal Commission.",
+                    "links": [],
+                    "start_date": "29/01/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "31 January  Victorian Premier Daniel Andrews attends the annual Pride March for the lesbian, gay, bisexual, transgender and intersex (LGBTI) community and announces that the Government will formally apologise on 24 May to those who received criminal convictions before homosexuality was decriminalised.",
+                    "links": [],
+                    "start_date": "31/01/2016",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "2 February  The Federal Government reintroduces its bill for the Australian Building and Construction Commission on the first parliamentary sitting of 2016.",
+                    "links": [],
+                    "start_date": "02/02/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The High Court of Australia rejects a legal challenge to the validity of the immigration detention centre on Nauru after considering the case of a pregnant Bangladeshi asylum seeker who was brought to Australia from Nauru for treatment for serious health complications.  In a majority decision the court said the woman's detention on Nauru was not unlawful.",
+                    "links": [],
+                    "start_date": "03/02/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Former Governor-General and Archbishop of Brisbane, Peter Hollingworth, formally apologises to a child abuse victim at the Royal Commission into Institutional Responses to Child Sexual Abuse hearings in Hobart, saying his handling of his case was misguided, wrong and a serious error of judgment to allow John Elliott to continue as rector of Dalby.",
+                    "links": [],
+                    "start_date": "03/02/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Brisbane Airport authorities detain Robert Somerville, a Canadian man suspected of fighting with a Kurdish militia.",
+                    "links": [],
+                    "start_date": "03/02/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Victorian Transport Minister Jacinta Allan announces a temporary, stable V/Line service interim plan which sets out exactly which services will run as trains, and which will be replaced by coaches for the next five weeks.",
+                    "links": [],
+                    "start_date": "04/02/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Federal Treasurer Scott Morrison refers to anxious Coalition MPs in marginal seats as \"bedwetters\" over their concerns over a Goods and Services Tax increase.",
+                    "links": [],
+                    "start_date": "04/02/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "At least 28 people fall ill from a Salmonella outbreak in salad greens.",
+                    "links": [],
+                    "start_date": "04/02/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Federal Court of Australia in Brisbane fines Woolworths for selling faulty goods and failing to promptly report on serious injuries caused by the problem products.",
+                    "links": [],
+                    "start_date": "05/02/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A Senate committee hears that 7-Eleven workers are still being underpaid, and others are being physically intimidated to prevent them from making a compensation claim.",
+                    "links": [],
+                    "start_date": "05/02/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "6 February  Victorian Premier Daniel Andrews offers to accept full responsibility for asylum seekers facing deportation back to Nauru in the wake of the High Court of Australia decision.",
+                    "links": [],
+                    "start_date": "06/02/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Philip Ruddock announces he will leave Federal Parliament.  The Federal Government gives him the job of Australia's first Special Envoy for Human Rights.",
+                    "links": [],
+                    "start_date": "08/02/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Ratings agency Moody's downgrades Western Australia's credit rating from AA1 to AA2, citing rising debt and deficit as the reasons.",
+                    "links": [],
+                    "start_date": "08/02/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Prime Minister Malcolm Turnbull confirms that the Federal Government is looking at privatising elements of Medicare as part of its innovations agenda.",
+                    "links": [],
+                    "start_date": "09/02/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Nearly $43 billion is wiped off the value of the Australian sharemarket with shares falling by nearly 3 per cent to the lowest level in two and a half years over fears about the global economy.",
+                    "links": [],
+                    "start_date": "09/02/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Commonwealth Bank of Australia posts a $4.6 billion profit for the past six months, an increase on the same period last year.",
+                    "links": [],
+                    "start_date": "10/02/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Trade Minister Andrew Robb announces that he will not contest the next election, and intends to pursue a career in the private sector.",
+                    "links": [],
+                    "start_date": "10/02/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The 2017 Closing the Gap report is released, and shows that little progress has been made on increasing the life expectancy of Aboriginal and Torres Strait Islander Peoples.",
+                    "links": [],
+                    "start_date": "10/02/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Federal Government abandons a plan to increase GST to 15% due to Treasury modelling which revealed that the plan would deliver negligible net growth.",
+                    "links": [],
+                    "start_date": "11/02/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Deputy Prime Minister and Leader of the National Party Warren Truss announces his resignation and is replaced by Agriculture Minister Barnaby Joyce, who is elected unopposed as Leader of the National Party.",
+                    "links": [],
+                    "start_date": "11/02/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "West Australian Police Commissioner announces that 700 officers have five days to begin exclusively targeting four key crime areas after an unprecedented crime wave.",
+                    "links": [],
+                    "start_date": "11/02/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Independent Commission Against Corruption (ICAC) provides to a parliamentary committee secret phone tap recordings which it provided to the Australian Crime Commission, as it sought to dispute the findings of ICAC Inspector David Levine's scathing report into the investigation into Crown Prosecutor Margaret Cunneen.",
+                    "links": [],
+                    "start_date": "11/02/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Federal Human Services Minister Stuart Robert resigns from the frontbench after a review by the Prime Minister's Department finds that he breached ministerial standards through his private trip to China in 2014 with a friend and Liberal Party donor Paul Marks.",
+                    "links": [],
+                    "start_date": "12/02/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "An independent review recommends that Victoria overhaul its climate change laws with new targets to cut emissions.",
+                    "links": [],
+                    "start_date": "12/02/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "13 February  Federal Opposition Leader Bill Shorten announces plans to change negative gearing and the capital gains tax discount if the Australian Labor Party wins the next federal election.",
+                    "links": [],
+                    "start_date": "13/02/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Former Resources Minister Ian Macfarlane announces his retirement.",
+                    "links": [],
+                    "start_date": "15/02/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "More than $1 billion worth of liquid methylamphetamine is seized from a shipment of stick-on gel bras and inside storage units filled with art supplies.  It is described as the biggest seizure in Australian history.",
+                    "links": [],
+                    "start_date": "15/02/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Nuclear Fuel Cycle Royal Commission recommends a waste facility could be safely set up in South Australia.",
+                    "links": [],
+                    "start_date": "15/02/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "16 February  Australia's population reaches 24 million.",
+                    "links": [],
+                    "start_date": "16/02/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Federal Treasurer Scott Morrison addresses the National Press Club of Australia saying that tax cuts will be modest and aimed at helping those about to slip into higher tax brackets.  He also announces that the Federal Government will not be assisting the States with the rising cost of health.",
+                    "links": [],
+                    "start_date": "17/02/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Tackling Alcohol-Fuelled Violence Legislation Amendment Bill passes Queensland Parliament after the Government secured support from Katter's Australian Party agreeing to a compromise to postpone a 1 am lockout in entertainment precincts until .",
+                    "links": [],
+                    "start_date": "18/02/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Australia's unemployment rate rises to 6 per cent in January, making it the first time that unemployment has risen in six months. The Bureau of Statistics figures show 7,900 jobs were lost in the month, driven by the loss of more than 40,000 full-time jobs.",
+                    "links": [],
+                    "start_date": "18/02/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "19 February  The New South Wales Land and Environment Court rejects a challenge to the Shenhua Watermark coal mine by the Upper Mooki community group, which had argued that the project was too great a threat to local koala populations.",
+                    "links": [
+                        {
+                            "link": "http://www.abc.net.au/news/2016-02-19/koala-activists-fail-in-court-bid-against-shenhua-coal-mine/7183580",
+                            "text": "-\"Shenhua Watermark coal mine defeats koala campaigners' legal challenge\". ABC Online. 19 February 2016. Retrieved 17 June 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-06-17",
+                                "Created": "2016-02-19"
+                            }
+                        }
+                    ],
+                    "start_date": "19/02/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Federal Government's proposed changes to Senate voting are introduced into Parliament.  The changes are designed to make it more difficult for crossbenchers to get elected if they have a tiny proportion of the vote.",
+                    "links": [],
+                    "start_date": "22/02/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Baby Asha is released from the Lady Cilento Children's Hospital, Brisbane after a week-long stalemate where her doctors refused to release her, fearful that she would return to detention on Nauru.",
+                    "links": [],
+                    "start_date": "22/02/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "BHP Billiton reports a first half loss of $7.8 billion and is described as the worst half-year result in the company's lifetime, thereby showing further signs of the mining downturn.",
+                    "links": [],
+                    "start_date": "23/02/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Federal Government agrees to review the Safe Schools programme, which is designed to eliminate bullying in schools, after complaints by Liberal Senator Cory Bernardi that the programme asks children to imagine that they have no genitals, or that they're attracted to someone of the same sex.",
+                    "links": [],
+                    "start_date": "23/02/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "24 February  The Federal Government announces an inquiry into the laws and frameworks to safeguard elderly Australians from abuse.",
+                    "links": [],
+                    "start_date": "24/02/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Federal Government releases its White Paper on Defence which allocates $195 billion for new defence equipment, including submarines, drones and a strategy to counter cyber attacks, as well as predicting that defence spending will reach $58 billion a year in a decade.",
+                    "links": [],
+                    "start_date": "25/02/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Former Federal Treasurer Peter Costello is named as the new chairman of Nine Entertainment.",
+                    "links": [],
+                    "start_date": "25/02/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "26 February  Mal Brough announces that he will not contest the seat of Fisher at the next election.",
+                    "links": [],
+                    "start_date": "26/02/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "29 February  Cardinal George Pell gives evidence to the Royal Commission into Institutional Responses to Child Sexual Abuse via a video-link from a hotel in Rome, saying that he is \"not there to defend the indefensible\".",
+                    "links": [],
+                    "start_date": "29/02/2016",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "11 March  The Basslink data transmission cable between Victoria and Tasmania is cut for repairs, resulting in slow internet speeds for ISP customers in Tasmania, particularly those of the TPG Telecom group such as iiNet and Internode.",
+                    "links": [],
+                    "start_date": "11/03/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "12 March  Members of rival street gangs rampage through the Melbourne CBD during the city's Moomba Festival.",
+                    "links": [],
+                    "start_date": "12/03/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "17 March  The Federal Government's electoral reform laws pass both houses of Parliament after 28 hours straight debating the changes in the Senate.  Prime Minister Malcolm Turnbull hails the event as a \"great day for democracy\".",
+                    "links": [
+                        {
+                            "link": "http://www.abc.net.au/news/2016-03-18/senate-electoral-reform-laws-passed/7258212",
+                            "text": "-Borrello, Eliza (18 March 2016). \"Senate reform: Electoral laws passed after marathon Parliament sitting\". ABC Online. Archived from the original on 16 October 2016. Retrieved 17 June 2017.-",
+                            "dates": {
+                                "Archieved": "2016-10-16",
+                                "Retrieved": "2017-06-17",
+                                "Created": "2016-03-18"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20161016041558/http://www.abc.net.au/news/2016-03-18/senate-electoral-reform-laws-passed/7258212",
+                            "text": "-Borrello, Eliza (18 March 2016). \"Senate reform: Electoral laws passed after marathon Parliament sitting\". ABC Online. Archived from the original on 16 October 2016. Retrieved 17 June 2017.-",
+                            "dates": {
+                                "Archieved": "2016-10-16",
+                                "Retrieved": "2017-06-17",
+                                "Created": "2016-03-18"
+                            }
+                        }
+                    ],
+                    "start_date": "17/03/2016",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "7 April  Steelmaker and iron ore mining company Arrium goes into voluntary administration.",
+                    "links": [],
+                    "start_date": "07/04/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "18 April  Governor-General Peter Cosgrove recalls Federal Parliament, having been prorogued by him on 15 April.   Prime Minister Malcolm Turnbull states that the reason for recalling Parliament is to consider two sets of legislation The Building and Construction Industry (Improving Productivity) Bill 2013 and Building and Construction Industry (Consequential and Transitional Provisions) Bill 2013 and the Fair Work (Registered Organisations) Amendment Bill 2014.  The Prime Minister also states that it is the Government's preference to have the Bills passed rather than invoke section 57 of the Constitution  that is, to dissolve both Houses of Parliament and hold a double dissolution election.",
+                    "links": [
+                        {
+                            "link": "https://web.archive.org/web/20170331190402/http://www.skynews.com.au/news/top-stories/2016/04/18/senate-debate-may-pave-way-for-july-election.html",
+                            "text": "-\"Senator chided for attack on governor-general\". Sky News. Archived from the original on 31 March 2017. Retrieved 17 June 2017.-",
+                            "dates": {
+                                "Archieved": "2017-03-31",
+                                "Retrieved": "2017-06-17",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "http://www.skynews.com.au/news/top-stories/2016/04/18/senate-debate-may-pave-way-for-july-election.html",
+                            "text": "-\"Senator chided for attack on governor-general\". Sky News. Archived from the original on 31 March 2017. Retrieved 17 June 2017.-",
+                            "dates": {
+                                "Archieved": "2017-03-31",
+                                "Retrieved": "2017-06-17",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "18/04/2016",
+                    "end_date": "15/04/2016"
+                }
+            ]
+        },
+        {
+            "Month": "May",
+            "Data": [
+                {
+                    "event_text": "6 May- A leadership spill for the Liberal National Party of Queensland is held, with Tim Nicholls defeating incumbent Lawrence Springborg to become party leader and leader of the Opposition.",
+                    "links": [],
+                    "start_date": "06/05/2016",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "June",
+            "Data": [
+                {
+                    "event_text": "29 June  Karen Ristevski disappears from Avondale Heights after an argument with her husband Borce. Her remains were found on Mount Macedon on 20 February 2017. On 13 December 2017 her husband was charged with the murder of Karen Ristevski.",
+                    "links": [],
+                    "start_date": "29/06/2016",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "July",
+            "Data": [
+                {
+                    "event_text": "1 July  New legal and governance arrangements commence for the previously self-governing territory of Norfolk Island.",
+                    "links": [],
+                    "start_date": "01/07/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "2 July  A double dissolution federal election is held. On 10 July, Prime Minister Malcolm Turnbull claims victory for the LiberalNational Coalition which was returned with a reduced majority.",
+                    "links": [],
+                    "start_date": "02/07/2016",
+                    "end_date": "10/07/2016"
+                },
+                {
+                    "event_text": "7 July  Premier Mike Baird announces that greyhound racing will be banned in New South Wales from 1 .",
+                    "links": [],
+                    "start_date": "07/07/2016",
+                    "end_date": "01/07/2016"
+                },
+                {
+                    "event_text": "26 July  A royal commission into juvenile detention in the Northern Territory is announced, after the Four Corners program airs footage of abuse of detainees at the Don Dale Youth Detention Centre.",
+                    "links": [],
+                    "start_date": "26/07/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "29 July  Malcolm Turnbull controversially rejects Kevin Rudd's nomination for Secretary-General of the United Nations.",
+                    "links": [],
+                    "start_date": "29/07/2016",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "August",
+            "Data": [
+                {
+                    "event_text": "9 August  The 2016 Census of Population and Housing is held. Intended to be conducted mostly online, the census website is unavailable for the entire night, with the Australian Bureau of Statistics (ABS) blaming denial-of-service attacks for the outage. The outage follows significant public concern about privacy due to the Bureau's announcement that it would retain names and addresses for a four-year period, and link the data to other records and datasets.",
+                    "links": [],
+                    "start_date": "09/08/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "27 August  A general election is held in the Northern Territory. The Country Liberal government of Adam Giles is defeated by the Australian Labor Party led by Michael Gunner.",
+                    "links": [],
+                    "start_date": "27/08/2016",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "September",
+            "Data": [
+                {
+                    "event_text": "5 September  Ride-sharing services including Uber become legal in Queensland, with changes to personalised transport regulation being rolled out across the state.  200 cab drivers and their supporters rally outside State Parliament in protest.",
+                    "links": [
+                        {
+                            "link": "http://www.abc.net.au/news/2016-09-05/ride-sharing-goes-street-legal-in-queensland-cab-drivers-rally/7814636",
+                            "text": "-Bavas, Josh (5 September 2016). \"Uber goes street legal in Queensland, cab drivers accuse Government of 'sell-out'\". ABC Online. Archived from the original on 15 June 2017. Retrieved 17 June 2017.-",
+                            "dates": {
+                                "Archieved": "2017-06-15",
+                                "Retrieved": "2017-06-17",
+                                "Created": "2016-09-05"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20170615112652/http://www.abc.net.au/news/2016-09-05/ride-sharing-goes-street-legal-in-queensland-cab-drivers-rally/7814636",
+                            "text": "-Bavas, Josh (5 September 2016). \"Uber goes street legal in Queensland, cab drivers accuse Government of 'sell-out'\". ABC Online. Archived from the original on 15 June 2017. Retrieved 17 June 2017.-",
+                            "dates": {
+                                "Archieved": "2017-06-15",
+                                "Retrieved": "2017-06-17",
+                                "Created": "2016-09-05"
+                            }
+                        }
+                    ],
+                    "start_date": "05/09/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "28 September  The entire state of South Australia is left without electricity after a massive storm damages electrical transmission infrastructure.",
+                    "links": [],
+                    "start_date": "28/09/2016",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "October",
+            "Data": [
+                {
+                    "event_text": "3 October  The Redcliffe Peninsula railway line in Queensland opens 131 years after it was first proposed.",
+                    "links": [
+                        {
+                            "link": "https://web.archive.org/web/20161004152811/http://www.news.com.au/national/breaking-news/turnbull-opens-12b-brisbane-rail-link/news-story/a886ec93107210907ef80ed279035ecc",
+                            "text": "-Schwarten, Evan. \"Brisbane rail link opens 130 years late\". News.com.au. News Corp Australia. Australian Associated Press. Archived from the original on 4 October 2016. Retrieved 5 October 2016.-",
+                            "dates": {
+                                "Archieved": "2016-10-04",
+                                "Retrieved": "2016-10-05",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "http://www.news.com.au/national/breaking-news/turnbull-opens-12b-brisbane-rail-link/news-story/a886ec93107210907ef80ed279035ecc",
+                            "text": "-Schwarten, Evan. \"Brisbane rail link opens 130 years late\". News.com.au. News Corp Australia. Australian Associated Press. Archived from the original on 4 October 2016. Retrieved 5 October 2016.-",
+                            "dates": {
+                                "Archieved": "2016-10-04",
+                                "Retrieved": "2016-10-05",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "03/10/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "11 October   NSW Premier Mike Baird reverses the 7 July decision to ban greyhound racing in 2017.",
+                    "links": [
+                        {
+                            "link": "http://www.abc.net.au/news/2016-10-11/greyhound-ban-baird-government-confirms-backflip/7921000",
+                            "text": "-Glanville, Brigid; Gerathy, Sarah (11 October 2016). \"NSW Premier confirms backflip on greyhound racing ban\". ABC News. Archived from the original on 11 October 2016. Retrieved 11 October 2016.-",
+                            "dates": {
+                                "Archieved": "2016-10-11",
+                                "Retrieved": "2016-10-11",
+                                "Created": "2016-10-11"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20161011093728/http://www.abc.net.au/news/2016-10-11/greyhound-ban-baird-government-confirms-backflip/7921000",
+                            "text": "-Glanville, Brigid; Gerathy, Sarah (11 October 2016). \"NSW Premier confirms backflip on greyhound racing ban\". ABC News. Archived from the original on 11 October 2016. Retrieved 11 October 2016.-",
+                            "dates": {
+                                "Archieved": "2016-10-11",
+                                "Retrieved": "2016-10-11",
+                                "Created": "2016-10-11"
+                            }
+                        }
+                    ],
+                    "start_date": "11/10/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "15 October  A general election is held in the Australian Capital Territory. The Australian Labor Party, led by Chief Minister Andrew Barr, wins a fifth term.",
+                    "links": [
+                        {
+                            "link": "http://www.abc.net.au/news/2016-10-15/act-election-labors-andrew-barr-claims-victory/7936172",
+                            "text": "-\"ACT election: Labor Chief Minister Andrew Barr claims victory, says Canberra has voted for light rail\". ABC News. 15 October 2016. Archived from the original on 16 July 2024. Retrieved 15 October 2016.-",
+                            "dates": {
+                                "Archieved": "2024-07-16",
+                                "Retrieved": "2016-10-15",
+                                "Created": "2016-10-15"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20240716025300/https://www.abc.net.au/news/2016-10-15/act-election-labors-andrew-barr-claims-victory/7936172",
+                            "text": "-\"ACT election: Labor Chief Minister Andrew Barr claims victory, says Canberra has voted for light rail\". ABC News. 15 October 2016. Archived from the original on 16 July 2024. Retrieved 15 October 2016.-",
+                            "dates": {
+                                "Archieved": "2024-07-16",
+                                "Retrieved": "2016-10-15",
+                                "Created": "2016-10-15"
+                            }
+                        }
+                    ],
+                    "start_date": "15/10/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "25 October  Four people are killed at the Dreamworld theme park on the Gold Coast, Queensland when the Thunder River Rapids Ride malfunctions.",
+                    "links": [],
+                    "start_date": "25/10/2016",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "November",
+            "Data": [
+                {
+                    "event_text": "4  6 November  Homes are damaged, and residents are evacuated in Sydney, the Hunter Valley and the Central Coast as bushfires flare up across NSW.",
+                    "links": [
+                        {
+                            "link": "https://www.news.com.au/national/nsw-act/news/grassfire-in-western-sydney-spreading-at-a-rapid-rate-threatening-homes/news-story/fc0d2e259556ce5735dd8a96615d93e7",
+                            "text": "-Benedict Brook (4 November 2016). \"Grassfire in western Sydney razes homes; now under control, teens arrested\". news.com.au. Retrieved 20 September 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-09-20",
+                                "Created": "2016-11-04"
+                            }
+                        },
+                        {
+                            "link": "http://www.abc.net.au/news/2016-11-06/firefighters-working-to-contain-bushfires-across-nsw/7998534",
+                            "text": "-\"NSW fires: Crews battle bushfires at Hunter's Port Stephens, Cessnock\". abc.net.au. 6 November 2016. Retrieved 20 September 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-09-20",
+                                "Created": "2016-11-06"
+                            }
+                        }
+                    ],
+                    "start_date": "06/11/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "8 November  Peter Dutton as  Minister of Immigration and Border Protection said it was a mistake by the liberal Malcolm Fraser administration to have admitted Lebanese Muslim immigrants.",
+                    "links": [
+                        {
+                            "link": "https://www.abc.net.au/news/2016-11-21/peter-dutton-fraser-made-mistake-resettling-lebanese-refugees/8043624",
+                            "text": "-Anderson, Stephanie (21 November 2016). \"Peter Dutton suggests Fraser government made mistake by resettling Lebanese refugees\". ABC News. Archived from the original on 8 November 2021. Retrieved 8 November 2021.-",
+                            "dates": {
+                                "Archieved": "2021-11-08",
+                                "Retrieved": "2021-11-08",
+                                "Created": "2016-11-21"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20211108234541/https://www.abc.net.au/news/2016-11-21/peter-dutton-fraser-made-mistake-resettling-lebanese-refugees/8043624",
+                            "text": "-Anderson, Stephanie (21 November 2016). \"Peter Dutton suggests Fraser government made mistake by resettling Lebanese refugees\". ABC News. Archived from the original on 8 November 2021. Retrieved 8 November 2021.-",
+                            "dates": {
+                                "Archieved": "2021-11-08",
+                                "Retrieved": "2021-11-08",
+                                "Created": "2016-11-21"
+                            }
+                        },
+                        {
+                            "link": "http://www.9news.com.au/national/2016/11/23/10/46/dutton-referring-to-lack-of-services-about-1970s-lebanese-immigration-bishop",
+                            "text": "-\"Julie Bishop defends Peter Dutton's comments on Lebanese immigration\". Nine.com.au. 23 November 2016. Archived from the original on 25 November 2016. Retrieved 27 November 2016.-",
+                            "dates": {
+                                "Archieved": "2016-11-25",
+                                "Retrieved": "2016-11-27",
+                                "Created": "2016-11-23"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20161125144507/http://www.9news.com.au/national/2016/11/23/10/46/dutton-referring-to-lack-of-services-about-1970s-lebanese-immigration-bishop",
+                            "text": "-\"Julie Bishop defends Peter Dutton's comments on Lebanese immigration\". Nine.com.au. 23 November 2016. Archived from the original on 25 November 2016. Retrieved 27 November 2016.-",
+                            "dates": {
+                                "Archieved": "2016-11-25",
+                                "Retrieved": "2016-11-27",
+                                "Created": "2016-11-23"
+                            }
+                        }
+                    ],
+                    "start_date": "08/11/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "21 November  A storm in Melbourne triggers thousands of incidents of thunderstorm asthma, resulting in at least eight deaths.",
+                    "links": [],
+                    "start_date": "21/11/2016",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "December",
+            "Data": [
+                {
+                    "event_text": "1 December  The backpacker tax legislation passes the Senate after the Greens sign a deal with the Federal Government to support its 15 per cent backpacker tax rate in exchange for the Government agreeing to tax only 65 per cent of backpackers' superannuation, rather than 95 per cent, and pledging an extra $100 million in funding for Landcare.  The Australian Building and Construction Commission legislation bill also passes the Senate.",
+                    "links": [],
+                    "start_date": "01/12/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "4 December  Victorian Premier Daniel Andrews announces a $2 billion plan to tackle crime, including new laws to be introduced early in 2017, which will create a new offence of procuring young people to commit offences which will carry a maximum penalty of 10 years, regardless of the crime committed by the youth.  The plan also includes the hiring of 2,729 new police officers in the biggest recruitment drive in Victoria's history.",
+                    "links": [],
+                    "start_date": "04/12/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Federal Environment and Energy Minister Josh Frydenberg announces the terms of reference for a review of climate change policies to be undertaken and completed in 2017.  Mr. Frydenberg said there was potential for an \"emissions intensity scheme\", where power generators could pay for emissions above a set level, which prompted debate that he had reintroduced the idea of the carbon tax back into government policy.",
+                    "links": [],
+                    "start_date": "05/12/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Federal Court of Australia in Brisbane awards compensation to Lex Wootton, his wife and mother for their treatment by police during the 2004 Palm Island death in custody riots.",
+                    "links": [],
+                    "start_date": "05/12/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Federal Treasurer Scott Morrison releases gross domestic product (GDP) data, revealing that Australia's economic growth had shrunk for the first time in five years, by 0.5 per cent in the September quarter.",
+                    "links": [],
+                    "start_date": "07/12/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Royal Commission into the Protection and Detention of Children in the Northern Territory tours the Don Dale Detention Centre.",
+                    "links": [],
+                    "start_date": "07/12/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "New South Wales Premier Mike Baird announces the relaxation of the Liquor Amendment Act 2014 (Sydney lockout laws).",
+                    "links": [],
+                    "start_date": "08/12/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Federal Court of Australia rules that Woolworths did not violate consumer law through its \"Mind the Gap\" scheme in 2014.  The Australian Competition and Consumer Commission (ACCC) took Woolworths to court over the scheme, which saw the retailer claim $18 million from suppliers to help reduce a $53 million shortfall in half-year profits.",
+                    "links": [],
+                    "start_date": "08/12/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Victorian Premier Daniel Andrews announces that the Government will introduce, in the second half of 2017, a bill dealing with assisted dying, with all MPs being granted a conscience vote on the matter.",
+                    "links": [],
+                    "start_date": "08/12/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Council of Australian Governments (COAG) Meeting is held in Canberra.  The State Premiers agree to reclassify the Adler shotgun.",
+                    "links": [],
+                    "start_date": "09/12/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Chief Scientist Alan Finkel releases a report into the country's electricity market which concludes that Australia is not on track to meet Paris climate change commitments and that investment in the sector has stalled because there is no long-term Government policy to reduce carbon emissions.",
+                    "links": [],
+                    "start_date": "09/12/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Federal Treasurer Scott Morrison approves Gina Rinehart's bid to take over the Kidman cattle empire.",
+                    "links": [],
+                    "start_date": "09/12/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Fremantle Council bows to public pressure and announces that the Council will hold a citizenship ceremony on Australia Day 2017.",
+                    "links": [],
+                    "start_date": "09/12/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "$1 million worth of damages is awarded to a couple tasered by police.",
+                    "links": [],
+                    "start_date": "09/12/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "10 December  Gold Coast theme park Dreamworld reopens for the first time since four people were killed on the Thunder River Rapids ride six weeks before.",
+                    "links": [],
+                    "start_date": "10/12/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "11 December Qantas chief executive officer Alan Joyce announces that direct flights from Perth to London will be introduced in 2018, marking the first time that Australians will be able to fly direct to Europe.  West Australian Premier Colin Barnett had announced that the government would contribute $14 million towards the upgrade of the airport terminal, ending a long-running impasse with Qantas.",
+                    "links": [],
+                    "start_date": "11/12/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Federal Government approves the construction of a second airport for Sydney at Badgery's Creek.",
+                    "links": [],
+                    "start_date": "12/12/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A third report by the Australian Energy Market Operator (AEMO) finds that South Australia's renewables-heavy power mix was a factor in the statewide blackout in September.",
+                    "links": [],
+                    "start_date": "12/12/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "New South Wales Court of Criminal Appeal quashes a minimum 26-year sentence on Mitchell Barbieri for the 2012 murder of police officer Bryson Anderson and instead imposes a minimum 15-year sentence.  Police Commissioner Andrew Scipione subsequently announces his intention to appeal the decision.",
+                    "links": [],
+                    "start_date": "12/12/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Royal Commission into the Protection and Detention of Children in the Northern Territory hears 19-year-old inmate Dylan Voller's testimony from the Supreme Court of the Northern Territory that detainees were regularly denied access to food, water and toilets as punishment for bad behaviour.",
+                    "links": [],
+                    "start_date": "12/12/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "13 December  Foreign Minister Julie Bishop announces a new foreign policy white paper, the first since 2003, to be released in late 2017, outlining a new vision for Australia's diplomatic engagement.",
+                    "links": [],
+                    "start_date": "13/12/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "New South Wales Government refers former New South Wales RSL President Don Rowe to police over claims he used his corporate credit card to withdraw $200,000 in cash.",
+                    "links": [],
+                    "start_date": "14/12/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "New South Wales Premier Mike Baird announces that the Hunter Valley thoroughbred farms will be saved from coal mining nearby with buffer zones being enforced around the two studs  Coolmore and Darley, or it will change the law to cancel the mining licence of Anglo American's Drayton South project, which has been proposed 900m from the farms' gates.",
+                    "links": [],
+                    "start_date": "14/12/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Billionaire James Packer's Crown Resorts announces it will abandon its Alon project in Las Vegas and sell off almost half its stake in the underperforming Melco Crown Entertainment in Macau for $1.6 billion amid a major crackdown on gambling and corruption in China.",
+                    "links": [],
+                    "start_date": "15/12/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Supreme Court of New South Wales sentences Eddie Obeid to five years in prison for wilful misconduct in public office for lobbying a senior bureaucrat over lucrative Circular Quay café leases without revealing his family's financial interests in the business.",
+                    "links": [],
+                    "start_date": "15/12/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The West Australian seasonally adjusted unemployment rate jumps to 6.9 per cent, its highest level since .",
+                    "links": [],
+                    "start_date": "15/12/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "An out of control bushfire threatens homes on Russell Island.",
+                    "links": [],
+                    "start_date": "15/12/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "17 December  Prime Minister Malcolm Turnbull speaks at the Australian Republican Movement dinner and says that Australians will not accept a republic while Queen Elizabeth II remains Queen.",
+                    "links": [],
+                    "start_date": "17/12/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Alex McKinnon launches a lawsuit against Melbourne Storm player Jordan McLean whose tackle left him in a wheelchair for life.",
+                    "links": [],
+                    "start_date": "18/12/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A powerful thunderstorm lashes south-east Queensland, leaving 10,000 homes without power.",
+                    "links": [],
+                    "start_date": "18/12/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "36 One Nation candidates are announced.",
+                    "links": [],
+                    "start_date": "18/12/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Federal Treasurer Scott Morrison delivers the Mid-Year Economic and Fiscal Outlook (MYEFO), which predicted a Budget surplus for 2021, but revealed $10.4 billion extra in deficits over the next four years.  Debt is expected to hit a record $648 billion by 2026.  The major credit rating agencies decide to leave Australia's AAA credit rating on hold.",
+                    "links": [],
+                    "start_date": "19/12/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Federal Court of Australia in Perth declares One Nation Senator Rod Culleton bankrupt after he quits One Nation.",
+                    "links": [],
+                    "start_date": "19/12/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The market value of Channel 7 plummets $98 million following former executive assistant Amber Harrison's allegations that she was paid more than $150,000 to keep quiet about an affair with CEO Tim Worner.",
+                    "links": [],
+                    "start_date": "19/12/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Queensland Government unveils plans for the $250 million Townsville stadium.",
+                    "links": [],
+                    "start_date": "19/12/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Former Billabong CEO Matthew Perrin is found guilty of nine counts of fraud and forgery and is to be sentenced in early 2017.",
+                    "links": [],
+                    "start_date": "20/12/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Acting New South Wales Ombudsman John McMillan rules that Cath Burn (Deputy Commissioner and counter-terrorism chief) included \"misleading and inaccurate\" information in documents and allowed an informant to breach bail while she led an anti-corruption investigation into police bugging.",
+                    "links": [],
+                    "start_date": "20/12/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Supreme Court of Queensland refuses bail to nurse Jodie Marie Powell who stands accused of the manslaughter of her 10-year-old nephew Curtis Powell in July 2015.",
+                    "links": [],
+                    "start_date": "21/12/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "West Australian Treasurer Mike Nahan releases the mid-year Budget review which reveals that Western Australia's share of GST revenue will not rebound to 76c in the dollar by 201920 as had previously been hoped.",
+                    "links": [],
+                    "start_date": "22/12/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "West Australian Police charge Bradley Robert Edwards with the murders of Ciara Glennon and Jane Rimmer and attacks on two teenagers in 1995 and 1988.",
+                    "links": [],
+                    "start_date": "22/12/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A bus catches fire outside Central Station Sydney.",
+                    "links": [],
+                    "start_date": "22/12/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Australian police raid several Melbourne properties and arrest seven Arab Australian men, who were believed to be plotting a terrorist attack on several sites in Melbourne for Christmas Day.",
+                    "links": [
+                        {
+                            "link": "http://www.abc.net.au/news/2016-12-23/police-foil-alleged-christmas-day-%27terrorist-plot%27-in-melbourne/8143762",
+                            "text": "-\"Seven held over alleged Christmas Day 'act of evil' terror plot\". ABC News. Australian Broadcasting Corporation. 23 December 2016. Archived from the original on 23 December 2016. Retrieved 23 December 2016.-",
+                            "dates": {
+                                "Archieved": "2016-12-23",
+                                "Retrieved": "2016-12-23",
+                                "Created": "2016-12-23"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20161223044816/http://www.abc.net.au/news/2016-12-23/police-foil-alleged-christmas-day-%27terrorist-plot%27-in-melbourne/8143762",
+                            "text": "-\"Seven held over alleged Christmas Day 'act of evil' terror plot\". ABC News. Australian Broadcasting Corporation. 23 December 2016. Archived from the original on 23 December 2016. Retrieved 23 December 2016.-",
+                            "dates": {
+                                "Archieved": "2016-12-23",
+                                "Retrieved": "2016-12-23",
+                                "Created": "2016-12-23"
+                            }
+                        }
+                    ],
+                    "start_date": "23/12/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Broome, Western Australia records its wettest December day on record with 226 mm. of rain brought about by Tropical Cyclone Yvette, beating a previous record set in 1970.",
+                    "links": [],
+                    "start_date": "23/12/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A fourth man, Ibrahim Abbas, appears before the Melbourne Magistrates' Court charged with preparing or planning a terrorist act on popular Melbourne landmarks on Christmas Day and is denied bail.",
+                    "links": [],
+                    "start_date": "24/12/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Department of Immigration and Border Protection announces that a 27-year-old Sudanese refugee, Faysal Ishak Ahmed, from Manus Island Detention Centre had died in the Royal Brisbane and Women's Hospital after being airlifted to Australia for urgent treatment.",
+                    "links": [],
+                    "start_date": "24/12/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "25 December  Queensland Rail cancels 235 train services across south-east Queensland, as well as closing the Shorncliffe line due to staff shortages.",
+                    "links": [],
+                    "start_date": "25/12/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "26 December  Damaging flash floods in Central Australia are described as a \"once-in-a-century weather event\" by the Bureau of Meteorology.",
+                    "links": [],
+                    "start_date": "26/12/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The South Australian Government releases three reports which address the train outage for 36 hours on 28 April, identifying contamination of a circuit breaker as the likely cause.",
+                    "links": [],
+                    "start_date": "27/12/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Tourists missing in Northern Territory floodwaters are found safe.",
+                    "links": [],
+                    "start_date": "27/12/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Randwick City Council announces a snap ban on alcohol at Sydney's Coogee Beach and surrounding parks in response to the 15 tonnes of rubbish left by drunken revellers on Christmas Day.",
+                    "links": [],
+                    "start_date": "27/12/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A nine-year-old boy, Josiah Sisson, dies in hospital after his life support is turned off following his accident where he was hit by an alleged drink driver at Springwood, Queensland on Christmas Day.",
+                    "links": [],
+                    "start_date": "27/12/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Woolworths sells its fuel business to BHP for $1.8 billion.",
+                    "links": [],
+                    "start_date": "28/12/2016",
+                    "end_date": "30/12/2016"
+                },
+                {
+                    "event_text": "The Victorian Court of Appeal affirms the Supreme Court's ruling that it was illegal to keep juvenile detainees in a maximum security unit at Barwon Prison and orders that the detainees must be moved by 30 December.",
+                    "links": [],
+                    "start_date": "30/12/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Former Prime Minister Bob Hawke speaks in favour of nuclear power at the Woodford Folk Festival.",
+                    "links": [],
+                    "start_date": "30/12/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "30 December   A 40-year-old man is arrested and charged over making threats online targeting Sydney's New Year's Eve festivities.",
+                    "links": [],
+                    "start_date": "30/12/2016",
+                    "end_date": null
+                },
+                {
+                    "event_text": "31 December  More than 60 people are injured and 19 hospitalised during a human crush at the Lorne Falls Festival as fans rushing to see a headline act trigger a stampede.",
+                    "links": [],
+                    "start_date": "31/12/2016",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

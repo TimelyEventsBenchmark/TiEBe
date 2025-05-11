@@ -1,0 +1,311 @@
+{
+    "Events": [
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "26 February  Papua New Guinea reports a record 89 new confirmed COVID-19 cases in the past 24 hours, thereby bringing the nationwide total of confirmed cases to 1,228.",
+                    "links": [
+                        {
+                            "link": "https://www.france24.com/en/live-news/20210226-papua-new-guinea-sees-jump-in-coronavirus-cases",
+                            "text": "-\"Papua New Guinea sees jump in coronavirus cases\". France 24. 2021-02-26. Retrieved 2022-09-21.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-09-21",
+                                "Created": "2021-02-26"
+                            }
+                        }
+                    ],
+                    "start_date": "26/02/2021",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "10 March  The government of Papua New Guinea approves the use of the OxfordAstraZeneca vaccine. Prime Minister James Marape says that vaccination will not be compulsory and will initially be directed at health workers, people over 50 years of age and people with underlying health conditions.",
+                    "links": [
+                        {
+                            "link": "https://www.rnz.co.nz/international/pacific-news/438009/png-approves-astrazeneca-covid-19-vaccine",
+                            "text": "-\"PNG approves AstraZeneca Covid-19 vaccine\". RNZ. 2021-03-09. Retrieved 2022-09-21.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-09-21",
+                                "Created": "2021-03-09"
+                            }
+                        }
+                    ],
+                    "start_date": "10/03/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "20 March  Richard Mendani becomes the first incumbent member of the National Parliament to die from COVID-19.",
+                    "links": [
+                        {
+                            "link": "https://news.pngfacts.com/2021/03/png-member-of-parliament-dies-of-covid.html",
+                            "text": "-\"PNG Member of Parliament Dies of COVID-19\". Papua New Guinea Today (in Indonesian). Retrieved 2022-09-21.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-09-21",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "20/03/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "30 March  Papua New Guinea begins a vaccination campaign against COVID-19 using the OxfordAstraZeneca vaccine supplied from Australia. Prime Minister James Marape is the first person to receive a dose of the vaccine.",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/world/2021/mar/30/png-prime-minister-first-to-be-vaccinated-with-australian-supplied-doses-to-show-its-safe",
+                            "text": "-\"PNG prime minister first to be vaccinated with Australian-supplied doses 'to show it's safe'\". the Guardian. 2021-03-30. Retrieved 2022-09-21.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-09-21",
+                                "Created": "2021-03-30"
+                            }
+                        }
+                    ],
+                    "start_date": "30/03/2021",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "21 April  Papua New Guinea surpasses 10,000 cases of COVID-19.",
+                    "links": [
+                        {
+                            "link": "https://www.channelnewsasia.com/asia/papua-new-guinea-covid-19-infections-spread-beyond-capital-233501",
+                            "text": "-\"Papua New Guinea passes 10,000 infections as COVID-19 spreads beyond the capital\". CNA. Retrieved 2022-09-21.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-09-21",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "21/04/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "24 April  The official death toll from COVID-19 in Papua New Guinea surpasses 100.",
+                    "links": [],
+                    "start_date": "24/04/2021",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "June",
+            "Data": [
+                {
+                    "event_text": "18 June  Papua New Guinea receives 146,000 doses of the Oxford-AstraZeneca COVID-19 vaccine from New Zealand, facilitated through the COVAX initiative.",
+                    "links": [
+                        {
+                            "link": "https://www.rnz.co.nz/international/pacific-news/445020/png-receives-146-thousand-vaccine-doses-from-nz",
+                            "text": "-\"PNG receives 146-thousand vaccine doses from NZ\". RNZ. 2021-06-18. Retrieved 2022-09-21.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-09-21",
+                                "Created": "2021-06-18"
+                            }
+                        }
+                    ],
+                    "start_date": "18/06/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "15 July  Papua New Guinea reports its first case of the SARS-CoV-2 Delta variant in a 65-year-old Filipino who is the captain of a cargo ship which departed from Indonesia on  and arrived in the country almost two weeks later.",
+                    "links": [
+                        {
+                            "link": "https://www.sbs.com.au/news/article/papua-new-guinea-records-first-covid-19-case-of-highly-contagious-delta-variant/khpgnn93k",
+                            "text": "-\"Papua New Guinea records first COVID-19 case of highly contagious Delta variant\". SBS News. Retrieved 2022-09-21.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-09-21",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "26/06/2021",
+                    "end_date": "15/07/2021"
+                }
+            ]
+        },
+        {
+            "Month": "July",
+            "Data": [
+                {
+                    "event_text": "16 July  Authorities in Papua New Guinea urge people to get vaccinated as the first case of the SARS-CoV-2 Delta variant was confirmed yesterday in the Filipino captain of a ship which was docked in Port Moresby. Currently less than 1% of Papuans are vaccinated.",
+                    "links": [
+                        {
+                            "link": "https://www.rnz.co.nz/international/pacific-news/447015/delta-variant-confirmed-in-png",
+                            "text": "-\"Delta variant confirmed in PNG\". RNZ. 2021-07-16. Retrieved 2022-09-21.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-09-21",
+                                "Created": "2021-07-16"
+                            }
+                        }
+                    ],
+                    "start_date": "16/07/2021",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "August",
+            "Data": [
+                {
+                    "event_text": "11 August  The President of Bougainville Ishmael Toroama says that the region needs to take a holistic approach in order to gain full independence from Papua New Guinea. Toromoa pointed towards receiving international aid to build an economy for the region which overwhelmingly voted for independence in a referendum in 2019.",
+                    "links": [
+                        {
+                            "link": "https://www.rnz.co.nz/international/pacific-news/448945/bougainville-president-details-necessary-steps-to-independence",
+                            "text": "-\"Bougainville president details necessary steps to independence\". RNZ. 2021-08-11. Retrieved 2022-09-21.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-09-21",
+                                "Created": "2021-08-11"
+                            }
+                        }
+                    ],
+                    "start_date": "11/08/2021",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "September",
+            "Data": [
+                {
+                    "event_text": "23 September  Papua New Guinea announces a four-week lockdown in parts of the country including Eastern Highlands as the number of COVID-19 cases continue to increase, primarily due to the Delta variant. Prime Minister James Marape had anticipated the move before leaving the country to attend the United Nations General Assembly this week in New York City. The country also struggles with its vaccination campaign, as only 2% of the population has been vaccinated.",
+                    "links": [
+                        {
+                            "link": "https://www.rnz.co.nz/international/pacific-news/452111/png-to-announce-lockdown-in-several-provinces",
+                            "text": "-\"PNG to announce lockdown in several provinces\". RNZ. 2021-09-23. Retrieved 2022-09-21.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-09-21",
+                                "Created": "2021-09-23"
+                            }
+                        }
+                    ],
+                    "start_date": "23/09/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "27 September  2019 Bougainvillean independence referendum Bougainvilleans are consulted by president Ishmael Toroama as to where the capital of Bougainville should be located once the region achieves full independence from Papua New Guinea. Currently, the capital is Buka but this was always considered temporary due to the civil war. The strongest push is for Arawa to be designated as the capital.",
+                    "links": [
+                        {
+                            "link": "https://www.rnz.co.nz/international/pacific-news/452411/bougainvilleans-consulted-on-location-for-new-capital",
+                            "text": "-\"Bougainvilleans consulted on location for new capital\". RNZ. 2021-09-27. Retrieved 2022-09-21.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-09-21",
+                                "Created": "2021-09-27"
+                            }
+                        }
+                    ],
+                    "start_date": "27/09/2021",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "October",
+            "Data": [
+                {
+                    "event_text": "11 October  A two-week lockdown begins in Eastern Highlands Province as cases overwhelm hospitals and the number of deaths increases nationwide.",
+                    "links": [
+                        {
+                            "link": "https://www.rnz.co.nz/international/pacific-news/453331/png-s-covid-crisis-swamps-highlands-hospitals",
+                            "text": "-\"PNG's Covid crisis swamps Highlands hospitals\". RNZ. 2021-10-11. Retrieved 2022-09-21.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-09-21",
+                                "Created": "2021-10-11"
+                            }
+                        }
+                    ],
+                    "start_date": "11/10/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "13 October  Papuan health minister Jelta Wong says that the pandemic is pushing the health system to its limits and also admits to a slow response by the government, as only 2% of the population have been vaccinated. Peter Numu, the governor of Eastern Highlands Province, says that the situation in his province is \"scary\"",
+                    "links": [
+                        {
+                            "link": "https://www.rnz.co.nz/international/pacific-news/453464/pandemic-pushing-png-s-health-system-to-its-limit-health-minister",
+                            "text": "-\"Pandemic pushing PNG's health system to its limit, Health Minister\". RNZ. 2021-10-13. Retrieved 2022-09-21.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-09-21",
+                                "Created": "2021-10-13"
+                            }
+                        }
+                    ],
+                    "start_date": "13/10/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "15 October  The COVID-19 crisis worsens in Papua New Guinea, as the government seeks international help in order to combat the increase in new cases and deaths. The government has admitted to a slow response to the crisis and also blames vaccine hesitancy as part of the problem. The World Health Organization has agreed to help the country.",
+                    "links": [
+                        {
+                            "link": "https://www.rnz.co.nz/international/pacific-news/453627/png-desparately-needs-overseas-help-to-fight-covid-19",
+                            "text": "-\"PNG desperately needs overseas help to fight Covid-19\". RNZ. 2021-10-15. Retrieved 2022-09-21.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-09-21",
+                                "Created": "2021-10-15"
+                            }
+                        }
+                    ],
+                    "start_date": "15/10/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "25 October  Prime Minister James Marape pleads for Papua New Guineans to get vaccinated against COVID-19 as the situation, fueled by the Delta variant, worsens, with hospitals in Port Moresby and other cities operating at maximum capacity. Marape states that the death toll currently exceeds 300, but the actual total may be much higher.",
+                    "links": [
+                        {
+                            "link": "https://www.rnz.co.nz/international/pacific-news/454240/png-leader-pleas-for-people-to-get-vaccinated",
+                            "text": "-\"PNG leader pleas for people to get vaccinated\". RNZ. 2021-10-26. Retrieved 2022-09-21.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-09-21",
+                                "Created": "2021-10-26"
+                            }
+                        }
+                    ],
+                    "start_date": "25/10/2021",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "November",
+            "Data": [
+                {
+                    "event_text": "13 November  New Zealand sends doctors to Papua New Guinea, after Papua New Guinea formally requested international help to combat the worsening COVID-19 situation in the country.",
+                    "links": [
+                        {
+                            "link": "https://www.rnz.co.nz/international/pacific-news/455621/nz-sends-medical-team-to-png-as-covid-19-overwhelms-its-health-system",
+                            "text": "-\"NZ sends medical team to PNG as Covid-19 overwhelms its health system\". RNZ. 2021-11-13. Retrieved 2022-09-21.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-09-21",
+                                "Created": "2021-11-13"
+                            }
+                        }
+                    ],
+                    "start_date": "13/11/2021",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

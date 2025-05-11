@@ -1,0 +1,687 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "5 January  2020 Jawaharlal Nehru University attack",
+                    "links": [],
+                    "start_date": "05/01/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "11 January",
+                    "links": [],
+                    "start_date": "11/01/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "25 January - The 104th Constitutional Amendment which extends reservation for Scheduled Castes and Scheduled Tribes in Loksabha and Legislative assemblies came into effect. The amendment ends Anglo-Indian reserved seats in the Lok Sabha.",
+                    "links": [
+                        {
+                            "link": "https://indianexpress.com/article/explained/anglo-indian-quota-history-mps-6164232/",
+                            "text": "-\"Explained: Anglo-Indian quota, its history, MPs\". The Indian Express. 2 January 2020. Retrieved 16 January 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-01-16",
+                                "Created": "2020-01-02"
+                            }
+                        }
+                    ],
+                    "start_date": "25/01/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "27 January  Agreement signed between the Government of India, the Assam Government and the Bodo groups to redraw and rename the Bodoland Territorial Area District (BTAD) in Assam.",
+                    "links": [
+                        {
+                            "link": "https://www.thehindu.com/news/national/other-states/govt-signs-accord-with-ndfb-absu-to-resolve-bodo-issue/article30665589.ece",
+                            "text": "-\"Govt signs accord with NDFB, ABSU to resolve Bodo issue\".-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "27/01/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "30 January  The COVID-19 pandemic was confirmed to have spread to India on 30  from China. The 1st case of COVID-19 was spotted in Kerala, India.",
+                    "links": [],
+                    "start_date": "30/01/2020",
+                    "end_date": "30/01/2020"
+                },
+                {
+                    "event_text": "17 June  India wins a two-year seat on the United Nations Security Council to begin 1  during the 2020 Security Council Elections.",
+                    "links": [
+                        {
+                            "link": "https://news.un.org/en/story/2020/06/1066562",
+                            "text": "-\"Turkish diplomat elected President of historic 75th UN General Assembly\". UN News. 17 June 2020. Retrieved 18 June 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-06-18",
+                                "Created": "2020-06-17"
+                            }
+                        }
+                    ],
+                    "start_date": "01/01/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "8 February   Polling for the Delhi Legislative Assembly elections was held.",
+                    "links": [],
+                    "start_date": "08/02/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "11 February  2020 Delhi Legislative Assembly election's results announced with Aam Aadmi Party securing 62 of 70 seats to claim an absolute majority in the elections.",
+                    "links": [],
+                    "start_date": "11/02/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "23  29 February  At least 53 people were killed in communal riots in parts of Delhi.",
+                    "links": [
+                        {
+                            "link": "https://news.yahoo.com/india-counts-dead-brutality-hindu-080143514.html",
+                            "text": "-\"As India counts dead, brutality of Hindu-Muslim riot emerges by Sheikh Saaliq, Associated Press, February 29, 2020\".-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2020-02-29"
+                            }
+                        }
+                    ],
+                    "start_date": "29/02/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "24  25 February  U.S. President Donald Trump visited India for a two-day state visit, addressed a \"Namaste (Welcome) Trump\" event with Prime Minister Narendra Modi in Ahmedabad. Toured Mahatma Gandhi's Sabarmati Ashram and the Taj Mahal at Agra. Received a formal welcome from President Ram Nath Kovind at the Rashtrapati Bhavan Presidential Palace in New Delhi. Conducted a series of meetings with Prime minister Modi and other government officials, as well as Indian business executives.",
+                    "links": [
+                        {
+                            "link": "https://web.archive.org/web/20200224212449/https://time.com/5789588/donald-trump-india-visit-namaste/",
+                            "text": "-Colvin, Jill; Lemire, Jonathan (24 February 2020). \"India's Modi Says 'Namaste Trump' With Massive Rally for U.S. President\". Time. AP. Archived from the original on 24 February 2020. Retrieved 26 February 2020.-",
+                            "dates": {
+                                "Archieved": "2020-02-24",
+                                "Retrieved": "2020-02-26",
+                                "Created": "2020-02-24"
+                            }
+                        },
+                        {
+                            "link": "https://time.com/5789588/donald-trump-india-visit-namaste/",
+                            "text": "-Colvin, Jill; Lemire, Jonathan (24 February 2020). \"India's Modi Says 'Namaste Trump' With Massive Rally for U.S. President\". Time. AP. Archived from the original on 24 February 2020. Retrieved 26 February 2020.-",
+                            "dates": {
+                                "Archieved": "2020-02-24",
+                                "Retrieved": "2020-02-26",
+                                "Created": "2020-02-24"
+                            }
+                        },
+                        {
+                            "link": "https://www.usatoday.com/story/news/politics/2020/02/25/trump-india-doesnt-take-position-caa-citizenship-law/4865556002/",
+                            "text": "-Subramanian, Courtney (25 February 2020). \"Trump defends Modi but doesn't take position on controversial Indian citizenship law\". USA Today. Retrieved 26 February 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-02-26",
+                                "Created": "2020-02-25"
+                            }
+                        },
+                        {
+                            "link": "https://zeenews.india.com/india/fish-tikka-raan-alishaan-dum-gost-biryani-malpua-with-rabri-hazel-nut-apple-pie-us-president-donald-trumps-dinner-menu-at-rashtrapati-bhawan-2265910.html/amp",
+                            "text": "-\"Fish tikka, Raan Alishaan, Dum Gost Biryani, Malpua with Rabri, Hazel Nut Apple Pie: US President Donald Trump's dinner menu at Rashtrapati Bhawan\".-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "25/02/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "22 March  Janata Curfew India observed a 14-hour lockdown to prevent the spread of the COVID-19 pandemic.",
+                    "links": [],
+                    "start_date": "22/03/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "24 March  COVID-19 lockdown in India  Prime Minister, Narendra Modi announced a 21-day lockdown throughout India from midnight of 25 March to 14 April to prevent the spread of the COVID-19 pandemic.",
+                    "links": [],
+                    "start_date": "24/03/2020",
+                    "end_date": "25/03/2020"
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "4 April  An FIR was registered against an unknown person in Gujarat for placing an online advertisement to \"sell\" the Statue of Unity for ₹30,000 crore.",
+                    "links": [
+                        {
+                            "link": "https://www.livemint.com/news/india/fir-lodged-for-trying-to-sell-statue-of-unity-for-rs-30-000-cr-on-olx-11586103432389.html",
+                            "text": "-\"FIR lodged for trying to 'sell' Statue of Unity for ₹30,000 cr on OLX\".-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "04/04/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "16 April  2020 Palghar mob lynching.",
+                    "links": [],
+                    "start_date": "16/04/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "18 April  Seven IITs have announced plans to boycott the Times Higher Education World University Rankings this year ostensibly because they are not convinced \"about the parameters and transparency\" of the ranking agency's process, according to a joint statement issued by the directors of the IITs at Mumbai, Delhi, Guwahati, Kanpur, Kharagpur, Madras (Chennai) and Roorkee.",
+                    "links": [
+                        {
+                            "link": "https://www.livemint.com/education/news/seven-top-iits-boycott-the-world-university-rankings-11587051969147.html",
+                            "text": "-\"Seven top IITs boycott THE World University Rankings\".-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "18/04/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "May",
+            "Data": [
+                {
+                    "event_text": "5 May  Skirmishes began between India and China. Several Indian and Chinese soldiers are injured in a cross-border clash at the Nathu La crossing. About one hundred and fifty soldiers were involved in the face-off which included fistfights and stone-throwing.",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/world/2020/may/11/indian-and-chinese-soldiers-injured-in-cross-border-fistfight-says-delhi",
+                            "text": "-\"Indian and Chinese soldiers injured in cross-border fistfight, says Delhi\". The Guardian. Agence France-Press. 11 May 2020. ISSN 0261-3077. Retrieved 12 May 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-05-12",
+                                "Created": "2020-05-11"
+                            }
+                        },
+                        {
+                            "link": "https://search.worldcat.org/issn/0261-3077",
+                            "text": "-\"Indian and Chinese soldiers injured in cross-border fistfight, says Delhi\". The Guardian. Agence France-Press. 11 May 2020. ISSN 0261-3077. Retrieved 12 May 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-05-12",
+                                "Created": "2020-05-11"
+                            }
+                        }
+                    ],
+                    "start_date": "05/05/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "6 May  Wanted terrorist Riyaz Naikoo of the terror group Hizb-ul-Mujahideen, killed in a gun battle with Indian security forces.",
+                    "links": [],
+                    "start_date": "06/05/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "7 May  13 people were killed from a gas leak at a chemical plant in Visakhapatnam, Andhra Pradesh.",
+                    "links": [
+                        {
+                            "link": "https://weather.com/en-IN/india/news/news/2020-05-07-gas-leak-kills-injures-thousands-visakhapatnam-andhra-pradesh",
+                            "text": "-\"Gas Leak Kills 13, Injures Hundreds in Visakhapatnam, Andhra Pradesh\". weather.com. 7 May 2020. Retrieved 8 May 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-05-08",
+                                "Created": "2020-05-07"
+                            }
+                        }
+                    ],
+                    "start_date": "07/05/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "8 May - 16 migrant laborers who were returning to their villages by foot due to COVID-19 lockdown in India killed by a goods train near Karmad in Aurangabad district, Maharashtra.",
+                    "links": [],
+                    "start_date": "08/05/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "20 May  Cyclone Amphan hit the eastern part of India and lead to flood like situation in many South-eastern states.",
+                    "links": [],
+                    "start_date": "20/05/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "June",
+            "Data": [
+                {
+                    "event_text": "24 June  Cyclone Nisarga hit the western coast of India, causing damage in the state of Maharashtra.",
+                    "links": [],
+                    "start_date": "04/06/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "5 June- The President of India promulgates three ordinances related to agriculture, which would be later proposed as a bill and consequently passed as an act.",
+                    "links": [
+                        {
+                            "link": "https://timesofindia.indiatimes.com/india/president-promulgates-agri-ordinances-gives-legal-status-to-reforms/articleshow/76222213.cms",
+                            "text": "-Mohan, Vishwa (5 June 2020). \"President promulgates agri Ordinances, gives legal status to reforms\". The Times of India. Retrieved 6 December 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-12-06",
+                                "Created": "2020-06-05"
+                            }
+                        }
+                    ],
+                    "start_date": "05/06/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "14 June - Bollywood Star Sushant Singh Rajput found dead at his Bandra Residence in Mumbai.",
+                    "links": [],
+                    "start_date": "14/06/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "1516 June  20 personnel of the Indian army including a commanding officer, are killed in action in the ongoing Skirmishes between India and China at LAC in the Galwan Valley of Ladakh.",
+                    "links": [],
+                    "start_date": "16/06/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "25 June  Indian Railways suspends all passenger train service (except Rajdhani and Migrant Special Trains) until 12 August 2020.",
+                    "links": [],
+                    "start_date": "25/06/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "29 June  Indian Government bans 59 Chinese apps including TikTok, CamScanner, SHAREit and UC Browser due to the ongoing Sino-Indian Border tensions.",
+                    "links": [
+                        {
+                            "link": "https://www.thehindu.com/news/national/govt-bans-59-apps-including-tiktok-wechat/article31947445.ece",
+                            "text": "-Bhargava, Yuthika (30 June 2020). \"Government bans 59 apps including China-based TikTok, WeChat\". The Hindu. ISSN 0971-751X. Retrieved 18 February 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-02-18",
+                                "Created": "2020-06-30"
+                            }
+                        },
+                        {
+                            "link": "https://search.worldcat.org/issn/0971-751X",
+                            "text": "-Bhargava, Yuthika (30 June 2020). \"Government bans 59 apps including China-based TikTok, WeChat\". The Hindu. ISSN 0971-751X. Retrieved 18 February 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-02-18",
+                                "Created": "2020-06-30"
+                            }
+                        }
+                    ],
+                    "start_date": "29/06/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "14 September - Three Bills on agriculture reforms introduced in the Parliament to replace the ordinances issued during the lockdown on .",
+                    "links": [
+                        {
+                            "link": "https://www.thehindu.com/news/national/agriculture-reform-bills-introduced-amidst-opposition-farmers-protests/article32603927.ece",
+                            "text": "-\"Agriculture reform Bills introduced amidst Opposition, farmers' protests\". The Hindu. 14 September 2020. ISSN 0971-751X. Retrieved 6 December 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-12-06",
+                                "Created": "2020-09-14"
+                            }
+                        },
+                        {
+                            "link": "https://search.worldcat.org/issn/0971-751X",
+                            "text": "-\"Agriculture reform Bills introduced amidst Opposition, farmers' protests\". The Hindu. 14 September 2020. ISSN 0971-751X. Retrieved 6 December 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-12-06",
+                                "Created": "2020-09-14"
+                            }
+                        }
+                    ],
+                    "start_date": "05/06/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "July",
+            "Data": [
+                {
+                    "event_text": "3 July  8 Policemen of the Uttar Pradesh police are martyred in an encounter with the gang of the wanted criminal Vikas Dubey in Kanpur, Uttar Pradesh state.",
+                    "links": [],
+                    "start_date": "03/07/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "3 July  Prime Minister, Narendra Modi makes a visit to Nimu Post near the Indo-China border in Ladakh along with Army Chief Manoj Mukund Naravane and CDS Bipin Rawat amid ongoing India-China border tensions.",
+                    "links": [],
+                    "start_date": "03/07/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "5 July  CRPF convoy is attacked by terrorist which results in martyr of 1 CRPF soldier in Pulwama, Jammu and Kashmir.",
+                    "links": [],
+                    "start_date": "05/07/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "5 July  Earthquake of magnitude 4.7 on Richter scale hits Kargill in Ladakh.",
+                    "links": [],
+                    "start_date": "05/07/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "10 July  Wanted Criminal Vikas Dubey encountered.",
+                    "links": [],
+                    "start_date": "10/07/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "17 July  Number of confirmed cases of COVID-19 reach 1 million.",
+                    "links": [
+                        {
+                            "link": "https://timesofindia.indiatimes.com/india/coronavirus-india-becomes-third-country-to-cross-1-million-covid-19-cases/articleshow/77013762.cms",
+                            "text": "-\"India Corona Cases: India becomes third country to cross 1-million Covid-19 cases\". The Times of India. 17 July 2020. Retrieved 19 July 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-07-19",
+                                "Created": "2020-07-17"
+                            }
+                        }
+                    ],
+                    "start_date": "17/07/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "18 July  2020 Amshipora murders. Indian military personnel were responsible for the killing of three Kashmiri laborers, after claiming they were terrorists.",
+                    "links": [],
+                    "start_date": "18/07/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "21 July  ongoing  Floods in Brahmaputra River in the state of Assam.",
+                    "links": [],
+                    "start_date": "21/07/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "29 July  National Education Policy 2020 (NEP 2020), a new policy on education in India approved by the Union Cabinet.",
+                    "links": [],
+                    "start_date": "29/07/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "29 July  2020 Punjab alcohol poisoning. At least 121 people died after drinking toxic, illegally-made alcohol in Punjab.",
+                    "links": [],
+                    "start_date": "29/07/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "August",
+            "Data": [
+                {
+                    "event_text": "5 August  Prime Minister, Narendra Modi performed Bhoomi Pujan and laid the foundation stone of the Ram Temple at Ayodhya.",
+                    "links": [],
+                    "start_date": "05/08/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "15 August  MS Dhoni announced his retirement from international cricket.",
+                    "links": [
+                        {
+                            "link": "https://www.icc-cricket.com/news/1281004#:~:text=Former%20India%20captain%20Mahendra%20Singh,his%20retirement%20from%20international%20cricket.&text=The%20BCCI%20later%20confirmed%20in,to%20feature%20in%20the%20IPL.",
+                            "text": "-\"MS Dhoni retires from all international cricket\". International Cricket Council. 15 August 2020. Retrieved 16 November 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-11-16",
+                                "Created": "2020-08-15"
+                            }
+                        },
+                        {
+                            "link": "https://www.espncricinfo.com/story/_/id/29667008/ms-dhoni-retirement-sachin-tendulkar-leads-tributes-",
+                            "text": "-\"MS Dhoni retirement: Tributes pour in on social media\". ESPNCricinfo. Retrieved 15 August 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-08-15",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://www.hindustantimes.com/cricket/ms-dhoni-announces-retirement-from-international-cricket/story-vlFfrbT21FWo9RZUZlzh9K.html",
+                            "text": "-\"MS Dhoni announces retirement from international cricket\". Hindustan Times. 15 August 2020. Retrieved 25 October 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-10-25",
+                                "Created": "2020-08-15"
+                            }
+                        }
+                    ],
+                    "start_date": "15/08/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "20 August  A major fire broke out in an underground hydroelectric power plant in Srisailam in the state of Telangana killing 9 people.",
+                    "links": [
+                        {
+                            "link": "https://timesofindia.indiatimes.com/city/hyderabad/telangana-9-dead-in-srisailam-power-plant-fire-mishap/articleshow/77675557.cms",
+                            "text": "-Ali, Roushan (21 August 2020). \"Srisailam Power Plant Fire Accident: 9 dead in Srisailam power plant fire mishap\". The Times of India. Retrieved 21 August 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-08-21",
+                                "Created": "2020-08-21"
+                            }
+                        },
+                        {
+                            "link": "https://www.bbc.com/news/world-asia-india-53861457",
+                            "text": "-\"India power plant fire: Nine reported dead in major blaze in Telangana\". BBC News. 21 August 2020. Retrieved 21 August 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-08-21",
+                                "Created": "2020-08-21"
+                            }
+                        }
+                    ],
+                    "start_date": "20/08/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "31 August - National Statistical Office releases data for the first quarter of Financial Year 20202021, with GDP in the given period contracting by 23.9% due to the COVID-19 pandemic lockdown in India.",
+                    "links": [
+                        {
+                            "link": "https://www.thehindu.com/business/Economy/indias-gdp-contracts-by-record-239-in-q1/article32489345.ece",
+                            "text": "-Jebaraj, Priscilla (31 August 2020). \"GDP contracts by record 23.9% in Q1\". The Hindu. ISSN 0971-751X. Retrieved 7 September 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-09-07",
+                                "Created": "2020-08-31"
+                            }
+                        },
+                        {
+                            "link": "https://search.worldcat.org/issn/0971-751X",
+                            "text": "-Jebaraj, Priscilla (31 August 2020). \"GDP contracts by record 23.9% in Q1\". The Hindu. ISSN 0971-751X. Retrieved 7 September 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-09-07",
+                                "Created": "2020-08-31"
+                            }
+                        }
+                    ],
+                    "start_date": "31/08/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "September",
+            "Data": [
+                {
+                    "event_text": "3 September  118 Chinese apps including PUBG Video Game app banned.",
+                    "links": [
+                        {
+                            "link": "https://www.ndtv.com/india-news/pubg-mobile-among-118-additional-chinese-apps-banned-by-government-2289337?amp=1&akamai-rum=off",
+                            "text": "-\"PUBG Video Game App Among 118 New Chinese Apps Banned\".-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "03/09/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "8 September - Narendra Modi inaugurates Rajasthan Patrika sponsored Patrika Gate circular park in Jaipur. Patrika Gate is the largest circular park on a traffic signal in Asia.",
+                    "links": [
+                        {
+                            "link": "https://timesofindia.indiatimes.com/india/pm-modi-inaugurates-patrika-gate-in-jaipur-key-points/articleshow/77991936.cms",
+                            "text": "-\"PM Modi inaugurates Patrika Gate in Jaipur: Key points\". The Times of India. 8 September 2020. Retrieved 18 January 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-01-18",
+                                "Created": "2020-09-08"
+                            }
+                        }
+                    ],
+                    "start_date": "08/09/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "11 September  Retired Navy officer Madan Sharma beaten up for forwarding cartoon on Uddhav Thackeray; four arrested.",
+                    "links": [
+                        {
+                            "link": "https://www.firstpost.com/india/retired-navy-officer-in-mumbai-beaten-up-for-forwarding-cartoon-on-uddhav-thackeray-four-arrested-8809331.html/amp",
+                            "text": "-\"Retired Navy officer in Mumbai beaten up for forwarding cartoon on Uddhav Thackeray; four arrested\".-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "11/09/2020",
+                    "end_date": null
+                },
+                {
+                    "event_text": "30 September - The court acquitted all the 32 accused  of the Demolition of the Babri Masjid including L. K. Advani, Murli Manohar Joshi, Uma Bharti, Vinay Katiyar and several others in the case on account of inconclusive evidence. The special court judge said \"\"The demolition was not pre-planned.\"",
+                    "links": [
+                        {
+                            "link": "https://www.timesnownews.com/india/article/babri-masjid-demolition-case-verdict-news-lk-advani-murli-manohar-joshi/660053",
+                            "text": "-\"Babri Masjid verdict: Court acquits LK Advani, Kalyan Singh, says no evidence that accused planned demolition\". www.timesnownews.com. Retrieved 30 September 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-09-30",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://www.businessinsider.in/india/news/babri-masjid-demolition-case-cbi-special-court-acquits-all-accused-judge-says-demolition-was-not-pre-planned/articleshow/78401534.cms",
+                            "text": "-\"Babri Masjid demolition case: CBI Special Court acquits all accused, judge says 'demolition was not pre-planned'\". Business Insider. Retrieved 30 September 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-09-30",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://www.aljazeera.com/news/2020/9/30/indian-court-acquits-all-accused-in-babri-mosque-demolition-case",
+                            "text": "-\"Babri mosque demolition case: India's BJP leaders acquitted\". Aljazeera. 30 September 2020. Retrieved 19 May 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-05-19",
+                                "Created": "2020-09-30"
+                            }
+                        }
+                    ],
+                    "start_date": "30/09/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "November",
+            "Data": [
+                {
+                    "event_text": "24 Nov  - The Uttar Pradesh state cabinet cleared the ordinance of the Uttar Pradesh Prohibition of Unlawful Religious Conversion Ordinance on 24  following which it was approved and signed by state Governor Anandiben Patel on 28 .",
+                    "links": [
+                        {
+                            "link": "https://www.thehindu.com/news/national/uttar-pradesh-cabinet-clears-ordinance-against-love-jihad/article33170627.ece",
+                            "text": "-\"Jail term, fine for 'illegal' conversions in Uttar Pradesh\". The Hindu. 24 November 2020. ISSN 0971-751X. Retrieved 25 November 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-11-25",
+                                "Created": "2020-11-24"
+                            }
+                        },
+                        {
+                            "link": "https://search.worldcat.org/issn/0971-751X",
+                            "text": "-\"Jail term, fine for 'illegal' conversions in Uttar Pradesh\". The Hindu. 24 November 2020. ISSN 0971-751X. Retrieved 25 November 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-11-25",
+                                "Created": "2020-11-24"
+                            }
+                        },
+                        {
+                            "link": "https://www.livemint.com/news/india/up-governor-anandiben-patel-gives-assent-to-ordinance-on-unlawful-conversion-11606545320071.html",
+                            "text": "-\"UP Governor Anandiben Patel gives assent to ordinance on 'unlawful conversion'\". mint. 28 November 2020. Retrieved 1 December 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-12-01",
+                                "Created": "2020-11-28"
+                            }
+                        }
+                    ],
+                    "start_date": "24/11/2020",
+                    "end_date": "28/11/2020"
+                }
+            ]
+        },
+        {
+            "Month": "December",
+            "Data": [
+                {
+                    "event_text": "5 December  - An idiopathic disease broke out in Eluru, Andhra Pradesh. On 20 December, AIIMS and NEERI Research Institute came to a conclusion that pesticides leaching into the water supply is the most likely reason.",
+                    "links": [
+                        {
+                            "link": "https://www.ndtv.com/andhra-pradesh-news/1-dead-292-taken-ill-in-andhra-pradeshs-eluru-due-to-mysterious-disease-2335128",
+                            "text": "-\"1 Dead, 292 Fall Sick In Andhra Pradesh Due To Mysterious Disease\". NDTV.com. Retrieved 7 December 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-12-07",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "05/12/2020",
+                    "end_date": "20/12/2020"
+                }
+            ]
+        }
+    ]
+}

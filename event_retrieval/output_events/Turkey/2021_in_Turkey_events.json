@@ -1,0 +1,981 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "The minister of health, Fahrettin Koca, announces the identification of the first mutated coronavirus case in Turkey, which had originated from the United Kingdom.",
+                    "links": [
+                        {
+                            "link": "https://www.sozcu.com.tr/2021/dunya/listeye-turkiye-de-eklendi-mutasyon-33-ulkeye-yayildi-6194144/",
+                            "text": "-\"Listeye Türkiye de eklendi\". Sözcü. 2 January 2021. Archived from the original on 2 January 2021.-",
+                            "dates": {
+                                "Archieved": "2021-01-02",
+                                "Retrieved": null,
+                                "Created": "2021-01-02"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20210102122053/https://www.sozcu.com.tr/2021/dunya/listeye-turkiye-de-eklendi-mutasyon-33-ulkeye-yayildi-6194144/",
+                            "text": "-\"Listeye Türkiye de eklendi\". Sözcü. 2 January 2021. Archived from the original on 2 January 2021.-",
+                            "dates": {
+                                "Archieved": "2021-01-02",
+                                "Retrieved": null,
+                                "Created": "2021-01-02"
+                            }
+                        }
+                    ],
+                    "start_date": "01/01/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The over-the-top media service Exxen is made available to the public.",
+                    "links": [
+                        {
+                            "link": "https://www.ntv.com.tr/galeri/yasam/acun-ilicalinin-platformu-exxende-neler-olacak,nHcQrp5BIEqzcOguS0rjtA",
+                            "text": "-\"Acun Ilıcalı'nın platformu Exxen'de neler olacak?\". NTV (in Turkish). 9 October 2020. Archived from the original on 11 October 2020. Retrieved 4 January 2021.-",
+                            "dates": {
+                                "Archieved": "2020-10-11",
+                                "Retrieved": "2021-01-04",
+                                "Created": "2020-10-09"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20201011145029/https://www.ntv.com.tr/galeri/yasam/acun-ilicalinin-platformu-exxende-neler-olacak,nHcQrp5BIEqzcOguS0rjtA",
+                            "text": "-\"Acun Ilıcalı'nın platformu Exxen'de neler olacak?\". NTV (in Turkish). 9 October 2020. Archived from the original on 11 October 2020. Retrieved 4 January 2021.-",
+                            "dates": {
+                                "Archieved": "2020-10-11",
+                                "Retrieved": "2021-01-04",
+                                "Created": "2020-10-09"
+                            }
+                        },
+                        {
+                            "link": "https://webrazzi.com/2020/10/09/acun-ilicali-nin-dijital-yayin-platformu-exxen-de-hangi-icerikler-olacak-ozel-haber/",
+                            "text": "-Ulukan, Gözde (9 October 2020). \"Acun Ilıcalı'nın dijital yayın platformu Exxen'de hangi içerikler olacak? [Özel Haber]\". Webrazzi (in Turkish). Archived from the original on 11 October 2020. Retrieved 4 January 2020.-",
+                            "dates": {
+                                "Archieved": "2020-10-11",
+                                "Retrieved": "2020-01-04",
+                                "Created": "2020-10-09"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20201011145037/https://webrazzi.com/2020/10/09/acun-ilicali-nin-dijital-yayin-platformu-exxen-de-hangi-icerikler-olacak-ozel-haber/",
+                            "text": "-Ulukan, Gözde (9 October 2020). \"Acun Ilıcalı'nın dijital yayın platformu Exxen'de hangi içerikler olacak? [Özel Haber]\". Webrazzi (in Turkish). Archived from the original on 11 October 2020. Retrieved 4 January 2020.-",
+                            "dates": {
+                                "Archieved": "2020-10-11",
+                                "Retrieved": "2020-01-04",
+                                "Created": "2020-10-09"
+                            }
+                        },
+                        {
+                            "link": "https://t24.com.tr/foto-haber/acun-ilicali-nin-platformu-exxen-de-yer-alacak-icerikler,10082",
+                            "text": "-\"Acun Ilıcalı'nın platformu Exxen'de yer alacak içerikler - Fotoğraf Galerisi\". T24 (in Turkish). 9 October 2020. Archived from the original on 11 October 2020. Retrieved 4 January 2021.-",
+                            "dates": {
+                                "Archieved": "2020-10-11",
+                                "Retrieved": "2021-01-04",
+                                "Created": "2020-10-09"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20201011145045/https://t24.com.tr/foto-haber/acun-ilicali-nin-platformu-exxen-de-yer-alacak-icerikler,10082",
+                            "text": "-\"Acun Ilıcalı'nın platformu Exxen'de yer alacak içerikler - Fotoğraf Galerisi\". T24 (in Turkish). 9 October 2020. Archived from the original on 11 October 2020. Retrieved 4 January 2021.-",
+                            "dates": {
+                                "Archieved": "2020-10-11",
+                                "Retrieved": "2021-01-04",
+                                "Created": "2020-10-09"
+                            }
+                        }
+                    ],
+                    "start_date": "01/01/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "4 January 2021 Boğaziçi University protests - Students protest Melih Bulu's appointment as the rector of Boğaziçi University.",
+                    "links": [
+                        {
+                            "link": "https://m.haberturk.com/bogazici-universitesi-rektoru-melih-bulu-protesto-edildi-2925913",
+                            "text": "-\"Boğaziçi Üniversitesi rektörü Melih Bulu protesto edildi\". Archived from the original on 8 January 2021.-",
+                            "dates": {
+                                "Archieved": "2021-01-08",
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20210108110735/https://m.haberturk.com/bogazici-universitesi-rektoru-melih-bulu-protesto-edildi-2925913",
+                            "text": "-\"Boğaziçi Üniversitesi rektörü Melih Bulu protesto edildi\". Archived from the original on 8 January 2021.-",
+                            "dates": {
+                                "Archieved": "2021-01-08",
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "04/01/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "8 January Türksat 5A satellite is launched at 0215:00 UTC from Cape Canaveral (CCSFS), SLC-40.",
+                    "links": [
+                        {
+                            "link": "https://www.sabah.com.tr/gundem/2021/01/08/son-dakika-haberler-tarihi-anlar-turksat-5a-uydusu-firlatildi-turkiyenin-yeni-nesil-turksat-5a-uydusu-uzayda",
+                            "text": "-\"SON DAKİKA HABERLER: Tarihi anlar! Türksat 5A uydusu fırlatıldı! Türkiye'nin yeni nesil Türksat 5A uydusu uzayda!\". Sabah. 8 January 2021. Archived from the original on 8 January 2021. Retrieved 17 January 2021.-",
+                            "dates": {
+                                "Archieved": "2021-01-08",
+                                "Retrieved": "2021-01-17",
+                                "Created": "2021-01-08"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20210108082250/https://www.sabah.com.tr/gundem/2021/01/08/son-dakika-haberler-tarihi-anlar-turksat-5a-uydusu-firlatildi-turkiyenin-yeni-nesil-turksat-5a-uydusu-uzayda",
+                            "text": "-\"SON DAKİKA HABERLER: Tarihi anlar! Türksat 5A uydusu fırlatıldı! Türkiye'nin yeni nesil Türksat 5A uydusu uzayda!\". Sabah. 8 January 2021. Archived from the original on 8 January 2021. Retrieved 17 January 2021.-",
+                            "dates": {
+                                "Archieved": "2021-01-08",
+                                "Retrieved": "2021-01-17",
+                                "Created": "2021-01-08"
+                            }
+                        }
+                    ],
+                    "start_date": "08/01/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "10 January An earthquake with a moment magnitude of 4.5 hits Ankara's Kalecik district at 1053 pm local time.",
+                    "links": [
+                        {
+                            "link": "https://deprem.afad.gov.tr/depremdetay",
+                            "text": "-https://deprem.afad.gov.tr/depremdetay eventID=493220-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "10/01/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "13 January The Medicines and Medical Devices Agency approves the Sinovac COVID-19 vaccine for emergency use. The minister of health was the first person to get vaccinated.",
+                    "links": [
+                        {
+                            "link": "https://www.cnnturk.com/turkiye/son-dakika-haberi-saglik-bakani-fahrettin-koca-asi-oldu",
+                            "text": "-\"Fahrettin Koca aşı oldu\". 13 January 2021. Archived from the original on 13 January 2021.-",
+                            "dates": {
+                                "Archieved": "2021-01-13",
+                                "Retrieved": null,
+                                "Created": "2021-01-13"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20210113163151/https://www.cnnturk.com/turkiye/son-dakika-haberi-saglik-bakani-fahrettin-koca-asi-oldu",
+                            "text": "-\"Fahrettin Koca aşı oldu\". 13 January 2021. Archived from the original on 13 January 2021.-",
+                            "dates": {
+                                "Archieved": "2021-01-13",
+                                "Retrieved": null,
+                                "Created": "2021-01-13"
+                            }
+                        }
+                    ],
+                    "start_date": "13/01/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "14 January President Recep Tayyip Erdoğan receives the COVID-19 vaccine.",
+                    "links": [
+                        {
+                            "link": "https://www.ntv.com.tr/turkiye/son-dakika-haberi-cumhurbaskani-erdogan-asioldu,yq7sSeJJzkK7XSeEqSyvwQ",
+                            "text": "-\"Cumhurbaşkanı Recep Tayyip Erdoğan aşı oldu\". Archived from the original on 14 January 2021.-",
+                            "dates": {
+                                "Archieved": "2021-01-14",
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20210114155801/https://www.ntv.com.tr/turkiye/son-dakika-haberi-cumhurbaskani-erdogan-asioldu,yq7sSeJJzkK7XSeEqSyvwQ",
+                            "text": "-\"Cumhurbaşkanı Recep Tayyip Erdoğan aşı oldu\". Archived from the original on 14 January 2021.-",
+                            "dates": {
+                                "Archieved": "2021-01-14",
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://covid19asi.saglik.gov.tr/",
+                            "text": "-\"Covid19 Aşısı Bilgilendirme Platformu\". Archived from the original on 13 January 2021.-",
+                            "dates": {
+                                "Archieved": "2021-01-13",
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20210113202844/https://covid19asi.saglik.gov.tr/",
+                            "text": "-\"Covid19 Aşısı Bilgilendirme Platformu\". Archived from the original on 13 January 2021.-",
+                            "dates": {
+                                "Archieved": "2021-01-13",
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "14/01/2021",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "9 February Recep Tayyip Erdoğan announces the National Space Program.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/turkce/haberler-turkiye-55947267",
+                            "text": "-\"Uzay Ajansı: Erdoğan'ın '2023'te Ay'a gidiyoruz' sözleriyle duyurduğu Milli Uzay Programı'nda neler var?\". BBC Türkçe. Archived from the original on 9 February 2021. Retrieved 10 February 2021.-",
+                            "dates": {
+                                "Archieved": "2021-02-09",
+                                "Retrieved": "2021-02-10",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20210209205207/https://www.bbc.com/turkce/haberler-turkiye-55947267",
+                            "text": "-\"Uzay Ajansı: Erdoğan'ın '2023'te Ay'a gidiyoruz' sözleriyle duyurduğu Milli Uzay Programı'nda neler var?\". BBC Türkçe. Archived from the original on 9 February 2021. Retrieved 10 February 2021.-",
+                            "dates": {
+                                "Archieved": "2021-02-09",
+                                "Retrieved": "2021-02-10",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "09/02/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "1014 February The Turkish cross-border Operation Claw-Eagle 2 takes place in Iraq, during which 13 prisoners of the Kurdistan Workers' Party (PKK) died.",
+                    "links": [
+                        {
+                            "link": "https://thearabweekly.com/turkish-operation-rescue-intelligence-operatives-iraq-ends-catastrophic-failure",
+                            "text": "-\"Turkish operation to rescue intelligence operatives in Iraq ends in catastrophic failure |\". AW. Archived from the original on 15 February 2021. Retrieved 23 February 2021.-",
+                            "dates": {
+                                "Archieved": "2021-02-15",
+                                "Retrieved": "2021-02-23",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20210215115416/https://thearabweekly.com/turkish-operation-rescue-intelligence-operatives-iraq-ends-catastrophic-failure",
+                            "text": "-\"Turkish operation to rescue intelligence operatives in Iraq ends in catastrophic failure |\". AW. Archived from the original on 15 February 2021. Retrieved 23 February 2021.-",
+                            "dates": {
+                                "Archieved": "2021-02-15",
+                                "Retrieved": "2021-02-23",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://www.hurriyetdailynews.com/top-turkish-us-diplomats-discuss-bilateral-relations-162442",
+                            "text": "-\"US holds PKK responsible for Gara massacre - Türkiye News\". Hürriyet Daily News. 16 February 2021. Archived from the original on 16 February 2021. Retrieved 23 February 2021.-",
+                            "dates": {
+                                "Archieved": "2021-02-16",
+                                "Retrieved": "2021-02-23",
+                                "Created": "2021-02-16"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20210216084038/https://www.hurriyetdailynews.com/top-turkish-us-diplomats-discuss-bilateral-relations-162442",
+                            "text": "-\"US holds PKK responsible for Gara massacre - Türkiye News\". Hürriyet Daily News. 16 February 2021. Archived from the original on 16 February 2021. Retrieved 23 February 2021.-",
+                            "dates": {
+                                "Archieved": "2021-02-16",
+                                "Retrieved": "2021-02-23",
+                                "Created": "2021-02-16"
+                            }
+                        },
+                        {
+                            "link": "https://www.ntv.com.tr/turkiye/chp-genel-baskani-kilicdaroglundan-gara-katliami-tepkisi,rDiKSOdq6EezbaonpLSaRw",
+                            "text": "-\"CHP Genel Başkanı Kılıçdaroğlu'ndan Gara katliamı tepkisi\". NTV. Archived from the original on 16 February 2021. Retrieved 23 February 2021.-",
+                            "dates": {
+                                "Archieved": "2021-02-16",
+                                "Retrieved": "2021-02-23",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20210216125358/https://www.ntv.com.tr/turkiye/chp-genel-baskani-kilicdaroglundan-gara-katliami-tepkisi,rDiKSOdq6EezbaonpLSaRw",
+                            "text": "-\"CHP Genel Başkanı Kılıçdaroğlu'ndan Gara katliamı tepkisi\". NTV. Archived from the original on 16 February 2021. Retrieved 23 February 2021.-",
+                            "dates": {
+                                "Archieved": "2021-02-16",
+                                "Retrieved": "2021-02-23",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "14/02/2021",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "1 March Normalization and easing of COVID restrictions starts gradually in provinces, divided into 4 categories according to the risk assessment criteria.",
+                    "links": [
+                        {
+                            "link": "https://www.sozcu.com.tr/2021/gundem/son-dakika-iste-normallesmenin-basladigi-iller-saglik-bakanligi-acikladi-6289320/",
+                            "text": "-\"Sağlık Bakanlığı risk haritasını açıkladı: İşte normalleşmenin başladığı iller!\". www.sozcu.com.tr. 3 January 2021. Archived from the original on 1 March 2021. Retrieved 13 March 2021.-",
+                            "dates": {
+                                "Archieved": "2021-03-01",
+                                "Retrieved": "2021-03-13",
+                                "Created": "2021-01-03"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20210301174406/https://www.sozcu.com.tr/2021/gundem/son-dakika-iste-normallesmenin-basladigi-iller-saglik-bakanligi-acikladi-6289320/",
+                            "text": "-\"Sağlık Bakanlığı risk haritasını açıkladı: İşte normalleşmenin başladığı iller!\". www.sozcu.com.tr. 3 January 2021. Archived from the original on 1 March 2021. Retrieved 13 March 2021.-",
+                            "dates": {
+                                "Archieved": "2021-03-01",
+                                "Retrieved": "2021-03-13",
+                                "Created": "2021-01-03"
+                            }
+                        }
+                    ],
+                    "start_date": "01/03/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "2 March Erdoğan announces the Human Rights Action Plan.",
+                    "links": [
+                        {
+                            "link": "https://www.sozcu.com.tr/2021/gundem/son-dakika-cumhurbaskani-erdogan-insan-haklari-eylem-planini-acikladi-6290759/",
+                            "text": "-\"Cumhurbaşkanı Erdoğan İnsan Hakları Eylem Planı'nı açıkladı\". www.sozcu.com.tr. 2 March 2021. Archived from the original on 2 March 2021. Retrieved 13 March 2021.-",
+                            "dates": {
+                                "Archieved": "2021-03-02",
+                                "Retrieved": "2021-03-13",
+                                "Created": "2021-03-02"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20210302113443/https://www.sozcu.com.tr/2021/gundem/son-dakika-cumhurbaskani-erdogan-insan-haklari-eylem-planini-acikladi-6290759/",
+                            "text": "-\"Cumhurbaşkanı Erdoğan İnsan Hakları Eylem Planı'nı açıkladı\". www.sozcu.com.tr. 2 March 2021. Archived from the original on 2 March 2021. Retrieved 13 March 2021.-",
+                            "dates": {
+                                "Archieved": "2021-03-02",
+                                "Retrieved": "2021-03-13",
+                                "Created": "2021-03-02"
+                            }
+                        }
+                    ],
+                    "start_date": "02/03/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "4 March A Eurocopter AS532 Cougar crashes on its way from Bingöl to Tatvan. Eleven soldiers on board, as well as 8th Corps Commander Osman Erbaş, are killed in the crash.",
+                    "links": [
+                        {
+                            "link": "https://www.aa.com.tr/tr/turkiye/bingolden-kalkan-askeri-helikopter-kaza-kirima-ugradi-11-sehit/2164935",
+                            "text": "-\"11 şehidin acı haberi ailelerine ulaştırıldı\". www.aa.com.tr. Archived from the original on 4 March 2021. Retrieved 13 March 2021.-",
+                            "dates": {
+                                "Archieved": "2021-03-04",
+                                "Retrieved": "2021-03-13",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20210304204116/https://www.aa.com.tr/tr/turkiye/bingolden-kalkan-askeri-helikopter-kaza-kirima-ugradi-11-sehit/2164935",
+                            "text": "-\"11 şehidin acı haberi ailelerine ulaştırıldı\". www.aa.com.tr. Archived from the original on 4 March 2021. Retrieved 13 March 2021.-",
+                            "dates": {
+                                "Archieved": "2021-03-04",
+                                "Retrieved": "2021-03-13",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "04/03/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "10 March The foundation of the 3rd reactor is laid at the Akkuyu Nuclear Power Plant at the virtual ceremony attended by Erdoğan and Russian President Vladimir Putin.",
+                    "links": [
+                        {
+                            "link": "https://www.bloomberght.com/akkuyuda-3-unitenin-temeli-atiliyor-2276155",
+                            "text": "-\"Akkuyu'da 3. ünitenin temeli atıldı\". BloombergHT. 10 March 2021. Archived from the original on 27 September 2021. Retrieved 26 August 2022.-",
+                            "dates": {
+                                "Archieved": "2021-09-27",
+                                "Retrieved": "2022-08-26",
+                                "Created": "2021-03-10"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20210927214449/https://www.bloomberght.com/akkuyuda-3-unitenin-temeli-atiliyor-2276155",
+                            "text": "-\"Akkuyu'da 3. ünitenin temeli atıldı\". BloombergHT. 10 March 2021. Archived from the original on 27 September 2021. Retrieved 26 August 2022.-",
+                            "dates": {
+                                "Archieved": "2021-09-27",
+                                "Retrieved": "2022-08-26",
+                                "Created": "2021-03-10"
+                            }
+                        }
+                    ],
+                    "start_date": "10/03/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "12 March Erdoğan announces the Economic Reform package.",
+                    "links": [
+                        {
+                            "link": "https://mobile.twitter.com/RTErdogan/timelines/1370372175937609731",
+                            "text": "-\"Ekonomi Reformları\". Archived from the original on 12 March 2021. Retrieved 13 March 2021.-",
+                            "dates": {
+                                "Archieved": "2021-03-12",
+                                "Retrieved": "2021-03-13",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20210312141052/https://mobile.twitter.com/RTErdogan/timelines/1370372175937609731",
+                            "text": "-\"Ekonomi Reformları\". Archived from the original on 12 March 2021. Retrieved 13 March 2021.-",
+                            "dates": {
+                                "Archieved": "2021-03-12",
+                                "Retrieved": "2021-03-13",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://www.bloomberght.com/ekonomi-reform-paketi-aciklandi-2276350",
+                            "text": "-\"Ekonomi reform paketi açıklandı\". BloombergHT. 17 March 2021. Archived from the original on 14 April 2022. Retrieved 26 August 2022.-",
+                            "dates": {
+                                "Archieved": "2022-04-14",
+                                "Retrieved": "2022-08-26",
+                                "Created": "2021-03-17"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20220414123515/https://www.bloomberght.com/ekonomi-reform-paketi-aciklandi-2276350",
+                            "text": "-\"Ekonomi reform paketi açıklandı\". BloombergHT. 17 March 2021. Archived from the original on 14 April 2022. Retrieved 26 August 2022.-",
+                            "dates": {
+                                "Archieved": "2022-04-14",
+                                "Retrieved": "2022-08-26",
+                                "Created": "2021-03-17"
+                            }
+                        }
+                    ],
+                    "start_date": "12/03/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "20 March Erdoğan announces his country's withdrawal from the Istanbul Convention by a presidential decree published in the official government gazette. Turkey becomes the first country to withdraw from it.",
+                    "links": [
+                        {
+                            "link": "https://www.resmigazete.gov.tr/eskiler/2021/03/20210320-49.pdf",
+                            "text": "-\"Official Gazette of Turkey\" (PDF). Archived (PDF) from the original on 31 March 2021. Retrieved 20 March 2021.-",
+                            "dates": {
+                                "Archieved": "2021-03-31",
+                                "Retrieved": "2021-03-20",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20210331002235/https://www.resmigazete.gov.tr/eskiler/2021/03/20210320-49.pdf",
+                            "text": "-\"Official Gazette of Turkey\" (PDF). Archived (PDF) from the original on 31 March 2021. Retrieved 20 March 2021.-",
+                            "dates": {
+                                "Archieved": "2021-03-31",
+                                "Retrieved": "2021-03-20",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "20/03/2021",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "4 April A statement is issued by 104 admirals who retired from the Turkish Naval Forces, to warn about potential failure by the government to follow and obey the Montreux Convention, the Istanbul Canal project and Atatürk's principles and reforms.",
+                    "links": [
+                        {
+                            "link": "https://web.archive.org/web/20210403223043/https://www.cumhuriyet.com.tr/haber/103-amiralden-montro-ve-ataturk-devrimleri-bildirisi-1825515",
+                            "text": "-\"103 emekli amiralden Montrö ve Atatürk devrimleri bildirisi\". Cumhuriyet. 3 April 2021. Archived from the original on 3 April 2021.-",
+                            "dates": {
+                                "Archieved": "2021-04-03",
+                                "Retrieved": null,
+                                "Created": "2021-04-03"
+                            }
+                        },
+                        {
+                            "link": "https://www.cumhuriyet.com.tr/haber/103-amiralden-montro-ve-ataturk-devrimleri-bildirisi-1825515",
+                            "text": "-\"103 emekli amiralden Montrö ve Atatürk devrimleri bildirisi\". Cumhuriyet. 3 April 2021. Archived from the original on 3 April 2021.-",
+                            "dates": {
+                                "Archieved": "2021-04-03",
+                                "Retrieved": null,
+                                "Created": "2021-04-03"
+                            }
+                        },
+                        {
+                            "link": "https://www.evrensel.net/haber/429765/emekli-askerlerin-bildirisi-darbe-tartismasina-donustu-sorusturma-baslatildi",
+                            "text": "-\"Emekli askerlerin bildirisi darbe tartışmasına dönüştü, soruşturma başlatıldı\". Evrensel.net (in Turkish). Archived from the original on 4 April 2021. Retrieved 4 April 2021.-",
+                            "dates": {
+                                "Archieved": "2021-04-04",
+                                "Retrieved": "2021-04-04",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20210404074915/https://www.evrensel.net/haber/429765/emekli-askerlerin-bildirisi-darbe-tartismasina-donustu-sorusturma-baslatildi",
+                            "text": "-\"Emekli askerlerin bildirisi darbe tartışmasına dönüştü, soruşturma başlatıldı\". Evrensel.net (in Turkish). Archived from the original on 4 April 2021. Retrieved 4 April 2021.-",
+                            "dates": {
+                                "Archieved": "2021-04-04",
+                                "Retrieved": "2021-04-04",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "04/04/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "7 April An NF-5 aircraft belonging to the Turkish Stars crashes due to an unknown reason during a training flight in the Karatay district of Konya. The pilot of the plane, Captain Burak Gençcelep, is killed.",
+                    "links": [
+                        {
+                            "link": "https://www.aa.com.tr/tr/turkiye/konyada-turk-yildizlari-ucagi-dustu-1-sehit/2201052",
+                            "text": "-\"Konya'da 'Türk Yıldızları' uçağı düştü: 1 şehit\". www.aa.com.tr. Archived from the original on 7 April 2021. Retrieved 7 April 2021.-",
+                            "dates": {
+                                "Archieved": "2021-04-07",
+                                "Retrieved": "2021-04-07",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20210407152821/https://www.aa.com.tr/tr/turkiye/konyada-turk-yildizlari-ucagi-dustu-1-sehit/2201052",
+                            "text": "-\"Konya'da 'Türk Yıldızları' uçağı düştü: 1 şehit\". www.aa.com.tr. Archived from the original on 7 April 2021. Retrieved 7 April 2021.-",
+                            "dates": {
+                                "Archieved": "2021-04-07",
+                                "Retrieved": "2021-04-07",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "07/04/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "14 April Beginning at 7 pm, a 2-week partial curfew starts to be enforced. Limitations are imposed as a result of the increasing number of COVID-19 cases in many areas, with curfew restrictions added to cover the entire weekend and between 7 pm - 5 am on weekdays.",
+                    "links": [
+                        {
+                            "link": "https://www.dw.com/tr/t%C3%BCrkiyede-14-nisanda-k%C4%B1smi-kapanma-ba%C5%9Fl%C4%B1yor/a-57188256",
+                            "text": "-\"Türkiye'de 14 Nisan'da \"kısmi kapanma\" başlıyor – DW – 13.04.2021\". dw.com. Archived from the original on 13 April 2021. Retrieved 7 May 2021.-",
+                            "dates": {
+                                "Archieved": "2021-04-13",
+                                "Retrieved": "2021-05-07",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20210413172644/https://www.dw.com/tr/t%C3%BCrkiyede-14-nisanda-k%C4%B1smi-kapanma-ba%C5%9Fl%C4%B1yor/a-57188256",
+                            "text": "-\"Türkiye'de 14 Nisan'da \"kısmi kapanma\" başlıyor – DW – 13.04.2021\". dw.com. Archived from the original on 13 April 2021. Retrieved 7 May 2021.-",
+                            "dates": {
+                                "Archieved": "2021-04-13",
+                                "Retrieved": "2021-05-07",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "14/04/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "29 April A full closure is announced starting from 29 April at 7 pm until 17 May at 5 am. Education is suspended at all levels and exams were postponed. It is announced that intercity public transport vehicles will operate at 50% capacity. It is also announced that markets will be closed on Sundays.",
+                    "links": [
+                        {
+                            "link": "https://www.sozcu.com.tr/2021/gundem/cumhurbaskani-erdogandan-kabine-toplantisi-sonrasi-kritik-aciklamalar-6397249/",
+                            "text": "-\"Kabine toplantısında tam kapanma kararı alındı… İşte detaylar\". www.sozcu.com.tr. 26 April 2021. Archived from the original on 26 April 2021. Retrieved 7 May 2021.-",
+                            "dates": {
+                                "Archieved": "2021-04-26",
+                                "Retrieved": "2021-05-07",
+                                "Created": "2021-04-26"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20210426170828/https://www.sozcu.com.tr/2021/gundem/cumhurbaskani-erdogandan-kabine-toplantisi-sonrasi-kritik-aciklamalar-6397249/",
+                            "text": "-\"Kabine toplantısında tam kapanma kararı alındı… İşte detaylar\". www.sozcu.com.tr. 26 April 2021. Archived from the original on 26 April 2021. Retrieved 7 May 2021.-",
+                            "dates": {
+                                "Archieved": "2021-04-26",
+                                "Retrieved": "2021-05-07",
+                                "Created": "2021-04-26"
+                            }
+                        }
+                    ],
+                    "start_date": "29/04/2021",
+                    "end_date": "29/04/2021"
+                }
+            ]
+        },
+        {
+            "Month": "June",
+            "Data": [
+                {
+                    "event_text": "4 June Erdoğan announces the discovery of 135 billion m3 of natural gas in the Black Sea.",
+                    "links": [
+                        {
+                            "link": "https://www.aa.com.tr/tr/turkiye/cumhurbaskani-erdogan-amasra-1-kuyusunda-135-milyar-metrekupluk-yeni-bir-dogal-gaz-kesfi-daha-yapildi/2264103",
+                            "text": "-\"Cumhurbaşkanı Erdoğan: Amasra -1 kuyusunda 135 milyar metreküplük yeni bir doğal gaz keşfi daha yapıldı\". Archived from the original on 4 June 2021. Retrieved 10 June 2021.-",
+                            "dates": {
+                                "Archieved": "2021-06-04",
+                                "Retrieved": "2021-06-10",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20210604182456/https://www.aa.com.tr/tr/turkiye/cumhurbaskani-erdogan-amasra-1-kuyusunda-135-milyar-metrekupluk-yeni-bir-dogal-gaz-kesfi-daha-yapildi/2264103",
+                            "text": "-\"Cumhurbaşkanı Erdoğan: Amasra -1 kuyusunda 135 milyar metreküplük yeni bir doğal gaz keşfi daha yapıldı\". Archived from the original on 4 June 2021. Retrieved 10 June 2021.-",
+                            "dates": {
+                                "Archieved": "2021-06-04",
+                                "Retrieved": "2021-06-10",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "04/06/2021",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "July",
+            "Data": [
+                {
+                    "event_text": "28 July 2021 Turkey wildfires begin.",
+                    "links": [],
+                    "start_date": "28/07/2021",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "August",
+            "Data": [
+                {
+                    "event_text": "6 August The minister of national education Ziya Selçuk resigns and is replaced by Mahmut Özer.",
+                    "links": [],
+                    "start_date": "06/08/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "An anti-Syrian riot erupts in the capital Ankara after the killing of a Turkish teenager by a Syrian refugee.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-europe-58185612",
+                            "text": "-\"Turkish capital reels from violent protests against Syrians\". BBC News. 12 August 2021. Archived from the original on 12 August 2021. Retrieved 12 August 2021.-",
+                            "dates": {
+                                "Archieved": "2021-08-12",
+                                "Retrieved": "2021-08-12",
+                                "Created": "2021-08-12"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20210812101620/https://www.bbc.com/news/world-europe-58185612",
+                            "text": "-\"Turkish capital reels from violent protests against Syrians\". BBC News. 12 August 2021. Archived from the original on 12 August 2021. Retrieved 12 August 2021.-",
+                            "dates": {
+                                "Archieved": "2021-08-12",
+                                "Retrieved": "2021-08-12",
+                                "Created": "2021-08-12"
+                            }
+                        }
+                    ],
+                    "start_date": "11/08/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Flash floods in the Black Sea Region kill at least 38 people.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/middle-east/flash-floods-northern-turkey-kill-four-one-missing-2021-08-12/",
+                            "text": "-\"Flash floods sweep through northern Turkey in new natural disaster\". Reuters. 12 August 2021. Archived from the original on 12 August 2021. Retrieved 13 August 2021.-",
+                            "dates": {
+                                "Archieved": "2021-08-12",
+                                "Retrieved": "2021-08-13",
+                                "Created": "2021-08-12"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20210812224636/https://www.reuters.com/world/middle-east/flash-floods-northern-turkey-kill-four-one-missing-2021-08-12/",
+                            "text": "-\"Flash floods sweep through northern Turkey in new natural disaster\". Reuters. 12 August 2021. Archived from the original on 12 August 2021. Retrieved 13 August 2021.-",
+                            "dates": {
+                                "Archieved": "2021-08-12",
+                                "Retrieved": "2021-08-13",
+                                "Created": "2021-08-12"
+                            }
+                        }
+                    ],
+                    "start_date": "11/08/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "14 August General Directorate of Forestry announced that a firefighting plane rented from Russia crashed in Kahramanmaraş. All the crew, consisting of 3 Turkish and 5 Russian citizens, are killed.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/turkce/haberler-turkiye-58215084",
+                            "text": "-\"Kahramanmaraş'ta yangın söndürme uçağı düştü, sekiz kişi hayatını kaybetti\". BBC News Türkçe (in Turkish). Archived from the original on 14 August 2021. Retrieved 14 August 2021.-",
+                            "dates": {
+                                "Archieved": "2021-08-14",
+                                "Retrieved": "2021-08-14",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20210814124505/https://www.bbc.com/turkce/haberler-turkiye-58215084",
+                            "text": "-\"Kahramanmaraş'ta yangın söndürme uçağı düştü, sekiz kişi hayatını kaybetti\". BBC News Türkçe (in Turkish). Archived from the original on 14 August 2021. Retrieved 14 August 2021.-",
+                            "dates": {
+                                "Archieved": "2021-08-14",
+                                "Retrieved": "2021-08-14",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://www.hurriyet.com.tr/gundem/son-dakika-kahramanmarasta-yangin-sondurme-ucagi-dustu-41873155",
+                            "text": "-Koç, Ömer. \"Son dakika: Kahramanmaraş'ta yangın söndürme uçağı düştü! 8 mürettebattan kurtulan yok\". Hürriyet (in Turkish). Kahramanmaraş. Archived from the original on 14 August 2021. Retrieved 14 August 2021.-",
+                            "dates": {
+                                "Archieved": "2021-08-14",
+                                "Retrieved": "2021-08-14",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20210814121016/https://www.hurriyet.com.tr/gundem/son-dakika-kahramanmarasta-yangin-sondurme-ucagi-dustu-41873155",
+                            "text": "-Koç, Ömer. \"Son dakika: Kahramanmaraş'ta yangın söndürme uçağı düştü! 8 mürettebattan kurtulan yok\". Hürriyet (in Turkish). Kahramanmaraş. Archived from the original on 14 August 2021. Retrieved 14 August 2021.-",
+                            "dates": {
+                                "Archieved": "2021-08-14",
+                                "Retrieved": "2021-08-14",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "14/08/2021",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "September",
+            "Data": [
+                {
+                    "event_text": "21 and 26 September Teknofest 2021 was held at the Atatürk Airport.",
+                    "links": [
+                        {
+                            "link": "https://www.aa.com.tr/tr/teknofest/teknofest-istanbul-2021-sona-erdi/2375656",
+                            "text": "-\"TEKNOFEST İstanbul 2021 sona erdi\". www.aa.com.tr. Archived from the original on 26 September 2021. Retrieved 26 August 2022.-",
+                            "dates": {
+                                "Archieved": "2021-09-26",
+                                "Retrieved": "2022-08-26",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20210926204149/https://www.aa.com.tr/tr/teknofest/teknofest-istanbul-2021-sona-erdi/2375656",
+                            "text": "-\"TEKNOFEST İstanbul 2021 sona erdi\". www.aa.com.tr. Archived from the original on 26 September 2021. Retrieved 26 August 2022.-",
+                            "dates": {
+                                "Archieved": "2021-09-26",
+                                "Retrieved": "2022-08-26",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "26/09/2021",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "October",
+            "Data": [
+                {
+                    "event_text": "6 October The Paris Agreement was approved by the TBMM.",
+                    "links": [
+                        {
+                            "link": "https://www.aa.com.tr/tr/politika/paris-anlasmasina-iliskin-kanun-teklifi-tbmm-genel-kurulunda-kabul-edildi/2384880",
+                            "text": "-\"Paris Anlaşmasına ilişkin kanun teklifi, TBMM Genel Kurulunda kabul edildi\". Archived from the original on 6 October 2021. Retrieved 26 August 2022.-",
+                            "dates": {
+                                "Archieved": "2021-10-06",
+                                "Retrieved": "2022-08-26",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20211006202823/https://www.aa.com.tr/tr/politika/paris-anlasmasina-iliskin-kanun-teklifi-tbmm-genel-kurulunda-kabul-edildi/2384880",
+                            "text": "-\"Paris Anlaşmasına ilişkin kanun teklifi, TBMM Genel Kurulunda kabul edildi\". Archived from the original on 6 October 2021. Retrieved 26 August 2022.-",
+                            "dates": {
+                                "Archieved": "2021-10-06",
+                                "Retrieved": "2022-08-26",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "06/10/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "29 October Atatürk Cultural Center was reopened after a series of reconstructions.",
+                    "links": [
+                        {
+                            "link": "https://www.aa.com.tr/tr/kultur-sanat/cumhurbaskani-erdogan-ataturk-kultur-merkezinin-acilisini-gerceklestirdi/2406698",
+                            "text": "-\"Cumhurbaşkanı Erdoğan, Atatürk Kültür Merkezi'nin açılışını gerçekleştirdi\". Archived from the original on 29 October 2021. Retrieved 26 August 2022.-",
+                            "dates": {
+                                "Archieved": "2021-10-29",
+                                "Retrieved": "2022-08-26",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20211029164423/https://www.aa.com.tr/tr/kultur-sanat/cumhurbaskani-erdogan-ataturk-kultur-merkezinin-acilisini-gerceklestirdi/2406698",
+                            "text": "-\"Cumhurbaşkanı Erdoğan, Atatürk Kültür Merkezi'nin açılışını gerçekleştirdi\". Archived from the original on 29 October 2021. Retrieved 26 August 2022.-",
+                            "dates": {
+                                "Archieved": "2021-10-29",
+                                "Retrieved": "2022-08-26",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "29/10/2021",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "November",
+            "Data": [
+                {
+                    "event_text": "2930 November Due to the severe storm that occurred in the Marmara, Aegean and Western Black Sea regions, 7 people lost their lives and more than 50 people were injured.",
+                    "links": [
+                        {
+                            "link": "https://web.archive.org/web/20211129194130/https://www.clickorlando.com/business/2021/11/29/storm-with-high-winds-pounds-istanbul-4-dead-several-hurt/",
+                            "text": "-\"Storm with high winds pounds Istanbul; 4 dead, several hurt\". Associated Press. 29 November 2021. Archived from the original on 29 November 2021. Retrieved 29 November 2021 – via WKMG.-",
+                            "dates": {
+                                "Archieved": "2021-11-29",
+                                "Retrieved": "2021-11-29",
+                                "Created": "2021-11-29"
+                            }
+                        },
+                        {
+                            "link": "https://www.clickorlando.com/business/2021/11/29/storm-with-high-winds-pounds-istanbul-4-dead-several-hurt/",
+                            "text": "-\"Storm with high winds pounds Istanbul; 4 dead, several hurt\". Associated Press. 29 November 2021. Archived from the original on 29 November 2021. Retrieved 29 November 2021 – via WKMG.-",
+                            "dates": {
+                                "Archieved": "2021-11-29",
+                                "Retrieved": "2021-11-29",
+                                "Created": "2021-11-29"
+                            }
+                        }
+                    ],
+                    "start_date": "30/11/2021",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "December",
+            "Data": [
+                {
+                    "event_text": "10 December Expo 2021 Hatay will take place in Hatay city center and will continue until 30 May 2022.",
+                    "links": [
+                        {
+                            "link": "https://web.archive.org/web/20170418180713/https://expo2021hatay.com/",
+                            "text": "-\"Hatay EXPO 2021 Anasayfa\". EXPO 2021 Hatay (in Turkish). Archived from the original on 18 April 2017. Retrieved 26 January 2021.-",
+                            "dates": {
+                                "Archieved": "2017-04-18",
+                                "Retrieved": "2021-01-26",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://expo2021hatay.com/",
+                            "text": "-\"Hatay EXPO 2021 Anasayfa\". EXPO 2021 Hatay (in Turkish). Archived from the original on 18 April 2017. Retrieved 26 January 2021.-",
+                            "dates": {
+                                "Archieved": "2017-04-18",
+                                "Retrieved": "2021-01-26",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "10/12/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "1519 December The 2021 FIVB Volleyball Women's Club World Championship was held in Ankara.",
+                    "links": [
+                        {
+                            "link": "https://web.archive.org/web/20211218115943/https://en.volleyballworld.com/volleyball/competitions/club-world-championship-women-2021/competition/host-city",
+                            "text": "-\"Host City\". volleyballworld.com. Archived from the original on 18 December 2021. Retrieved 17 December 2021.-",
+                            "dates": {
+                                "Archieved": "2021-12-18",
+                                "Retrieved": "2021-12-17",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://en.volleyballworld.com/volleyball/competitions/club-world-championship-women-2021/competition/host-city",
+                            "text": "-\"Host City\". volleyballworld.com. Archived from the original on 18 December 2021. Retrieved 17 December 2021.-",
+                            "dates": {
+                                "Archieved": "2021-12-18",
+                                "Retrieved": "2021-12-17",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "19/12/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "19 December Türksat 5B satellite was launched into space from Cape Canaveral at 0658 with a Falcon 9 rocket.",
+                    "links": [
+                        {
+                            "link": "https://www.aa.com.tr/tr/bilim-teknoloji/turksat-5b-uydusu-uzaya-firlatildi/2451379",
+                            "text": "-\"Türksat 5B uydusu uzaya fırlatıldı\". Anadolu Agency. 19 December 2021. Archived from the original on 19 December 2021. Retrieved 19 December 2021.-",
+                            "dates": {
+                                "Archieved": "2021-12-19",
+                                "Retrieved": "2021-12-19",
+                                "Created": "2021-12-19"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20211219041730/https://www.aa.com.tr/tr/bilim-teknoloji/turksat-5b-uydusu-uzaya-firlatildi/2451379",
+                            "text": "-\"Türksat 5B uydusu uzaya fırlatıldı\". Anadolu Agency. 19 December 2021. Archived from the original on 19 December 2021. Retrieved 19 December 2021.-",
+                            "dates": {
+                                "Archieved": "2021-12-19",
+                                "Retrieved": "2021-12-19",
+                                "Created": "2021-12-19"
+                            }
+                        }
+                    ],
+                    "start_date": "19/12/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "22 December The coronavirus vaccine TURKOVAC was authorized for emergency use.",
+                    "links": [
+                        {
+                            "link": "https://www.aa.com.tr/tr/koronavirus/turkovac-acil-kullanim-onayi-aldi/2454541",
+                            "text": "-\"TURKOVAC acil kullanım onayı aldı\". Anadolu Agency. Archived from the original on 22 December 2021. Retrieved 23 December 2021.-",
+                            "dates": {
+                                "Archieved": "2021-12-22",
+                                "Retrieved": "2021-12-23",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20211222132108/https://www.aa.com.tr/tr/koronavirus/turkovac-acil-kullanim-onayi-aldi/2454541",
+                            "text": "-\"TURKOVAC acil kullanım onayı aldı\". Anadolu Agency. Archived from the original on 22 December 2021. Retrieved 23 December 2021.-",
+                            "dates": {
+                                "Archieved": "2021-12-22",
+                                "Retrieved": "2021-12-23",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "22/12/2021",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

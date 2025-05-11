@@ -1,0 +1,133 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "2 January to 8 January  2017 Shenzhen Open",
+                    "links": [],
+                    "start_date": "02/01/2017",
+                    "end_date": "08/01/2017"
+                },
+                {
+                    "event_text": "6 January - Fuzhou Metro Line 1 Phase 1 was opened",
+                    "links": [
+                        {
+                            "link": "http://news.fznews.com.cn/dsxw/20170104/586c38fd119eb.shtml",
+                            "text": "-\"福建地铁1号线（一期）全线开通试运营(in Chinese)\". Retrieved 15 April 2019.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2019-04-15",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "06/01/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "9 January - The state science and technology awarding meeting of the People's Republic of China for 2016 was held",
+                    "links": [],
+                    "start_date": "09/01/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "June",
+            "Data": [
+                {
+                    "event_text": "16 June  Chinese, Indian, and Bhutanese border tensions skyrocket over the construction of a road in Doklam, a disputed region between Bhutan and China. See Doklam Standoff for more.",
+                    "links": [],
+                    "start_date": "16/06/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "28 June  The 2017 FIBA 3x3 U18 World Cup begins.",
+                    "links": [],
+                    "start_date": "28/06/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "July",
+            "Data": [
+                {
+                    "event_text": "2 July  The 2017 FIBA 3x3 U18 World Cup ends.",
+                    "links": [],
+                    "start_date": "02/07/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "17 July  Chinese internet censors has banned Winnie the Pooh for its alleged resemblance to Xi Jinping.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/blogs-china-blog-40627855",
+                            "text": "-McDonell, Stephen (July 17, 2017). \"Why China censors banned Winnie the Pooh\". BBC News. Retrieved 1 October 2017.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2017-07-17",
+                                "Created": "2017-10-01"
+                            }
+                        }
+                    ],
+                    "start_date": "17/07/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "7 July to 6 August  2017 FIVB Volleyball World Grand Prix",
+                    "links": [],
+                    "start_date": "07/07/2017",
+                    "end_date": "06/08/2017"
+                }
+            ]
+        },
+        {
+            "Month": "August",
+            "Data": [
+                {
+                    "event_text": "2017 Jiuzhaigou earthquake, according to Sichuan province government offiocial document report, a Richer Scale 6.5 earthquake hit in Jiuzhaigou County, Sichuan Province, killing 25 persons and injuring 525 persons.[citation needed]",
+                    "links": [],
+                    "start_date": "08/08/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "According to Sichuan province government official confirmed report, a landslide hit in Puge County, Sichuan Province, 25 person were human fatalities and 4 persons were hurt.[citation needed]",
+                    "links": [],
+                    "start_date": "08/08/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "End of the Doklam Standoff as India and China move troops off the border to their original positions.",
+                    "links": [],
+                    "start_date": "28/08/2017",
+                    "end_date": null
+                },
+                {
+                    "event_text": "China Guodian Corporation and Shenhua Group were merged, new form name China Energy Investment has start,[citation needed]",
+                    "links": [],
+                    "start_date": "28/08/2017",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "October",
+            "Data": [
+                {
+                    "event_text": "18 October to 24 October  19th National Congress of the Chinese Communist Party",
+                    "links": [],
+                    "start_date": "18/10/2017",
+                    "end_date": "24/10/2017"
+                },
+                {
+                    "event_text": "26 October to 29 October  2017 WGC-HSBC Champions",
+                    "links": [],
+                    "start_date": "26/10/2017",
+                    "end_date": "29/10/2017"
+                }
+            ]
+        }
+    ]
+}

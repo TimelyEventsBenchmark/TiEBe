@@ -1,0 +1,464 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "46 January  2022 Zamfara massacres",
+                    "links": [],
+                    "start_date": "06/01/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "1415 January  Dankade massacre",
+                    "links": [],
+                    "start_date": "15/01/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "5 February  2022 Kebbi State local elections",
+                    "links": [],
+                    "start_date": "05/02/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Bandits raid the village of Rogoji, Bakura, Zamfara State, killing five people and causing a mass exodus from the town. The bandits were requested to do so by a woman whose son was killed by vigilantes.",
+                    "links": [
+                        {
+                            "link": "https://www.premiumtimesng.com/regional/nwest/510931-bandits-storm-zamfara-community-for-supporting-security-agents-kill-five-residents.html",
+                            "text": "-\"Bandits storm Zamfara community for supporting security agents, kill five residents\". 2022-02-11. Retrieved 2022-02-13.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-02-13",
+                                "Created": "2022-02-11"
+                            }
+                        },
+                        {
+                            "link": "https://humangle.org/woman-instigating-attacks-against-her-village-in-northwest-nigeria-to-avenge-sons-death/",
+                            "text": "-\"Woman Instigating Attacks Against Her Village In Northwest Nigeria To Avenge Son's Death\". HumAngle Media. 2022-02-11. Retrieved 2022-02-13.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-02-13",
+                                "Created": "2022-02-11"
+                            }
+                        }
+                    ],
+                    "start_date": "10/02/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Armed robbers raid a bullion van in Ibadan, Oyo State, killing six people, including two policemen.",
+                    "links": [
+                        {
+                            "link": "https://www.premiumtimesng.com/opinion/511135-that-ibadan-heist-whodunit-by-oladeinde-olawoyin.html",
+                            "text": "-\"That Ibadan heist: Whodunit?, By Oladeinde Olawoyin\". 2022-02-12. Retrieved 2022-02-13.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-02-13",
+                                "Created": "2022-02-12"
+                            }
+                        },
+                        {
+                            "link": "https://www.bbc.com/pidgin/media-60292306",
+                            "text": "-\"Police tok how armed robbers wey reach 10 attack bullion van for Ibadan\". BBC News Pidgin (in Nigerian Pidgin). Retrieved 2022-02-13.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-02-13",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "10/02/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "12 February  2022 Federal Capital Territory local elections",
+                    "links": [],
+                    "start_date": "12/02/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "23 February  2022 Enugu State local elections",
+                    "links": [],
+                    "start_date": "23/02/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "8 March   Kebbi massacres",
+                    "links": [],
+                    "start_date": "08/03/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "12 March  2022 Imo State local elections",
+                    "links": [],
+                    "start_date": "12/03/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "28 March  AbujaKaduna train attack",
+                    "links": [],
+                    "start_date": "28/03/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "9 April  2022 Adamawa State local elections",
+                    "links": [],
+                    "start_date": "09/04/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "10 April  2022 Plateau State massacres",
+                    "links": [],
+                    "start_date": "10/04/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "11 April  2022 Katsina State local elections",
+                    "links": [],
+                    "start_date": "11/04/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "19 April  2022 Edo State local elections",
+                    "links": [],
+                    "start_date": "19/04/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "22 April  2022 Imo-Rivers explosion",
+                    "links": [],
+                    "start_date": "22/04/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "May",
+            "Data": [
+                {
+                    "event_text": "7 May  2022 Benue State local elections",
+                    "links": [],
+                    "start_date": "07/05/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "12 May  Lynching of Deborah Yakubu",
+                    "links": [],
+                    "start_date": "12/05/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "28 May  2022 Port Harcourt stampede",
+                    "links": [],
+                    "start_date": "28/05/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "June",
+            "Data": [
+                {
+                    "event_text": "5 June  Owo church attack",
+                    "links": [],
+                    "start_date": "05/06/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "July",
+            "Data": [
+                {
+                    "event_text": "2022 Ekiti State gubernatorial election",
+                    "links": [],
+                    "start_date": "16/07/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "2022 Osun State gubernatorial election",
+                    "links": [],
+                    "start_date": "16/07/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "August",
+            "Data": [
+                {
+                    "event_text": "7 August  The world-record holder in the women's 100m hurdles, Tobi Amusan broke a 16-year record in that event at the 2022 Commonwealth Games.",
+                    "links": [],
+                    "start_date": "07/08/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "31 August  One person is killed and six others are injured after a building collapse in Kano, Kano State.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/africa-nigeria-emergency-management-building-collapses-bdfbdcf611ee54faacb628cbad94bdd4",
+                            "text": "-\"Rescue operations end in Nigeria building collapse; 1 dead\". AP NEWS. 2022-08-31. Retrieved 2022-12-28.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-12-28",
+                                "Created": "2022-08-31"
+                            }
+                        }
+                    ],
+                    "start_date": "31/08/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "September",
+            "Data": [
+                {
+                    "event_text": "5 September  Six people are killed after a building collapses in Lagos.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/africa-accidents-lagos-nigeria-586655c46afda83fc1a1354665a7a133",
+                            "text": "-\"6 dead after building collapses in Nigeria's largest city\". AP NEWS. 2022-09-05. Retrieved 2022-12-28.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-12-28",
+                                "Created": "2022-09-05"
+                            }
+                        }
+                    ],
+                    "start_date": "05/09/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "12 September  Five people are killed during an attack on a senator's convoy in Anambra.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/africa/five-aides-killed-after-gunmen-attack-nigerian-senators-convoy-2022-09-12/",
+                            "text": "-Owolabi, Tife (2022-09-12). \"Five aides killed after gunmen attack Nigerian senator's convoy\". Reuters. Retrieved 2022-12-28.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-12-28",
+                                "Created": "2022-09-12"
+                            }
+                        }
+                    ],
+                    "start_date": "12/09/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "21 September  Fulani herdsmen shoot and kill 14 civilians in Logo, Benue State.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/africa-nigeria-b4221bdb697735bd70dbdd8292441409",
+                            "text": "-\"Gunmen kill 14 villagers in northcentral Nigeria\". AP NEWS. 2022-09-22. Retrieved 2022-12-28.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-12-28",
+                                "Created": "2022-09-22"
+                            }
+                        }
+                    ],
+                    "start_date": "21/09/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "24 September  Fifteen people are killed and many others are injured after armed bandits attacked a mosque in Zamfara.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/africa/armed-bandits-kill-15-mosque-northwest-nigeria-residents-2022-09-24/",
+                            "text": "-\"Armed bandits kill 15 at mosque in northwest Nigeria, residents say\". Reuters. 2022-09-24. Retrieved 2022-12-28.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-12-28",
+                                "Created": "2022-09-24"
+                            }
+                        }
+                    ],
+                    "start_date": "24/09/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "October",
+            "Data": [
+                {
+                    "event_text": "5 October  AbujaKaduna train attack The Nigerian military says it has secured the release of the last 23 passengers taken hostage in late March.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/africa/nigerian-military-says-last-hostages-march-train-attack-freed-2022-10-05/",
+                            "text": "-\"Nigerian military says last hostages from March train attack freed\". Reuters. 2022-10-06. Retrieved 2022-12-28.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-12-28",
+                                "Created": "2022-10-06"
+                            }
+                        }
+                    ],
+                    "start_date": "05/10/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "8 October  At least 76 people are killed after a boat carrying people fleeing floodwater capsizes in Anambra State.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-africa-63194379",
+                            "text": "-\"Nigeria boat accident kills at least 76 fleeing floodwater in Anambra\". BBC News. 2022-10-09. Retrieved 2022-12-28.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-12-28",
+                                "Created": "2022-10-09"
+                            }
+                        }
+                    ],
+                    "start_date": "08/10/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "17 October  The death toll from the ongoing floods across Nigeria, which started in early summer, increases to more than 600.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-africa-63280518",
+                            "text": "-\"Nigeria floods: 'Overwhelming' disaster leaves more than 600 people dead\". BBC News. 2022-10-16. Retrieved 2022-12-28.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-12-28",
+                                "Created": "2022-10-16"
+                            }
+                        }
+                    ],
+                    "start_date": "17/10/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "18 October  Multiple people are killed and 10 others are abducted after gunmen storm a hospital in Niger State.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/africa/gunmen-abduct-least-10-hospital-workers-nigerias-niger-state-2022-10-18/",
+                            "text": "-\"Gunmen abduct at least 10 hospital workers in Nigeria's Niger state\". Reuters. 2022-10-19. Retrieved 2022-12-28.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-12-28",
+                                "Created": "2022-10-19"
+                            }
+                        }
+                    ],
+                    "start_date": "18/10/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "November",
+            "Data": [
+                {
+                    "event_text": "8 November  Four people are killed and twelve others are injured by a bombing in Anambra State.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/africa/blast-kills-four-others-injured-nigerias-southeast-official-says-2022-11-08/",
+                            "text": "-\"Blast kills four, others injured in Nigeria's southeast, official says\". Reuters. 2022-11-09. Retrieved 2022-12-28.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-12-28",
+                                "Created": "2022-11-09"
+                            }
+                        }
+                    ],
+                    "start_date": "08/11/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "11 November  Twelve people are killed when a tank truck explodes in Ofu, Kogi State.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/africa-business-explosions-nigeria-36d8d49a6ef73fe35616ce67520cd02a",
+                            "text": "-\"12 killed in Nigeria gasoline tanker explosion, police say\". AP NEWS. 2022-11-11. Retrieved 2022-12-28.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-12-28",
+                                "Created": "2022-11-11"
+                            }
+                        }
+                    ],
+                    "start_date": "11/11/2022",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "December",
+            "Data": [
+                {
+                    "event_text": "7 December  The Central Bank of Nigeria says it will limit individual cash withdrawals to 100,000 Nigerian naira (225 USD) per week to reduce counterfeiting and to discourage ransom payments to kidnappers.",
+                    "links": [
+                        {
+                            "link": "https://www.aljazeera.com/news/2022/12/7/nigeria-to-limit-cash-withdrawals-to-225-a-week",
+                            "text": "-\"Nigeria to limit cash withdrawals to $225 a week\". www.aljazeera.com. Retrieved 2022-12-28.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-12-28",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "07/12/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "20 December  Nigerian bandit conflict At least 38 people are killed and several houses are torched during two attacks at two villages in Kagoro, Kaduna State.",
+                    "links": [
+                        {
+                            "link": "https://allafrica.com/stories/202212210024.html",
+                            "text": "-\"Nigeria: Death Toll in South Kaduna Killings Hits 38\". allAfrica.com. 2022-12-21. Retrieved 2022-12-28.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-12-28",
+                                "Created": "2022-12-21"
+                            }
+                        }
+                    ],
+                    "start_date": "20/12/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "",
+                    "links": [],
+                    "start_date": "20/12/2022",
+                    "end_date": null
+                },
+                {
+                    "event_text": "29 December  Fourteen people are killed and 24 more injured after a drunk driver ploughed into crowds at the annual carnival parade in Calabar.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-africa-64102102",
+                            "text": "-\"Nigeria's Calabar carnival: 14 killed at annual bikers' event\". BBC News. 2022-12-28. Retrieved 2022-12-28.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-12-28",
+                                "Created": "2022-12-28"
+                            }
+                        }
+                    ],
+                    "start_date": "29/12/2022",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "11 , The representative of the Russian Federation to the Tripartite Liaison Group, Boris Gryzlov, has brought to Kyiv Vladimir Putin's offer regarding the end of the war in Donbas, which, however, did not leave Kyiv satisfied",
+                    "links": [
+                        {
+                            "link": "https://www.unian.info/politics/1235611-details-of-gryzlovs-visit-to-kyiv-revealed.html",
+                            "text": "-\"Details of Gryzlov's visit to Kyiv revealed\". UNIAN Information Agency. 13 January 2016. Retrieved 9 March 2016.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2016-03-09",
+                                "Created": "2016-01-13"
+                            }
+                        }
+                    ],
+                    "start_date": "11/01/2016",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "December",
+            "Data": [
+                {
+                    "event_text": "2016, The Russian book ban in Ukraine starts.",
+                    "links": [],
+                    "start_date": "30/12/2016",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,593 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "Two people are killed in a shooting inside a company office in Bad Friedrichshall.",
+                    "links": [],
+                    "start_date": "07/01/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Elon Musk does a live broadcast with Alice Weidel from the AfD on X Spaces, during which Musk doubles down on his endorsement of the AfD.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/germany-shooting-bad-friedrichshall-company-e47efe590bfe15e42e518caa67bb7a3d",
+                            "text": "-\"2 killed and 1 critically injured in shooting at a company's premises in Germany\". Associated Press. 7 January 2025. Retrieved 8 January 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-01-08",
+                                "Created": "2025-01-07"
+                            }
+                        },
+                        {
+                            "link": "https://www.usatoday.com/story/news/world/2025/01/09/elon-musk-german-far-right-party-hitler/77584508007/",
+                            "text": "-Marsh, Sarah; Escritt, Thomas (9 January 2025). \"Elon Musk doubles down on endorsement of far-right German party in conversation on X\". USA Today. Retrieved 11 January 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-01-11",
+                                "Created": "2025-01-09"
+                            }
+                        }
+                    ],
+                    "start_date": "09/01/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The first case of foot-and-mouth disease in Germany since 1988 is discovered in a herd of water buffalo in Hönow, Brandenburg.",
+                    "links": [
+                        {
+                            "link": "https://www.wired.com/story/elon-musk-far-right-german-leader-weidel-hitler-communist/",
+                            "text": "-Gilbert, David (9 January 2025). \"Elon Musk and Far-Right German Leader Agree 'Hitler Was a Communist'\". Wired. Retrieved 11 January 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-01-11",
+                                "Created": "2025-01-09"
+                            }
+                        }
+                    ],
+                    "start_date": "10/01/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A bus overturns near Prenzlau, killing two people.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/germany-foot-mouth-disease-outbreak-0a0e72a149e2ca5e32f66b005ca7c396",
+                            "text": "-\"Animal transports banned in German region after foot-and-mouth disease detected\". Associated Press. 11 January 2025. Retrieved 11 January 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-01-11",
+                                "Created": "2025-01-11"
+                            }
+                        }
+                    ],
+                    "start_date": "11/01/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Alternative for Germany (AfD) leadership votes to formally replace the Young Alternative for Germany (JA) as its youth organisation.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/germany-highway-bus-accident-6d3db455abcf5050ce183b97bc83ce21",
+                            "text": "-\"A bus accident on a highway in northeastern Germany leaves 2 dead\". Associated Press. 11 January 2025. Retrieved 12 January 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-01-12",
+                                "Created": "2025-01-11"
+                            }
+                        }
+                    ],
+                    "start_date": "12/01/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Karlsruhe branch of the AfD initiates a campaign by distributing flyers resembling flight tickets labeled Abschiebetickets (deportation tickets) in mailboxes, prompting a police investigation.",
+                    "links": [
+                        {
+                            "link": "https://www.dw.com/en/germanys-far-right-afd-replaces-young-alternative-group/a-71278353",
+                            "text": "-\"Germany's far-right AfD replaces 'Young Alternative' group\". Deutsche Welle. 12 January 2025. Retrieved 13 January 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-01-13",
+                                "Created": "2025-01-12"
+                            }
+                        }
+                    ],
+                    "start_date": "15/01/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Six people are injured after coming into contact with pepper spray at a concert by JPEGMafia in Berlin.",
+                    "links": [
+                        {
+                            "link": "https://www.dw.com/en/german-police-investigate-afd-mock-plane-ticket-campaign/a-71302261",
+                            "text": "-\"German police investigate AfD mock plane ticket campaign\". DW. Retrieved 17 January 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-01-17",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "20/01/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "2025 Aschaffenburg stabbing attack Two people, including a child, are killed in a knife attack in Aschaffenburg. A suspect is arrested.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/germany-rap-concert-jpegmafia-pepper-spray-injuries-b2afa60486f8d9fdae2aa37491171c07",
+                            "text": "-\"Several people are injured at a Berlin concert by US rapper JPEGMafia because of pepper spray\". Associated Press. 21 January 2025. Retrieved 21 January 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-01-21",
+                                "Created": "2025-01-21"
+                            }
+                        }
+                    ],
+                    "start_date": "22/01/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A non-binding resolution calling for tighter immigration policies passes in the Bundestag with support of opposition parties including the CDU and the AfD. The next day, Angela Merkel criticises CDU leader Friedrich Merz for introducing the resolution.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/germany-stabbing-attack-bavaria-3803c0126616a9c93c143891d727ea8a",
+                            "text": "-\"2 people were killed in a knife attack in Germany and a suspect has been detained, police say\". Associated Press. 22 January 2025. Retrieved 22 January 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-01-22",
+                                "Created": "2025-01-22"
+                            }
+                        },
+                        {
+                            "link": "https://apnews.com/article/germany-merz-scholz-election-migration-far-right-da12c67a1eaa66301d38be03e49f4136",
+                            "text": "-\"German parliament backs election front-runner's call for tough border rules with far-right support\". Associated Press. 29 January 2025. Retrieved 30 January 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-01-30",
+                                "Created": "2025-01-29"
+                            }
+                        }
+                    ],
+                    "start_date": "29/01/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A bill filed by the CDU/CSU restricting immigration to Germany is voted down in the Bundestag.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/germany-merkel-merz-migration-far-right-afd-66af2fc359ecb2d82cdaeca9e27e2fb0",
+                            "text": "-\"Merkel criticizes German front-runner Merz over migration vote with far-right support\". AP News. 30 January 2025. Retrieved 30 January 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-01-30",
+                                "Created": "2025-01-30"
+                            }
+                        }
+                    ],
+                    "start_date": "31/01/2025",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "The government extends controls on Germany's borders until 15 September.",
+                    "links": [
+                        {
+                            "link": "https://www.dw.com/en/german-lawmakers-reject-contentious-immigration-law/live-71465034",
+                            "text": "-\"German lawmakers reject contentious immigration law\". DW News. 31 January 2025. Retrieved 1 February 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-01",
+                                "Created": "2025-01-31"
+                            }
+                        }
+                    ],
+                    "start_date": "12/02/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "2025 Munich car attack Two people are killed while at least 37 others are injured after a car rams through a street demonstration in Munich. The suspect, an Afghan with a valid residence and work permit, is arrested.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/germany-border-controls-extended-migration-election-316a0b1de7d57acb0826a12a7a9cece0",
+                            "text": "-\"Germany extends border controls by 6 months as election rivals focus on migration ahead of poll\". Associated Press. 12 February 2025. Retrieved 12 February 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-12",
+                                "Created": "2025-02-12"
+                            }
+                        },
+                        {
+                            "link": "https://www.france24.com/en/live-news/20250213-afghan-held-after-suspected-ramming-attack-injures-28-in-germany",
+                            "text": "-\"Afghan held after suspected ramming attack injures 28 in Germany\". France 24. 13 February 2025. Retrieved 13 February 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-13",
+                                "Created": "2025-02-13"
+                            }
+                        }
+                    ],
+                    "start_date": "13/02/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Federal Court of Justice rejects a petition by Birkenstock to recognise its footwear products as copyright-protected artwork.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/articles/czrl51mz7k8o",
+                            "text": "-\"Mother and child die from injuries after Munich car attack\". BBC. 15 February 2025. Retrieved 15 February 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-15",
+                                "Created": "2025-02-15"
+                            }
+                        }
+                    ],
+                    "start_date": "20/02/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "One person is injured in a knife attack near the Memorial to the Murdered Jews of Europe in Berlin.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/germany-birkenstock-sandals-verdict-art-e3985066da164cffd2a0248e0c9b6675",
+                            "text": "-\"Can sandals be art? Birkenstock says yes, but a German court says no\". Associated Press. 20 February 2025. Retrieved 20 February 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-20",
+                                "Created": "2025-02-20"
+                            }
+                        }
+                    ],
+                    "start_date": "21/02/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "2025 German federal election The CDU/CSU wins a plurality in the Bundestag with about 28.6% of the vote, followed by the AfD with 20.8% and the SPD with 16.4%.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/articles/cr72nrzjj5no",
+                            "text": "-\"Man seriously injured in stabbing at Berlin Holocaust memorial\". BBC. 22 February 2025. Retrieved 22 February 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-22",
+                                "Created": "2025-02-22"
+                            }
+                        }
+                    ],
+                    "start_date": "23/02/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The AfD becomes the strongest party in the East, securing all five former East German states.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/articles/cvgenlw94n3o",
+                            "text": "-\"Germany's conservatives celebrate, but far right enjoy record result\". BBC. 24 February 2025. Retrieved 24 February 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-24",
+                                "Created": "2025-02-24"
+                            }
+                        }
+                    ],
+                    "start_date": "23/02/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Christian Lindner resigns as leader of the FDP and announces his retirement from active politics after the party fails to win a seat in the Bundestag following the federal election.",
+                    "links": [],
+                    "start_date": "23/02/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Maximilian Krah and Matthias Helferich are readmitted back into the AfD parliamentary group after a party meeting.",
+                    "links": [
+                        {
+                            "link": "https://www.barrons.com/news/liberal-leader-who-sparked-german-govt-s-downfall-resigns-1761d06e",
+                            "text": "-\"Liberal Leader Who Sparked German Govt's Downfall Resigns\". Barron's. 23 February 2025. Retrieved 23 February 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-23",
+                                "Created": "2025-02-23"
+                            }
+                        },
+                        {
+                            "link": "https://www.theguardian.com/world/2025/feb/25/afd-readmits-two-politicians-excluded-over-nazi-related-remarks",
+                            "text": "-Connolly, Kate (25 February 2025). \"AfD readmits two politicians excluded over Nazi-related remarks\". The Guardian.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2025-02-25"
+                            }
+                        }
+                    ],
+                    "start_date": "25/02/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Four people are injured in a shooting near a courthouse in Bielefeld.",
+                    "links": [
+                        {
+                            "link": "https://www.ft.com/content/81b967f0-997a-416d-aabc-a17e85c521d0",
+                            "text": "-Pitel, Laura (25 February 2025). \"Germany's AfD brings 'friendly face of National Socialism' into fold\". Financial Times.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2025-02-25"
+                            }
+                        }
+                    ],
+                    "start_date": "26/02/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A court in Jena sentences two Afghan residents to up to five years imprisonment for plotting to attack the Swedish Riksdag and assassinate lawmakers in response to the burning of copies of the Koran.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/germany-bielefeld-shooting-court-e0c5addf04d702f4df4e3680d4fca582",
+                            "text": "-\"4 people hurt as shots are fired near a courthouse in western Germany\". AP News. 27 February 2025. Retrieved 26 February 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-26",
+                                "Created": "2025-02-27"
+                            }
+                        }
+                    ],
+                    "start_date": "27/02/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A two-day strike is launched at Munich Airport, resulting in disruptions to 80% of flights.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/germany-sweden-parliament-attack-jena-afghans-quran-c10150a627b38ebd8fb0f49725dec1e4",
+                            "text": "-\"A German court sentences 2 Afghans to prison for plotting to attack the Swedish parliament\". AP News. 27 February 2025. Retrieved 27 February 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-27",
+                                "Created": "2025-02-27"
+                            }
+                        }
+                    ],
+                    "start_date": "27/02/2025",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "2025 Hamburg state election.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/germany-munich-hamburg-airport-strikes-b57096c864c023d04088f9793d4a725f",
+                            "text": "-\"A two-day strike at Munich Airport results in most flights being canceled\". AP News. 27 February 2025. Retrieved 27 February 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-27",
+                                "Created": "2025-02-27"
+                            }
+                        }
+                    ],
+                    "start_date": "02/03/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "2025 Mannheim car incident Two people are killed and ten others injured when a car crashes into a crowd in Mannheim.",
+                    "links": [
+                        {
+                            "link": "https://www.radiohamburg.de/aktuelles/hamburg/Rot-Gr%C3%BCn-einigt-sich-auf-Koalitionsvertrag-id412898.html",
+                            "text": "-\"Startseite\". Radio Hamburg. Retrieved 4 June 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-06-04",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "03/03/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A strike is held in 13 airports nationwide, causing a total of 3,500 flight cancellations affecting 560,000 passengers.",
+                    "links": [
+                        {
+                            "link": "https://edition.cnn.com/2025/03/03/europe/mannheim-germany-car-ramming-intl",
+                            "text": "-\"Two killed, 11 injured after car rams crowd in German city of Mannheim\". CNN. 3 March 2025. Retrieved 4 March 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-03-04",
+                                "Created": "2025-03-03"
+                            }
+                        }
+                    ],
+                    "start_date": "10/03/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Sahra Wagenknecht Alliance (BSW) officially files a complaint with the Federal Constitutional Court seeking to legally challenge the results of the federal election.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/germany-airports-strike-frankfurt-munich-berlin-7b78de205ec7762f0c73536355b87fb7",
+                            "text": "-\"A one-day strike at 13 German airports, including the main hubs, brings most flights to a halt\". AP News. 12 March 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2025-03-12"
+                            }
+                        }
+                    ],
+                    "start_date": "11/03/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A truck carrying heating oil collides with a tram at a crossing in Ubstadt-Weiher, causing both vehicles to catch fire and leaving three people dead.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/europe/german-leftist-bsw-party-challenges-national-election-result-2025-03-11/",
+                            "text": "-\"German leftist BSW party challenges national election result\". Reuters. 11 March 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2025-03-11"
+                            }
+                        }
+                    ],
+                    "start_date": "11/03/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Bundestag votes 512-206 in favor of the proposed Debt brake agreement amendment, sending it to the Bundesrat, where it would have to pass by two-thirds in order to become law. The measure passes with the support of the SPD, CDU/CSU, Alliance 90/The Greens and the SSW also supported the reform, while the FDP, AfD, The Left and the BSW vote against.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/germany-tanker-tram-collision-924bb492bb06917452b55cd1beabe507",
+                            "text": "-\"A tanker and a tram collided at a crossing in Germany, killing 3 people\". AP News. 12 March 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2025-03-12"
+                            }
+                        },
+                        {
+                            "link": "https://www.tagesschau.de/inland/bundestag-finanzpaket-100.html",
+                            "text": "-\"Bundestag billigt Grundgesetzänderung für Finanzpaket\". Tagesschau (in German). Retrieved 19 March 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-03-19",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "18/03/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The Bundesrat votes in favor of the debt brake agreement amendment 53-16, passing the two-thirds threshold to become law. The states of Brandenburg, Saxony-Anhalt, Thuringia, and Rhineland-Palatinate all abstain from voting, which is counted as voting in opposition. The Free Voters of Bavaria, which initially voiced objections to the amendment, ultimately votes in favor as a bloc.",
+                    "links": [
+                        {
+                            "link": "https://www.dw.com/en/germanys-bundestag-votes-in-favor-of-reforming-debt-brake/live-71956815",
+                            "text": "-\"Germany's Bundestag votes in favor of reforming 'debt brake'\". dw.com. Retrieved 18 March 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-03-18",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "21/03/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The CDU's Julia Klöckner is elected as president of the Bundestag.",
+                    "links": [
+                        {
+                            "link": "https://www.dw.com/en/germany-upper-house-signs-off-on-landmark-debt-reform-plan/a-71992709",
+                            "text": "-\"Germany: Upper house signs off on landmark debt reform plan\". DW. Retrieved 21 March 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-03-21",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "25/03/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Police conduct nationwide raids on locations associated with the Eritrean anti-government group Brigade Nhamedu.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/germany-new-parliament-bundestag-speaker-scholz-caretaker-1a566865b03870569ceec6d569912cf0",
+                            "text": "-\"German parliament elects an ex-minister as speaker as it opens a potentially confrontational term\". AP News. 25 March 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2025-03-25"
+                            }
+                        }
+                    ],
+                    "start_date": "26/03/2025",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "Rabea Rogge is the first female German astronaut in space with human spacefligt mission Fram2.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/germany-eritea-raids-exiles-network-8af2320fc1caaafc404fa9904f02ad9b",
+                            "text": "-\"German authorities raid a group that allegedly aims to overthrow the Eritrean government\". AP News. 26 March 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2025-03-26"
+                            }
+                        }
+                    ],
+                    "start_date": "01/04/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The CDU announces a coalition agreement with the SPD at the federal level.",
+                    "links": [
+                        {
+                            "link": "https://nextspaceflight.com/launches/details/7615",
+                            "text": "-\"Falcon 9 Block 5: Fram2\". nextspaceflight.com. Retrieved 15 December 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-12-15",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "09/04/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "The AfD finishes as the leading party for the first time in opinion polling.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/articles/cm2xxd4v6dzo",
+                            "text": "-\"Germany's Merz seals government deal bringing end to months of stalemate\". BBC. Retrieved 9 April 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-04-09",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "09/04/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Two people are killed in a shooting in Bad Nauheim.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/europe/germanys-far-right-afd-tops-poll-first-time-blow-chancellor-in-waiting-merz-2025-04-09/",
+                            "text": "-[1]-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "19/04/2025",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

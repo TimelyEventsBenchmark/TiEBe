@@ -1,0 +1,338 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "15 January - Two men aged 16,  attacked students and a teacher with knives after which they attempted suicide. As a result of the attack, 15 people were injured, including the perpetrators.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-europe-42688457",
+                            "text": "-\"Twelve hurt in Russia school knife attack\". BBC News. 15 January 2018. Retrieved 23 October 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-10-23",
+                                "Created": "2018-01-15"
+                            }
+                        }
+                    ],
+                    "start_date": "15/01/2018",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "11 February  Saratov Airlines Flight 703 crashed shortly after take-off, killing all 71 people on board.",
+                    "links": [],
+                    "start_date": "11/02/2018",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "1517 March    Sergey Lavrov has announced that Russia will expel diplomats from the United Kingdom because of the expulsion of 23 Russian envoys due to the poisoning of Sergei Skripal and Yulia Skripal. The Russian foreign ministry is to expel 23 British diplomats amid tensions over the nerve agent attack in the United Kingdom.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/world-europe-43412702",
+                            "text": "-\"Russian spy: Moscow 'will expel British diplomats soon'\". BBC News. 15 March 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2018-03-15"
+                            }
+                        },
+                        {
+                            "link": "https://www.bbc.co.uk/news/uk-43440992",
+                            "text": "-\"Russia spy poisoning: 23 UK diplomats expelled from Moscow\". BBC News. 17 March 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2018-03-17"
+                            }
+                        }
+                    ],
+                    "start_date": "17/03/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "18 March  In the Russian presidential election, Vladimir Putin is elected for a fourth term, winning 73.9% of the vote.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/world-europe-43452449",
+                            "text": "-\"Russia election: Vladimir Putin wins by big margin\". BBC News. 18 March 2018. Retrieved 18 March 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-03-18",
+                                "Created": "2018-03-18"
+                            }
+                        }
+                    ],
+                    "start_date": "18/03/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "25 March - 2018 Kemerovo fire",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-europe-43531684",
+                            "text": "-\"Russian shopping centre inferno kills 64\". BBC News. 26 March 2018. Retrieved 25 December 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-12-25",
+                                "Created": "2018-03-26"
+                            }
+                        },
+                        {
+                            "link": "http://tass.com/society/996030",
+                            "text": "-\"Fire tragedy at Kemerovo shopping mall leaves at least 64 dead\". TASS (in Russian). Retrieved 25 December 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-12-25",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "25/03/2018",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "May",
+            "Data": [
+                {
+                    "event_text": "5 May  Thousand Protest rally in 97 cities including Moscow and St Petersburg, against Vladimir Putin for winning a fourth term in the Russian President Election.",
+                    "links": [
+                        {
+                            "link": "https://www.nbcnews.com/news/world/protesters-detained-thousands-rally-against-putin-s-government-n871331",
+                            "text": "-\"Protesters detained as thousands rally against Putin's government\". NBC News. Retrieved 25 December 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-12-25",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "05/05/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "7 May - Vladimir Putin sworn in for a fourth term as President of Russia in the Hall of the Order of St. Andrew of the Grand Kremlin Palace.",
+                    "links": [
+                        {
+                            "link": "https://ria.ru/20180507/1520027664.html",
+                            "text": "-Путин принимает парад Президентского полка на церемонии инаугурации. РИА Новости (in Russian). 7 May 2018. Retrieved 25 December 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-12-25",
+                                "Created": "2018-05-07"
+                            }
+                        }
+                    ],
+                    "start_date": "07/05/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "10 May - Opening of Crimean Bridge.",
+                    "links": [
+                        {
+                            "link": "https://www.euractiv.com/section/global-europe/news/putin-opens-new-bridge-to-crimea-provoking-ukraine-western-ire/",
+                            "text": "-\"Putin opens new bridge to Crimea, provoking Ukraine, Western ire\". euractiv.com. 16 May 2018. Retrieved 6 March 2019.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2019-03-06",
+                                "Created": "2018-05-16"
+                            }
+                        }
+                    ],
+                    "start_date": "10/05/2018",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "June",
+            "Data": [
+                {
+                    "event_text": "14 June  The opening ceremonies of the 2018 FIFA World Cup.",
+                    "links": [
+                        {
+                            "link": "https://www.telegraph.co.uk/world-cup/2018/06/14/world-cup-2018-opening-ceremony-live-updates-russia-event/",
+                            "text": "-Tyers, Alan (14 June 2018). \"World Cup 2018 opening ceremony: Robbie Williams's middle finger and giant fire bird feature in snappy show\". The Telegraph. ISSN 0307-1235. Retrieved 25 December 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-12-25",
+                                "Created": "2018-06-14"
+                            }
+                        },
+                        {
+                            "link": "https://search.worldcat.org/issn/0307-1235",
+                            "text": "-Tyers, Alan (14 June 2018). \"World Cup 2018 opening ceremony: Robbie Williams's middle finger and giant fire bird feature in snappy show\". The Telegraph. ISSN 0307-1235. Retrieved 25 December 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-12-25",
+                                "Created": "2018-06-14"
+                            }
+                        }
+                    ],
+                    "start_date": "14/06/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "19 June  the Russian State Duma adopted a bill that made education in all languages but Russian optional, overruling previous laws by ethnic autonomies, and reducing instruction in minority languages to only two hours a week. This bill has been likened by some commentators, such as in Foreign Affairs, to a policy of Russification.",
+                    "links": [
+                        {
+                            "link": "https://ria.ru/society/20180619/1523019471.html",
+                            "text": "-\"Gosduma prinyala chtenii zakonoproekt ob izuchen'i rodnyix yez'ikov\". RIA Novosti. 19 June 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2018-06-19"
+                            }
+                        }
+                    ],
+                    "start_date": "19/06/2018",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "July",
+            "Data": [
+                {
+                    "event_text": "Russia knocks out Spain from the World Cup after winning a penalty shootout.",
+                    "links": [
+                        {
+                            "link": "https://www.thedenverchannel.com/sports/russia-spain-world-cup-shootout-upset",
+                            "text": "-\"World Cup upset: Russia knocks out Spain\". KMGH. 1 July 2018. Retrieved 25 December 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-12-25",
+                                "Created": "2018-07-01"
+                            }
+                        }
+                    ],
+                    "start_date": "01/07/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "15 July - Closing ceremony of  2018 FIFA World Cup",
+                    "links": [
+                        {
+                            "link": "https://www.fifa.com/worldcup/news/press-conference-on-the-2018-fifa-world-cup-russia-closing-ceremony",
+                            "text": "-FIFA.com. \"2018 FIFA World Cup Russia - News - RELIVE: Press Conference on the Closing Ceremony for the 2018 FIFA World Cup Russia\". www.fifa.com. Retrieved 6 March 2019.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2019-03-06",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "15/07/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "28 July  More than 10,000 people attended a rally in the capital, Moscow against government plans to increase the retirement age rise.",
+                    "links": [
+                        {
+                            "link": "https://www.aljazeera.com/news/2018/07/thousands-protest-russia-proposed-retirement-age-rise-180728150903940.html",
+                            "text": "-\"Thousands protest in Russia against proposed retirement age rise | News | Al Jazeera\". www.aljazeera.com. Retrieved 25 December 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-12-25",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "28/07/2018",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "August",
+            "Data": [
+                {
+                    "event_text": "2 August  More than 9,000 people attended a rally against government plans to increase the retirement age rise.",
+                    "links": [
+                        {
+                            "link": "https://www.aljazeera.com/news/2018/09/thousands-protest-pension-law-putin-rollback-180902164415418.html",
+                            "text": "-\"Thousands protest against pension law despite Putin's rollback | News | Al Jazeera\". www.aljazeera.com. Retrieved 25 December 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-12-25",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "02/08/2018",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "September",
+            "Data": [
+                {
+                    "event_text": "11 September - Pussy Riot's manager Pyotr Verzilov mysteriously fell critically ill after a court hearing in Moscow. This was the same day that he was slated to have received vital information from 'foreign services' about the death of several journalists reporting on the Wagner Battalion's actions in the Central African Republic.",
+                    "links": [],
+                    "start_date": "11/09/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "11 September - Then Russian Minister of Justice Alexander Konovalov announced an expansion on 'extremist' materials, including the addition of 4,507 books, videos, websites, social media pages, and musical compositions. This was recorded to be a seismic, 200 item increase from the prior year.",
+                    "links": [],
+                    "start_date": "11/09/2018",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "October",
+            "Data": [
+                {
+                    "event_text": "26 October - Marking the first of approximately 36 public, Hip-Hop concerts, a three-month period of cancelled performances would begin. Dmitry Kuznetsov, or Husky, had his concert in Togliatti cancelled following a letter from the Prosecutor's office rejecting some of the lyrics of songs that were to be performed that evening due to the presence of 'cannibalism.'",
+                    "links": [
+                        {
+                            "link": "https://www.hrw.org/news/2019/02/28/russia-censorship-younger-generations-music",
+                            "text": "-\"Russia: Censorship of Younger Generation's Music\". Human Rights Watch. 28 February 2019. Retrieved 13 May 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-05-13",
+                                "Created": "2019-02-28"
+                            }
+                        },
+                        {
+                            "link": "https://www.samara.kp.ru/daily/26900.7/3945001/",
+                            "text": "-АФАНАСЬЕВА, Ольга (27 October 2018). \"Репера Хаски не пустили на концерт в Тольятти за пропаганду каннибализма и полового разврата\". samara.kp.ru (in Russian). Retrieved 13 May 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-05-13",
+                                "Created": "2018-10-27"
+                            }
+                        }
+                    ],
+                    "start_date": "26/10/2018",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "December",
+            "Data": [
+                {
+                    "event_text": "2628 December  The 2018 World Rapid Chess Championship was held in Saint Petersburg. Winner and world champion was Daniil Dubov from Russia, ahead of Shakhriyar Mamedyarov and Hikaru Nakamura.",
+                    "links": [],
+                    "start_date": "28/12/2018",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

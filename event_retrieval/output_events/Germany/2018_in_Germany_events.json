@@ -1,0 +1,318 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "9 January - The Church of St. Lambertus in Immerath is demolished.",
+                    "links": [],
+                    "start_date": "09/01/2018",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "1525 February - 68th Berlin International Film Festival",
+                    "links": [],
+                    "start_date": "25/02/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "22 February - Germany in the Eurovision Song Contest 2018",
+                    "links": [],
+                    "start_date": "22/02/2018",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "7 March - Murder of Keira Gross 14-year-old Keira Gross is stabbed to death in Berlin.",
+                    "links": [
+                        {
+                            "link": "https://web.archive.org/web/20190330210705/https://www.bbc.com/news/blogs-trending-47390150",
+                            "text": "-Adeane, Ant (7 March 2019). \"How the far right hijacked a teenager's murder\". BBC News. London, U.K. Archived from the original on 30 March 2019. Retrieved 10 March 2019.-",
+                            "dates": {
+                                "Archieved": "2019-03-30",
+                                "Retrieved": "2019-03-10",
+                                "Created": "2019-03-07"
+                            }
+                        },
+                        {
+                            "link": "https://www.bbc.co.uk/news/blogs-trending-47390150",
+                            "text": "-Adeane, Ant (7 March 2019). \"How the far right hijacked a teenager's murder\". BBC News. London, U.K. Archived from the original on 30 March 2019. Retrieved 10 March 2019.-",
+                            "dates": {
+                                "Archieved": "2019-03-30",
+                                "Retrieved": "2019-03-10",
+                                "Created": "2019-03-07"
+                            }
+                        }
+                    ],
+                    "start_date": "07/03/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "14 March - The Fourth Merkel cabinet led by Angela Merkel is sworn in.",
+                    "links": [],
+                    "start_date": "14/03/2018",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "7 April - 2018 Münster attack - a man crashes into a restaurant in Münster, killing four and wounding twenty before killing himself.",
+                    "links": [],
+                    "start_date": "07/04/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "12 April - 2018 Hamburg stabbing attack - an immigrant murders his divorced wife and infant.",
+                    "links": [],
+                    "start_date": "12/04/2018",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "May",
+            "Data": [
+                {
+                    "event_text": "22 or 23 May - 14-year-old German Jewish girl Susanna Feldmann is raped and murdered in Viersen",
+                    "links": [
+                        {
+                            "link": "https://www.nytimes.com/2018/06/08/world/europe/germany-susanna-murder-migration.html",
+                            "text": "-Bennhold, Katrin (8 June 2018). \"A Girl's Killing Shakes Germany's Migration Debate\". The New York Times.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2018-06-08"
+                            }
+                        }
+                    ],
+                    "start_date": "23/05/2018",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "June",
+            "Data": [
+                {
+                    "event_text": "1 June - The state Bavaria pass a Kreuzpflicht Law that requires crosses in all public buildings.",
+                    "links": [
+                        {
+                            "link": "https://edition.cnn.com/2018/05/31/europe/bavaria-germany-crosses-public-buildings-intl/index.html",
+                            "text": "-\"Crosses go up in public buildings across Bavaria\". 31 May 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2018-05-31"
+                            }
+                        },
+                        {
+                            "link": "https://www.dw.com/en/germany-bavarias-controversial-cross-rule-goes-into-effect/a-44027316",
+                            "text": "-\"Germany: Bavaria's controversial cross rule goes into effect | DW | 31.05.2018\". Deutsche Welle.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "01/06/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "June German chemical giant Bayer takeover of American company Monsanto",
+                    "links": [],
+                    "start_date": "01/06/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "26 June - For the first time the German football team does not reach the knockout stage in the 2018 FIFA World Cup.",
+                    "links": [],
+                    "start_date": "26/06/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "30 June - German company ThyssenKrupp outsources steel production to a new company, with company seat in Amsterdam. The new company is a fusion of ThyysenKrupp steel production and Indian company Tata Steel.",
+                    "links": [],
+                    "start_date": "30/06/2018",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "July",
+            "Data": [
+                {
+                    "event_text": "1 July - Interior minister Horst Seehofer offers to resign after rejecting Chancellor Angela Merkel's EU migration deal.",
+                    "links": [
+                        {
+                            "link": "https://www.aljazeera.com/news/2018/07/merkel-coalition-crisis-seehofer-offers-quit-migration-180702052457364.html",
+                            "text": "-\"Merkel coalition crisis: Seehofer offers to quit over migration\". www.aljazeera.com.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://www.bbc.com/news/world-europe-44674945",
+                            "text": "-\"Merkel ally offers to quit over migrants\". BBC News. 2 July 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2018-07-02"
+                            }
+                        },
+                        {
+                            "link": "https://www.theguardian.com/world/2018/jul/01/merkel-fights-to-save-coalition-from-division-over-migration",
+                            "text": "-Oltermann, Philip; Chrisafis, Angelique; Connolly, Kate (2 July 2018). \"Merkel and Seehofer make last-ditch bid for migration compromise\". the Guardian.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2018-07-02"
+                            }
+                        }
+                    ],
+                    "start_date": "01/07/2018",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "August",
+            "Data": [
+                {
+                    "event_text": "612 August - 2018 European Athletics Championships in Berlin",
+                    "links": [],
+                    "start_date": "12/08/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "30 August - In the city of Chemnitz, 8,000-strong far right protests are held after a German man is killed by an Iraqi and a Syrian asylum seeker.",
+                    "links": [
+                        {
+                            "link": "https://www.nytimes.com/2018/08/30/world/europe/germany-neo-nazi-protests-chemnitz.html",
+                            "text": "-Bennhold, Katrin (31 August 2018). \"Chemnitz Protests Show New Strength of Germany's Far Right\". The New York Times.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2018-08-31"
+                            }
+                        }
+                    ],
+                    "start_date": "30/08/2018",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "September",
+            "Data": [
+                {
+                    "event_text": "18 September - Hans-Georg Maaßen the President of the Federal Office for the Protection of the Constitution is moved from his role to a role as state secretary in Horst Seehofer ministry. after he caused  controversy following the 2018 Chemnitz protests, when Maaßen questioned whether there was any credible evidence for such \"hunts\", and stated that his security agency had in fact not seen any such evidence.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.co.uk/news/world-europe-45546012",
+                            "text": "-\"Chemnitz unrest: German top spy Maassen forced out\". BBC News. 18 September 2018. Retrieved 18 September 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2018-09-18",
+                                "Created": "2018-09-18"
+                            }
+                        }
+                    ],
+                    "start_date": "18/09/2018",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "October",
+            "Data": [
+                {
+                    "event_text": "14 October - At least three people die and eight are injured when a small plane crashes into a crowd in Fulda.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-europe-45858270",
+                            "text": "-\"Three dead as plane crashes into crowd\". BBC News. 14 October 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2018-10-14"
+                            }
+                        }
+                    ],
+                    "start_date": "14/10/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "14 October - After Bavarian state election, 2018 the party CSU forms a new government with party Free Voters of Bavaria.",
+                    "links": [],
+                    "start_date": "14/10/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "28 October - Hessian state election, 2018",
+                    "links": [],
+                    "start_date": "28/10/2018",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "November",
+            "Data": [
+                {
+                    "event_text": "2 November - The German state of Hesse scraps the death penalty provision from Hesse's state constitution by popular vote, with 83% of the votes in favor.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-europe-46070519",
+                            "text": "-\"Death penalty: German state Hesse scraps death penalty anomaly\". BBC News. 2 November 2018.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2018-11-02"
+                            }
+                        }
+                    ],
+                    "start_date": "02/11/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "30 November - German company Jack Wolfskin is sold to American company Callaway Golf Company",
+                    "links": [],
+                    "start_date": "30/11/2018",
+                    "end_date": null
+                },
+                {
+                    "event_text": "November - German company HSH Nordbank is sold to American private equity companies like Cerberus Capital Management and J.C. Flowers & Co.",
+                    "links": [],
+                    "start_date": "30/11/2018",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "December",
+            "Data": [
+                {
+                    "event_text": "7 December - Annegret Kramp-Karrenbauer succeeds Angela Merkel as the new chairperson of the Christian Democratic Union, one of the major political parties in Germany.",
+                    "links": [],
+                    "start_date": "07/12/2018",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,602 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "5 January  Six soldiers and 34 militants are killed during an ambush by Boko Haram in Damboa, Borno State.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/nigeria-borno-extremists-boko-haram-clash-237e12f721343e21253a4ce60fd78201",
+                            "text": "-\"6 soldiers and 34 extremist rebels die in a clash in northeastern Nigeria, military says\". AP News. 2025-01-08. Retrieved 2025-01-08.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-01-08",
+                                "Created": "2025-01-08"
+                            }
+                        }
+                    ],
+                    "start_date": "05/01/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "7 January  Two people are killed in a bomb attack on a school in Bwari, Abuja.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/nigeria-abuja-police-explosion-school-9b5d7d405090977b147244af01b5fe74",
+                            "text": "-\"Explosive device kills 2 at a school near Nigeria's capital, police say\". AP News. 2025-01-07. Retrieved 2025-01-07.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-01-07",
+                                "Created": "2025-01-07"
+                            }
+                        }
+                    ],
+                    "start_date": "07/01/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "11 January  At least 21 members of the Katsina Community Watch Corps are killed in an ambush by bandits in Baure, Katsina State.",
+                    "links": [
+                        {
+                            "link": "https://www.aljazeera.com/news/2025/1/11/bandits-in-nigeria-ambush-and-kill-21-government-backed-fighters",
+                            "text": "-\"Bandits in Nigeria ambush and kill 21 government-backed fighters\". Al Jazeera. 2025-01-11. Retrieved 2025-01-13.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-01-13",
+                                "Created": "2025-01-11"
+                            }
+                        }
+                    ],
+                    "start_date": "11/01/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "13 January  At least 40 farmers are killed in an attack by suspected Boko Haram militants in Dumba, Borno State.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/nigeria-massacre-boho-haram-3579523f5f1b978ea7d32b4374c8e036",
+                            "text": "-\"At least 40 farmers killed by Boko Haram militants in northeast Nigeria, an official says\". AP News. 2025-01-13. Retrieved 2025-01-13.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-01-13",
+                                "Created": "2025-01-13"
+                            }
+                        }
+                    ],
+                    "start_date": "13/01/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "13 January  At least 16 civilians are killed in an airstrike in Zamfara State. The military says it had accidentally hit the victims during an operation against militants.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/articles/cn0y30766kjo",
+                            "text": "-\"Nigeria military kills 16 civilians in air strike 'mistake'\". BBC. 2025-01-13. Retrieved 2025-01-13.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-01-13",
+                                "Created": "2025-01-13"
+                            }
+                        }
+                    ],
+                    "start_date": "13/01/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Nigeria is admitted to BRICS as a \"partner country\".",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/nigeria-brics-partner-f6c45439a94e573d77c7c3a432853363",
+                            "text": "-\"Nigeria is admitted as a partner country of the BRICS bloc\". AP News. 2025-01-18. Retrieved 2025-01-18.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-01-18",
+                                "Created": "2025-01-18"
+                            }
+                        }
+                    ],
+                    "start_date": "18/01/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "2025 Suleja fuel tanker explosion At least 98 people are killed after a crashed fuel truck explodes near Suleja, Niger State.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/nigeria-gasoline-tanker-explosion-4d383423ba0e6a3cdd573323ff1b0988",
+                            "text": "-\"Death toll in Nigeria gas tanker explosion rises to 98\". AP News. 2025-01-21. Retrieved 2025-01-21.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-01-21",
+                                "Created": "2025-01-21"
+                            }
+                        }
+                    ],
+                    "start_date": "18/01/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "22 January  At least 20 people are killed in a Boko Haram attack on the village of Gadan Gari, Borno State.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/africa/boko-haram-militants-kill-least-20-nigerias-borno-state-2025-01-23/",
+                            "text": "-\"Boko Haram militants kill at least 20 in Nigeria's Borno state\". Reuters. 2025-01-24. Retrieved 2025-01-24.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-01-24",
+                                "Created": "2025-01-24"
+                            }
+                        }
+                    ],
+                    "start_date": "22/01/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "23 January  The government officially designates the militant group Lakurawa as a terrorist organisation.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/articles/cqjvqe4n7gzo",
+                            "text": "-\"New Nigerian jihadist group declared terrorists\". BBC. 2025-01-26. Retrieved 2025-01-26.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-01-26",
+                                "Created": "2025-01-26"
+                            }
+                        }
+                    ],
+                    "start_date": "23/01/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "24 January  A flight operated by United Airlines from Lagos to Washington DC returns to make an emergency landing at Murtala Muhammed International Airport following a “technical issue and an unexpected aircraft movement”, injuring 38 people on board.",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/world/2025/jan/25/united-airlines-nigeria-washington-dc",
+                            "text": "-\"At least six people seriously injured on flight from Nigeria to Washington DC\". The Guardian. 2025-01-25. Retrieved 2025-02-03.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-03",
+                                "Created": "2025-01-25"
+                            }
+                        }
+                    ],
+                    "start_date": "24/01/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "25 January  A fuel tanker crashes into 17 vehicles along the Enugu-Onitsha expressway in Enugu State and explodes, killing at least 18 people.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/nigeria-tanker-explosion-gasoline-f2b546036ef8a0b4b1360333aed972f3",
+                            "text": "-\"At least 18 have died after a tanker carrying gasoline exploded in southern Nigeria\". AP News. 2025-01-26. Retrieved 2025-01-26.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-01-26",
+                                "Created": "2025-01-26"
+                            }
+                        }
+                    ],
+                    "start_date": "25/01/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "26 January  At least 20 soldiers are killed in an attack by Islamic State  West Africa Province militants on a garrison in Malam-Fatori, Borno State.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/africa/islamist-insurgents-kill-least-20-nigerian-troops-security-sources-say-2025-01-26/",
+                            "text": "-\"Islamist militants kill at least 20 Nigerian troops, security sources say\". Reuters. 2025-01-26. Retrieved 2025-01-26.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-01-26",
+                                "Created": "2025-01-26"
+                            }
+                        }
+                    ],
+                    "start_date": "26/01/2025",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "2 February  Two buses collide on the BeninOre–Sagamu Expressway in Odigbo, Ondo State before catching fire, killing 30 people and injuring two others.",
+                    "links": [
+                        {
+                            "link": "https://pmnewsnigeria.com/2025/02/02/30-burnt-to-death-in-deadly-ondo-road-crash/",
+                            "text": "-\"30 burnt to death in tragic Ondo road crash\". PM News. 2025-02-02. Retrieved 2025-02-03.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-03",
+                                "Created": "2025-02-02"
+                            }
+                        }
+                    ],
+                    "start_date": "02/02/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "5 February  At least 17 children are killed in a fire at an Islamic school in Kaura Namoda, Zamfara State.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/nigeria-school-zamfara-fire-tinubu-nema-6b963e0ec75ba13fb15306055aafa023",
+                            "text": "-\"Fire breaks out at a school in northern Nigeria, killing at least 17 children\". AP News. 2025-02-06. Retrieved 2025-02-06.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-06",
+                                "Created": "2025-02-06"
+                            }
+                        }
+                    ],
+                    "start_date": "05/02/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "13 February  A truck falls into an overpass in Kano, killing 23 and injuring 48.",
+                    "links": [
+                        {
+                            "link": "https://tribune.net.ph/2025/02/14/23-die-in-nigeria-road-crash-official",
+                            "text": "-\"23 die in Nigeria road crash: official\". Daily Tribune. 2025-02-15. Retrieved 2025-02-15.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-15",
+                                "Created": "2025-02-15"
+                            }
+                        }
+                    ],
+                    "start_date": "13/02/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "16 February  At least ten civilians are reported killed in an airstrike in Safana, Katsina State. The military says it had accidentally hit the victims during an operation against rebels.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/nigeria-airstikes-civilians-9f97fb91d5d58ed09e93d78cff399b20",
+                            "text": "-\"Several civilians killed in Nigeria by military airstrike targeting rebels, officials say\". AP News. 2025-02-17. Retrieved 2025-02-18.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-18",
+                                "Created": "2025-02-17"
+                            }
+                        }
+                    ],
+                    "start_date": "16/02/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "19 February  The Netherlands agrees to repatriate 119 artefacts from the National Museum of Ethnology in Leiden, including some of the Benin Bronzes, to Nigeria.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/netherlands-nigeria-benin-bronzes-art-restitution-9075dc135bc2a207f9b22e8762e620d1",
+                            "text": "-\"The Netherlands agrees to return more than 100 artifacts to Nigeria looted during colonial times\". AP News. 20 February 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2025-02-20"
+                            }
+                        }
+                    ],
+                    "start_date": "19/02/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "22 February  A bus crashes into a petrol tanker near Kusobogi, Niger State, killing 14 people and injuring six others.",
+                    "links": [
+                        {
+                            "link": "https://www.arabnews.com/node/2591303/world",
+                            "text": "-\"14 die in central Nigeria road crash: official\". Arab News. 2025-02-23. Retrieved 2025-02-23.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-02-23",
+                                "Created": "2025-02-23"
+                            }
+                        }
+                    ],
+                    "start_date": "22/02/2025",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "The Senate of Nigeria suspends Senator Natasha Akpoti for six months after she accuses Senate President Godswill Akpabio of sexually harassing her in 2023.",
+                    "links": [
+                        {
+                            "link": "https://www.aljazeera.com/news/2025/3/7/nigerian-senate-suspends-female-senator-who-made-sexual-harassment-claim",
+                            "text": "-\"Nigerian Senate suspends female senator who made sexual harassment claim\". Al Jazeera. Retrieved 2025-03-11.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-03-11",
+                                "Created": null
+                            }
+                        },
+                        {
+                            "link": "https://www.theguardian.com/world/2025/mar/16/senator-sexual-harassment-claims-nigeria-natasha-akpoti-uduaghan",
+                            "text": "-Egbejule, Eromo (2025-03-16). \"'We are all Natasha': senator's sexual harassment claims roil Nigeria\". The Guardian. ISSN 0261-3077. Retrieved 2025-03-17.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-03-17",
+                                "Created": "2025-03-16"
+                            }
+                        },
+                        {
+                            "link": "https://search.worldcat.org/issn/0261-3077",
+                            "text": "-Egbejule, Eromo (2025-03-16). \"'We are all Natasha': senator's sexual harassment claims roil Nigeria\". The Guardian. ISSN 0261-3077. Retrieved 2025-03-17.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-03-17",
+                                "Created": "2025-03-16"
+                            }
+                        }
+                    ],
+                    "start_date": "07/03/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Catholic priest Sylvester Okechukwu is abducted and killed in Kaduna.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/africa/catholic-priest-abducted-killed-nigeria-christian-group-says-2025-03-07/",
+                            "text": "-Muhammed, Garba (7 March 2025). \"Catholic priest abducted, killed in Nigeria, Christian group says\". Reuters. Retrieved 11 March 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-03-11",
+                                "Created": "2025-03-07"
+                            }
+                        }
+                    ],
+                    "start_date": "07/03/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "9 March  Eleven people are killed in attacks by Lakurawa militants on the Birnin Dede area of Kebbi State.",
+                    "links": [
+                        {
+                            "link": "https://www.barrons.com/news/11-killed-in-jihadist-revenge-attack-in-nigeria-2fa70427",
+                            "text": "-\"11 Killed In Jihadist Revenge Attack In Nigeria\". Barron's. 10 March 2025. Retrieved 12 March 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-03-12",
+                                "Created": "2025-03-10"
+                            }
+                        }
+                    ],
+                    "start_date": "09/03/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "10 March  The Nigerian government signs $200 million deal with WeLight to deploy renewable mini-grids in rural areas.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/world/africa/nigeria-strikes-200-million-deal-power-rural-areas-with-renewable-mini-grids-2025-03-10/",
+                            "text": "-Anyaogu, Isaac (10 March 2025). Janowski, Tomasz (ed.). \"Nigeria strikes $200 million deal to power rural areas with renewable mini grids\". Reuters. Retrieved 17 March 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-03-17",
+                                "Created": "2025-03-10"
+                            }
+                        }
+                    ],
+                    "start_date": "10/03/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "State authorities confirm an outbreak of meningitis in Kebbi State that has killed at least 26 people since January.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/nigeria-meningitis-outbreak-kebbi-932a7864cfe431b070a32b9d48fd7b06",
+                            "text": "-Shibayan, Dyepkazah (12 March 2025). \"Nigerian authorities confirm meningitis outbreak in northwest has killed 26 people since January\". AP News. Retrieved 12 March 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-03-12",
+                                "Created": "2025-03-12"
+                            }
+                        }
+                    ],
+                    "start_date": "11/03/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Nigeria reports 535 Lassa fever cases and 98 deaths across 14 states, with a fatality rate of 18.3%, prompting renewed health advisories and contact tracing efforts.",
+                    "links": [
+                        {
+                            "link": "https://www.reuters.com/business/healthcare-pharmaceuticals/nigeria-steps-up-fight-against-lassa-fever-outbreak-after-98-deaths-this-year-2025-03-11/",
+                            "text": "-Anyaogu, Isaac (17 March 2025). Osmond, Ed (ed.). \"Nigeria steps up fight against Lassa fever outbreak after 98 deaths this year\". Reuters. Retrieved 17 March 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-03-17",
+                                "Created": "2025-03-17"
+                            }
+                        }
+                    ],
+                    "start_date": "11/03/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "18 March  President Tinubu, invoking an emergency, imposes a six-month suspension on Rivers State governor Siminalayi Fubara and members of the Rivers State House of Assembly, citing inaction regarding attacks on oil pipelines. Former navy commander Ibokette Ibas is appointed as caretaker governor.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/nigeria-tinubu-rivers-emergency-fubara-2c0384cc4ce3432e075c153a33eea144",
+                            "text": "-Shibayan, Dyepkazah (19 March 2025). \"Nigerian leader suspends the governor of an oil-rich state in rare emergency rule\". AP News. Retrieved 20 March 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-03-20",
+                                "Created": "2025-03-19"
+                            }
+                        }
+                    ],
+                    "start_date": "18/03/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "19 March  A truck crashes into 14 stationary vehicles near Abuja and catches fire, killing six people.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/nigeria-trailer-crash-nyanya-0dd8cf812c4cf1b2e168d025fcb08af7",
+                            "text": "-\"At least 6 people killed when a trailer crashed into vehicles and burst into flames in Nigeria\". AP News. 20 March 2025. Retrieved 20 March 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-03-20",
+                                "Created": "2025-03-20"
+                            }
+                        }
+                    ],
+                    "start_date": "19/03/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "25 March  Twenty Cameroonian soldiers stationed on the Nigerian border town of Wulgo are killed in a raid by Boko Haram militants.",
+                    "links": [
+                        {
+                            "link": "https://www.france24.com/en/live-news/20250325-boko-haram-fighters-kill-20-cameroonian-troops-sources",
+                            "text": "-\"Boko Haram fighters kill 20 Cameroonian troops: sources\". France 24. 26 March 2025. Retrieved 26 March 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-03-26",
+                                "Created": "2025-03-26"
+                            }
+                        }
+                    ],
+                    "start_date": "25/03/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Sixteen people accused of being kidnappers are killed by a mob in Uromi, Edo State.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/nigeria-mob-killings-764c183e27d5f2c46d51ba0d14f2c590",
+                            "text": "-\"A mob in southern Nigeria kills 16 people they suspected of being kidnappers\". AP News. 29 March 2025. Retrieved 29 March 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-03-29",
+                                "Created": "2025-03-29"
+                            }
+                        }
+                    ],
+                    "start_date": "28/03/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Six people are killed during clashes between police and the Islamic Movement of Nigeria during one of the latter's demonstrations in Abuja.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/nigeria-police-muslim-group-clash-palestinians-c170559c98687b7f4a73a391e7dd73a8",
+                            "text": "-\"Clash between Nigerian security forces and members of pro-Palestinian group kill 6\". AP News. 30 March 2025. Retrieved 30 March 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-03-30",
+                                "Created": "2025-03-30"
+                            }
+                        }
+                    ],
+                    "start_date": "28/03/2025",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "President Tinubu dismisses the entire board of the Nigerian National Petroleum Company.",
+                    "links": [
+                        {
+                            "link": "https://www.france24.com/en/live-news/20250402-nigerian-president-sacks-board-of-state-oil-company",
+                            "text": "-\"Nigerian president sacks board of state oil company\". France 24. Retrieved 2 April 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-04-02",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "02/04/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "At least 48 people are killed in attacks on villages in Plateau State blamed on intercommunal clashes.",
+                    "links": [
+                        {
+                            "link": "https://www.france24.com/en/live-news/20250404-intercommunal-violence-kills-dozens-in-central-nigeria",
+                            "text": "-\"Intercommunal violence kills dozens in central Nigeria\". France 24. Retrieved 5 April 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-04-05",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "02/04/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "11 April  Gwaska Dankarami, a militant commander linked to Islamic State, is reported killed along with 100 other militants during a military operation in the Munumu Forest of Katsina State.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/articles/c15vwgjp0pqo",
+                            "text": "-\"Nigerian bandit kingpin and 100 followers killed\". BBC. Retrieved 12 April 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-04-12",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "11/04/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "12 April  Eight people are killed in a roadside bombing targeting a bus along the Damboa-Maiduguri highway in Borno State.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/nigeria-boko-haram-bus-bomb-10a769e94ab3c0b475e09f20ccd0742c",
+                            "text": "-\"A roadside bomb kills 8 bus passengers in northeast Nigeria\". AP News. Retrieved 13 April 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-04-13",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "12/04/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "13 April  At least 40 people are killed in an attack by suspected herders on Zike, Plateau State.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/nigeria-raid-attack-killed-db71fad73dc1a15499079d5e6af19339",
+                            "text": "-\"Attack by gunmen leaves at least 40 people dead in Nigeria, the country's president says\". AP News. Retrieved 15 April 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-04-15",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "13/04/2025",
+                    "end_date": null
+                },
+                {
+                    "event_text": "18 April  At least 56 people are killed in an attack by suspected herders in Benue State.",
+                    "links": [
+                        {
+                            "link": "https://www.aljazeera.com/news/2025/4/19/herder-farmer-clashes-in-nigeria-kill-at-least-17",
+                            "text": "-\"Herder-farmer clashes in Nigeria kill at least 56\". Al Jazeera. Retrieved 20 April 2025.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2025-04-20",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "18/04/2025",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

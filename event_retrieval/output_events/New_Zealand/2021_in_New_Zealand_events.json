@@ -1,0 +1,801 @@
+{
+    "Events": [
+        {
+            "Month": "January",
+            "Data": [
+                {
+                    "event_text": "29 December 2020 to 3 January  Riots between inmates and prison guards at Waikeria Prison, causing major fire damage to the complex.",
+                    "links": [
+                        {
+                            "link": "https://www.stuff.co.nz/national/123838748/waikeria-prison-first-images-show-devastated-prison-inmates-rooftop-camp",
+                            "text": "-\"Waikeria Prison: First images show devastated prison, inmates' rooftop camp\". Stuff. 30 December 2020. Retrieved 1 January 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-01-01",
+                                "Created": "2020-12-30"
+                            }
+                        }
+                    ],
+                    "start_date": "03/01/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "1 January  A bomb threat closes Gisborne Airport, causing evacuations and delayed flights.",
+                    "links": [
+                        {
+                            "link": "https://www.tvnz.co.nz/one-news/new-zealand/gisborne-airport-reopens-after-bomb-threat-forces-evacuation-significant-flight-delays",
+                            "text": "-\"Gisborne Airport reopens after bomb threat forces evacuation, significant flight delays\". TVNZ. Retrieved 1 January 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-01-01",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "01/01/2021",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "Data": [
+                {
+                    "event_text": "2 February  Lead is found in water of two Otago towns, Waikouaiti and Karitāne.",
+                    "links": [],
+                    "start_date": "02/02/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "9 February",
+                    "links": [],
+                    "start_date": "09/02/2021",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "2 March  the Government announces a review into drug-purchasing agency Pharmac's timeliness and decision-making process.",
+                    "links": [
+                        {
+                            "link": "https://www.rnz.co.nz/news/national/437457/pm-jacinda-ardern-and-health-minister-andrew-little-announce-details-of-pharmac-review",
+                            "text": "-\"PM Jacinda Ardern and Health Minister Andrew Little announce details of Pharmac review\". Radio New Zealand. 2 March 2021. Archived from the original on 1 March 2021. Retrieved 3 March 2021.-",
+                            "dates": {
+                                "Archieved": "2021-03-01",
+                                "Retrieved": "2021-03-03",
+                                "Created": "2021-03-02"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20210301213808/https://www.rnz.co.nz/news/national/437457/pm-jacinda-ardern-and-health-minister-andrew-little-announce-details-of-pharmac-review",
+                            "text": "-\"PM Jacinda Ardern and Health Minister Andrew Little announce details of Pharmac review\". Radio New Zealand. 2 March 2021. Archived from the original on 1 March 2021. Retrieved 3 March 2021.-",
+                            "dates": {
+                                "Archieved": "2021-03-01",
+                                "Retrieved": "2021-03-03",
+                                "Created": "2021-03-02"
+                            }
+                        }
+                    ],
+                    "start_date": "02/03/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A tsunami warning is issued following a 7.1 M earthquake at 2.27 am near East Cape and Gisborne.",
+                    "links": [
+                        {
+                            "link": "https://www.nzherald.co.nz/nz/71-magnitude-earthquake-off-north-island-east-coast-new-zealand-tsunami-activity-warning-how-residents-reacted/RNGND5IBELB7UF6JZSHO5XTPJM/",
+                            "text": "-\"7.1 magnitude earthquake off North Island east coast, New Zealand; tsunami activity warning: How residents reacted\". The New Zealand Herald. Retrieved 4 March 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-03-04",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "05/03/2021",
+                    "end_date": "07/03/2021"
+                },
+                {
+                    "event_text": "A 7.4M earthquake at 6.40am hits the Kermadec Islands.",
+                    "links": [
+                        {
+                            "link": "https://www.stuff.co.nz/national/300245002/earthquake-cluster-tsunami-threat-sparks-evacuation-in-parts-of-northland",
+                            "text": "-\"Earthquake cluster: Tsunami threat sparks evacuation in parts of Northland\". Stuff. 4 March 2021. Retrieved 4 March 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-03-04",
+                                "Created": "2021-03-04"
+                            }
+                        }
+                    ],
+                    "start_date": "05/03/2021",
+                    "end_date": "07/03/2021"
+                },
+                {
+                    "event_text": "A tsunami threat and warning is issued for New Zealand after a 8.1 M earthquake in the Kermadec Islands. The Beehive Bunker has been activated. Tsunami land threat was dropped at 1.20pm by GNS to a beach and marine threat. The national tsunami advisory was later dropped at 3.43pm.",
+                    "links": [
+                        {
+                            "link": "https://www.stuff.co.nz/national/124443159/tsunami-alert-for-new-zealand-after-third-earthquake-81m-in-kermadec-islands",
+                            "text": "-\"Tsunami alert for New Zealand after third earthquake, 8.1M in Kermadec Islands\". Stuff. 4 March 2021. Retrieved 4 March 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-03-04",
+                                "Created": "2021-03-04"
+                            }
+                        },
+                        {
+                            "link": "https://www.nzherald.co.nz/nz/earthquake-swarm-north-island-tsunami-warning-lifted-after-81-shake-evacuees-return-home/OOON3VQ4G75ENH7VASABKYUTBM/",
+                            "text": "-\"Earthquake swarm: North Island tsunami warning lifted after 8.1 shake, evacuees return home\". The New Zealand Herald. 5 March 2021. Archived from the original on 5 March 2021. Retrieved 5 March 2021.-",
+                            "dates": {
+                                "Archieved": "2021-03-05",
+                                "Retrieved": "2021-03-05",
+                                "Created": "2021-03-05"
+                            }
+                        },
+                        {
+                            "link": "https://archive.today/20210305033247/https://www.nzherald.co.nz/nz/earthquake-swarm-north-island-tsunami-warning-lifted-after-81-shake-evacuees-return-home/OOON3VQ4G75ENH7VASABKYUTBM/",
+                            "text": "-\"Earthquake swarm: North Island tsunami warning lifted after 8.1 shake, evacuees return home\". The New Zealand Herald. 5 March 2021. Archived from the original on 5 March 2021. Retrieved 5 March 2021.-",
+                            "dates": {
+                                "Archieved": "2021-03-05",
+                                "Retrieved": "2021-03-05",
+                                "Created": "2021-03-05"
+                            }
+                        }
+                    ],
+                    "start_date": "05/03/2021",
+                    "end_date": "07/03/2021"
+                },
+                {
+                    "event_text": "COVID-19 in New Zealand Jacinda Ardern announces that Auckland will move to Alert Level 2 lockdown from Alert Level 3, with the rest of New Zealand moving down to Alert Level 1, at 6am, on 7 March. The Ardern ministry will review the alert level of Auckland at the start of the weekend following the alert downgrade.",
+                    "links": [
+                        {
+                            "link": "https://www.tvnz.co.nz/one-news/new-zealand/auckland-moving-lockdown-sunday-morning",
+                            "text": "-Whyte, Anna (5 March 2021). \"Auckland moving out of lockdown on Sunday morning\". 1News. Archived from the original on 5 March 2021. Retrieved 5 March 2021.-",
+                            "dates": {
+                                "Archieved": "2021-03-05",
+                                "Retrieved": "2021-03-05",
+                                "Created": "2021-03-05"
+                            }
+                        },
+                        {
+                            "link": "https://archive.today/20210305034024/https://www.tvnz.co.nz/one-news/new-zealand/auckland-moving-lockdown-sunday-morning",
+                            "text": "-Whyte, Anna (5 March 2021). \"Auckland moving out of lockdown on Sunday morning\". 1News. Archived from the original on 5 March 2021. Retrieved 5 March 2021.-",
+                            "dates": {
+                                "Archieved": "2021-03-05",
+                                "Retrieved": "2021-03-05",
+                                "Created": "2021-03-05"
+                            }
+                        },
+                        {
+                            "link": "https://thespinoff.co.nz/politics/05-03-2021/live-updates-march-4-two-major-earthquakes-prompt-tsunami-warning-for-east-coast/",
+                            "text": "-Sowman-Lund, Stewart (5 March 2021). \"Live updates, March 5: WATCH – Auckland to move to level two, rest of country to level one, at 6am on Sunday\". The Spinoff. Archived from the original on 5 March 2021. Retrieved 5 March 2021.-",
+                            "dates": {
+                                "Archieved": "2021-03-05",
+                                "Retrieved": "2021-03-05",
+                                "Created": "2021-03-05"
+                            }
+                        },
+                        {
+                            "link": "https://archive.today/20210305034825/https://thespinoff.co.nz/politics/05-03-2021/live-updates-march-4-two-major-earthquakes-prompt-tsunami-warning-for-east-coast/",
+                            "text": "-Sowman-Lund, Stewart (5 March 2021). \"Live updates, March 5: WATCH – Auckland to move to level two, rest of country to level one, at 6am on Sunday\". The Spinoff. Archived from the original on 5 March 2021. Retrieved 5 March 2021.-",
+                            "dates": {
+                                "Archieved": "2021-03-05",
+                                "Retrieved": "2021-03-05",
+                                "Created": "2021-03-05"
+                            }
+                        }
+                    ],
+                    "start_date": "07/03/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "7 March  COVID-19 in New Zealand Auckland moves to Alert Level 2, with the rest of New Zealand moving to Alert Level 1.",
+                    "links": [],
+                    "start_date": "07/03/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "12 March  COVID-19 in New Zealand Auckland moves to Alert Level 1 at midday.",
+                    "links": [],
+                    "start_date": "12/03/2021",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "Data": [
+                {
+                    "event_text": "19 April  COVID-19 in New Zealand Quarantine-free travel with Australia begins.",
+                    "links": [
+                        {
+                            "link": "https://www.theguardian.com/world/2021/apr/06/trans-tasman-travel-bubble-to-start-on-19-april-jacinda-ardern-announces",
+                            "text": "-\"Trans-Tasman travel bubble between New Zealand and Australia to start on 19 April\". The Guardian. 6 April 2021. Retrieved 27 April 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-04-27",
+                                "Created": "2021-04-06"
+                            }
+                        }
+                    ],
+                    "start_date": "19/04/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "April  New Zealand's longest running television advertisement of Auckland Glass stops. It first aired in 1996.",
+                    "links": [
+                        {
+                            "link": "https://www.stuff.co.nz/entertainment/tv-radio/300277890/cracked-it-tvnzs-longest-running-advert-is-off-the-air",
+                            "text": "-\"Cracked it: TVNZ's longest running advert is off the air\". Stuff. 15 April 2021. Retrieved 19 October 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-10-19",
+                                "Created": "2021-04-15"
+                            }
+                        }
+                    ],
+                    "start_date": "19/04/2021",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "May",
+            "Data": [
+                {
+                    "event_text": "10 May  Four people are injured during a stabbing attack at a Countdown supermarket in central Dunedin.",
+                    "links": [
+                        {
+                            "link": "https://www.rnz.co.nz/news/national/442246/people-stabbed-at-supermarket-in-dunedin",
+                            "text": "-\"People stabbed at supermarket in Dunedin\". RNZ News. 10 May 2021. Retrieved 10 May 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-05-10",
+                                "Created": "2021-05-10"
+                            }
+                        }
+                    ],
+                    "start_date": "10/05/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "17 May  COVID-19 in New Zealand Quarantine-free travel with the Cook Islands begins.",
+                    "links": [
+                        {
+                            "link": "https://www.stuff.co.nz/travel/news/300290926/cook-islands-travel-bubble-set-to-inflate-on-may-17",
+                            "text": "-\"Cook Islands travel bubble set to inflate on May 17\". Stuff. 3 May 2021. Retrieved 3 May 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-05-03",
+                                "Created": "2021-05-03"
+                            }
+                        }
+                    ],
+                    "start_date": "17/05/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "20 May  The 2021 Budget is delivered.",
+                    "links": [
+                        {
+                            "link": "https://www.rnz.co.nz/news/political/439024/grant-robertson-announces-2021-budget-date",
+                            "text": "-\"Grant Robertson announces 2021 Budget date\". RNZ News. 24 March 2021. Retrieved 24 March 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-03-24",
+                                "Created": "2021-03-24"
+                            }
+                        }
+                    ],
+                    "start_date": "20/05/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "24 May  Dame Cindy Kiro is announced as the next Governor-General.",
+                    "links": [
+                        {
+                            "link": "https://www.rnz.co.nz/news/political/443256/dame-cindy-kiro-to-be-next-governor-general-of-new-zealand-ardern",
+                            "text": "-\"Dame Cindy Kiro to be next Governor-General of New Zealand – Ardern\". RNZ. 24 May 2021. Retrieved 30 May 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-05-30",
+                                "Created": "2021-05-24"
+                            }
+                        }
+                    ],
+                    "start_date": "24/05/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "30 May  A state of emergency is announced in Ashburton, Selwyn and Timaru districts as torrential rain hits the Canterbury region.",
+                    "links": [
+                        {
+                            "link": "https://www.stuff.co.nz/national/weather-news/300320081/state-of-emergency-in-ashburton-and-timaru-evacuations-and-road-closures-as-rivers-surge-in-canterbury",
+                            "text": "-\"State of emergency in Ashburton and Timaru, evacuations and road closures as rivers surge in Canterbury\". Stuff. 30 May 2021. Retrieved 30 May 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-05-30",
+                                "Created": "2021-05-30"
+                            }
+                        }
+                    ],
+                    "start_date": "30/05/2021",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "June",
+            "Data": [
+                {
+                    "event_text": "7 June  The 2021 Queen's Birthday Honours are announced.",
+                    "links": [
+                        {
+                            "link": "https://dpmc.govt.nz/publications/queens-birthday-honours-list-2021",
+                            "text": "-\"Queen's Birthday honours list 2021\". Department of the Prime Minister and Cabinet. 7 June 2021. Retrieved 7 June 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-06-07",
+                                "Created": "2021-06-07"
+                            }
+                        }
+                    ],
+                    "start_date": "07/06/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "19 June  A tornado hit the southern Auckland suburb of Papatoetoe, killing one man and injuring two others.",
+                    "links": [
+                        {
+                            "link": "https://www.stuff.co.nz/environment/300337048/auckland-tornado-carnage-windows-shattered-roofs-destroyed-trees-collapsed",
+                            "text": "-\"Auckland tornado 'carnage': Windows shattered, roofs destroyed, trees collapsed\". Stuff. 19 June 2021. Retrieved 22 June 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-06-22",
+                                "Created": "2021-06-19"
+                            }
+                        }
+                    ],
+                    "start_date": "19/06/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "22 June  COVID-19 in New Zealand New Zealand pauses the travel bubble with New South Wales as cases of COVID-19 surge in Sydney.",
+                    "links": [
+                        {
+                            "link": "https://www.nzherald.co.nz/nz/covid-19-coronavirus-nz-pauses-travel-bubble-with-new-south-wales-sydney-cases-surge/FFX7VKQE32I6SPQFNOYDYAFLWQ/",
+                            "text": "-\"Covid 19 coronavirus: NZ pauses travel bubble with New South Wales, Sydney cases surge\". The New Zealand Herald. Retrieved 23 June 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-06-23",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "22/06/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "23 June  COVID-19 in New Zealand The Wellington Region moves to Alert Level 2, following a positive case of the delta variant who flew to Wellington from Sydney. No outbreak occurred.",
+                    "links": [
+                        {
+                            "link": "https://www.stuff.co.nz/national/health/coronavirus/125529986/covid19-nz-wellington-moving-into-alert-level-2-tonight",
+                            "text": "-\"Covid-19 NZ: Wellington moving into alert level 2 tonight\". Stuff. 23 June 2021. Retrieved 23 June 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-06-23",
+                                "Created": "2021-06-23"
+                            }
+                        }
+                    ],
+                    "start_date": "23/06/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "29 June  A state of emergency is declared in Wellington due to \"coastal hazards\".",
+                    "links": [],
+                    "start_date": "29/06/2021",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "July",
+            "Data": [
+                {
+                    "event_text": "2 July  The government releases the dates of the Matariki public holiday for the next thirty years.",
+                    "links": [
+                        {
+                            "link": "https://www.rnz.co.nz/news/national/445990/matariki-public-holiday-dates-for-next-30-years-announced",
+                            "text": "-\"Matariki public holiday dates for next 30 years announced\". RNZ. 2 July 2021. Retrieved 15 July 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-07-15",
+                                "Created": "2021-07-02"
+                            }
+                        }
+                    ],
+                    "start_date": "02/07/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "A state of emergency is declared in the Buller District due to flooding. An emergency is declared in Marlborough the following day.",
+                    "links": [],
+                    "start_date": "16/07/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Farming advocacy group Groundswell NZ stage the nationwide \"Howl of a Protest\" campaign to protest the Government's freshwater, biodiversity, winter grazing, climate change, and Clean Car Package rebate scheme.",
+                    "links": [
+                        {
+                            "link": "https://www.nzherald.co.nz/nz/howl-of-a-protest-thousands-of-farmers-preparing-to-parade-through-47-towns-and-cities/JBLXZHGWHHHWL4EWP5TTI6JIOI/",
+                            "text": "-\"Howl of a protest: Thousands of farmers preparing to parade through 47 towns and cities\". The New Zealand Herald. 15 July 2021. Archived from the original on 15 July 2021. Retrieved 15 July 2021.-",
+                            "dates": {
+                                "Archieved": "2021-07-15",
+                                "Retrieved": "2021-07-15",
+                                "Created": "2021-07-15"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20210715230641/https://www.nzherald.co.nz/nz/howl-of-a-protest-thousands-of-farmers-preparing-to-parade-through-47-towns-and-cities/JBLXZHGWHHHWL4EWP5TTI6JIOI/",
+                            "text": "-\"Howl of a protest: Thousands of farmers preparing to parade through 47 towns and cities\". The New Zealand Herald. 15 July 2021. Archived from the original on 15 July 2021. Retrieved 15 July 2021.-",
+                            "dates": {
+                                "Archieved": "2021-07-15",
+                                "Retrieved": "2021-07-15",
+                                "Created": "2021-07-15"
+                            }
+                        },
+                        {
+                            "link": "https://www.odt.co.nz/rural-life/live-fed-farmers-descend-towns-and-cities",
+                            "text": "-Ryder, Wyatt (16 July 2021). \"Live: 'Fed up' farmers descend on towns and cities\". Otago Daily Times. Archived from the original on 15 July 2021. Retrieved 15 July 2021.-",
+                            "dates": {
+                                "Archieved": "2021-07-15",
+                                "Retrieved": "2021-07-15",
+                                "Created": "2021-07-16"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20210715230923/https://www.odt.co.nz/rural-life/live-fed-farmers-descend-towns-and-cities",
+                            "text": "-Ryder, Wyatt (16 July 2021). \"Live: 'Fed up' farmers descend on towns and cities\". Otago Daily Times. Archived from the original on 15 July 2021. Retrieved 15 July 2021.-",
+                            "dates": {
+                                "Archieved": "2021-07-15",
+                                "Retrieved": "2021-07-15",
+                                "Created": "2021-07-16"
+                            }
+                        }
+                    ],
+                    "start_date": "16/07/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "23 July  New Zealand athletes begin competing at the 2020 Summer Olympics.",
+                    "links": [
+                        {
+                            "link": "https://www.stuff.co.nz/sport/olympics/125822041/tokyo-olympics-opening-ceremony-date-start-time-venue-and-how-to-watch",
+                            "text": "-\"Tokyo Olympics: Opening ceremony date, start time, venue, and how to watch\". Stuff. 22 July 2021. Retrieved 18 August 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-08-18",
+                                "Created": "2021-07-22"
+                            }
+                        }
+                    ],
+                    "start_date": "23/07/2021",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "August",
+            "Data": [
+                {
+                    "event_text": "8 August  New Zealand athletes finish competing at the 2020 Summer Olympics.",
+                    "links": [
+                        {
+                            "link": "https://www.sportingnews.com/us/athletics/news/olympics-2021-end-closing-ceremony/li5dnvi93yzl1kj4e1xofhxq1",
+                            "text": "-\"When do the Olympics end? Closing ceremony date, time, schedule for 2021 Tokyo Games\". www.sportingnews.com. Retrieved 18 August 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-08-18",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "08/08/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "17 August  COVID-19 in New Zealand New Zealand enters Alert Level 4, following a positive case of the Delta Variant of COVID-19 in Auckland.",
+                    "links": [
+                        {
+                            "link": "https://www.stuff.co.nz/national/health/coronavirus/126100337/covid19-live-nz-moves-to-alert-level-4-from-midnight-after-positive-man-travels-to-coromandel",
+                            "text": "-\"Covid-19 Live: NZ moves to alert level 4 from midnight after positive man travels to Coromandel\". Stuff. 17 August 2021. Retrieved 17 August 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-08-17",
+                                "Created": "2021-08-17"
+                            }
+                        }
+                    ],
+                    "start_date": "17/08/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "24 August to 5 September  Athletes compete at the 2020 Summer Paralympics.",
+                    "links": [],
+                    "start_date": "24/08/2021",
+                    "end_date": "05/09/2021"
+                }
+            ]
+        },
+        {
+            "Month": "September",
+            "Data": [
+                {
+                    "event_text": "1 September  COVID-19 in New Zealand New Zealand except for Auckland and Northland moved to Alert Level 3.",
+                    "links": [],
+                    "start_date": "01/09/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "3 September  Seven people are injured during a stabbing attack at a Countdown supermarket in LynnMall, West Auckland. The attacker was shot and killed by police.",
+                    "links": [
+                        {
+                            "link": "https://www.stuff.co.nz/national/300384815/man-shot-dead-by-police-after-stabbings-at-lynn-mall-supermarket-auckland",
+                            "text": "-Block, George; Tokalau, Torika (3 September 2021). \"Man shot dead by police after stabbings at Lynn Mall supermarket Auckland\". Stuff. Retrieved 3 September 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-09-03",
+                                "Created": "2021-09-03"
+                            }
+                        }
+                    ],
+                    "start_date": "03/09/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "8 September  COVID-19 in New Zealand New Zealand except for Auckland moved to Alert Level 2.",
+                    "links": [],
+                    "start_date": "08/09/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "14 September  The Māori Party (Māori Te Pāti Māori) launch a petition to rename the official name of the nation to Aotearoa and restore Māori placenames by 2026.",
+                    "links": [
+                        {
+                            "link": "https://www.tvnz.co.nz/one-news/new-zealand/m-ori-party-launches-petition-change-nzs-official-name-aotearoa",
+                            "text": "-\"Māori Party launches petition to change NZ's official name to Aotearoa\". 1News. 14 September 2021. Archived from the original on 14 September 2021. Retrieved 14 September 2021.-",
+                            "dates": {
+                                "Archieved": "2021-09-14",
+                                "Retrieved": "2021-09-14",
+                                "Created": "2021-09-14"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20210914162649/https://www.tvnz.co.nz/one-news/new-zealand/m-ori-party-launches-petition-change-nzs-official-name-aotearoa",
+                            "text": "-\"Māori Party launches petition to change NZ's official name to Aotearoa\". 1News. 14 September 2021. Archived from the original on 14 September 2021. Retrieved 14 September 2021.-",
+                            "dates": {
+                                "Archieved": "2021-09-14",
+                                "Retrieved": "2021-09-14",
+                                "Created": "2021-09-14"
+                            }
+                        },
+                        {
+                            "link": "https://www.stuff.co.nz/pou-tiaki/te-reo-maori/126369919/supporters-of-push-to-rename-new-zealand-as-aotearoa-prepared-for-backlash",
+                            "text": "-Hunt, Tom (14 September 2021). \"Supporters of push to rename New Zealand as Aotearoa prepared for backlash\". Stuff. Archived from the original on 14 September 2021. Retrieved 14 September 2021.-",
+                            "dates": {
+                                "Archieved": "2021-09-14",
+                                "Retrieved": "2021-09-14",
+                                "Created": "2021-09-14"
+                            }
+                        },
+                        {
+                            "link": "https://web.archive.org/web/20210914162721/https://www.stuff.co.nz/pou-tiaki/te-reo-maori/126369919/supporters-of-push-to-rename-new-zealand-as-aotearoa-prepared-for-backlash",
+                            "text": "-Hunt, Tom (14 September 2021). \"Supporters of push to rename New Zealand as Aotearoa prepared for backlash\". Stuff. Archived from the original on 14 September 2021. Retrieved 14 September 2021.-",
+                            "dates": {
+                                "Archieved": "2021-09-14",
+                                "Retrieved": "2021-09-14",
+                                "Created": "2021-09-14"
+                            }
+                        }
+                    ],
+                    "start_date": "14/09/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "16 September  Three daughters are murdered by their mother, Lauren Dickason.",
+                    "links": [
+                        {
+                            "link": "https://www.nzherald.co.nz/nz/timaru-triple-homicide-insanity-and-infanticide-defence-for-lauren-dickason-at-upcoming-trial-for-alleged-murder-of-three-young-daughters/7GBVMRLE2RHANP5XEZOSI7KL64/",
+                            "text": "-\"Triple murder case: Mum to mount insanity defence over daughters' deaths\". The New Zealand Herald. 28 July 2023. Retrieved 28 July 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-07-28",
+                                "Created": "2023-07-28"
+                            }
+                        },
+                        {
+                            "link": "https://www.nzherald.co.nz/nz/lauren-dickason-trial-jury-cant-reach-a-unanimous-verdict-judge-confirms-he-will-take-majority-decision/VK4ZWQQHJJG2TFLSERAAOGFLTM/",
+                            "text": "-\"Watch: The moment Lauren Dickason was found guilty of murdering her three children\". The New Zealand Herald. 16 August 2023. Retrieved 16 August 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-08-16",
+                                "Created": "2023-08-16"
+                            }
+                        }
+                    ],
+                    "start_date": "16/09/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "September  The average New Zealand house price passes $1 million for the first time.",
+                    "links": [
+                        {
+                            "link": "https://www.oneroof.co.nz/news/nzs-average-house-price-hits-1m-40139",
+                            "text": "-Masters, Catherine (13 September 2021). \"New Zealand's average house price hits $1m\". oneroof.co.nz. Retrieved 6 October 2023.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2023-10-06",
+                                "Created": "2021-09-13"
+                            }
+                        }
+                    ],
+                    "start_date": "16/09/2021",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "October",
+            "Data": [
+                {
+                    "event_text": "Dame Cindy Kiro is sworn in as the 22nd Governor-General of New Zealand.",
+                    "links": [
+                        {
+                            "link": "https://www.nzherald.co.nz/nz/new-governor-general-dame-cindy-kiro-sworn-in/ID2M2DXFTYVYLLBAPI5SJG6MFY/",
+                            "text": "-\"New Governor-General Dame Cindy Kiro sworn-in\". The New Zealand Herald. Retrieved 20 October 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-10-20",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "21/10/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "Prime Minister Ardern announces an agreement on a New ZealandUnited Kingdom Free Trade Agreement, promising zero-tariffs and a $970m economic boost.",
+                    "links": [
+                        {
+                            "link": "https://www.stuff.co.nz/national/politics/126744981/uknz-free-trade-agreement-reached-promising-zerotariffs-and-970m-economic-boost",
+                            "text": "-\"UK-NZ free trade agreement reached, promising zero-tariffs and $970m economic boost\". Stuff. 20 October 2021. Retrieved 20 October 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-10-20",
+                                "Created": "2021-10-20"
+                            }
+                        }
+                    ],
+                    "start_date": "21/10/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "October  The last demolition in Christchurch's residential red zone is completed.",
+                    "links": [
+                        {
+                            "link": "https://www.linz.govt.nz/our-work/projects/christchurch-residential-red-zones",
+                            "text": "-\"Christchurch residential red zones | Toitū Te Whenua – Land Information New Zealand\". www.linz.govt.nz. 4 August 2023. Retrieved 9 June 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-06-09",
+                                "Created": "2023-08-04"
+                            }
+                        }
+                    ],
+                    "start_date": "21/10/2021",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "November",
+            "Data": [
+                {
+                    "event_text": "4 November  A state of emergency is declared in Tairawhiti due to flooding.",
+                    "links": [
+                        {
+                            "link": "https://www.civildefence.govt.nz/resources/previous-emergencies/declared-states-of-emergency",
+                            "text": "-\"Declared States of Emergency\". www.civildefence.govt.nz. Retrieved 24 April 2024.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2024-04-24",
+                                "Created": null
+                            }
+                        }
+                    ],
+                    "start_date": "04/11/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "25 November  Judith Collins loses a confidence vote as leader of the National Party after her handling over a historic allegation regarding Simon Bridges. Shane Reti becomes interim leader.",
+                    "links": [
+                        {
+                            "link": "https://www.rnz.co.nz/news/political/456506/watch-live-judith-collins-out-reti-to-serve-as-interim-leader",
+                            "text": "-\"Watch: Dr Shane Reti speaks as National's new interim leader\". RNZ News. 25 November 2021. Retrieved 25 November 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-11-25",
+                                "Created": "2021-11-25"
+                            }
+                        }
+                    ],
+                    "start_date": "25/11/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "30 November  Christopher Luxon is elected leader of the National Party.",
+                    "links": [
+                        {
+                            "link": "https://www.stuff.co.nz/national/politics/300466529/national-leadership-christopher-luxon-elected-leader-nicola-willis-deputy",
+                            "text": "-Cooke, Henry (30 November 2021). \"National leadership: Christopher Luxon elected leader, Nicola Willis deputy\". Stuff. Retrieved 5 December 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-12-05",
+                                "Created": "2021-11-30"
+                            }
+                        }
+                    ],
+                    "start_date": "30/11/2021",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "December",
+            "Data": [
+                {
+                    "event_text": "2 December  COVID-19 in New Zealand The alert level system is dropped in favour of the new traffic light system at 1159 pm. Northland, Auckland, Taupō, Rotorua, Kawerau, Whakatane, Ōpōtiki, Gisborne, Wairoa, Whanganui and Ruapehu regions initially moved to 'Red' while the rest of the country was moved into 'Orange.'",
+                    "links": [],
+                    "start_date": "02/12/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "16 December  The 2021 New Zealand bravery awards are announced.",
+                    "links": [
+                        {
+                            "link": "https://www.nzherald.co.nz/nz/christchurch-mosque-attacks-incredible-bravery-revealed-in-awards-for-those-who-confronted-gunman/AXP2VHDYM656GC5QYW4KVQ4ZDE/",
+                            "text": "-\"Christchurch mosque attacks: Incredible bravery revealed in awards for those who confronted gunman\". New Zealand Herald. 16 December 2019. Retrieved 16 December 2019.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2019-12-16",
+                                "Created": "2019-12-16"
+                            }
+                        }
+                    ],
+                    "start_date": "16/12/2021",
+                    "end_date": null
+                },
+                {
+                    "event_text": "31 December  The 2022 New Year Honours are announced.",
+                    "links": [
+                        {
+                            "link": "https://www.dpmc.govt.nz/publications/new-year-honours-list-2022",
+                            "text": "-\"New Year honours list 2022\". Department of the Prime Minister and Cabinet. 31 December 2021. Retrieved 2 January 2022.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2022-01-02",
+                                "Created": "2021-12-31"
+                            }
+                        }
+                    ],
+                    "start_date": "31/12/2021",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}

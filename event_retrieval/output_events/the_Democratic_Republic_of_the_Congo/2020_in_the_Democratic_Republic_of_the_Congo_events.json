@@ -1,0 +1,89 @@
+{
+    "Events": [
+        {
+            "Month": "March",
+            "Data": [
+                {
+                    "event_text": "10 March  First confirmed case of COVID-19 in the Democratic Republic of the Congo",
+                    "links": [],
+                    "start_date": "10/03/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "May",
+            "Data": [
+                {
+                    "event_text": "24 May - 20 September  A series of massacres took place, carried out mostly by Islamist rebel group Allied Democratic Forces.",
+                    "links": [],
+                    "start_date": "24/05/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "September",
+            "Data": [
+                {
+                    "event_text": "12 September  At least 50 people were killed in when landslides collapse three artisanal gold mines near Kamituga, South Kivu. Collapses killed 18 earlier this year in Maniema and Katanga.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/250f3b3a2cd0b1542fae26d1fc68814d",
+                            "text": "-KAMALE, JEAN-YVES (12 September 2020). \"More than 50 killed at collapsed gold mine in eastern Congo\". AP NEWS. Retrieved September 12, 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2020-09-12",
+                                "Created": "2020-09-12"
+                            }
+                        }
+                    ],
+                    "start_date": "12/09/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "October",
+            "Data": [
+                {
+                    "event_text": "20 October - Allied Democratic Forces (ADF) reportedly orchestrated a prison escape from the Kangbayi prison in Beni.",
+                    "links": [
+                        {
+                            "link": "https://www.bbc.com/news/world-africa-54613089",
+                            "text": "-\"DR Congo jail break: 'Islamist ADF rebels' free 1,300 inmates\". BBC News. October 20, 2020.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": null,
+                                "Created": "2020-10-20"
+                            }
+                        }
+                    ],
+                    "start_date": "20/10/2020",
+                    "end_date": null
+                }
+            ]
+        },
+        {
+            "Month": "December",
+            "Data": [
+                {
+                    "event_text": "31 December  ADF rebels kill and in many cases behead 25 people in Tingwe, Beni.",
+                    "links": [
+                        {
+                            "link": "https://apnews.com/article/africa-9a265a7331d37d192411982da97f67e2",
+                            "text": "-\"At least 25 killed by rebels in eastern Congo; some beheaded\". AP NEWS. 1 January 2021. Retrieved January 1, 2021.-",
+                            "dates": {
+                                "Archieved": null,
+                                "Retrieved": "2021-01-01",
+                                "Created": "2021-01-01"
+                            }
+                        }
+                    ],
+                    "start_date": "31/12/2020",
+                    "end_date": null
+                }
+            ]
+        }
+    ]
+}
