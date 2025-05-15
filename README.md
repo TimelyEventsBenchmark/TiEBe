@@ -6,6 +6,9 @@ Our dataset is available here in this repository (under the `data` folder). And 
 
 ## About 
 
+![Benchmark track](static/TiEBe.png)
+
+
 As the knowledge landscape evolves and large language models become increasingly widespread, there is a growing need to keep these models updated with current events. While existing benchmarks assess general factual recall, few studies explore how LLMs retain knowledge over time or across different regions. To address these gaps, we present the Timely Events Benchmark—a dataset of over 17,000 question–answer pairs centered on significant global and regional events, covering over 10 years of events, 23 regions, and 13 languages. TiEBe draws from structured retrospective data on Wikipedia, allowing for continuous updates and enabling the evaluation of LLMs’ understanding of recent developments worldwide. Our results reveal notable geographic disparities in factual recall, emphasizing the need for more balanced global representation in LLM training. In addition, we examine the impact of language on factual recall by posing questions in the native language of the region where each event occurred, uncovering substantial performance gaps for low-resource languages.
 
 Tiebe covers the following regions:
