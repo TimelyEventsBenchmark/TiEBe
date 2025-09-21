@@ -2,7 +2,7 @@
 
 This is the official repository for the paper "TiEBe: Tracking language model Recall of Notable Worldwide Events Through Time".
 
-Our dataset is available here in this repository (under the `data` folder). And it is also available on Hugging Face [here](https://huggingface.co/datasets/TimelyEventsBenchmark/TiEBe).
+Our dataset is available here in this repository (under the `data` folder).
 
 ## About 
 
